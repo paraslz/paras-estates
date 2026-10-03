@@ -20,11 +20,24 @@
 .ec:focus-visible{outline:2px solid var(--fruit);outline-offset:2px}
 .ec .n{font-family:var(--f-display);font-size:21px;font-weight:700;line-height:1.1}
 .ec .c{font-size:12px;color:var(--muted)}
+.ec .big{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.ec .big .v{font-family:var(--f-display);font-size:30px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.ec .big .u{font-size:13px;color:var(--muted)}
+.stack{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--grid)}
+.stack span{display:block;height:100%}
+.sm{background:var(--accent)}.si{background:var(--fruit)}.sr2{background:var(--warn)}
 .ec .m{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
 .ec .m div{background:var(--bg);border-radius:6px;padding:6px 8px}
-.ec .m .k{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;font-family:var(--f-mono)}
+.ec .m .k{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;font-family:var(--f-mono);display:flex;align-items:center;gap:5px}
+.ec .m .k i{width:8px;height:8px;border-radius:2px;display:inline-block}
 .ec .m .v{font-family:var(--f-display);font-size:18px;font-weight:600;font-variant-numeric:tabular-nums}
+.ec .m .p{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
 .ec .f{display:flex;justify-content:space-between;gap:8px;font-size:12px;color:var(--muted);flex-wrap:wrap}
+.tot{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:4px}
+.tot div{background:rgba(255,255,255,.08);border-radius:8px;padding:8px 10px}
+.tot .k{font:500 10.5px var(--f-mono);text-transform:uppercase;letter-spacing:.04em;opacity:.75}
+.tot .v{font-family:var(--f-display);font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
+@media (max-width:520px){.tot{grid-template-columns:repeat(2,1fr)}}
 .count{font-size:13px;color:var(--muted)}
 </style>
 </head>
@@ -34,11 +47,12 @@
   <div class="eyebrow">PARAS Sdn Bhd · Plantation advisory</div>
   <h1>Estate Dashboards</h1>
   <div class="meta">Each estate's latest Planting Advisory and Agronomy reports, as charts and figures.</div>
+  <div class="tot" id="tot" aria-live="polite"></div>
   <div class="search">
    <label for="q" class="sr">Search estates</label>
    <input id="q" type="search" placeholder="Search an estate, e.g. Tagar or Juasa" autocomplete="off">
    <label for="grp" class="sr">Group</label><select id="grp"><option value="">All groups</option></select>
-   <label for="srt" class="sr">Sort</label><select id="srt"><option value="name">Sort: A–Z</option><option value="recent">Sort: latest report</option><option value="gap">Sort: furthest below budget</option></select>
+   <label for="srt" class="sr">Sort</label><select id="srt"><option value="name">Sort: A–Z</option><option value="recent">Sort: latest report</option><option value="area">Sort: largest planted area</option></select>
   </div>
  </div>
 </header>
@@ -58,18 +72,21 @@ function draw(){
  let L=E.filter(e=>(!g||e.group===g)&&(!q||(e.name+" "+(e.company||"")+" "+e.slug).toLowerCase().includes(q)));
  if(s==="name")L.sort((a,b)=>a.name.localeCompare(b.name));
  if(s==="recent")L.sort((a,b)=>(b.latest||"").localeCompare(a.latest||""));
- if(s==="gap")L.sort((a,b)=>(a.gap??999)-(b.gap??999));
+ if(s==="area")L.sort((a,b)=>(b.area?.planted??0)-(a.area?.planted??0));
+ const sum=k=>L.reduce((t,e)=>t+(e.area?.[k]||0),0);
+ $("tot").innerHTML=[["Titled",sum("title")],["Planted",sum("planted")],["Mature",sum("mature")],["Immature &amp; replant",sum("immature")+sum("replant")]]
+  .map(([k,v])=>`<div><div class="k">${k} ha</div><div class="v">${fmt(v)}</div></div>`).join("");
  $("cnt").textContent=`${L.length} of ${E.length} estates`;
- $("grid").innerHTML=L.map(e=>{const col=e.gap==null?"var(--line)":e.gap>=0?"var(--good)":e.gap>-10?"var(--warn)":"var(--bad)";
-  return `<a class="ec" style="--s:${col}" href="${esc(e.href)}">
+ $("grid").innerHTML=L.map(e=>{const a=e.area||{},pl=a.planted||0;
+  const pc=v=>pl&&v!=null?Math.round(v/pl*100)+"%":"";
+  const w=v=>pl&&v?(v/pl*100).toFixed(1)+"%":"0";
+  const cell=(k,c,v)=>`<div><div class="k"><i class="${c}"></i>${k}</div><div class="v">${v!=null?fmt(v):"–"}</div><div class="p">${pc(v)}</div></div>`;
+  return `<a class="ec" href="${esc(e.href)}">
    <div><div class="n">${esc(e.name.replace(/^Ladang /,""))}</div><div class="c">${esc([e.group,e.company].filter(Boolean).join(" · "))}</div></div>
-   <div class="m">
-    <div><div class="k">Yield</div><div class="v">${e.yph!=null?fmt(e.yph,2):"–"}</div></div>
-    <div><div class="k">vs ${esc(e.gapRef||"budget")}</div><div class="v">${e.gap!=null?(e.gap>0?"+":"")+e.gap.toFixed(0)+"%":"–"}</div></div>
-    <div><div class="k">Cost/t</div><div class="v">${e.cop!=null?"RM"+fmt(e.cop):"–"}</div></div>
-   </div>
-   <div class="f"><span>${esc(e.period||"")}</span><span>${e.issues?e.issues+" discrepancies":""}</span></div>
-   <div class="f"><span>Latest: ${esc(e.latestTitle||"–")}</span><span>${esc(e.depth||"")}</span></div>
+   <div class="big"><span class="v">${pl?fmt(pl):"–"}</span><span class="u">ha planted${a.title?" of "+fmt(a.title)+" ha titled":""}</span></div>
+   <div class="stack" role="img" aria-label="Mature ${fmt(a.mature)} ha, immature ${fmt(a.immature)} ha${a.replant?", replant "+fmt(a.replant)+" ha":""}"><span class="sm" style="width:${w(a.mature)}"></span><span class="si" style="width:${w(a.immature)}"></span><span class="sr2" style="width:${w(a.replant)}"></span></div>
+   <div class="m">${cell("Mature","sm",a.mature)}${cell("Immature","si",a.immature)}${cell("Replant","sr2",a.replant||0)}</div>
+   <div class="f"><span>Latest: ${esc(e.latestTitle||"–")}</span><span>${esc(e.depth==="Latest reports"?"":e.depth||"")}</span></div>
   </a>`}).join("")||`<p class="empty">No estates match “${esc(q)}”.</p>`;
 }
 fetch("/data/index.json").then(r=>r.json()).then(j=>{E=j.estates;[...new Set(E.map(e=>e.group).filter(Boolean))].sort().forEach(g=>{const o=document.createElement("option");o.value=g;o.textContent=g;$("grp").append(o)});draw()});
