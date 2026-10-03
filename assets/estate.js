@@ -19,6 +19,10 @@ function T(){const grid=css("--grid"),line=css("--line"),muted=css("--muted");Ch
 const clean=p=>String(p||"").replace(/\s*\(.*\)\s*$/,"").trim();
 const BP=()=>clean(D.blockPeriod||(D.kpi||{}).ffbPeriod)||"period not stated";
 const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/(\d{4})/,y=>y-1):"same period last year"};
+function YTD(){const k=D.kpi||{};let c=D.ytdCurrent;
+ if(!c&&k.yph!=null){const p=clean(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
+ if(!c)return null;const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);if(yh.some(y=>+y.year===+c.year))return null;
+ return {...c,months:clean(c.period).replace(/\s*\d{4}$/,"")}}
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -26,8 +30,13 @@ const DEF={
    out.push(new Chart($("ch1"),{type:"bar",data:{labels:bl.map(b=>b.id),datasets:ds},options:{scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
   const cp=(D.costParts||[]).filter(c=>c.actual!=null);
   if(cp.length)out.push(new Chart($("ch2"),{type:"bar",data:{labels:cp.map(c=>c.name),datasets:[{label:"Actual",data:cp.map(c=>c.actual),backgroundColor:t.accent},{label:"Budget",data:cp.map(c=>c.budget),backgroundColor:t.line}]},options:{scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"RM per t"}}}}}));
-  const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);
-  if(yh.length>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yh.map(y=>y.year),datasets:[{label:"t/ha",data:yh.map(y=>y.yph),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:t.accent}]},options:{plugins:{legend:{display:false}},scales:{x:t.ax,y:{...t.ax,title:{display:true,text:"t/ha"}}}}}));
+  {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
+   const yrs=yh.map(y=>String(y.year));if(c)yrs.push(`${c.year} (${c.months})`);
+   const n=yrs.length,at=v=>{const a=Array(n).fill(null);a[n-1]=v;return a};
+   const ds=[{label:"Full year",data:yh.map(y=>y.yph).concat(c?[null]:[]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:t.accent}];
+   if(c){ds.push({label:`${c.year}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
+    if(c.prevSame!=null)ds.push({label:`${c.year-1}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
+   if(yh.length+(c?1:0)>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:!!c}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
   return out},
  money(t){const up=(D.upkeep||[]).filter(u=>u.actual!=null);if(!up.length)return[];return[new Chart($("ch5"),{type:"bar",data:{labels:up.map(u=>u.item),datasets:[{label:"Actual",data:up.map(u=>u.actual),backgroundColor:t.accent},{label:"Budget",data:up.map(u=>u.budget),backgroundColor:t.line}]},options:{indexAxis:"y",scales:{x:{...t.ax,min:0,title:{display:true,text:"RM per ha"}},y:{...t.ax,grid:{display:false}}}}})]},
  field(t){const out=[];const lb=(D.labour||[]).filter(l=>l.actual!=null);
@@ -65,7 +74,12 @@ function render(){
  const cp=(D.costParts||[]).filter(c=>c.actual!=null);if(cp.length)$("cB2s").textContent=`RM per tonne FFB, ${k.copPeriod||""}, against budget`;else $("cB2").hidden=true;
  const prog=[["Manuring",k.manuringPct],["Circle spraying",k.circlePct],["Selective spraying",k.selectivePct],["Pruning",k.pruningPct]].filter(p=>p[1]!=null);
  if(prog.length){$("prog").innerHTML=prog.map(p=>{const v=Math.min(100,p[1]);const c=v>=90?C.good:v>=75?C.warn:C.bad;return `<div class="bar"><span>${p[0]}</span><span class="tr"><span class="fl" style="display:block;width:${v}%;--c:${c}"></span></span><span class="n">${fmt(p[1])}%</span></div>`}).join("");$("progN").textContent=k.manuringNote||""}else $("cB3").hidden=true;
- if(!((D.yieldHistory||[]).filter(y=>y.yph!=null).length>1))$("cB4").hidden=true;
+ {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
+  if(yh.length+(c?1:0)<2)$("cB4").hidden=true;
+  const last=yh.length?yh[yh.length-1].year:null;
+  $("ch4n").textContent=c?`The ${c.year} figure covers ${c.months} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months ${c.year-1}: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}`
+   :(last?`No ${last+1} crop figure in the latest reports yet.`:"")}
+
  // blocks
  const B=D.blocks||[];
  {const ths=document.querySelectorAll("#t-blocks thead th");if(ths.length>=7){ths[4].textContent=`Yield ${BP()}`;ths[6].textContent=prevP(BP())}
@@ -130,5 +144,5 @@ $("askForm").addEventListener("submit",e=>{e.preventDefault();ask($("q").value)}
 
 /* load */
 if(!slug){location.replace("/");return}
-fetch(`/data/${slug}.json`).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;render()}).catch(()=>{$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
+fetch(`/data/${slug}.json`).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
 })();
