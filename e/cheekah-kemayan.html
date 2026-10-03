@@ -1,0 +1,776 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Cheekah Kemayan Estate Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: executive estate brief — dark band, sticky tabs; Overview is charts only; every other tab opens one thing at a time through selects and fold-outs */
+:root{
+  --bg:#f3f5f2; --panel:#ffffff; --line:#dfe4de; --fg:#16231c; --muted:#5f6d64;
+  --band:#123524; --band-fg:#eef5ef; --band-muted:#a9c2b1;
+  --accent:#1f6b45; --accent-soft:#e2eee6; --fruit:#c4561f; --fruit-soft:#f7e5da;
+  --good:#2e7d4f; --warn:#b07414; --bad:#b83a2e; --good-soft:#e2efe6; --warn-soft:#f8eed8; --bad-soft:#f7e0dd; --grid:#e8ece7;
+  --f-display:"Archivo Narrow","Arial Narrow",sans-serif;
+  --f-body:"Archivo",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1512; --panel:#17201b; --line:#29362f; --fg:#e3ebe5; --muted:#98a89e;
+  --band:#0b2216; --band-fg:#e7f1ea; --band-muted:#8fb09b;
+  --accent:#5cc28a; --accent-soft:#1b3326; --fruit:#f08a52; --fruit-soft:#3a2418;
+  --good:#5cc28a; --warn:#e6b04d; --bad:#ef7a6c; --good-soft:#1b3326; --warn-soft:#352a14; --bad-soft:#3a1d1a; --grid:#222d27; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1512; --panel:#17201b; --line:#29362f; --fg:#e3ebe5; --muted:#98a89e;
+  --band:#0b2216; --band-fg:#e7f1ea; --band-muted:#8fb09b;
+  --accent:#5cc28a; --accent-soft:#1b3326; --fruit:#f08a52; --fruit-soft:#3a2418;
+  --good:#5cc28a; --warn:#e6b04d; --bad:#ef7a6c; --good-soft:#1b3326; --warn-soft:#352a14; --bad-soft:#3a1d1a; --grid:#222d27; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:14px;line-height:1.5}
+.in{max-width:1120px;margin:0 auto;padding-inline:16px}
+.band{background:var(--band);color:var(--band-fg);padding-block:18px 18px}
+.band .in{display:grid;gap:10px}
+.eyebrow{font:500 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--band-muted)}
+.band h1{font-family:var(--f-display);font-weight:700;font-size:clamp(30px,6vw,44px);line-height:1;margin:2px 0 0;text-wrap:balance}
+.band .meta{font-size:13px;color:var(--band-muted)}
+.latest{font-size:13px;color:var(--band-muted)}
+.latest b{color:var(--band-fg);font-weight:600}
+.divider{padding-top:10px;border-top:2px solid var(--line);display:grid;gap:2px}
+.verdict{font-size:clamp(15px,2.3vw,18px);font-weight:500;line-height:1.4;max-width:64ch;margin:0;text-wrap:pretty}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-top:4px}
+.stat{background:rgba(255,255,255,.07);border-radius:6px;padding:9px 11px}
+.stat .k{font:500 10.5px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--band-muted)}
+.stat .v{font-family:var(--f-display);font-size:24px;font-weight:600;line-height:1.1;font-variant-numeric:tabular-nums}
+.stat .d{font-size:12px;color:var(--band-muted)}
+.stat .d b{color:var(--band-fg);font-weight:600}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--panel);border-bottom:1px solid var(--line)}
+.tabs .in{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+.tabs button{font:600 13.5px var(--f-body);color:var(--muted);background:none;border:0;border-bottom:2.5px solid transparent;padding:12px 11px 10px;cursor:pointer;white-space:nowrap}
+.tabs button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+.tabs .cnt{font:500 10.5px var(--f-mono);background:var(--bad-soft);color:var(--bad);border-radius:8px;padding:0 5px;margin-left:4px}
+button:focus-visible,select:focus-visible,summary:focus-visible,.tile:focus-visible,tr.clk:focus-visible{outline:2px solid var(--fruit);outline-offset:2px}
+main .in{padding-block:18px 48px;display:grid;gap:16px}
+section[role="tabpanel"]{display:grid;gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:16px;min-width:0;display:grid;gap:10px;align-content:start}
+.head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:10px}
+h2{font-family:var(--f-display);font-size:21px;font-weight:600;margin:0;line-height:1.15}
+h3{font-family:var(--f-display);font-size:17px;font-weight:600;margin:0}
+.sub{font-size:12.5px;color:var(--muted);margin:0}
+.note{font-size:12px;color:var(--muted);margin:0}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:16px}
+.chart{position:relative;height:250px}
+.chart.sm{height:200px}
+select{font:500 14px var(--f-body);padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg);max-width:100%}
+.seg{display:inline-flex;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:3px;gap:2px;flex-wrap:wrap}
+.seg button{font:500 12.5px var(--f-body);color:var(--muted);background:transparent;border:0;padding:6px 11px;border-radius:4px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--panel)}
+/* fold-outs */
+details.fold{border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+details.fold>summary{list-style:none;cursor:pointer;padding:13px 16px;display:flex;justify-content:space-between;align-items:center;gap:10px}
+details.fold>summary::-webkit-details-marker{display:none}
+details.fold>summary::after{content:"+";font:500 18px var(--f-mono);color:var(--muted)}
+details.fold[open]>summary::after{content:"–"}
+details.fold>summary .t{font-family:var(--f-display);font-size:18px;font-weight:600}
+details.fold>summary .s{font-size:12.5px;color:var(--muted);margin-left:auto;text-align:right}
+details.fold>.body{padding:0 16px 16px;display:grid;gap:10px}
+/* tables */
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+th{font:500 10.5px var(--f-mono);text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+td.wrap{white-space:normal;text-align:left;min-width:180px}
+tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
+.heat td.h{font-weight:600;min-width:58px}
+.heat td.na{color:var(--muted);font-weight:400}
+.pill{display:inline-block;font:500 11px var(--f-mono);padding:1px 6px;border-radius:10px;white-space:nowrap}
+.pill.good{background:var(--good-soft);color:var(--good)}
+.pill.warn{background:var(--warn-soft);color:var(--warn)}
+.pill.bad{background:var(--bad-soft);color:var(--bad)}
+/* board list */
+.decide{list-style:none;margin:0;padding:0;display:grid;gap:10px;counter-reset:d}
+.decide li{display:grid;grid-template-columns:28px 1fr;gap:10px;counter-increment:d}
+.decide li::before{content:counter(d);font:600 15px var(--f-display);width:26px;height:26px;border-radius:50%;background:var(--fruit-soft);color:var(--fruit);display:grid;place-items:center}
+.decide b{font-weight:600}
+.decide span{display:block;font-size:13px;color:var(--muted)}
+/* blocks */
+.tiles{display:flex;flex-wrap:wrap;gap:6px}
+.tile{all:unset;box-sizing:border-box;cursor:pointer;flex:var(--g,1) 1 92px;min-height:78px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:9px 10px;display:grid;align-content:space-between;gap:2px;position:relative;overflow:hidden}
+.tile::after{content:"";position:absolute;left:0;right:0;bottom:0;height:4px;background:var(--s,var(--line))}
+.tile .nm{font-family:var(--f-display);font-size:20px;font-weight:700;line-height:1}
+.tile .ha{font:11px var(--f-mono);color:var(--muted)}
+.tile .yv{font:500 12px var(--f-mono)}
+.tile[aria-selected="true"]{border-color:var(--accent);background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)}
+.legend{display:flex;flex-wrap:wrap;gap:12px;font-size:12px;color:var(--muted)}
+.legend i{display:inline-block;width:14px;height:4px;border-radius:2px;margin-right:5px;vertical-align:middle;background:var(--c)}
+.bp-top{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+.bp-top .nm{font-family:var(--f-display);font-size:32px;font-weight:700;line-height:1}
+.status{font:500 11px var(--f-mono);text-transform:uppercase;letter-spacing:.06em;padding:2px 8px;border-radius:10px;background:var(--accent-soft);color:var(--accent)}
+.status.rp{background:var(--fruit-soft);color:var(--fruit)}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px}
+.fact{background:var(--bg);border-radius:6px;padding:8px 10px}
+.fact .k{font-size:11.5px;color:var(--muted)}
+.fact .v{font-family:var(--f-display);font-size:22px;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.1}
+.fact .v small{font-size:13px;color:var(--muted)}
+.obs{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.obs li{display:grid;grid-template-columns:auto 1fr;gap:8px;font-size:13.5px;align-items:baseline}
+.tag{font:500 10.5px var(--f-mono);padding:1px 6px;border-radius:3px;white-space:nowrap;background:var(--accent-soft);color:var(--accent)}
+.tag.ag{background:var(--fruit-soft);color:var(--fruit)}
+.tag.fl{background:var(--bad-soft);color:var(--bad)}
+.act{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.act li{font-size:13.5px;padding-left:18px;position:relative}
+.act li::before{content:"";position:absolute;left:2px;top:.55em;width:8px;height:8px;border:1.5px solid var(--fruit);border-radius:2px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.fert{background:var(--bg);border-radius:6px;padding:10px 12px;font-size:14px}
+.askblock{justify-self:start;font:600 13px var(--f-body);background:var(--panel);color:var(--accent);border:1px solid var(--accent);border-radius:6px;padding:7px 12px;cursor:pointer}
+/* bars */
+.bars{display:grid;gap:10px}
+.bar{display:grid;grid-template-columns:130px 1fr 44px;gap:10px;align-items:center;font-size:13px}
+.bar .tr{height:10px;background:var(--grid);border-radius:5px;overflow:hidden}
+.bar .fl{display:block;height:100%;background:var(--c);border-radius:5px}
+.bar .n{font:500 12.5px var(--f-mono);text-align:right}
+.kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px}
+.kv div{background:var(--bg);border-radius:6px;padding:10px 12px}
+.kv .k{font-size:11.5px;color:var(--muted)}
+.kv .v{font-family:var(--f-display);font-size:24px;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.1}
+.kv .v small{font-size:13px;color:var(--muted)}
+.kv .d{font:11.5px var(--f-mono);color:var(--muted)}
+.callout{background:var(--warn-soft);border-radius:6px;padding:11px 13px;font-size:13.5px}
+.callout b{color:var(--warn)}
+.flags{display:grid;gap:8px}
+.flag{display:grid;grid-template-columns:auto 1fr;gap:10px;padding:11px 13px;border-radius:6px;background:var(--bg);border-left:3px solid var(--warn)}
+.flag.bad{border-left-color:var(--bad)}
+.flag .t{font-weight:600}
+.flag p{margin:2px 0 0;font-size:13px;color:var(--muted)}
+.flag .n{font:12px var(--f-mono);color:var(--muted)}
+.src{display:grid;gap:5px;font-size:13px}
+.src a{color:var(--accent)}
+.timeline{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.timeline li{display:grid;grid-template-columns:96px 1fr;gap:10px;font-size:13.5px}
+.timeline .d{font:500 12px var(--f-mono);color:var(--muted)}
+/* ask */
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips button{font:13px var(--f-body);background:var(--accent-soft);color:var(--accent);border:1px solid transparent;border-radius:14px;padding:6px 11px;cursor:pointer;text-align:left}
+.chips button:hover{border-color:var(--accent)}
+.log{display:grid;gap:8px;max-height:60vh;overflow-y:auto}
+.log:empty{display:none}
+.msg{padding:9px 12px;border-radius:8px;font-size:14px;white-space:pre-wrap;min-width:0;overflow-wrap:anywhere}
+.msg.q{background:var(--accent);color:var(--panel);justify-self:end;max-width:85%}
+.msg.a{background:var(--bg);border:1px solid var(--line)}
+.msg.a.err{border-color:var(--bad);color:var(--bad)}
+.askrow{display:flex;gap:6px}
+.askrow input{flex:1;min-width:0;font:15px var(--f-body);padding:10px 12px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg)}
+.askrow button{font:600 14px var(--f-body);padding:10px 16px;border-radius:6px;border:0;background:var(--accent);color:var(--panel);cursor:pointer}
+.askrow button#stop{background:var(--bad)}
+.askrow button:disabled,.chips button:disabled{opacity:.5;cursor:default}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+@media (max-width:480px){.bar{grid-template-columns:100px 1fr 40px}.timeline li{grid-template-columns:76px 1fr}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+
+</head>
+<body>
+<header class="band">
+ <div class="in">
+  <a href="/" style="color:var(--band-muted);text-decoration:none;font-size:13px">‹ All estates</a>
+  <div class="eyebrow">Prosper · Kosfarm Development · PARAS advisory · 10 reports, Mar 2024 – Jul 2026</div>
+  <div>
+   <h1>Ladang Cheekah Kemayan</h1>
+   <div class="meta">1,543 ha planted · 1,209 ha mature · 335 ha immature · mill on estate</div>
+  </div>
+  <div class="latest">Latest reports: <b>PA 1/2026</b> (visit 24 Jun 2026, covers Jan–May) · <b>Agronomy</b> (visit 30 Jul 2026)</div>
+ </div>
+</header>
+
+<nav class="tabs" aria-label="Sections">
+ <div class="in" role="tablist">
+  <button role="tab" data-t="overview" aria-selected="true">Overview</button>
+  <button role="tab" data-t="blocks">Blocks</button>
+  <button role="tab" data-t="money">Money</button>
+  <button role="tab" data-t="field">Field work</button>
+  <button role="tab" data-t="people">People</button>
+  <button role="tab" data-t="ask">Ask</button>
+  <button role="tab" data-t="integrity">Integrity<span class="cnt">20</span></button>
+ </div>
+</nav>
+
+<main><div class="in">
+
+<!-- OVERVIEW -->
+<section role="tabpanel" id="t-overview">
+ <div class="card">
+  <div class="head"><div><h2>Jan–May 2026 at a glance</h2><p class="sub">From PA 1/2026. Costs to April.</p></div></div>
+  <div class="kv">
+   <div><div class="k">FFB crop</div><div class="v">6,569<small> mt</small></div><div class="d"><span class="pill bad">−16%</span> budget 7,831</div></div>
+   <div><div class="k">Yield</div><div class="v">5.72<small> t/ha</small></div><div class="d"><span class="pill bad">−16%</span> budget 6.81</div></div>
+   <div><div class="k">Cost of production</div><div class="v">RM266<small>/t</small></div><div class="d"><span class="pill good">−7%</span> budget RM286</div></div>
+   <div><div class="k">Harvesters</div><div class="v">49<small> / 55</small></div><div class="d"><span class="pill bad">−6</span> workers 91 / 97</div></div>
+  </div>
+ </div>
+ <div class="two">
+  <div class="card">
+   <h2>Yield by block, Jan–May 2026</h2>
+   <p class="sub">t/ha, actual against estimate. Every mature block is under.</p>
+   <div class="chart"><canvas id="cL1" aria-label="Yield by block against estimate"></canvas></div>
+  </div>
+  <div class="card">
+   <h2>Same period, 2025 against 2026</h2>
+   <p class="sub">t/ha to June. Only the young P21A is up.</p>
+   <div class="chart"><canvas id="cL2" aria-label="Yield to June 2025 against 2026 by block"></canvas></div>
+   <p class="note">Agronomy Jul 2026. The PA report says yield is slightly up; see Integrity.</p>
+  </div>
+ </div>
+ <div class="two">
+  <div class="card">
+   <h2>Cost per tonne, Jan–Apr 2026</h2>
+   <p class="sub">RM/t FFB by component, actual against budget</p>
+   <div class="chart"><canvas id="cL3" aria-label="Cost per tonne by component 2026"></canvas></div>
+  </div>
+  <div class="card">
+   <h2>Field programme, 2026</h2>
+   <p class="sub">% of programme done</p>
+   <div class="chart"><canvas id="cL4" aria-label="Field programme completion 2026"></canvas></div>
+   <p class="note">Manuring to July (Agronomist), spraying to May, pruning to July.</p>
+  </div>
+ </div>
+ <div class="two">
+  <div class="card">
+   <h2>Upkeep spend, Jan–Apr 2026</h2>
+   <p class="sub">RM/ha, actual against budget. The gaps are work not yet done.</p>
+   <div class="chart"><canvas id="cL5" aria-label="Upkeep spend against budget 2026"></canvas></div>
+  </div>
+  <div class="card">
+   <h2>Labour against requirement</h2>
+   <p class="sub">Headcount at 31 May 2026</p>
+   <div class="chart"><canvas id="cL6" aria-label="Labour against requirement"></canvas></div>
+  </div>
+ </div>
+ <div class="divider"><h2>Past years</h2><p class="sub">Trends across all 10 reports</p></div>
+ <div class="two">
+  <div class="card">
+   <h2>Yield per hectare</h2>
+   <p class="sub">FFB mt/ha by year, with budget where reported</p>
+   <div class="chart"><canvas id="cYield" aria-label="Yield per hectare 2020 to 2025"></canvas></div>
+   <p class="note">2024 is 17.03 (PA) or 17.35 (Agronomist). 2025 from Agronomy Jan 2026.</p>
+  </div>
+ </div>
+ <div class="card">
+  <div class="head">
+   <div><h2>Cost per tonne, every year</h2><p class="sub">RM per mt FFB ex-estate, by component, against budget</p></div>
+  </div>
+  <div class="chart"><canvas id="cCost" aria-label="Cost of production by year"></canvas></div>
+  <p class="note">Periods: 2023 full year · 2024 Jan–Aug (the full-year split is mis-columned in the report; total RM229.79) · 2025 Jan–Oct · 2026 Jan–Apr.</p>
+ </div>
+ <div class="card">
+  <div class="head">
+   <div><h2>Block yield by year</h2><p class="sub">mt/ha, darker is higher. Tap a block to open it.</p></div>
+  </div>
+  <div class="tbl"><table class="heat">
+   <thead><tr><th>Block</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>Change 24→25</th></tr></thead>
+   <tbody id="heat"></tbody>
+  </table></div>
+  <p class="note">Block figures are on census-based harvested hectares, so 2024 blocks read higher than the 17.35 estate average.</p>
+ </div>
+ <details class="fold" open>
+  <summary><span class="t">For the board</span><span class="s">4 decisions</span></summary>
+  <div class="body">
+   <ol class="decide">
+    <li><div><b>Make the Ganoderma census a condition of approving the 2027 replant.</b><span>It has been requested at 6 consecutive agronomy visits since 2023 and never done. P98C1–C3 (about 172 ha) is due for replanting in 2027.</span></div></li>
+    <li><div><b>Settle the crop numbers.</b><span>In 2024 the declared crop was 833 mt short of the accounts, and the estate called the earlier declaration "misleading". Yield and census figures also differ between reports.</span></div></li>
+    <li><div><b>Fix manuring delivery and timing.</b><span>Each year a balance is carried into the next: 72–84% applied in 2024, 80–86% in 2025, 50% by July 2026. The Nov–Dec monsoon is the deadline.</span></div></li>
+    <li><div><b>Close the harvester gap and the in-field crop loss.</b><span>49 harvesters against 55 required. Rotten bunches have been left uncollected at the last 3 agronomy visits.</span></div></li>
+   </ol>
+  </div>
+ </details>
+</section>
+
+<!-- BLOCKS -->
+<section role="tabpanel" id="t-blocks" hidden>
+ <div class="card">
+  <div class="head">
+   <div><h2>Blocks</h2><p class="sub">Tile width is to scale with hectares. Stripe = Jan–May 2026 yield against estimate.</p></div>
+   <label><span class="sr">Choose block</span><select id="blockSel"></select></label>
+  </div>
+  <div class="tiles" id="tiles" role="listbox" aria-label="Blocks"></div>
+  <div class="legend"><span><i style="--c:var(--bad)"></i>10%+ under estimate</span><span><i style="--c:var(--warn)"></i>under estimate</span><span><i style="--c:var(--line)"></i>immature</span></div>
+ </div>
+ <div class="card" id="bhead"></div>
+ <details class="fold" open id="f-yield"><summary><span class="t">Yield history</span><span class="s" id="s-yield"></span></summary><div class="body" id="b-yield"></div></details>
+ <details class="fold" id="f-subs"><summary><span class="t">Sub-blocks</span><span class="s" id="s-subs"></span></summary><div class="body" id="b-subs"></div></details>
+ <details class="fold" id="f-fert"><summary><span class="t">Fertiliser programme</span><span class="s">by year, grams per palm</span></summary><div class="body" id="b-fert"></div></details>
+ <details class="fold" id="f-health"><summary><span class="t">Palm stand and Ganoderma</span><span class="s">census by report</span></summary><div class="body" id="b-health"></div></details>
+ <details class="fold" id="f-obs"><summary><span class="t">Report comments</span><span class="s" id="s-obs"></span></summary><div class="body" id="b-obs"></div></details>
+ <details class="fold" id="f-act"><summary><span class="t">Open actions</span><span class="s" id="s-act"></span></summary><div class="body" id="b-act"></div></details>
+</section>
+
+<!-- MONEY -->
+<section role="tabpanel" id="t-money" hidden>
+ <div class="card">
+  <div class="head">
+   <div><h2>Cost of production</h2><p class="sub" id="mSub"></p></div>
+   <label><span class="sr">Year</span><select id="mYear"><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026" selected>2026</option></select></label>
+  </div>
+  <div class="kv" id="mKv"></div>
+  <div class="callout" id="mCall"></div>
+ </div>
+ <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
+  <div class="body"><div class="tbl"><table><thead><tr><th>Item</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="upk"></tbody></table></div></div>
+ </details>
+ <details class="fold"><summary><span class="t">Immature and replant spend</span><span class="s">cost to date, RM/ha</span></summary>
+  <div class="body"><div class="tbl"><table>
+   <thead><tr><th>Block</th><th>Ha</th><th>Report</th><th>RM/ha</th><th>Note</th></tr></thead>
+   <tbody>
+    <tr><td>PR23B</td><td>74.80</td><td>PA 1/2024</td><td>11,925</td><td class="wrap">From start, incl. planting material</td></tr>
+    <tr><td>PR23B</td><td>74.80</td><td>PA 1/2026</td><td>13,569</td><td class="wrap">To maturity, excl. general charges</td></tr>
+    <tr><td>PR24B</td><td>150.57</td><td>PA 2/2025</td><td>7,634</td><td class="wrap">12 months old</td></tr>
+    <tr><td>PR24B</td><td>150.57</td><td>PA 1/2026</td><td>8,696</td><td class="wrap">Part of planting material not yet booked</td></tr>
+    <tr><td>PR25B</td><td>109.25</td><td>PA 2/2025</td><td>3,161</td><td class="wrap">Land preparation</td></tr>
+    <tr><td>PR25B</td><td>109.25</td><td>PA 1/2026</td><td>6,225</td><td class="wrap">Planting material not yet booked</td></tr>
+   </tbody>
+  </table></div></div>
+ </details>
+</section>
+
+<!-- FIELD WORK -->
+<section role="tabpanel" id="t-field" hidden>
+ <div class="two">
+  <div class="card">
+   <h2>Manuring completed</h2>
+   <p class="sub">% of programme applied, as each adviser reported it</p>
+   <div class="chart"><canvas id="cMan" aria-label="Manuring completion by year"></canvas></div>
+   <p class="note">2023 PA gave only NK1 68% and MOP 82%. 2026 is to May (PA) and July (Agronomist).</p>
+  </div>
+  <div class="card">
+   <h2>Harvesting rounds</h2>
+   <p class="sub">% of target rounds achieved each year</p>
+   <div class="chart"><canvas id="cRounds" aria-label="Harvesting rounds by year"></canvas></div>
+   <p class="note">Target is 24 rounds a year (15-day interval).</p>
+  </div>
+ </div>
+ <details class="fold" open><summary><span class="t">Programme progress, 2026</span><span class="s">to May–Jul 2026</span></summary>
+  <div class="body"><div class="bars" id="oBars"></div></div>
+ </details>
+ <details class="fold"><summary><span class="t">Pests and disease</span><span class="s">rats, barn owls, beetles, Ganoderma</span></summary>
+  <div class="body">
+   <div class="chart sm"><canvas id="cOwl" aria-label="Barn owl box occupancy by report"></canvas></div>
+   <p class="note">Barn owl occupancy as reported at each visit. The swings reflect inconsistent counting more than real change.</p>
+   <ul class="obs">
+    <li><span class="tag fl">Ganoderma</span><span>Above 5% in tall palms. The last census was Aug 2024 (7% dead). Premature frond snapping and small canopies across P98C, P99D and P01E.</span></li>
+    <li><span class="tag">Rats</span><span>3–6% in 2023, no census in 2024, 1–4% since 2025. Spikes in young blocks: PR23B 20% (Q1 2025), PR24B 11% (Apr 2026). Neighbouring Bukit Jin is at 34–65%.</span></li>
+    <li><span class="tag ag">Beetles</span><span>Oryctes in PR23B reached 21% (Aug 2024). Rhino beetle damage is significant in PR25B (2026).</span></li>
+    <li><span class="tag ag">Bagworm</span><span>Signs in P01E6–E7 in 2024, about 30 ha in P98C in 2025, and late-larval defoliation in P01E6–E7 in Jan 2026.</span></li>
+    <li><span class="tag">Nursery</span><span>Curvularia in every year. Main outbreak Jul 2026, now recovering.</span></li>
+   </ul>
+  </div>
+ </details>
+ <details class="fold"><summary><span class="t">Drains and soil</span><span class="s">17% of mature area is flood-prone</span></summary>
+  <div class="body">
+   <ul class="obs">
+    <li><span class="tag fl">De-silting</span><span>None in 2023 or 2024. 54 chains in 2025, in P21A only. The Agronomist calls this insufficient.</span></li>
+    <li><span class="tag ag">Flood-prone</span><span>130.93 ha of mature area. Worst: P01E3 (70%), P21A1 (40%), P01E1–E2 (30%), P99D1 (20%).</span></li>
+    <li><span class="tag ag">Silty subsoil</span><span>High-silt subsoil is common in P95A, P21A, PR23B and PR24B. It drains poorly and favours Ganoderma.</span></li>
+    <li><span class="tag">New drains</span><span>PR24B 263 of 460 chains (2024). PR25B 158 of 400 chains (2025). 45 chains in PR25B to Jul 2026.</span></li>
+   </ul>
+  </div>
+ </details>
+ <details class="fold"><summary><span class="t">Age profile</span><span class="s">no prime-age palms</span></summary>
+  <div class="body"><div class="bars" id="ageBars"></div><p class="note">Replanting: 2023 P23B (74.8 ha), 2024 PR24B (150.6 ha), 2025 PR25B (109.3 ha), none in 2026, 2027 P98C1–C3 (about 172 ha).</p></div>
+ </details>
+</section>
+
+<!-- PEOPLE -->
+<section role="tabpanel" id="t-people" hidden>
+ <div class="card">
+  <h2>Workforce by visit</h2>
+  <p class="sub">Total workers against requirement, with harvesters</p>
+  <div class="chart"><canvas id="cLab" aria-label="Workforce by visit"></canvas></div>
+  <p class="note">Harvesters in 2024 include infield collectors. Turnover: of 29 workers received in 2025, 19 absconded. In Jan–May 2026, 6 of 8 absconded.</p>
+ </div>
+ <details class="fold" open><summary><span class="t">Who ran the estate</span><span class="s">managers and advisers</span></summary>
+  <div class="body"><ul class="timeline">
+   <li><span class="d">Dec 2022</span><span>Shamsul bin Mohamad Sahib becomes Estate Manager.</span></li>
+   <li><span class="d">Mar 2024</span><span>PARAS starts. Adnan bin Mustafa is Planting Advisor (PA 1/2024, 2/2024, 1/2025). Lai Hong Heng is Agronomist.</span></li>
+   <li><span class="d">Nov 2024</span><span>Agronomy visit by Ghazali bin Abdul Ghani, checked by Chong Kuan Ming.</span></li>
+   <li><span class="d">Sep 2025</span><span>Norrafiuddin bin Yusoff takes over as Estate Manager.</span></li>
+   <li><span class="d">Dec 2025</span><span>Mohd Sufian bin Yusoff takes over as Planting Advisor (PA 2/2025, 1/2026). Dr Chua Chin Kok is Plantation Controller.</span></li>
+  </ul></div>
+ </details>
+ <details class="fold"><summary><span class="t">Contractors, May 2026</span><span class="s">required against actual</span></summary>
+  <div class="body"><div class="tbl"><table>
+   <thead><tr><th>Contractor</th><th>Area</th><th>Ha</th><th>Req.</th><th>Actual</th><th>Gap</th></tr></thead>
+   <tbody>
+    <tr><td>Horizon Enterprise</td><td>P95A, P01E, P21A1–2</td><td>645.42</td><td>39</td><td>34</td><td><span class="pill bad">−5</span></td></tr>
+    <tr><td>Koo Development</td><td>P98C1–C3</td><td>172.17</td><td>11</td><td>15</td><td><span class="pill good">+4</span></td></tr>
+    <tr><td>Zulfathun Enterprise</td><td>P99D2, D3, D5</td><td>183.12</td><td>11</td><td>7</td><td><span class="pill bad">−4</span></td></tr>
+    <tr><td>Zian-Zian Plantation</td><td>P98C4–5, P99D1, D4</td><td>207.05</td><td>13</td><td>10</td><td><span class="pill bad">−3</span></td></tr>
+    <tr><td>DD Koniya Enterprise</td><td>Immature blocks</td><td>334.62</td><td>11</td><td>10</td><td><span class="pill warn">−1</span></td></tr>
+    <tr><td>Estate / casual</td><td>–</td><td>–</td><td>12</td><td>15</td><td><span class="pill good">+3</span></td></tr>
+   </tbody>
+  </table></div><p class="note">Source: PA 1/2026.</p></div>
+ </details>
+ <details class="fold"><summary><span class="t">Harvester productivity</span><span class="s">t per manday by block</span></summary>
+  <div class="body"><div class="chart sm"><canvas id="cHv" aria-label="Harvester productivity by block"></canvas></div><p class="note">Aug 2024 (PA 2/2024) against May 2026 (PA 1/2026).</p></div>
+ </details>
+</section>
+
+<!-- ASK -->
+<section role="tabpanel" id="t-ask" hidden>
+ <div class="card">
+  <h2>Ask about this estate</h2>
+  <p class="sub">Answers come only from the 10 compiled PARAS reports, with the report cited. </p>
+  <div class="chips" id="chips">
+   <button type="button">How many harvesters in the latest report?</button>
+   <button type="button">What were the fertiliser programmes for P99D in 2024, 2025 and 2026?</button>
+   <button type="button">How has P01E3 yield changed and why?</button>
+   <button type="button">Which follow-ups have never been closed?</button>
+  </div>
+  <div class="log" id="log" aria-live="polite"></div>
+  <form id="askForm" class="askrow">
+   <label for="q" class="sr">Your question</label>
+   <input id="q" type="text" autocomplete="off" placeholder="e.g. What was the cost of production in 2023?">
+   <button id="send" type="submit">Ask</button>
+   
+  </form>
+  <p class="note" id="askNote"></p>
+ </div>
+</section>
+
+<!-- INTEGRITY -->
+<section role="tabpanel" id="t-integrity" hidden>
+ <details class="fold" open><summary><span class="t">Follow-ups never closed</span><span class="s">8 items</span></summary>
+  <div class="body"><div class="tbl"><table>
+   <thead><tr><th>Item</th><th>First raised</th><th>Times</th><th>Status at last report</th></tr></thead>
+   <tbody id="fups"></tbody>
+  </table></div></div>
+ </details>
+ <details class="fold" open><summary><span class="t">Report discrepancies</span><span class="s">12 items</span></summary>
+  <div class="body">
+   <div class="row"><label for="flagSel" class="sub">Show</label><select id="flagSel"><option value="all">All</option><option value="bad">Serious only</option><option value="warn">Minor only</option></select></div>
+   <div class="flags" id="flags"></div>
+  </div>
+ </details>
+ <details class="fold"><summary><span class="t">Source reports</span><span class="s">10 PDFs in Google Drive</span></summary>
+  <div class="body src">
+   <a href="https://drive.google.com/file/d/1gmoSSLuRZxExYtDxvsyZDTzXOrQmXS4G/view" target="_blank" rel="noopener">PA 1/2024 · 6 Mar 2024 · Adnan</a>
+   <a href="https://drive.google.com/file/d/1L6ICvp1oqiYuvBTE-jQyD31yyioS2w9c/view" target="_blank" rel="noopener">Agronomy 1/2024 · 8 Apr 2024 · Lai</a>
+   <a href="https://drive.google.com/file/d/1Ra0uPirt0UJ2Qq-tYazW9Wvh_5qgBRvP/view" target="_blank" rel="noopener">PA 2/2024 · 25 Sep 2024 · Adnan</a>
+   <a href="https://drive.google.com/file/d/1lxGle13Lfcdd55gzBC7zJ4nZgvolrQkd/view" target="_blank" rel="noopener">Agronomy 2/2024 · 21 Nov 2024 · Ghazali / Chong</a>
+   <a href="https://drive.google.com/file/d/1Urq0ZpzbyElhykLwdcG1QJTQNnbUKvdJ/view" target="_blank" rel="noopener">PA 1/2025 · 19 Mar 2025 · Adnan</a>
+   <a href="https://drive.google.com/file/d/1j-Gb-MzfM-wONJoDGGQYayhkJOulsRXh/view" target="_blank" rel="noopener">Agronomy 1/2025 · 20 Aug 2025 · Lai</a>
+   <a href="https://drive.google.com/file/d/1TTNwq_IiQJw5qVkIztC03JTmR6UTyGzp/view" target="_blank" rel="noopener">PA 2/2025 · 24 Dec 2025 · Sufian</a>
+   <a href="https://drive.google.com/file/d/1AAhTNaGIicGrWZobo-FZn1ImBHMQjQAf/view" target="_blank" rel="noopener">Agronomy Jan 2026 (visit for 2-2025) · Lai</a>
+   <a href="https://drive.google.com/file/d/1GBUk05-jYZ0Q4pvWcQ7NtjmoiUVBysNv/view" target="_blank" rel="noopener">PA 1/2026 · 24 Jun 2026 · Sufian</a>
+   <a href="https://drive.google.com/file/d/1FzrHObegP6TWvPGqH4-U01uuiS1WsXcd/view" target="_blank" rel="noopener">Agronomy Jul 2026 (visit for 1-2026) · Lai</a>
+  </div>
+ </details>
+</section>
+
+</div></main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const fmt=(n,d=0)=>n.toLocaleString("en-MY",{minimumFractionDigits:d,maximumFractionDigits:d});
+const pct=(a,b)=>(a-b)/b*100;
+function pill(v,goodIfNeg){const g=goodIfNeg?v<=0:v>=0;const cls=Math.abs(v)<3?"warn":(g?"good":"bad");return `<span class="pill ${cls}">${v>0?"+":""}${v.toFixed(0)}%</span>`}
+const C={good:"var(--good)",warn:"var(--warn)",bad:"var(--bad)"};
+const esc=s=>String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+
+/* ---------- tabs ---------- */
+const TABS=["overview","blocks","money","field","people","ask","integrity"];
+function showTab(t){
+ if(!TABS.includes(t))t="overview";
+ TABS.forEach(n=>{document.getElementById("t-"+n).hidden=n!==t});
+ document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));
+ try{history.replaceState(null,"","#"+t)}catch(e){}
+ const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});
+ buildCharts(t);
+}
+document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.t)));
+
+/* ---------- overview: heatmap ---------- */
+const HEAT=[
+ ["P95A",[null,22.41,17.19,24.94,20.86]],
+ ["P98C",[15.11,14.97,15.33,20.41,16.91]],
+ ["P99D",[14.10,17.00,17.94,21.85,17.91]],
+ ["P01E",[14.34,18.27,16.95,20.90,18.28]],
+ ["P21A",[null,null,null,1.81,6.67]],
+ ["P97B",[12.37,12.26,16.24,25.84,null],"Felled 2024–25"],
+ ["Estate",[14.78,16.42,16.63,17.35,15.37]]
+];
+document.getElementById("heat").innerHTML=HEAT.map(([b,v,note])=>{
+ const cells=v.map(x=>x==null?`<td class="h na">–</td>`:`<td class="h" style="background:color-mix(in srgb,var(--accent) ${Math.max(6,Math.min(70,(x-12)/14*70)).toFixed(0)}%,transparent)">${x.toFixed(2)}</td>`).join("");
+ const ch=v[3]!=null&&v[4]!=null?pill(pct(v[4],v[3])):`<span class="note">${note||"–"}</span>`;
+ const clk=BLOCK_IDS().includes(b);
+ return `<tr${clk?` class="clk" tabindex="0" data-b="${b}"`:""}><td><b>${b}</b></td>${cells}<td>${ch}</td></tr>`}).join("");
+function BLOCK_IDS(){return ["P95A","P98C","P99D","P01E","P21A","PR23B","PR24B","PR25B"]}
+document.querySelectorAll("#heat tr.clk").forEach(tr=>{const go=()=>{showTab("blocks");showBlock(tr.dataset.b)};tr.addEventListener("click",go);tr.addEventListener("keydown",e=>{if(e.key==="Enter")go()})});
+
+/* ---------- blocks ---------- */
+const G=g=>g; // grams already
+const BLOCKS=[
+ {id:"P95A",ha:19.02,sph:116,planted:"1995",status:"Mature · tall palm",contractor:"Horizon Enterprise",v26:[6.60,7.39],
+  years:[null,22.41,17.19,24.94,20.86],
+  subs:[["A5",19.02,15.92,12.59,null]],
+  fert:{"2024":"MOP 2,000 g (Mar) · NK1 2,000 g (Sep)","2025":"MOP 2,000 g (Mar) · NK1 2,000 g (Sep) · extra AS 1,500 g (Oct)","2026 original":"NK2 2,000 g, two rounds","2026 amended":"NK2 2,000 g, one round"},
+  census:[["Agro 1/2024 (2023 census)",130,null],["PA 1/2024 (Mar 2024)",133,"0.2%"],["PA 2/2024 (Aug 2024)",116,"12%"],["Agro 2/2024 (Oct 2024)",132,null],["Agro 1/2025 (\"Jul 2024\")",116,null]],
+  obs:[[2024,"Agro 1/2024","ag","Over 25 years old and flagged for immediate replanting. Yield fell 23% in 2023 (22.41 → 17.19 t/ha)."],[2024,"PA 2/2024","pa","12% of palms dead from Ganoderma, second only to P97B. Only 14 harvest rounds to August."],[2025,"Agro 1/2025","ag","Used as the mill's EFB disposal site: 312 mt at 50 mt/ha on a third of the area."],[2026,"Agro Jan 2026","ag","EFB dumped too close to palm bases; application paused to level heaps. Strip spraying on harvest paths."],[2026,"PA 1/2026","pa","EFB budgeted for 2026 but none applied yet."],[2026,"Agro Jul 2026","ag","14% overripe bunches. Yield to June down 29% (10.94 → 7.74 t/ha), the steepest fall on the estate."]],
+  actions:["Decide replant timing — the 2025 plan to replant it slipped and it is not in the 2027 list","Rotate EFB to alternate years and keep it off palm bases","Tighten ripeness standard"]},
+ {id:"P98C",ha:308.43,sph:121,planted:"1998",status:"Mature · C1–C3 replant 2027",rp:true,contractor:"Koo Development (C1–C3), Zian-Zian (C4–C5)",v26:[5.59,7.40],
+  years:[15.11,14.97,15.33,20.41,16.91],
+  subs:[["C1",46.03,10.39,11.22,null],["C2",62.89,13.29,12.12,null],["C3",63.25,12.58,10.53,10],["C4",63.29,12.97,8.57,10],["C5",72.97,13.25,7.86,3]],
+  fert:{"2024":"MOP 2,250 g (Mar) · NK1 2,250 g (Sep), all sub-blocks. Compact B 2,250 g was actually used.","2025":"MOP 2,250 g · NK1 2,250 g · extra AS 1,500 g (Oct)","2026 original":"C1–C3: none (replant 2027) · C4–C5: Mix B 2,250 g + NK2 2,250 g","2026 amended":"C1–C3: none · C4–C5: Mix B 2,250 g"},
+  census:[["Agro 1/2024 (2023 census)",132,null],["PA 1/2024 (Mar 2024)",132,"0.9%"],["PA 2/2024 (Aug 2024)",121,"6%"],["Agro 2/2024 (Oct 2024)",134,null],["Agro 1/2025 (\"Jul 2024\")",121,null],["PA 1/2026 table",121,"9% (reused row)"]],
+  obs:[[2024,"Agro 1/2024","ag","MOP applied in clumps and narrow bands in C3, C4. Weak vigour in C1–C4 resembling early Ganoderma."],[2024,"Agro 2/2024","ag","Ganoderma fruiting bodies and collapsed palms in C4, C5. Premature frond snapping in C2."],[2025,"Agro 1/2025","ag","Rotten bunches left uncollected in C4. Jan–Jul yield fell 34% in C4 and 41% in C5."],[2025,"PA 2/2025","pa","Bagworm on about 30 ha; treat at the right larval stage."],[2026,"Agro Jan 2026","ag","Poor pruning in C1, C3, C4. Crop loss in C4, C5."],[2026,"PA 1/2026","pa","Road washed out by floodwater; flood-prone low-lying sections."],[2026,"Agro Jul 2026","ag","Dry hanging fronds in C2, C3. Seed-producing weeds C2–C4. Giant epiphyte in C4."]],
+  actions:["Ganoderma census on C1–C3 before the replant is approved","Investigate the C4–C5 collapse (−34% and −41%)","De-silt drains in C3–C5"]},
+ {id:"P99D",ha:317.20,sph:124,planted:"1999",status:"Mature · tall palm",contractor:"Zulfathun (D2, D3, D5), Zian-Zian (D1, D4)",v26:[6.67,7.60],
+  years:[14.10,17.00,17.94,21.85,17.91],
+  subs:[["D1",52.13,14.95,12.06,20],["D2",50.22,14.11,11.16,15],["D3",58.40,15.42,12.14,null],["D4",81.95,13.30,9.58,null],["D5",74.50,14.86,10.61,null]],
+  fert:{"2024":"D1: Mix B 2,000 · 1,750 · 2,000 · 1,750 g · D2–D5: NK1 1,500 · MOP 2,250 · NK1 1,500 g","2025":"Same as 2024 · extra AS 1,500 g (Oct)","2026 original":"Mix B 2,000 g + NK2 1,500 g + NK2 1,750 g","2026 amended":"Mix B 2,000 g + NK2 1,500 g"},
+  census:[["Agro 1/2024 (2023 census)",138,null],["PA 1/2024 (Mar 2024)",138,"1.1%"],["PA 2/2024 (Aug 2024)",124,"3%"],["Agro 2/2024 (Oct 2024)",130,null],["Agro 1/2025 (\"Jul 2024\")",124,null],["PA 1/2026 table",124,"6% (reused row)"]],
+  obs:[[2024,"Agro 1/2024","ag","Weak vigour in D2–D5. Ganoderma fruiting bodies in D2–D4; toppled palms in D4."],[2024,"PA 2/2024","pa","D1 flooded in low-lying area; drains need improving."],[2024,"Agro 2/2024","ag","Only 1 round of circle spraying by October. Weedy circles in D3, D5."],[2025,"Agro 1/2025","ag","Jan–Jul yield fell 28% in D4 and 29% in D5."],[2026,"Agro Jan 2026","ag","Epiphytes on stems in D1. Crop loss in D1. Poor pruning in D1, D2, D4."],[2026,"PA 1/2026","pa","Zulfathun 4 workers short (7 against 11)."],[2026,"Agro Jul 2026","ag","15% overripe in D4. Pruning only 61% of programme."]],
+  actions:["Bring Zulfathun to full crew","Epiphyte control with Garlon:diesel 1:10","Assign permanent harvesters to catch up pruning"]},
+ {id:"P01E",ha:314.33,sph:126,planted:"2001",status:"Mature · tall palm",contractor:"Horizon Enterprise",v26:[7.21,9.53],
+  years:[14.34,18.27,16.95,20.90,18.28],
+  subs:[["E1",78.79,11.53,9.63,30],["E2",56.18,11.56,10.20,30],["E3",26.10,15.67,8.42,70],["E4",49.86,13.64,11.30,10],["E5",37.31,14.00,11.77,5],["E6",32.50,18.49,15.54,5],["E7",33.59,15.85,14.50,10]],
+  fert:{"2024":"Mix B 1,750 g (Feb) · MOP 2,250 g (May) · Mix B 1,750 g (Jul) · Kieserite 750 g (Sep)","2025":"Same as 2024 · extra AS 1,500 g (Oct)","2026 original":"E1–E5: Mix B 2,000 · NK2 1,750 · Kieserite 750 · NK2 1,750 g · E6–E7: NK2 at 2,000 g","2026 amended":"E1–E5: Mix B 2,000 g + NK2 1,750 g · E6–E7: NK2 2,000 g"},
+  census:[["Agro 1/2024 (2023 census)",138,null],["PA 1/2024 (Mar 2024)",138,"0.4%"],["PA 2/2024 (Aug 2024)",126,"4%"],["Agro 2/2024 (Oct 2024)",132,null],["Agro 1/2025 (\"Jul 2024\")",126,null],["PA 1/2026 table",126,"4% (reused row)"]],
+  obs:[[2024,"Agro 1/2024","ag","Caked Mix B lumps in E4. E3 is 70% flood-prone; E1, E2 30%."],[2024,"Agro 2/2024","ag","Potassium marginally low in E6, E7. K and Mg deficiency symptoms in E1, E2, E6, E7."],[2025,"Agro 1/2025","ag","Fertiliser in lumps and too close to palm bases in E1. Rotten bunches in E6, E7."],[2025,"Agro 1/2025","ag","E3 yield fell 46% Jan–Jul, the worst sub-block drop. Mounding done in E2, E3 ravines."],[2026,"Agro Jan 2026","ag","Bagworm defoliation in E6, E7 at late larval stage. Strip spraying on paths in E4, E6."],[2026,"Agro Jul 2026","ag","Rotten bunches in E2, E5. Weeds in E4, E5, E7. Pruning 96% — best on the estate."]],
+  actions:["Drainage plan for E1–E3 (30–70% flood-prone)","Same-day evacuation of harvested bunches","Treat bagworm at early instar"]},
+ {id:"P21A",ha:248.78,sph:136,planted:"Oct 2021",status:"Young mature",contractor:"Horizon (A1–A2), DD Koniya (A3–A4)",v26:[2.82,4.20],
+  years:[null,null,null,1.81,6.67],
+  subs:[["A1",59.08,0.77,3.50,40],["A2",61.60,1.01,3.52,4],["A3",65.70,0.68,3.30,null],["A4",62.40,0.89,2.83,null]],
+  fert:{"2024":"Mix B 1,200 · 1,500 g · RP 2,000 g · Mix B 1,500 · 1,500 g","2025":"Mix B 1,500 · 1,500 g · RP 2,000 g · Mix B 1,500 · 1,750 g","2026 original":"Mix B 1,750 · 1,750 g · RP 2,000 g · Mix B 1,750 · 1,750 g","2026 amended":"Mix B 1,750 · 1,750 g · RP 2,000 g · Mix B 1,250 · 1,500 g"},
+  census:[["Agro 1/2024",132,null],["Agro 2/2024 (Oct 2024)",136,null],["Agro 1/2025",136,null],["Agro Jul 2026 (Nov 2025)",144,null]],
+  obs:[[2024,"PA 1/2024","pa","Declared mature at 30 months; the PA said it should stay 'immature harvesting'."],[2024,"Agro 1/2024","ag","Density 132/ha too low; 6,582 palms supplied. A1 is 40% flood-prone."],[2024,"PA 2/2024","pa","1.11 t/ha to August, 47% of estimate. Wild bitter gourd spreading."],[2024,"Agro 2/2024","ag","Only 13.5 harvest rounds to October (68% of target)."],[2025,"Agro 1/2025","ag","Significant over-pruning. Path spraying."],[2026,"Agro Jan 2026","ag","Over-pruning reduced. Basal pruning needed in A4. Path spraying still in A2, A4."],[2026,"Agro Jul 2026","ag","Giant volunteer palms in A1, A2. Under-pruning and rotten bunches in A1."]],
+  actions:["Stop path spraying (raised at 4 visits)","Remove giant VOPs","Re-census and supply before the 5-year age gap"]},
+ {id:"PR23B",ha:74.80,sph:146,planted:"Aug 2023",status:"Immature · scout harvest",contractor:"DD Koniya",v26:null,years:null,subs:null,
+  fert:{"2024":"Compound 800 g · RP 1,500 g · Compound 900 g","2025":"Compound 1,000 · 1,000 g · RP 1,750 g · Compound 1,200 · 1,200 g","2026 original":"Comp B 1,200 · 1,200 g · RP 2,000 g · Comp B 1,200 · 1,500 g","2026 amended":"Same as original"},
+  census:[["PA 1/2024",135,null],["PA 2/2024",136,null],["Agro 1/2025",145,null],["Agro Jan 2026",148,null],["Agro Jul 2026",146,null]],
+  obs:[[2024,"PA 1/2024","pa","Planted Aug–Oct 2023 at 135/ha against a 148 target."],[2024,"Agro 2/2024","ag","Oryctes rose to 21% (Aug 2024). 555 palms infilled."],[2025,"Agro 1/2025","ag","Rat damage 20% in Q1 2025."],[2026,"PA 1/2026","pa","30 months old. Scout harvest 38 mt. RM13,569/ha to maturity."]],
+  actions:["Supply remaining vacant points","Start the 10-chain lateriting"]},
+ {id:"PR24B",ha:150.57,sph:144,planted:"Nov 2024 – Feb 2025",status:"Immature",contractor:"DD Koniya",v26:null,years:null,subs:null,
+  fert:{"2024":"Land preparation and planting from end Nov 2024","2025":"Compound 800 g · RP 1,500 g · Compound 900 g","2026 original":"Comp A 900 · 1,000 · 1,000 g · RP 1,750 g · Comp A 1,000 g","2026 amended":"Same as original"},
+  census:[["Agro 1/2025",145,null],["Agro Jan 2026",146,null],["Agro Jul 2026 (Jun 2026)",144,null]],
+  obs:[[2024,"PA 1/2024","pa","12,447 palms felled; watermelon intercrop on about 100 ha at RM400/ha/season."],[2025,"Agro 1/2025","ag","Severe caterpillar defoliation, later controlled. 13,514 palms supplied in 2024 along ravines. EFB too close to bases."],[2026,"Agro Jul 2026","ag","Rat damage 11% in April, back to 2%. EFB 49.92 mt/ha applied."],[2026,"PA 1/2026","pa","RM8,696/ha to maturity; part of planting material not yet booked."]],
+  actions:["Book planting material cost","Keep Oryctes treatment going"]},
+ {id:"PR25B",ha:109.25,sph:144,planted:"Jul 2025 – Jun 2026",status:"Replant · just planted",rp:true,contractor:"DD Koniya",v26:null,years:null,subs:null,
+  fert:{"2024":"Still P97B (being felled)","2025":"600 g CRF + 500 g RP in the planting hole","2026 original":"Comp A 800 g · RP 1,500 g","2026 amended":"Same as original"},
+  census:[["Agro Jul 2026 (Jul 2026)",144,null]],
+  obs:[[2025,"Agro 1/2025","ag","Only about 200 palms planted by July 2025. Watermelon on about 30 ha."],[2026,"Agro Jan 2026","ag","38% planted by December 2025; cambered bunds 83%."],[2026,"Agro Jul 2026","ag","Planting completed June 2026 after a contractor change. Significant rhino beetle damage."],[2026,"PA 1/2026","pa","RM6,225/ha to date, planting material not yet booked."]],
+  actions:["Cost-compare Alika ZC against Cypermethrin","Infill to 148/ha"]}
+];
+const tiles=document.getElementById("tiles"),sel=document.getElementById("blockSel");
+BLOCKS.forEach(b=>{
+ const v=b.v26?pct(b.v26[0],b.v26[1]):null,col=v==null?"var(--line)":v>-10?"var(--warn)":"var(--bad)";
+ const t=document.createElement("button");t.type="button";t.className="tile";t.setAttribute("role","option");t.dataset.b=b.id;t.style.setProperty("--s",col);t.style.setProperty("--g",Math.max(1,Math.round(b.ha/40)));
+ t.innerHTML=`<span class="nm">${b.id}</span><span class="ha">${fmt(b.ha,2)} ha</span><span class="yv">${v==null?b.status.split(" ·")[0]:(v>0?"+":"")+v.toFixed(0)+"% vs est."}</span>`;
+ t.addEventListener("click",()=>showBlock(b.id));tiles.append(t);
+ const o=document.createElement("option");o.value=b.id;o.textContent=`${b.id} · ${b.status}`;sel.append(o);
+});
+sel.addEventListener("change",()=>showBlock(sel.value));
+let blockChart=null,curBlock=null;
+function showBlock(id){
+ const b=BLOCKS.find(x=>x.id===id);if(!b)return;curBlock=b;
+ sel.value=id;tiles.querySelectorAll(".tile").forEach(t=>t.setAttribute("aria-selected",t.dataset.b===id?"true":"false"));
+ const age=/^\d{4}$/.test(b.planted)?(2026-+b.planted)+" yrs":b.planted;
+ const v=b.v26?pct(b.v26[0],b.v26[1]):null;
+ document.getElementById("bhead").innerHTML=`
+  <div class="bp-top"><span class="nm">${b.id}</span><span class="status ${b.rp?"rp":""}">${b.status}</span><span class="sub">${b.contractor}</span></div>
+  <div class="facts">
+   <div class="fact"><div class="k">Area</div><div class="v">${fmt(b.ha,2)} <small>ha</small></div></div>
+   <div class="fact"><div class="k">Palms / ha</div><div class="v">${b.sph}</div></div>
+   <div class="fact"><div class="k">Planted</div><div class="v">${b.planted}</div></div>
+   <div class="fact"><div class="k">Age</div><div class="v">${age}</div></div>
+   ${b.v26?`<div class="fact"><div class="k">Jan–May 2026</div><div class="v">${b.v26[0].toFixed(2)} <small>t/ha</small></div><div class="k">${pill(v)} vs ${b.v26[1].toFixed(2)}</div></div>`:""}
+  </div>
+  <button type="button" class="askblock" id="askBlk">Ask a question about ${b.id}</button>`;
+ document.getElementById("askBlk").addEventListener("click",()=>{showTab("ask");const q=document.getElementById("q");q.value=`Tell me about block ${b.id}: `;q.focus()});
+ // yield
+ const fy=document.getElementById("f-yield"),by=document.getElementById("b-yield");
+ if(b.years){
+  const yrs=["2021","2022","2023","2024","2025"];
+  document.getElementById("s-yield").textContent=`2025: ${b.years[4].toFixed(2)} t/ha`;
+  by.innerHTML=`<div class="chart sm"><canvas id="cBlk" aria-label="${b.id} yield by year"></canvas></div>
+  <div class="tbl"><table><thead><tr><th>Year</th>${yrs.map(y=>`<th>${y}</th>`).join("")}</tr></thead><tbody><tr><td>t/ha</td>${b.years.map(x=>`<td>${x==null?"–":x.toFixed(2)}</td>`).join("")}</tr></tbody></table></div>
+  <p class="note">2021–2023 from Agronomy 1/2024; 2024–2025 from Agronomy Jan 2026.</p>`;
+  fy.hidden=false;
+  drawBlockChart(b,yrs);
+ }else{document.getElementById("s-yield").textContent="not yet harvesting";by.innerHTML=`<p class="note">No harvest history yet.</p>`;if(blockChart){blockChart.destroy();blockChart=null}}
+ // subs
+ const fs=document.getElementById("f-subs");
+ if(b.subs){
+  fs.hidden=false;
+  const worst=b.subs.reduce((a,r)=>pct(r[3],r[2])<pct(a[3],a[2])?r:a);
+  document.getElementById("s-subs").textContent=b.subs.length>1?`worst: ${b.id.slice(0,3)}${worst[0]} ${pct(worst[3],worst[2]).toFixed(0)}%`:"";
+  document.getElementById("b-subs").innerHTML=`<div class="tbl"><table><thead><tr><th>Sub-block</th><th>Ha</th><th>Jan–Jul 24</th><th>Jan–Jul 25</th><th>Change</th><th>Flood-prone</th></tr></thead><tbody>${b.subs.map(r=>`<tr><td>${b.id.slice(0,3)}${r[0]}</td><td>${fmt(r[1],2)}</td><td>${r[2].toFixed(2)}</td><td>${r[3].toFixed(2)}</td><td>${pill(pct(r[3],r[2]))}</td><td>${r[4]==null?"–":`<span class="pill ${r[4]>=30?"bad":r[4]>=10?"warn":"good"}">${r[4]}%</span>`}</td></tr>`).join("")}</tbody></table></div><p class="note">Yield in t/ha from Agronomy 1/2025. Flood-prone share from Agronomy 1/2024.</p>`;
+ }else fs.hidden=true;
+ // fert
+ const keys=Object.keys(b.fert);
+ document.getElementById("b-fert").innerHTML=`<div class="seg" role="group" aria-label="Programme year">${keys.map((k,i)=>`<button type="button" data-k="${k}" aria-pressed="${i===keys.length-1}">${k}</button>`).join("")}</div><div class="fert" id="fertTxt">${esc(b.fert[keys[keys.length-1]])}</div><p class="note">From each year's Agronomy report appendix. The amended 2026 programme (Jul 2026) dropped second rounds.</p>`;
+ document.querySelectorAll("#b-fert .seg button").forEach(btn=>btn.addEventListener("click",()=>{document.querySelectorAll("#b-fert .seg button").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));document.getElementById("fertTxt").textContent=b.fert[btn.dataset.k]}));
+ // health
+ document.getElementById("b-health").innerHTML=`<div class="tbl"><table><thead><tr><th>Report (census date)</th><th>Palms/ha</th><th>Dead %</th></tr></thead><tbody>${b.census.map(r=>`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]||"–"}</td></tr>`).join("")}</tbody></table></div><p class="note">The reports disagree on palm stand. See Integrity for details.</p>`;
+ // obs
+ document.getElementById("s-obs").textContent=`${b.obs.length} comments`;
+ document.getElementById("b-obs").innerHTML=`<div class="row"><label for="obsYear" class="sub">Year</label><select id="obsYear"><option value="all">All years</option><option>2024</option><option>2025</option><option>2026</option></select><label for="obsWho" class="sub">From</label><select id="obsWho"><option value="all">Both advisers</option><option value="pa">Planting Advisor</option><option value="ag">Agronomist</option></select></div><ul class="obs" id="obsList"></ul>`;
+ const renderObs=()=>{const y=document.getElementById("obsYear").value,w=document.getElementById("obsWho").value;const list=b.obs.filter(o=>(y==="all"||String(o[0])===y)&&(w==="all"||o[2]===w));document.getElementById("obsList").innerHTML=list.length?list.map(o=>`<li><span class="tag ${o[2]==="ag"?"ag":""}">${o[1]}</span><span>${esc(o[3])}</span></li>`).join(""):`<li><span></span><span class="note">No comments for this filter.</span></li>`};
+ document.getElementById("obsYear").addEventListener("change",renderObs);document.getElementById("obsWho").addEventListener("change",renderObs);renderObs();
+ // actions
+ document.getElementById("s-act").textContent=`${b.actions.length} open`;
+ document.getElementById("b-act").innerHTML=`<ul class="act">${b.actions.map(a=>`<li>${esc(a)}</li>`).join("")}</ul>`;
+}
+
+/* ---------- money ---------- */
+const M={
+ "2023":{p:"Jan–Dec 2023 · PA 1/2024 · Adnan",cop:239.68,copB:321.29,gc:672.57,gcB:1441.17,uc:1772.08,ucB:2015.70,hc:75.60,hcB:79.72,
+  note:"<b>Cost was 25% under budget on 7% less crop.</b> Corrective pruning ran 182% over budget to clear a backlog, which was justified. Bridges and culverts at RM55,085 against a RM2,076 budget was queried twice and never explained.",
+  upk:[["Weeding",205.48,225.27],["Manuring",1077.66,1395.66],["Pest & disease",0.65,95.36],["Census & thinning",5.19,2.34],["Drains",0.40,9.62],["Bridges & culverts",44.14,1.66],["Roads",5.63,125.61],["Boundaries",5.19,7.46],["Supplying",1.59,0],["Pruning",431.34,152.71]]},
+ "2024":{p:"Jan–Dec 2024 · PA 1/2025 · Adnan",cop:229.79,copB:295.40,gc:1250.76,gcB:1570.83,uc:1096.72,ucB:1832.38,hc:64.53,hcB:64.96,
+  note:"<b>Crop beat budget by 3%, so cost per tonne fell.</b> Manuring spend was only 57% of budget, though. Part of the 'saving' is fertiliser carried into 2025.",
+  upk:[["Weeding",181.80,223.45],["Manuring",769.85,1352.78],["Pest & disease",2.61,78.26],["Census & thinning",8.06,4.58],["Drains",3.04,18.23],["Bridges & culverts",2.12,3.95],["Roads",26.58,52.51],["Boundaries",2.50,0],["Supplying",13.73,0],["Pruning",86.43,98.62]]},
+ "2025":{p:"Jan–Oct 2025 · PA 2/2025 · Sufian",cop:223.63,copB:241.22,gc:993.59,gcB:1324.50,uc:1029.19,ucB:1229.52,hc:76.18,hcB:70.76,
+  note:"<b>Cost is 7% under budget, but harvesting is 8% over.</b> The saving comes from general charges and from upkeep that wasn't done (pest work 84% under, drains 59% under).",
+  upk:[["Weeding",169.76,206.75],["Manuring",744.05,842.28],["Pest & disease",4.13,25.54],["Census & thinning",2.19,11.34],["Drains",5.81,14.06],["Bridges & culverts",1.37,5.93],["Roads",19.97,30.04],["Boundaries",0.68,0],["Supplying",0.02,0.37],["Pruning",81.21,93.22]]},
+ "2026":{p:"Jan–Apr 2026 · PA 1/2026 · Sufian",cop:266.08,copB:286.48,gc:439.60,gcB:501.53,uc:408.69,ucB:447.61,hc:76.28,hcB:91.71,
+  note:"<b>RM266/t is 7% under budget, on 16% less crop.</b> Pruning is 35% under and pest work 90% under. That is work deferred, not saved.",
+  upk:[["Weeding",75.81,79.50],["Manuring",274.04,285.50],["Pest & disease",1.08,10.52],["Census & thinning",0.58,0.94],["Drains",0.59,2.32],["Bridges & culverts",1.26,1.48],["Roads",30.14,30.42],["Boundaries",0.49,0],["Pruning",24.71,36.92]]}
+};
+function renderMoney(y){
+ const p=M[y];document.getElementById("mSub").textContent=p.p;
+ const kv=[["Cost of production",p.cop,"/t",p.copB],["General charges",p.gc,"/ha",p.gcB],["Upkeep & cultivation",p.uc,"/ha",p.ucB],["Harvest & collection",p.hc,"/t",p.hcB]];
+ document.getElementById("mKv").innerHTML=kv.map(k=>`<div><div class="k">${k[0]}</div><div class="v">RM${fmt(k[1],2)}<small>${k[2]}</small></div><div class="d">${pill(pct(k[1],k[3]),true)} budget RM${fmt(k[3],2)}</div></div>`).join("");
+ document.getElementById("mCall").innerHTML=p.note;
+ document.getElementById("upk").innerHTML=p.upk.map(r=>`<tr><td>${r[0]}</td><td>${fmt(r[1],2)}</td><td>${r[2]?fmt(r[2],2):"–"}</td><td>${r[2]?pill(pct(r[1],r[2]),true):"<span class='pill warn'>unbudgeted</span>"}</td></tr>`).join("")+`<tr><td><b>Total</b></td><td><b>${fmt(p.uc,2)}</b></td><td>${fmt(p.ucB,2)}</td><td>${pill(pct(p.uc,p.ucB),true)}</td></tr>`;
+}
+document.getElementById("mYear").addEventListener("change",e=>renderMoney(e.target.value));
+renderMoney("2026");
+
+/* ---------- field bars ---------- */
+const bar=(l,v,c,max=100)=>`<div class="bar"><span>${l}</span><span class="tr"><span class="fl" style="width:${v/max*100}%;--c:${c}"></span></span><span class="n">${v}%</span></div>`;
+const lv=v=>v>=90?C.good:v>=75?C.warn:C.bad;
+document.getElementById("oBars").innerHTML=[["Manuring (Jul)",50],["Circle spray (May)",82],["Selective spray (May)",89],["Pruning (Jul)",73]].map(r=>bar(r[0],r[1],lv(r[1]))).join("");
+document.getElementById("ageBars").innerHTML=[["0–3 yrs",22,C.good],["4–7 yrs",16,C.good],["8–19 yrs (prime)",0,C.bad],["20–25 yrs",20,C.warn],["Over 26 yrs",42,C.bad]].map(r=>bar(r[0],r[1],r[2],50)).join("");
+
+/* ---------- integrity ---------- */
+const FUPS=[
+ ["Ganoderma census","Agro 2-2023","7","Never done. Last data Aug 2024."],
+ ["Drain de-silting","PA 1/2024","5","None in 2023–24; 54 chains in 2025, P21A only"],
+ ["Barn owl box cleaning","PA 1/2024","5","Never done; boxes hard to reach"],
+ ["Mark last fertilised palm","Agro 1/2025","3","Unresolved at Jul 2026"],
+ ["Semi-mechanised manuring","PA 1/2024","4","Not adopted; contractor can't fund machines"],
+ ["Stop path spraying in P21A","Agro 1/2024","4","Still seen in Jul 2026"],
+ ["Vehicle running-cost records","PA 2/2024","4","Not started"],
+ ["Explain RM55,855 bridges & culverts (2023)","PA 1/2024","2","No answer recorded"]
+];
+document.getElementById("fups").innerHTML=FUPS.map(r=>`<tr><td class="wrap"><b>${r[0]}</b></td><td>${r[1]}</td><td>${r[2]}</td><td class="wrap">${r[3]}</td></tr>`).join("");
+const FLAGS=[
+ ["bad","Crop declared short of the accounts (2024)","PA 2/2024 reports 16,057.84 mt to August, but its cost table uses 16,890.63 mt from the estate's Pinfosys accounts, 833 mt more. The estate described the earlier crop declaration as 'misleading'. The same report's conclusion says 15.17 t/ha; the body says 13.17."],
+ ["bad","Ganoderma census table appears recycled (2026)","PA 1/2026 Table 13 reuses the Aug 2024 census rows, shifted up one field: P98C's 3,752 dead was P97B's 2024 figure, P99D's 2,573 was P98C's, and P01E's 1,387 was P99D's. The Agronomist says no Ganoderma census was done after 2024."],
+ ["bad","Palm stand figures contradict each other","Mar 2024 (PA): 0.95% dead, 134/ha. Aug 2024 (PA): 7% dead, P98C 121/ha. Oct 2024 (Agronomist): P98C 134, P99D 130, P01E 132. Aug 2025 (Agronomist) dates the 121/124/126 census to July 2024. Jul 2026 relabels the same palm counts as Nov 2025, while Jan 2026 said there had been no census since July 2024."],
+ ["bad","PA and Agronomist disagree on 2026 yield direction","PA 1/2026: 5.72 t/ha to May, slightly better than last year. Agronomy Jul 2026: 7.37 → 6.93 t/ha to June (−6%)."],
+ ["warn","Manuring completion reported differently","2024: PA 72% against Agronomist 84%. 2025: PA 80% (to Nov) against Agronomist 86%. 2026: PA 346.10 mt by May, Agronomist 341.80 mt by July. Applied tonnage cannot fall."],
+ ["warn","Yield stated two ways","2024: 17.03 (PA) against 17.35 (Agronomist). 2022: 16.42 (PA) against 16.98 (Agronomy 2/2024)."],
+ ["warn","2024 fertiliser programme not what was applied","Agronomy 1/2024 set MOP + NK1 for P98C and NK1 for P99D. PA 2/2024 and Agronomy 2/2024 show Compact B was used instead. No note of the change."],
+ ["warn","Barn owl box counts don't reconcile","142 boxes, 32% (2023) → 155, 63% (Aug 2024) → 155, 65% (Jul 2025) → 115 nests, 35% (Nov 2025) → 155 nests, 6% (May 2026) → 12 boxes, 16% (Jul 2026)."],
+ ["warn","Typos in PA 2/2025 cost tables","Drains RM2,195.81/ha against a RM14.06 budget. Harvesting incentive RM1,465,339 inside a RM1.2m total. General charges RM71.75/t in the table but RM93.09/t in the text."],
+ ["warn","FY2024 cost table mis-columned","PA 1/2025 gives general charges RM196.63 and harvesting RM339.97 per tonne, which cannot sum to the stated RM229.79."],
+ ["warn","Ecofert quantities inconsistent","Agronomy 1/2024 found Ecofert applied in 2023 didn't match the 2-2023 report. Ecofert was stopped in Oct 2024; the replacement AS dose was still not applied by Jan 2026."],
+ ["warn","Mixed review cut-off dates","Each PA report quotes crop to one month and costs to the month before. This dashboard follows the reports as written."]
+];
+function renderFlags(){const f=document.getElementById("flagSel").value;document.getElementById("flags").innerHTML=FLAGS.map((x,i)=>[x,i]).filter(([x])=>f==="all"||x[0]===f).map(([x,i])=>`<div class="flag ${x[0]}"><span class="n">${i+1}</span><div><div class="t">${x[1]}</div><p>${esc(x[2])}</p></div></div>`).join("")}
+document.getElementById("flagSel").addEventListener("change",renderFlags);renderFlags();
+
+/* ---------- charts ---------- */
+const built={};
+function css(n){return getComputedStyle(document.documentElement).getPropertyValue(n).trim()}
+function theme(){
+ const grid=css("--grid"),line=css("--line"),muted=css("--muted");
+ Chart.defaults.color=muted;Chart.defaults.font.family="Archivo, system-ui, sans-serif";Chart.defaults.font.size=11;
+ Chart.defaults.plugins.legend.labels.boxWidth=10;Chart.defaults.maintainAspectRatio=false;
+ return {accent:css("--accent"),fruit:css("--fruit"),warn:css("--warn"),bad:css("--bad"),line,muted,ax:{grid:{color:grid},border:{color:line}}};
+}
+const DEF={
+ overview(T){return[
+  new Chart(cL1,{type:"bar",data:{labels:["P95A","P98C","P99D","P01E","P21A"],datasets:[{label:"Actual",data:[6.60,5.59,6.67,7.21,2.82],backgroundColor:T.accent},{label:"Estimate",data:[7.39,7.40,7.60,9.53,4.20],backgroundColor:T.line}]},options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"t/ha"}}}}}),
+  new Chart(cL2,{type:"bar",data:{labels:["P95A","P98C","P99D","P01E","P21A"],datasets:[{label:"Jan–Jun 2025",data:[10.94,7.78,8.75,9.33,2.63],backgroundColor:T.line},{label:"Jan–Jun 2026",data:[7.74,6.99,8.30,8.74,3.81],backgroundColor:T.fruit}]},options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"t/ha"}}}}}),
+  new Chart(cL3,{type:"bar",data:{labels:["General charges","Upkeep & cultivation","Harvest & collection"],datasets:[{label:"Actual",data:[98.36,91.44,76.28],backgroundColor:T.accent},{label:"Budget",data:[102.93,91.84,91.71],backgroundColor:T.line}]},options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"RM per t"}}}}}),
+  new Chart(cL4,{type:"bar",data:{labels:["Manuring","Circle spray","Selective spray","Pruning"],datasets:[{label:"% done",data:[50,82,89,73],backgroundColor:[T.bad,T.warn,T.warn,T.bad]}]},options:{indexAxis:"y",plugins:{legend:{display:false}},scales:{x:{...T.ax,min:0,max:100,title:{display:true,text:"% of programme"}},y:{...T.ax,grid:{display:false}}}}}),
+  new Chart(cL5,{type:"bar",data:{labels:["Manuring","Weeding","Pruning","Roads","Pest & disease","Drains"],datasets:[{label:"Actual",data:[274.04,75.81,24.71,30.14,1.08,0.59],backgroundColor:T.accent},{label:"Budget",data:[285.50,79.50,36.92,30.42,10.52,2.32],backgroundColor:T.line}]},options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"RM per ha"}}}}}),
+  new Chart(cL6,{type:"bar",data:{labels:["Harvester","Driver/loader","Weeding","Manuring","General","Mandore","Watchman"],datasets:[{label:"Actual",data:[49,3,15,8,12,2,2],backgroundColor:T.accent},{label:"Required",data:[55,6,16,7,9,2,2],backgroundColor:T.line}]},options:{indexAxis:"y",scales:{x:{...T.ax,min:0},y:{...T.ax,grid:{display:false}}}}}),
+  new Chart(cYield,{type:"line",data:{labels:["2020","2021","2022","2023","2024","2025"],datasets:[
+   {label:"Actual",data:[19.63,14.78,16.42,16.63,17.03,15.37],borderColor:T.accent,backgroundColor:T.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:T.accent},
+   {label:"Budget",data:[null,null,null,17.85,15.62,null],borderColor:T.fruit,backgroundColor:T.fruit,showLine:false,pointStyle:"rectRot",pointRadius:6}]},
+   options:{scales:{x:T.ax,y:{...T.ax,min:12,max:21,title:{display:true,text:"t/ha"}}}}}),
+  new Chart(cCost,{data:{labels:["2023","2024 (Jan–Aug)","2025 (Jan–Oct)","2026 (Jan–Apr)"],datasets:[
+   {type:"bar",label:"General charges",data:[54.66,59.34,71.75,98.36],backgroundColor:T.muted,stack:"a"},
+   {type:"bar",label:"Upkeep & cultivation",data:[109.40,65.63,74.70,91.44],backgroundColor:T.accent,stack:"a"},
+   {type:"bar",label:"Harvest & collection",data:[75.61,66.67,76.18,76.28],backgroundColor:T.fruit,stack:"a"},
+   {type:"line",label:"Budget total",data:[321.29,264.57,241.22,286.48],borderColor:T.bad,backgroundColor:T.bad,borderDash:[5,4],pointRadius:4}]},
+   options:{scales:{x:{...T.ax,stacked:true},y:{...T.ax,stacked:true,min:0,title:{display:true,text:"RM per mt"}}}}})
+ ]},
+ field(T){return[
+  new Chart(cMan,{type:"bar",data:{labels:["2023","2024","2025","2026"],datasets:[
+   {label:"Planting Advisor",data:[null,72,80,54],backgroundColor:T.accent},
+   {label:"Agronomist",data:[83,84,86,50],backgroundColor:T.fruit}]},
+   options:{scales:{x:T.ax,y:{...T.ax,min:0,max:100,title:{display:true,text:"% applied"}}}}}),
+  new Chart(cRounds,{type:"bar",data:{labels:["2023","2024","2025"],datasets:[{label:"% of target",data:[86,83,92],backgroundColor:[T.warn,T.warn,T.accent]}]},
+   options:{plugins:{legend:{display:false}},scales:{x:T.ax,y:{...T.ax,min:0,max:100,title:{display:true,text:"% of 24 rounds"}}}}}),
+  new Chart(cOwl,{type:"line",data:{labels:["2023","Aug 24","Jul 25","Nov 25","May 26","Jul 26"],datasets:[{label:"Occupancy %",data:[32,63,65,35,6,16],borderColor:T.fruit,backgroundColor:T.fruit,pointRadius:4,tension:0}]},
+   options:{plugins:{legend:{display:false}},scales:{x:T.ax,y:{...T.ax,min:0,max:80,title:{display:true,text:"% occupied"}}}}})
+ ]},
+ people(T){return[
+  new Chart(cLab,{data:{labels:["Feb 24","Aug 24","Dec 24","Feb 25","Nov 25","May 26"],datasets:[
+   {type:"bar",label:"Workers",data:[105,92,80,89,89,91],backgroundColor:T.accent,order:2},
+   {type:"bar",label:"Required",data:[114,94,106,93,91,97],backgroundColor:T.line,order:3},
+   {type:"line",label:"Harvesters",data:[60,49,51,48,49,49],borderColor:T.fruit,backgroundColor:T.fruit,pointRadius:4,order:1}]},
+   options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"people"}}}}}),
+  new Chart(cHv,{type:"bar",data:{labels:["P95A","P98C","P99D","P01E","P21A"],datasets:[
+   {label:"Aug 2024",data:[2.28,2.01,1.87,1.69,0.73],backgroundColor:T.line},
+   {label:"May 2026",data:[1.57,1.73,1.89,1.68,0.94],backgroundColor:T.accent}]},
+   options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"t per manday"}}}}})
+ ]}
+};
+function buildCharts(t){
+ if(!window.Chart)return;
+ if(t==="blocks"&&curBlock&&curBlock.years&&!blockChart)drawBlockChart(curBlock,["2021","2022","2023","2024","2025"]);
+ if(!DEF[t]||built[t])return;
+ built[t]=DEF[t](theme());
+}
+function drawBlockChart(b,yrs){
+ if(!window.Chart)return;
+ if(blockChart){blockChart.destroy();blockChart=null}
+ const el=document.getElementById("cBlk");if(!el||document.getElementById("t-blocks").hidden)return;
+ const T=theme();
+ blockChart=new Chart(el,{type:"line",data:{labels:yrs,datasets:[
+  {label:b.id,data:b.years,borderColor:T.accent,backgroundColor:T.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:T.accent,spanGaps:false},
+  {label:"Estate",data:[14.78,16.42,16.63,17.35,15.37],borderColor:T.muted,borderDash:[4,4],pointRadius:0}]},
+  options:{scales:{x:T.ax,y:{...T.ax,min:0,title:{display:true,text:"t/ha"}}}}});
+}
+function rebuild(){Object.keys(built).forEach(k=>{built[k].forEach(c=>c.destroy());delete built[k]});if(blockChart){blockChart.destroy();blockChart=null}const open=TABS.find(n=>!document.getElementById("t-"+n).hidden);buildCharts(open)}
+const mq=matchMedia("(prefers-color-scheme: dark)");mq.addEventListener&&mq.addEventListener("change",rebuild);
+new MutationObserver(rebuild).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
+document.getElementById("f-yield").addEventListener("toggle",e=>{if(e.target.open&&curBlock&&curBlock.years)drawBlockChart(curBlock,["2021","2022","2023","2024","2025"])});
+
+/* ---------- ask ---------- */
+(function(){
+ const log=document.getElementById("log"),form=document.getElementById("askForm"),q=document.getElementById("q"),send=document.getElementById("send");
+ const turns=[];let busy=false;
+ const add=(cls,t)=>{const d=document.createElement("div");d.className="msg "+cls;d.textContent=t;log.append(d);log.scrollTop=log.scrollHeight;return d};
+ async function go(text){text=text.trim();if(!text||busy)return;busy=true;send.disabled=true;add("q",text);q.value="";turns.push({role:"user",content:text});while(turns.length>10)turns.shift();const out=add("a","Thinking…");
+  try{const r=await fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({slug:"cheekah-kemayan",messages:turns})});const j=await r.json().catch(()=>({}));
+   if(!r.ok){turns.pop();out.classList.add("err");out.textContent=j.error||"Ask isn't available right now."}else{out.textContent=j.text;turns.push({role:"assistant",content:j.text})}
+  }catch(e){turns.pop();out.classList.add("err");out.textContent="Couldn't reach the server. Try again."}
+  busy=false;send.disabled=false}
+ form.addEventListener("submit",ev=>{ev.preventDefault();go(q.value)});
+ document.querySelectorAll("#chips button").forEach(b=>b.addEventListener("click",()=>go(b.textContent)));
+})();
+
+showBlock("P98C");
+showTab((location.hash||"#overview").slice(1));
+</script>
+
+</body>
+</html>

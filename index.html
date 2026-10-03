@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>PARAS Estate Dashboards</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+<style>
+.hero{display:grid;gap:12px}
+.search{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.search input{flex:1 1 260px;min-width:0;font:16px var(--f-body);padding:12px 14px;border-radius:8px;border:0;background:var(--band-fg);color:var(--band)}
+.search select{background:rgba(255,255,255,.1);color:var(--band-fg);border:1px solid rgba(255,255,255,.2)}
+.search select option{color:#16231c}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:12px}
+.ec{display:grid;gap:8px;text-decoration:none;color:var(--fg);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px;position:relative;overflow:hidden}
+.ec::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--s,var(--line))}
+.ec:hover{border-color:var(--accent)}
+.ec:focus-visible{outline:2px solid var(--fruit);outline-offset:2px}
+.ec .n{font-family:var(--f-display);font-size:21px;font-weight:700;line-height:1.1}
+.ec .c{font-size:12px;color:var(--muted)}
+.ec .m{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.ec .m div{background:var(--bg);border-radius:6px;padding:6px 8px}
+.ec .m .k{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;font-family:var(--f-mono)}
+.ec .m .v{font-family:var(--f-display);font-size:18px;font-weight:600;font-variant-numeric:tabular-nums}
+.ec .f{display:flex;justify-content:space-between;gap:8px;font-size:12px;color:var(--muted);flex-wrap:wrap}
+.count{font-size:13px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header class="band">
+ <div class="in hero">
+  <div class="eyebrow">PARAS Sdn Bhd · Plantation advisory</div>
+  <h1>Estate Dashboards</h1>
+  <div class="meta">Each estate's latest Planting Advisory and Agronomy reports, as charts and figures.</div>
+  <div class="search">
+   <label for="q" class="sr">Search estates</label>
+   <input id="q" type="search" placeholder="Search an estate, e.g. Tagar or Juasa" autocomplete="off">
+   <label for="grp" class="sr">Group</label><select id="grp"><option value="">All groups</option></select>
+   <label for="srt" class="sr">Sort</label><select id="srt"><option value="name">Sort: A–Z</option><option value="recent">Sort: latest report</option><option value="gap">Sort: furthest below budget</option></select>
+  </div>
+ </div>
+</header>
+<main><div class="in">
+ <p class="count" id="cnt" aria-live="polite"></p>
+ <div class="grid" id="grid"></div>
+</div></main>
+<footer class="foot"><div class="in">Figures are as written in PARAS reports. Each dashboard lists known discrepancies under Integrity.</div></footer>
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=(n,d=0)=>n==null?"–":Number(n).toLocaleString("en-MY",{minimumFractionDigits:d,maximumFractionDigits:d});
+let E=[];
+function draw(){
+ const q=$("q").value.trim().toLowerCase(),g=$("grp").value,s=$("srt").value;
+ let L=E.filter(e=>(!g||e.group===g)&&(!q||(e.name+" "+(e.company||"")+" "+e.slug).toLowerCase().includes(q)));
+ if(s==="name")L.sort((a,b)=>a.name.localeCompare(b.name));
+ if(s==="recent")L.sort((a,b)=>(b.latest||"").localeCompare(a.latest||""));
+ if(s==="gap")L.sort((a,b)=>(a.gap??999)-(b.gap??999));
+ $("cnt").textContent=`${L.length} of ${E.length} estates`;
+ $("grid").innerHTML=L.map(e=>{const col=e.gap==null?"var(--line)":e.gap>=0?"var(--good)":e.gap>-10?"var(--warn)":"var(--bad)";
+  return `<a class="ec" style="--s:${col}" href="${esc(e.href)}">
+   <div><div class="n">${esc(e.name.replace(/^Ladang /,""))}</div><div class="c">${esc([e.group,e.company].filter(Boolean).join(" · "))}</div></div>
+   <div class="m">
+    <div><div class="k">Yield</div><div class="v">${e.yph!=null?fmt(e.yph,2):"–"}</div></div>
+    <div><div class="k">vs ${esc(e.gapRef||"budget")}</div><div class="v">${e.gap!=null?(e.gap>0?"+":"")+e.gap.toFixed(0)+"%":"–"}</div></div>
+    <div><div class="k">Cost/t</div><div class="v">${e.cop!=null?"RM"+fmt(e.cop):"–"}</div></div>
+   </div>
+   <div class="f"><span>${esc(e.period||"")}</span><span>${e.issues?e.issues+" discrepancies":""}</span></div>
+   <div class="f"><span>Latest: ${esc(e.latestTitle||"–")}</span><span>${esc(e.depth||"")}</span></div>
+  </a>`}).join("")||`<p class="empty">No estates match “${esc(q)}”.</p>`;
+}
+fetch("/data/index.json").then(r=>r.json()).then(j=>{E=j.estates;[...new Set(E.map(e=>e.group).filter(Boolean))].sort().forEach(g=>{const o=document.createElement("option");o.value=g;o.textContent=g;$("grp").append(o)});draw()});
+["q","grp","srt"].forEach(id=>$(id).addEventListener("input",draw));
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Estate Dashboard · PARAS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header class="band">
+ <div class="in">
+  <a class="back" href="/">‹ All estates</a>
+  <div class="eyebrow" id="eb">PARAS advisory</div>
+  <h1 id="nm">Loading…</h1>
+  <div class="meta" id="mt"></div>
+  <div class="latest" id="lt"></div>
+ </div>
+</header>
+<nav class="tabs" aria-label="Sections"><div class="in" role="tablist">
+ <button role="tab" data-t="overview" aria-selected="true">Overview</button>
+ <button role="tab" data-t="blocks">Blocks</button>
+ <button role="tab" data-t="money">Money</button>
+ <button role="tab" data-t="field">Field &amp; people</button>
+ <button role="tab" data-t="ask">Ask</button>
+ <button role="tab" data-t="integrity">Integrity<span class="cnt" id="icnt" hidden></span></button>
+</div></nav>
+<main><div class="in">
+
+<section role="tabpanel" id="t-overview">
+ <div class="card"><div class="head"><div><h2 id="glH">At a glance</h2><p class="sub" id="glS"></p></div></div><div class="kv" id="kv"></div></div>
+ <div class="card" id="sumCard"><h2>Key takeaways</h2><ol class="takeaways" id="sum"></ol></div>
+ <div class="two">
+  <div class="card" id="cB1"><h2>Yield by block</h2><p class="sub" id="cB1s"></p><div class="chart"><canvas id="ch1"></canvas></div></div>
+  <div class="card" id="cB2"><h2>Cost per tonne</h2><p class="sub" id="cB2s"></p><div class="chart"><canvas id="ch2"></canvas></div></div>
+ </div>
+ <div class="two">
+  <div class="card" id="cB3"><h2>Field programme</h2><p class="sub">% of programme done, latest report</p><div class="bars" id="prog"></div><p class="note" id="progN"></p></div>
+  <div class="card" id="cB4"><h2>Yield history</h2><p class="sub">Estate t/ha by year</p><div class="chart sm"><canvas id="ch4"></canvas></div></div>
+ </div>
+</section>
+
+<section role="tabpanel" id="t-blocks" hidden>
+ <div class="card">
+  <div class="head"><div><h2>Blocks</h2><p class="sub">Tile width to scale with hectares. Stripe = yield against estimate, or against last year.</p></div>
+   <label><span class="sr">Choose block</span><select id="bSel"></select></label></div>
+  <div class="tiles" id="tiles" role="listbox" aria-label="Blocks"></div>
+ </div>
+ <div class="card" id="bP"></div>
+ <div class="card"><h2>All blocks</h2><div class="tbl"><table><thead><tr><th>Block</th><th>Ha</th><th>SPH</th><th>Planted</th><th>Yield</th><th>Est.</th><th>Last yr</th><th>Var.</th></tr></thead><tbody id="bT"></tbody></table></div></div>
+</section>
+
+<section role="tabpanel" id="t-money" hidden>
+ <div class="card"><h2>Cost summary</h2><p class="sub" id="mS"></p><div class="kv" id="mKv"></div><p class="note" id="mNone" hidden>This PA report has no cost section.</p></div>
+ <details class="fold" open id="fUp"><summary><span class="t">Upkeep against budget</span><span class="s">RM per ha</span></summary><div class="body"><div class="chart"><canvas id="ch5"></canvas></div><div class="tbl"><table><thead><tr><th>Item</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="upT"></tbody></table></div></div></details>
+</section>
+
+<section role="tabpanel" id="t-field" hidden>
+ <div class="card" id="labC"><h2>Labour against requirement</h2><p class="sub" id="labS"></p><div class="chart"><canvas id="ch6"></canvas></div></div>
+ <details class="fold" open><summary><span class="t">Harvesting and manuring</span></summary><div class="body"><ul class="obs" id="hm"></ul></div></details>
+ <details class="fold" id="rfF"><summary><span class="t">Rainfall</span><span class="s">mm by year</span></summary><div class="body"><div class="chart sm"><canvas id="ch7"></canvas></div></div></details>
+ <details class="fold"><summary><span class="t">Open actions</span><span class="s" id="actS"></span></summary><div class="body"><div class="tbl"><table><thead><tr><th>Action</th><th>Raised in</th><th>Status</th></tr></thead><tbody id="actT"></tbody></table></div></div></details>
+</section>
+
+<section role="tabpanel" id="t-ask" hidden>
+ <div class="card">
+  <h2>Ask about this estate</h2>
+  <p class="sub">Answers come only from this estate's latest PARAS reports, with the report cited.</p>
+  <div class="chips" id="chips"></div>
+  <div class="log" id="log" aria-live="polite"></div>
+  <form id="askForm" class="askrow"><label for="q" class="sr">Your question</label><input id="q" type="text" autocomplete="off" placeholder="Type a question about this estate"><button id="send" type="submit">Ask</button></form>
+  <p class="note" id="askNote"></p>
+ </div>
+</section>
+
+<section role="tabpanel" id="t-integrity" hidden>
+ <div class="card"><h2>Report discrepancies</h2><p class="sub">Differences between the PA and Agronomy reports, and errors inside them. Each needs a PARAS answer.</p>
+  <div class="row"><label for="fSel" class="sub">Show</label><select id="fSel"><option value="all">All</option><option value="bad">Serious only</option><option value="warn">Minor only</option></select></div>
+  <div class="flags" id="flags"></div></div>
+ <div class="card src" id="srcC"><h2>Source reports</h2></div>
+</section>
+
+</div></main>
+<footer class="foot"><div class="in">Compiled from PARAS Planting Advisory and Agronomy reports. Figures as reported; see Integrity for known discrepancies.</div></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="/assets/estate.js"></script>
+</body>
+</html>
