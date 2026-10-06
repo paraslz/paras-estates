@@ -15,7 +15,7 @@ document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",
 
 /* charts */
 function css(n){return getComputedStyle(document.documentElement).getPropertyValue(n).trim()}
-function T(){const grid=css("--grid"),line=css("--line"),muted=css("--muted");Chart.defaults.color=muted;Chart.defaults.font.family="Archivo, system-ui, sans-serif";Chart.defaults.font.size=11;Chart.defaults.plugins.legend.labels.boxWidth=10;Chart.defaults.maintainAspectRatio=false;return{accent:css("--accent"),fruit:css("--fruit"),bad:css("--bad"),warn:css("--warn"),line,muted,ax:{grid:{color:grid},border:{color:line}}}}
+function T(){const grid=css("--grid"),line=css("--line"),muted=css("--muted");Chart.defaults.color=muted;Chart.defaults.font.family="Archivo, system-ui, sans-serif";Chart.defaults.font.size=13;Chart.defaults.plugins.legend.labels.boxWidth=10;Chart.defaults.maintainAspectRatio=false;return{accent:css("--accent"),fruit:css("--fruit"),bad:css("--bad"),warn:css("--warn"),line,muted,ax:{grid:{color:grid},border:{color:line}}}}
 const clean=p=>String(p||"").replace(/\s*\(.*\)\s*$/,"").trim();
 const BP=()=>clean(D.blockPeriod||(D.kpi||{}).ffbPeriod)||"period not stated";
 const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/(\d{4})/,y=>y-1):"same period last year"};
@@ -141,16 +141,8 @@ function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;cu
  $("askBlk").addEventListener("click",()=>{document.getElementById("askBox").scrollIntoView({behavior:"smooth",block:"start"});$("q").value=`Tell me about block ${b.id}: `;$("q").focus()});
 }
 
-/* ask */
-const turns=[];let busy=false;
-function add(cls,t){const d=document.createElement("div");d.className="msg "+cls;d.textContent=t;$("log").append(d);$("log").scrollTop=$("log").scrollHeight;return d}
-async function ask(text){text=(text||"").trim();if(!text||busy)return;busy=true;$("send").disabled=true;add("q",text);$("q").value="";turns.push({role:"user",content:text});while(turns.length>10)turns.shift();const out=add("a","Thinking…");
- try{const r=await fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({slug,messages:turns})});const j=await r.json().catch(()=>({}));
-  if(!r.ok){turns.pop();out.classList.add("err");out.textContent=j.error||"Ask isn't available right now.";}
-  else{out.textContent=j.text;turns.push({role:"assistant",content:j.text})}
- }catch(e){turns.pop();out.classList.add("err");out.textContent="Couldn't reach the server. Check your connection and try again."}
- busy=false;$("send").disabled=false}
-$("askForm").addEventListener("submit",e=>{e.preventDefault();ask($("q").value)});
+/* ask: handled by byoai.js (opens the viewer's own Claude) */
+function ask(text){if(window.PARAS_ASK)window.PARAS_ASK(text)}
 
 /* load */
 if(!slug){location.replace("/");return}
