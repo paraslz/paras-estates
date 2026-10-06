@@ -34,6 +34,7 @@
  <button role="tab" data-t="blocks">Blocks</button>
  <button role="tab" data-t="money">Money</button>
  <button role="tab" data-t="field">Field &amp; people</button>
+ <button role="tab" data-t="actions">Actions<span class="cnt" id="acnt" hidden></span></button>
  <button role="tab" data-t="reports">Reports</button>
 </div></nav>
 <main><div class="in">
@@ -67,6 +68,8 @@
   <div class="head"><div><h2>Operating cost per tonne FFB</h2><p class="sub" id="mS"></p></div></div>
   <div class="tbl"><table><thead><tr><th>RM per t FFB</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="opT"></tbody></table></div>
   <p class="note" id="opN"></p>
+  <div class="price" id="mgC"><label for="fp"><b>FFB price</b> RM/t</label><input id="fp" type="number" inputmode="decimal" min="0" step="10" placeholder="e.g. 900"><span id="mgO"></span></div>
+  <p class="note">Margin = the FFB price you enter minus total operating cost per tonne. Reports don't give selling prices, so this is illustrative.</p>
   <p class="note" id="mNone" hidden>The latest PA report has no cost section, so figures show N/A.</p>
  </div>
  <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
@@ -78,9 +81,14 @@
  <div class="card" id="labC"><h2>Labour against requirement</h2><p class="sub" id="labS"></p><div class="chart"><canvas id="ch6"></canvas></div></div>
  <details class="fold" open><summary><span class="t">Harvesting and manuring</span></summary><div class="body"><ul class="obs" id="hm"></ul></div></details>
  <details class="fold" id="rfF"><summary><span class="t">Rainfall</span><span class="s">mm by year</span></summary><div class="body"><div class="chart sm"><canvas id="ch7"></canvas></div></div></details>
- <details class="fold"><summary><span class="t">Open actions</span><span class="s" id="actS"></span></summary><div class="body"><div class="tbl"><table><thead><tr><th>Action</th><th>Raised in</th><th>Status</th></tr></thead><tbody id="actT"></tbody></table></div></div></details>
 </section>
 
+
+<section role="tabpanel" id="t-actions" hidden>
+ <div class="card"><h2>Action tracker</h2><p class="sub" id="actS"></p>
+  <div class="tbl"><table><thead><tr><th>Action</th><th>Status</th></tr></thead><tbody id="actT"></tbody></table></div>
+  <p class="note"><a href="/group.html">All estates' actions →</a></p></div>
+</section>
 
 <section role="tabpanel" id="t-reports" hidden>
  <div class="card src" id="srcC"><h2>Source reports</h2><p class="sub">Latest PARAS reports used for this dashboard. The folder holds every report for this estate.</p></div>

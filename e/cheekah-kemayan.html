@@ -185,6 +185,8 @@ tr.grp.exp{cursor:pointer}tr.grp .car{display:inline-block;width:1.1em;color:var
 tr.grp td{background:var(--bg)}tr.sub td{font-size:.92em;color:var(--muted)}tr.sub td:first-child{padding-left:1.6em;white-space:normal}tr.tot td{border-top:2px solid var(--line)}
 th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-width:0}
 #opT td:first-child{overflow-wrap:anywhere}
+.price{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:12px}
+.price input{width:130px;font:16px var(--f-body);padding:9px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg)}
 </style>
 
 </head>
@@ -350,6 +352,8 @@ th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-wid
   </div>
   <div class="tbl"><table><thead><tr><th>RM per t FFB</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="opT"></tbody></table></div>
   <p class="note" id="opN"></p>
+  <div class="price"><label for="fp"><b>FFB price</b> RM/t</label><input id="fp" type="number" inputmode="decimal" min="0" step="10" placeholder="e.g. 900"><span id="mgO"></span></div>
+  <p class="note">Margin = the FFB price you enter minus total operating cost per tonne. Reports don't give selling prices, so this is illustrative.</p>
   <div class="callout" id="mCall"></div>
  </div>
  <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
@@ -661,8 +665,14 @@ function renderMoney(y){
  else{nt.textContent="Line-by-line breakdown is shown for the latest report (2026).";
  document.getElementById("opT").innerHTML=rows.map(r=>`<tr><td>${r[0]}</td><td>${f2(r[1])}</td><td>${f2(r[2])}</td><td>${vr(r[1],r[2])}</td></tr>`).join("")+`<tr><td><b>Total operating cost</b></td><td><b>${f2(p.cop)}</b></td><td>${f2(p.copB)}</td><td>${vr(p.cop,p.copB)}</td></tr>`;}
  document.getElementById("mCall").innerHTML=p.note;
+ window._mgCop=p.cop;if(window._mgUpd)window._mgUpd();
  document.getElementById("upk").innerHTML=p.upk.map(r=>`<tr><td>${r[0]}</td><td>${fmt(r[1],2)}</td><td>${r[2]?fmt(r[2],2):"–"}</td><td>${r[2]?pill(pct(r[1],r[2]),true):"<span class='pill warn'>unbudgeted</span>"}</td></tr>`).join("")+`<tr><td><b>Total</b></td><td><b>${fmt(p.uc,2)}</b></td><td>${fmt(p.ucB,2)}</td><td>${pill(pct(p.uc,p.ucB),true)}</td></tr>`;
 }
+(function(){const fp=document.getElementById("fp"),o=document.getElementById("mgO");
+ window._mgUpd=()=>{const v=parseFloat(fp.value);try{localStorage.setItem("paras.ffbPrice",fp.value)}catch(e){}
+  if(isNaN(v)||v<=0||window._mgCop==null){o.textContent="";return}const m=v-window._mgCop;o.innerHTML=`Margin <b style="color:var(${m>=0?"--good":"--bad"})">RM${fmt(m,2)}/t</b>`};
+ try{const s=localStorage.getItem("paras.ffbPrice");if(s)fp.value=s}catch(e){}
+ fp.addEventListener("input",window._mgUpd)})();
 document.getElementById("mYear").addEventListener("change",e=>renderMoney(e.target.value));
 renderMoney("2026");
 

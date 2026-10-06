@@ -9,7 +9,7 @@ const slug=(new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9
 let D=null,curBlock=null;const built={};
 
 /* tabs */
-const TABS=["overview","blocks","money","field","reports"];
+const TABS=["overview","blocks","money","field","actions","reports"];
 function showTab(t){if(!TABS.includes(t))t="overview";TABS.forEach(n=>$("t-"+n).hidden=n!==t);document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));try{history.replaceState(null,"",location.pathname+location.search+"#"+t)}catch(e){}const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});buildCharts(t)}
 document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.t)));
 
@@ -122,6 +122,20 @@ function render(){
    +`<tr><td><b>Total</b></td><td><b>${na(k.ucHa)?NA:fmt(k.ucHa,2)}</b></td><td>${na(k.ucHaBudget)?NA:fmt(k.ucHaBudget,2)}</td><td>${na(k.ucHa)||na(k.ucHaBudget)?NA:pill(pct(k.ucHa,k.ucHaBudget),true)}</td></tr>`;
   if(rb>=0)$("upN").textContent=`This report gives roads and bridges as one line ("${up[rb].item}").`;
  }
+ // action tracker
+ {const A=(D.actions||[]).slice().sort((a,b)=>({repeat:0,open:1,done:2}[a.status]??3)-({repeat:0,open:1,done:2}[b.status]??3));
+  const rep=A.filter(a=>a.status==="repeat").length,op=A.filter(a=>a.status==="open").length;
+  $("actS").textContent=A.length?`${A.length} actions from the latest reports: ${rep} raised before and still not done, ${op} new.`:"No actions recorded in the latest reports.";
+  if(rep){$("acnt").textContent=rep;$("acnt").hidden=false}
+  $("actT").innerHTML=A.map(a=>`<tr><td class="wrap">${esc(a.item)}<br><small class="sub">${esc(a.src||"")}${a.times?` · raised ${a.times} times`:""}${a.note?` · ${esc(a.note)}`:""}</small></td><td><span class="st ${esc(a.status)}">${a.status==="repeat"?"Raised before":a.status==="done"?"Done":"Open"}</span></td></tr>`).join("")||`<tr><td colspan="2" class="empty">None.</td></tr>`}
+ // margin calculator
+ {const tot=(D.costDetail&&D.costDetail.total&&D.costDetail.total.actual)??k.cop;const fp=$("fp");
+  if(tot==null){$("mgC").hidden=true;$("mgC").nextElementSibling.hidden=true}
+  else{const y=k.yph;const upd=()=>{const p=parseFloat(fp.value);try{localStorage.setItem("paras.ffbPrice",fp.value)}catch(e){}
+    if(isNaN(p)||p<=0){$("mgO").textContent="";return}
+    const m=p-tot;$("mgO").innerHTML=`Margin <b style="color:var(${m>=0?"--good":"--bad"})">RM${fmt(m,2)}/t</b>${y!=null?` · about RM${fmt(m*y,0)}/ha for ${esc(clean(k.ffbPeriod))}`:""}`};
+   try{const v=localStorage.getItem("paras.ffbPrice");if(v)fp.value=v}catch(e){}
+   fp.addEventListener("input",upd);upd()}}
  // reports + folder
  if(D.folder){const f=$("fld");f.href=D.folder;f.hidden=false}
  $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.pa2,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");

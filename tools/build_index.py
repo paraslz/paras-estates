@@ -8,7 +8,9 @@ for f in sorted(glob.glob("data/*.json")):
     lt = max(vis) if vis else (None, None)
     E.append({"slug": d["slug"], "name": d["name"], "company": d.get("company"), "group": d.get("group") or "Prosper",
               "href": d.get("page") or f"/estate.html?e={d['slug']}", "yph": k.get("yph"), "cop": k.get("cop"),
-              "period": k.get("ffbPeriod"), "latest": lt[0], "latestTitle": f"{lt[1]} · {lt[0]}" if lt[0] else None,
+              "period": k.get("ffbPeriod"), "yphBudget": k.get("yphBudget"), "yphPrev": k.get("yphPrevSame"),
+              "copBudget": k.get("copBudget"), "copPeriod": k.get("copPeriod"),
+              "actions": [{"item": a.get("item"), "src": a.get("src"), "status": a.get("status"), "times": a.get("times")} for a in (d.get("actions") or [])], "latest": lt[0], "latestTitle": f"{lt[1]} · {lt[0]}" if lt[0] else None,
               "area": {x: (d.get("area") or {}).get(x) for x in ("title", "planted", "mature", "immature", "replant")}})
 json.dump({"generated": datetime.date.today().isoformat(), "estates": E}, open("data/index.json", "w"), ensure_ascii=False)
 print(len(E), "estates in index")

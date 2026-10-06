@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Group Summary · PARAS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+<style>
+.tot4{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+@media (min-width:640px){.tot4{grid-template-columns:repeat(4,1fr)}}
+.tot4>div{background:var(--bg);border-radius:8px;padding:10px 12px}
+.tot4 .k{font-size:14px;color:var(--muted)}
+.tot4 .v{font-family:var(--f-display);font-size:26px;font-weight:700;font-variant-numeric:tabular-nums}
+.dot{flex:none;display:inline-block;width:12px;height:12px;border-radius:50%;vertical-align:middle}
+.dot.r{background:var(--bad)}.dot.a{background:var(--warn)}.dot.g{background:var(--good)}.dot.n{background:var(--line)}
+.lg td:first-child a{color:var(--fg);font-weight:600;text-decoration:none}
+.lg td:first-child small{display:block;color:var(--muted);font-weight:400;font-size:.85em}
+.lg td small{display:block;font-size:.85em}
+.att{display:grid;gap:8px}
+.att a{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:var(--fg);background:var(--bad-soft);border-radius:8px;padding:10px 12px}
+.att a .t{font-weight:600}.att a .r{font-size:.92em;color:var(--muted)}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+.ctl select,.ctl input{font:15px var(--f-body);padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg);min-width:0}
+.ctl input{flex:1 1 160px}
+.price{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.price input{width:130px;font:16px var(--f-body);padding:9px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg)}
+.st{font:500 12px var(--f-mono);padding:2px 7px;border-radius:10px;white-space:nowrap}
+.st.repeat{background:var(--bad-soft);color:var(--bad)}.st.open{background:var(--warn-soft);color:var(--warn)}.st.done{background:var(--good-soft);color:var(--good)}
+#acts td{white-space:normal}
+</style>
+</head>
+<body>
+<header class="band">
+ <div class="in">
+  <a class="back" href="/">‹ All estates</a>
+  <div class="eyebrow">PARAS Sdn Bhd · Prosper Group</div>
+  <h1>Group Summary</h1>
+  <div class="meta">Every estate's latest PARAS figures side by side. Each figure covers the period its own report states.</div>
+ </div>
+</header>
+<main><div class="in">
+
+<div class="card"><h2>Group at a glance</h2><p class="sub" id="gS"></p><div class="tot4" id="tot"></div></div>
+
+<div class="card" id="attC"><h2>Needs attention</h2><p class="sub">Red flag: yield 15% or more below budget, or cost per tonne 15% or more over budget.</p><div class="att" id="att"></div></div>
+
+<div class="card">
+ <div class="head"><div><h2>Estate league table</h2><p class="sub">Latest report for each estate. Green within 5% of budget, amber 5–15%, red beyond 15%.</p></div></div>
+ <div class="ctl"><label for="srt" class="sub">Sort</label>
+  <select id="srt"><option value="flag">Most urgent first</option><option value="yld">Yield vs budget</option><option value="cost">Cost/t vs budget</option><option value="cop">Highest cost/t</option><option value="name">A–Z</option></select></div>
+ <div class="price"><label for="fp"><b>FFB price</b> RM/t (optional)</label><input id="fp" type="number" inputmode="decimal" min="0" step="10" placeholder="e.g. 900"><span class="sub" id="fpN"></span></div>
+ <div class="tbl" style="margin-top:10px"><table class="lg"><thead><tr><th>Estate</th><th>Yield t/ha</th><th>Cost RM/t</th><th></th></tr></thead><tbody id="lg"></tbody></table></div>
+ <p class="note">With an FFB price entered, each estate shows its margin: the price minus the estate's total operating cost per tonne. PARAS reports don't give selling prices, so this is illustrative only.</p>
+</div>
+
+<div class="card">
+ <h2>Action tracker</h2><p class="sub" id="aS"></p>
+ <div class="ctl">
+  <label class="sr" for="aE">Estate</label><select id="aE"><option value="">All estates</option></select>
+  <label class="sr" for="aSt">Status</label><select id="aSt"><option value="">All statuses</option><option value="repeat" selected>Raised before</option><option value="open">Open</option><option value="done">Done</option></select>
+  <label class="sr" for="aQ">Search</label><input id="aQ" type="search" placeholder="Search, e.g. harvester, Ganoderma">
+ </div>
+ <div class="tbl"><table><thead><tr><th>Estate</th><th>Raised before</th><th>Open</th></tr></thead><tbody id="aSum"></tbody></table></div>
+ <h3 style="margin:16px 0 6px" id="aH"></h3>
+ <div class="tbl"><table><thead><tr><th>Action</th><th>Status</th></tr></thead><tbody id="acts"></tbody></table></div>
+ <button type="button" class="byoB" id="aMore" hidden style="margin-top:10px">Show more</button>
+</div>
+
+</div></main>
+<footer class="foot"><div class="in">Compiled from PARAS Planting Advisory and Agronomy reports. Figures as reported.</div></footer>
+<script src="/assets/group.js"></script>
+</body>
+</html>
