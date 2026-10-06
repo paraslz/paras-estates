@@ -50,7 +50,17 @@ export default async (req: Request, context: Context) => {
     })
   });
   if (r.status === 429) return Response.json({ error: "Too many questions at once. Try again in a minute." }, { status: 429 });
-  if (!r.ok) { console.log("anthropic error", r.status, await r.text()); return Response.json({ error: "Ask isn't available right now. Try again later." }, { status: 502 }); }
+  if (!r.ok) {
+    const t = await r.text(); console.log("anthropic error", r.status, t);
+    let type = "", msg = "";
+    try { const e = JSON.parse(t).error || {}; type = e.type || ""; msg = String(e.message || ""); } catch {}
+    let why = `Ask isn't available right now (code ${r.status}${type ? ", " + type : ""}).`;
+    if (r.status === 401 || type === "authentication_error") why = "Ask isn't available: the Claude API key was rejected (code 401). The site owner should check the key in Netlify.";
+    else if (r.status === 403 || type === "permission_error") why = "Ask isn't available: the Claude API key isn't allowed to do this (code 403).";
+    else if (/credit balance/i.test(msg)) why = "Ask isn't available: the Claude API account has no credit. The site owner should add credit in the Anthropic Console.";
+    else if (r.status === 404 || type === "not_found_error") why = "Ask isn't available: the AI model name wasn't found (code 404).";
+    return Response.json({ error: why }, { status: 502 });
+  }
   const j = await r.json();
   const text = (j.content || []).filter((c: any) => c.type === "text").map((c: any) => c.text).join("\n").trim();
   return Response.json({ text: text || "No answer was returned." });
