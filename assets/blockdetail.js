@@ -1,43 +1,64 @@
 /* Block detail renderer, shared by estate.html and bespoke pages.
    detail = {manuring:[rows], spraying:[rows], fertNext/fertNow/fertPrev:{year,rows}, pests:[rows], yield, harvesting, pruning, nutrients, field, other}
-   row = {k, v, src} */
+   row = {k, v, src}. Rendered as compact two-column tables; older-year records tucked into a fold. */
 (function(){
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const rows=r=>(Array.isArray(r)?r:(r&&r.rows)||[]).filter(x=>x&&(x.v||x.k));
-const li=x=>`<li><div class="bk">${esc(x.k||"")}${x.src?` <span class="tag ${/agro/i.test(x.src)?"ag":""}">${esc(x.src)}</span>`:""}</div><div class="bv">${esc(x.v||"")}</div></li>`;
-const list=r=>`<ul class="brows">${rows(r).map(li).join("")}</ul>`;
-const SECS=[
- ["manuring","Manuring progress","latest rounds, applied vs programme"],
- ["spraying","Spraying & weeding","circle, path, selective, weeds"],
- ["fert","Fertiliser programme","grams per palm"],
- ["pests","Pests & diseases","Ganoderma, rats, bagworm, others"],
- ["yield","Yield & crop",""],
- ["harvesting","Harvesting",""],
- ["pruning","Pruning & canopy",""],
- ["nutrients","Leaf & soil nutrients",""],
- ["field","Field condition","census, drains, roads, replanting"],
- ["other","Other report remarks",""]];
-const OPEN=new Set(["manuring","spraying","fert","pests"]);
-function fertHTML(d){
- const parts=[["fertNext","Next year"],["fertNow","This year"],["fertPrev","Previous year"]].filter(([k])=>d[k]&&rows(d[k]).length);
- if(!parts.length)return "";
- return parts.map(([k,l])=>`<h5>${esc(d[k].year?d[k].year+" programme":l)}${k==="fertPrev"?" <small>(previous year)</small>":k==="fertNext"?" <small>(next year, recommended)</small>":""}</h5>${list(d[k])}`).join("");
+// drop in-text report references like "(Agro Table 7, to Mar 2026)" or "(PA photo)" — the source line covers them
+const tidy=v=>String(v||"").replace(/\s*\((?=[^()]*\b(?:Table|Tables|Appendix|App\.|Agro|PA|photos?|Section|Fig\.?|Figure|as printed)\b)[^()]*\)/g,"").replace(/^PA photo:\s*/i,"").replace(/\s{2,}/g," ").trim();
+const yrs=s=>(String(s).match(/\b20\d\d\b/g)||[]).map(Number);
+const srcs=r=>{const s=[...new Set(r.map(x=>x.src).filter(Boolean))];return s.length?`<p class="bsrc">From ${s.map(esc).join(" · ")}</p>`:""};
+const table=r=>`<table class="bt"><tbody>${r.map(x=>`<tr><th scope="row">${esc(tidy(x.k))}</th><td>${esc(tidy(x.v))}</td></tr>`).join("")}</tbody></table>`;
+const older=(label,inner)=>`<details class="older"><summary>${label}</summary>${inner}</details>`;
+function split(r,latest){ // current vs earlier-year rows, by the years named in the row label
+ const cur=[],old=[];r.forEach(x=>{const y=yrs(x.k);(y.length&&Math.max(...y)<latest?old:cur).push(x)});
+ return cur.length?{cur,old}:{cur:old,old:[]};
 }
+function section(r,latest){
+ const {cur,old}=split(r,latest);
+ const oy=[...new Set(old.flatMap(x=>yrs(x.k)))].sort().join(", ");
+ return table(cur)+(old.length?older(`Earlier records${oy?" ("+esc(oy)+")":""} · ${old.length}`,table(old)):"")+srcs(r);
+}
+// fertiliser: Month | Fertiliser | g/palm, with totals/notes as small lines
+function fertTable(f){
+ const R=rows(f),body=[],notes=[];
+ R.forEach(x=>{let k=tidy(x.k),v=tidy(x.v);
+  if(/^(total|sum|note|remark|original|revised|amend)/i.test(k)){notes.push(`${k.replace(/\s*\(computed\)/i,"")}: ${v}`);return}
+  let mon=k,fert="",dose="",how="";
+  const kc=k.match(/^([A-Za-z]{3,9}(?:\s*[–-]\s*[A-Za-z]{3,9})?)\s*,\s*(.+)$/);if(kc){mon=kc[1];fert=kc[2]}
+  const m=v.match(/^(.*?)\s*([\d,.]+)\s*g\b(?:\s*(?:\/|per)\s*palm)?\s*(.*)$/i);
+  if(m){fert=(fert||m[1]).replace(/[,:;]\s*$/,"");dose=m[2];how=m[3].replace(/^[,;\s]+/,"").replace(/^\((.*)\)$/,"$1")}else{fert=fert||v}
+  body.push(`<tr><th scope="row">${esc(mon)}</th><td>${esc(fert)}${how?`<small>${esc(how)}</small>`:""}</td><td class="n">${esc(dose)||"–"}</td></tr>`)});
+ return (body.length?`<table class="bt ft"><thead><tr><th>Month</th><th>Fertiliser</th><th class="n">g/palm</th></tr></thead><tbody>${body.join("")}</tbody></table>`:"")
+  +(notes.length?`<ul class="bnote">${notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>`:"")+srcs(R);
+}
+function fertHTML(d){
+ const now=d.fertNow&&rows(d.fertNow).length?d.fertNow:null,prev=d.fertPrev&&rows(d.fertPrev).length?d.fertPrev:null,next=d.fertNext&&rows(d.fertNext).length?d.fertNext:null;
+ const main=now||next||prev;if(!main)return "";
+ let h=`<h5>${esc(main.year||"")} programme</h5>`+fertTable(main);
+ if(next&&main!==next)h+=older(`Next year: ${esc(next.year||"")} programme`,fertTable(next));
+ if(prev&&main!==prev)h+=older(`Previous year: ${esc(prev.year||"")} programme`,fertTable(prev));
+ return h;
+}
+const SECS=[["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
+ ["yield","Yield & crop"],["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
+const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";
+ const all=Object.values(d).flatMap(rows),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
  const out=[],none=[];
- SECS.forEach(([k,t,s])=>{
-  const body=k==="fert"?fertHTML(d):(rows(d[k]).length?list(d[k]):"");
-  const n=k==="fert"?["fertNext","fertNow","fertPrev"].reduce((a,x)=>a+rows(d[x]).length,0):rows(d[k]).length;
+ SECS.forEach(([k,t])=>{
+  const body=k==="fert"?fertHTML(d):(rows(d[k]).length?section(rows(d[k]),latest):"");
   if(!body){if(k!=="other")none.push(t);return}
-  out.push(`<details class="fold bfold"${OPEN.has(k)?" open":""}><summary><span class="t">${t}</span><span class="s">${n} item${n===1?"":"s"}</span></summary><div class="body">${body}</div></details>`)});
- if(none.length)out.push(`<p class="note">Nothing block-specific in the latest reports on: ${none.join(", ").toLowerCase()}. See the estate-wide notes below.</p>`);
+  out.push(`<details class="fold bfold"${OPEN.has(k)?" open":""}><summary><span class="t">${t}</span></summary><div class="body">${body}</div></details>`)});
+ if(none.length)out.push(`<p class="note">Not covered block by block in the latest reports: ${none.join(", ").toLowerCase()}.</p>`);
  return out.join("");
 };
 const EW={manuring:"Manuring",spraying:"Spraying & weeding",pests:"Pests & diseases",yield:"Yield & crop",harvesting:"Harvesting",pruning:"Pruning",nutrients:"Nutrients",field:"Field",labour:"Labour",staff:"Staff",costs:"Costs",other:"Other"};
 window.estateWideHTML=function(w){
  if(!w)return "";
  const ks=Object.keys(w).filter(k=>rows(w[k]).length);if(!ks.length)return "";
- return ks.map(k=>`<h5>${esc(EW[k]||k)}</h5>${list(w[k])}`).join("");
+ const Y=ks.flatMap(k=>rows(w[k])).flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
+ return ks.map(k=>`<h5>${esc(EW[k]||k)}</h5>${section(rows(w[k]),latest)}`).join("");
 };
 })();

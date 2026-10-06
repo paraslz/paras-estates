@@ -57,12 +57,13 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
   3. Block yield vs estimate/last year, cost per tonne vs budget, field programme progress.
   4. Key takeaways, then "At a glance" tiles — at the BOTTOM.
 - **Blocks:** no tiles. A block dropdown with ‹ › buttons, then the block card (area, SPH, planted,
-  yield with period) and the FULL report detail for that block (`blocks[].detail`), in folds:
-  Manuring progress, Spraying & weeding, Fertiliser programme (this year AND previous year, plus next
-  year if printed), Pests & diseases (open by default), then Yield & crop, Harvesting, Pruning,
-  Leaf & soil nutrients, Field condition, Other. Each row = label, source tag, finding with figures and
-  period. A line lists sections the reports don't cover. "Estate-wide field notes" fold below
-  (`blockEstateWide`), then the "All blocks" yield table (collapsed). Aim: everything the reports say.
+  yield with period) and the full report detail for that block (`blocks[].detail`) as simple two-column
+  tables (item | finding), one fold per topic: Manuring progress, Spraying & weeding, Fertiliser
+  programme (Month | Fertiliser | g/palm), Pests & diseases (these four open), then Yield & crop,
+  Harvesting, Pruning, Leaf & soil nutrients, Field condition, Other (closed). Sources shown once per
+  topic, not per line. Earlier-year records and the previous year's fertiliser programme sit in a
+  "Earlier records" / "Previous year" drop-down, opened only on tap. Keep it decluttered.
+  "Estate-wide field notes" fold below, then the "All blocks" yield table (collapsed).
 - **Money:**
   - "Operating cost per tonne FFB" table (header "RM per t FFB"), full line-by-line breakdown from
     `costDetail` (Harvest & collection → harvesting, transport…; Upkeep & cultivation → weeding,
