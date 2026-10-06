@@ -43,6 +43,8 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt=(n,d=0)=>n==null?"–":Number(n).toLocaleString("en-MY",{minimumFractionDigits:d,maximumFractionDigits:d});
 let E=[];
+const MN=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const mon=d=>{const m=String(d).match(/^(\d{4})-(\d{2})/);return m?MN[+m[2]-1]+" "+m[1]:d};
 function draw(){
  const q=$("q").value.trim().toLowerCase();
  const nm=e=>e.name.replace(/^Ladang /,"").replace(/ Estate$/,"");
@@ -52,6 +54,7 @@ function draw(){
   return `<a class="ec" href="${esc(e.href)}">
    <div class="n">${esc(e.name.replace(/^Ladang /,"").replace(/ Estate$/,""))}</div>
    <div class="a">Planted area: ${pl!=null?fmt(pl,2)+" ha":"–"}</div>
+   <div class="a">Latest report: ${e.latest?mon(e.latest):"–"}</div>
    <div class="go">View dashboard →</div>
   </a>`}).join("")||`<p class="empty">No estates match “${esc(q)}”.</p>`;
 }
