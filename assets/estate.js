@@ -5,7 +5,7 @@ const pct=(a,b)=>(a==null||b==null||!b)?null:(a-b)/b*100;
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function pill(v,goodIfNeg){if(v==null||!isFinite(v))return"";const g=goodIfNeg?v<=0:v>=0;const c=Math.abs(v)<3?"warn":(g?"good":"bad");return `<span class="pill ${c}">${v>0?"+":""}${v.toFixed(0)}%</span>`}
 const C={good:"var(--good)",warn:"var(--warn)",bad:"var(--bad)"};
-const slug=(new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9-]/g,"");
+const slug=(window.__SLUG__||new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9-]/g,"");
 let D=null,curBlock=null;const built={};
 
 /* tabs */
@@ -138,6 +138,7 @@ function render(){
    fp.addEventListener("input",upd);upd()}}
  // reports + folder
  if(D.folder){const f=$("fld");f.href=D.folder;f.hidden=false}
+ {const o=$("offl");if(o&&!window.__DATA__){o.href=`/offline/${slug}.html`;o.setAttribute("download",`${D.name.replace(/^Ladang /,"")} dashboard.html`);o.hidden=false}}
  $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.pa2,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
  // ask chips
  const bid=B[0]?B[0].id:"the oldest block";
@@ -164,5 +165,5 @@ function ask(text){if(window.PARAS_ASK)window.PARAS_ASK(text)}
 
 /* load */
 if(!slug){location.replace("/");return}
-fetch(`/data/${slug}.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
+(window.__DATA__?Promise.resolve(window.__DATA__):fetch(`/data/${slug}.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw 0;return r.json()})).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
 })();

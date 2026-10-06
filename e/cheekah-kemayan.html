@@ -187,6 +187,7 @@ th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-wid
 #opT td:first-child{overflow-wrap:anywhere}
 .price{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:12px}
 .price input{width:130px;font:16px var(--f-body);padding:9px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg)}
+.fld+.fld{margin-left:8px}
 </style>
 
 </head>
@@ -201,6 +202,7 @@ th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-wid
   </div>
   <div class="latest">Latest reports: <b>PA 1/2026</b> (visit 24 Jun 2026, covers Jan–May) · <b>Agronomy</b> (visit 30 Jul 2026)</div>
   <a class="fld" href="https://drive.google.com/drive/folders/1lzGiAsALFRWMI2DA7UVeqaMDzoYl0SiC" target="_blank" rel="noopener">Open report folder ↗</a>
+  <a class="fld" id="offl" href="/offline/cheekah-kemayan.html" download="Cheekah Kemayan dashboard.html">Download for offline ↓</a>
  </div>
 </header>
 <div class="askWrap"><div class="in">
@@ -487,7 +489,7 @@ th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-wid
 </div></main>
 
 <script src="/assets/cost.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="/assets/vendor/chart.umd.min.js"></script>
 <script>
 const fmt=(n,d=0)=>n.toLocaleString("en-MY",{minimumFractionDigits:d,maximumFractionDigits:d});
 const pct=(a,b)=>(a-b)/b*100;
