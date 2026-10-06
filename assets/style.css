@@ -172,3 +172,8 @@ a{color:var(--accent)}
 .fld:hover{background:rgba(255,255,255,.08)}
 @media (max-width:480px){th,td{padding:7px 5px}td:first-child{white-space:normal}.pill{padding:1px 4px}}
 .askWrap{padding-top:14px}.askWrap .card{margin:0}.askTop h2{margin-top:0}
+.byo{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);font-size:13px}
+.byoL{color:var(--muted);flex-basis:100%}
+.byoB{font:600 13px var(--f-body);padding:7px 11px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);text-decoration:none;cursor:pointer}
+.byoB:hover{background:var(--accent-soft)}
+.byoM{color:var(--muted);flex-basis:100%}

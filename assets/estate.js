@@ -123,7 +123,7 @@ function render(){
  $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
  // ask chips
  const bid=B[0]?B[0].id:"the oldest block";
- ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What discrepancies are there between the reports?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
+ ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What should I look out for on a field visit?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
  showTab((location.hash||"#overview").slice(1));
 }
 function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;curBlock=b;$("bSel").value=id;document.querySelectorAll("#tiles .tile").forEach(t=>t.setAttribute("aria-selected",t.dataset.b===id?"true":"false"));
