@@ -9,8 +9,8 @@ const slug=(new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9
 let D=null,curBlock=null;const built={};
 
 /* tabs */
-const TABS=["overview","blocks","money","field","ask","integrity"];
-function showTab(t){if(!TABS.includes(t))t="overview";TABS.forEach(n=>$("t-"+n).hidden=n!==t);document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));try{history.replaceState(null,"",location.pathname+location.search+"#"+t)}catch(e){}const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});buildCharts(t)}
+const TABS=["ask","overview","blocks","money","field","reports"];
+function showTab(t){if(!TABS.includes(t))t="ask";TABS.forEach(n=>$("t-"+n).hidden=n!==t);document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));try{history.replaceState(null,"",location.pathname+location.search+"#"+t)}catch(e){}const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});buildCharts(t)}
 document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.t)));
 
 /* charts */
@@ -38,7 +38,7 @@ const DEF={
     if(c.prevSame!=null)ds.push({label:`${c.year-1}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
    if(yh.length+(c?1:0)>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:!!c}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
   return out},
- money(t){const up=(D.upkeep||[]).filter(u=>u.actual!=null);if(!up.length)return[];return[new Chart($("ch5"),{type:"bar",data:{labels:up.map(u=>u.item),datasets:[{label:"Actual",data:up.map(u=>u.actual),backgroundColor:t.accent},{label:"Budget",data:up.map(u=>u.budget),backgroundColor:t.line}]},options:{indexAxis:"y",scales:{x:{...t.ax,min:0,title:{display:true,text:"RM per ha"}},y:{...t.ax,grid:{display:false}}}}})]},
+ money(t){return[]},
  field(t){const out=[];const lb=(D.labour||[]).filter(l=>l.actual!=null);
   if(lb.length)out.push(new Chart($("ch6"),{type:"bar",data:{labels:lb.map(l=>l.cat),datasets:[{label:"Actual",data:lb.map(l=>l.actual),backgroundColor:t.accent},{label:"Required",data:lb.map(l=>l.req),backgroundColor:t.line}]},options:{indexAxis:"y",scales:{x:{...t.ax,min:0},y:{...t.ax,grid:{display:false}}}}}));
   const rf=(D.rainfall||[]).filter(r=>r.mm!=null);
@@ -94,27 +94,37 @@ function render(){
  $("bT").innerHTML=B.map(b=>{const ref=b.est!=null?b.est:b.prevYtd;return `<tr class="clk" tabindex="0" data-b="${esc(b.id)}"><td><b>${esc(b.id)}</b></td><td>${fmt(b.ha,2)}</td><td>${fmt(b.sph)}</td><td>${esc(b.planted||"–")}</td><td>${fmt(b.ytd,2)}</td><td>${fmt(b.est,2)}</td><td>${fmt(b.prevYtd,2)}</td><td>${pill(pct(b.ytd,ref))}</td></tr>`}).join("")||`<tr><td colspan="8" class="empty">No block data in the latest reports.</td></tr>`;
  document.querySelectorAll("#bT tr.clk").forEach(tr=>{const go=()=>{showBlock(tr.dataset.b);$("bP").scrollIntoView({behavior:"smooth",block:"start"})};tr.addEventListener("click",go);tr.addEventListener("keydown",e=>{if(e.key==="Enter")go()})});
  if(B.length)showBlock(B[0].id);else $("bP").innerHTML=`<p class="empty">No block data in the latest reports.</p>`;
- // money
- $("mS").textContent=r.pa?`${r.pa.title}, costs to ${k.copPeriod||r.pa.costTo||"–"}`:"";
- const mk=[["Cost of production",k.cop,k.copBudget,"/t"],["General charges",k.gcHa,k.gcHaBudget,"/ha"],["Upkeep & cultivation",k.ucHa,k.ucHaBudget,"/ha"],["Harvest & collection",k.hcT,k.hcTBudget,"/t"]].filter(m=>m[1]!=null);
- if(mk.length)$("mKv").innerHTML=mk.map(m=>`<div><div class="k">${m[0]}</div><div class="v">RM${fmt(m[1],2)}<small>${m[3]}</small></div><div class="d">${m[2]!=null?pill(pct(m[1],m[2]),true)+" budget RM"+fmt(m[2],2):""}</div></div>`).join("");else $("mNone").hidden=false;
- const up=D.upkeep||[];if(up.length)$("upT").innerHTML=up.map(u=>`<tr><td>${esc(u.item)}</td><td>${fmt(u.actual,2)}</td><td>${fmt(u.budget,2)}</td><td>${u.budget?pill(pct(u.actual,u.budget),true):""}</td></tr>`).join("");else $("fUp").hidden=true;
- // field
- if(!(D.labour||[]).length)$("labC").hidden=true;else $("labS").textContent=k.workers!=null?`${k.workers} workers against ${k.workersReq??"–"} required`:"";
- const hm=[];if(k.harvestInterval)hm.push(["Interval",k.harvestInterval]);if(k.harvesters!=null)hm.push(["Harvesters",`${k.harvesters} against ${k.harvestersReq??"–"} required`]);if(k.manuringNote)hm.push(["Manuring",k.manuringNote]);
- $("hm").innerHTML=hm.map(h=>`<li><span class="tag">${h[0]}</span><span>${esc(h[1])}</span></li>`).join("")||`<li><span></span><span class="empty">Not reported.</span></li>`;
- if(!(D.rainfall||[]).some(r=>r.mm!=null))$("rfF").hidden=true;
- const ac=D.actions||[];$("actS").textContent=ac.length?`${ac.length} items`:"";
- $("actT").innerHTML=ac.map(x=>`<tr><td class="wrap">${esc(x.item)}</td><td>${esc(x.src||"")}</td><td><span class="pill ${x.status==="done"?"good":x.status==="repeat"?"bad":"warn"}">${esc(x.status||"open")}</span></td></tr>`).join("")||`<tr><td colspan="3" class="empty">None recorded.</td></tr>`;
- // integrity
- const fl=D.issues||[];if(fl.length){$("icnt").textContent=fl.length;$("icnt").hidden=false}
- const rf=()=>{const f=$("fSel").value;$("flags").innerHTML=fl.map((x,i)=>[x,i]).filter(([x])=>f==="all"||x.sev===f).map(([x,i])=>`<div class="flag ${x.sev==="bad"?"bad":""}"><span class="n">${i+1}</span><div><div class="t">${esc(x.title)}</div><p>${esc(x.detail)}</p></div></div>`).join("")||`<p class="empty">No discrepancies recorded.</p>`};
- $("fSel").addEventListener("change",rf);rf();
- $("srcC").innerHTML+=[r.pa,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
+ // money (standard layout, same as Cheekah Kemayan)
+ const NA="N/A",na=v=>v==null;
+ $("mS").textContent=k.cop!=null||k.ucHa!=null?`${clean(k.copPeriod)||"Period not stated"}${r.pa?" · "+r.pa.title:""}`:(r.pa?`${r.pa.title} · no cost section`:"No cost section");
+ const mk=[["Cost of production",k.cop,k.copBudget,"/t"],["General charges",k.gcHa,k.gcHaBudget,"/ha"],["Upkeep & cultivation",k.ucHa,k.ucHaBudget,"/ha"],["Harvest & collection",k.hcT,k.hcTBudget,"/t"]];
+ $("mKv").innerHTML=mk.map(m=>`<div><div class="k">${m[0]}</div><div class="v">${na(m[1])?NA:`RM${fmt(m[1],2)}<small>${m[3]}</small>`}</div><div class="d">${na(m[1])?"":na(m[2])?"budget N/A":pill(pct(m[1],m[2]),true)+" budget RM"+fmt(m[2],2)}</div></div>`).join("");
+ if(mk.every(m=>na(m[1])))$("mNone").hidden=false;
+ {const STD=[["Weeding",/weed/i],["Manuring",/manur/i],["Pest & disease",/pest/i],["Census & thinning",/census|thin/i],["Drains",/drain/i],["Bridges & culverts",/bridge|culvert/i],["Roads",/road/i],["Boundaries",/bound|survey|fence/i],["Pruning",/prun/i]];
+  const EXTRA=[["Soil & water conservation",/soil|water/i],["Supplying",/supply/i],["Tools",/tool/i]];
+  const up=(D.upkeep||[]).filter(u=>!/total/i.test(u.item||""));const used=new Set();const notes=[];
+  const find=re=>{const i=up.findIndex((u,j)=>!used.has(j)&&re.test(u.item||""));return i<0?null:i};
+  const rows=[];
+  // combined "Roads & bridges" lines go under Roads
+  const rb=up.findIndex(u=>/road/i.test(u.item)&&/bridge/i.test(u.item));
+  STD.forEach(([nm,re])=>{
+   if(rb>=0&&nm==="Bridges & culverts"){rows.push([nm,null,null,"in Roads"]);return}
+   let i=(nm==="Roads"&&rb>=0)?rb:find(re);
+   if(i!=null){used.add(i);rows.push([nm==="Roads"&&rb>=0?"Roads & bridges":nm,up[i].actual,up[i].budget])}else rows.push([nm,null,null])});
+  EXTRA.forEach(([nm,re])=>{const i=find(re);if(i!=null){used.add(i);rows.push([nm,up[i].actual,up[i].budget])}});
+  up.forEach((u,j)=>{if(!used.has(j))rows.push([u.item,u.actual,u.budget])});
+  const v=(a,b,lbl)=>lbl?"":na(a)||na(b)?NA:b===0?(a?"<span class='pill warn'>unbudgeted</span>":"–"):pill(pct(a,b),true);
+  $("upT").innerHTML=rows.map(x=>`<tr><td>${esc(x[0])}</td><td>${x[3]?`<span class="sub">${x[3]}</span>`:na(x[1])?NA:fmt(x[1],2)}</td><td>${x[3]?"":na(x[2])?NA:x[2]===0?"–":fmt(x[2],2)}</td><td>${v(x[1],x[2],x[3])}</td></tr>`).join("")
+   +`<tr><td><b>Total</b></td><td><b>${na(k.ucHa)?NA:fmt(k.ucHa,2)}</b></td><td>${na(k.ucHaBudget)?NA:fmt(k.ucHaBudget,2)}</td><td>${na(k.ucHa)||na(k.ucHaBudget)?NA:pill(pct(k.ucHa,k.ucHaBudget),true)}</td></tr>`;
+  if(rb>=0)$("upN").textContent=`This report gives roads and bridges as one line ("${up[rb].item}").`;
+ }
+ // reports + folder
+ if(D.folder){const f=$("fld");f.href=D.folder;f.hidden=false}
+ $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
  // ask chips
  const bid=B[0]?B[0].id:"the oldest block";
  ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What discrepancies are there between the reports?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
- showTab((location.hash||"#overview").slice(1));
+ showTab((location.hash||"#ask").slice(1));
 }
 function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;curBlock=b;$("bSel").value=id;document.querySelectorAll("#tiles .tile").forEach(t=>t.setAttribute("aria-selected",t.dataset.b===id?"true":"false"));
  const ref=b.est!=null?b.est:b.prevYtd,refL=b.est!=null?"estimate":prevP(BP());

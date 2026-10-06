@@ -168,3 +168,6 @@ a{color:var(--accent)}
 .foot{padding-block:20px 40px;color:var(--muted);font-size:12px}
 .takeaways{margin:0;padding-left:20px;display:grid;gap:6px}
 .empty{color:var(--muted);font-size:13px}
+.fld{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:var(--band-fg);text-decoration:none;border:1px solid rgba(255,255,255,.3);border-radius:6px;padding:6px 10px}
+.fld:hover{background:rgba(255,255,255,.08)}
+@media (max-width:480px){th,td{padding:7px 5px}td:first-child{white-space:normal}.pill{padding:1px 4px}}

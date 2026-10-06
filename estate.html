@@ -16,19 +16,30 @@
   <h1 id="nm">Loading…</h1>
   <div class="meta" id="mt"></div>
   <div class="latest" id="lt"></div>
+  <a class="fld" id="fld" href="#" target="_blank" rel="noopener" hidden>Open report folder ↗</a>
  </div>
 </header>
 <nav class="tabs" aria-label="Sections"><div class="in" role="tablist">
- <button role="tab" data-t="overview" aria-selected="true">Overview</button>
+ <button role="tab" data-t="ask" aria-selected="true">Ask</button>
+ <button role="tab" data-t="overview">Overview</button>
  <button role="tab" data-t="blocks">Blocks</button>
  <button role="tab" data-t="money">Money</button>
  <button role="tab" data-t="field">Field &amp; people</button>
- <button role="tab" data-t="ask">Ask</button>
- <button role="tab" data-t="integrity">Integrity<span class="cnt" id="icnt" hidden></span></button>
+ <button role="tab" data-t="reports">Reports</button>
 </div></nav>
 <main><div class="in">
 
-<section role="tabpanel" id="t-overview">
+<section role="tabpanel" id="t-ask">
+ <div class="card">
+  <h2>Ask about this estate</h2>
+  <p class="sub">Answers come only from this estate's latest PARAS reports, with the report cited.</p>
+  <div class="chips" id="chips"></div>
+  <div class="log" id="log" aria-live="polite"></div>
+  <form id="askForm" class="askrow"><label for="q" class="sr">Your question</label><input id="q" type="text" autocomplete="off" placeholder="Type a question about this estate"><button id="send" type="submit">Ask</button></form>
+  <p class="note" id="askNote"></p>
+ </div>
+</section>
+<section role="tabpanel" id="t-overview" hidden>
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
  <div class="card"><div class="head"><div><h2 id="glH">At a glance</h2><p class="sub" id="glS"></p></div></div><div class="kv" id="kv"></div></div>
  <div class="card" id="sumCard"><h2>Key takeaways</h2><ol class="takeaways" id="sum"></ol></div>
@@ -52,8 +63,14 @@
 </section>
 
 <section role="tabpanel" id="t-money" hidden>
- <div class="card"><h2>Cost summary</h2><p class="sub" id="mS"></p><div class="kv" id="mKv"></div><p class="note" id="mNone" hidden>This PA report has no cost section.</p></div>
- <details class="fold" open id="fUp"><summary><span class="t">Upkeep against budget</span><span class="s">RM per ha</span></summary><div class="body"><div class="chart"><canvas id="ch5"></canvas></div><div class="tbl"><table><thead><tr><th>Item</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="upT"></tbody></table></div></div></details>
+ <div class="card">
+  <div class="head"><div><h2>Cost of production</h2><p class="sub" id="mS"></p></div></div>
+  <div class="kv" id="mKv"></div>
+  <p class="note" id="mNone" hidden>The latest PA report has no cost section, so figures show N/A.</p>
+ </div>
+ <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
+  <div class="body"><div class="tbl"><table><thead><tr><th>Item</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="upT"></tbody></table></div><p class="note" id="upN"></p></div>
+ </details>
 </section>
 
 <section role="tabpanel" id="t-field" hidden>
@@ -63,26 +80,13 @@
  <details class="fold"><summary><span class="t">Open actions</span><span class="s" id="actS"></span></summary><div class="body"><div class="tbl"><table><thead><tr><th>Action</th><th>Raised in</th><th>Status</th></tr></thead><tbody id="actT"></tbody></table></div></div></details>
 </section>
 
-<section role="tabpanel" id="t-ask" hidden>
- <div class="card">
-  <h2>Ask about this estate</h2>
-  <p class="sub">Answers come only from this estate's latest PARAS reports, with the report cited.</p>
-  <div class="chips" id="chips"></div>
-  <div class="log" id="log" aria-live="polite"></div>
-  <form id="askForm" class="askrow"><label for="q" class="sr">Your question</label><input id="q" type="text" autocomplete="off" placeholder="Type a question about this estate"><button id="send" type="submit">Ask</button></form>
-  <p class="note" id="askNote"></p>
- </div>
-</section>
 
-<section role="tabpanel" id="t-integrity" hidden>
- <div class="card"><h2>Report discrepancies</h2><p class="sub">Differences between the PA and Agronomy reports, and errors inside them. Each needs a PARAS answer.</p>
-  <div class="row"><label for="fSel" class="sub">Show</label><select id="fSel"><option value="all">All</option><option value="bad">Serious only</option><option value="warn">Minor only</option></select></div>
-  <div class="flags" id="flags"></div></div>
- <div class="card src" id="srcC"><h2>Source reports</h2></div>
+<section role="tabpanel" id="t-reports" hidden>
+ <div class="card src" id="srcC"><h2>Source reports</h2><p class="sub">Latest PARAS reports used for this dashboard. The folder holds every report for this estate.</p></div>
 </section>
 
 </div></main>
-<footer class="foot"><div class="in">Compiled from PARAS Planting Advisory and Agronomy reports. Figures as reported; see Integrity for known discrepancies.</div></footer>
+<footer class="foot"><div class="in">Compiled from PARAS Planting Advisory and Agronomy reports. Figures as reported.</div></footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <script src="/assets/estate.js"></script>
 </body>

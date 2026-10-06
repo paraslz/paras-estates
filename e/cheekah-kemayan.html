@@ -169,6 +169,9 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 @media (max-width:480px){.bar{grid-template-columns:100px 1fr 40px}.timeline li{grid-template-columns:76px 1fr}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+.fld{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:var(--band-fg);text-decoration:none;border:1px solid rgba(255,255,255,.3);border-radius:6px;padding:6px 10px}
+.fld:hover{background:rgba(255,255,255,.08)}
+@media (max-width:480px){th,td{padding:7px 5px}td:first-child{white-space:normal}.pill{padding:1px 4px}}
 </style>
 
 </head>
@@ -182,25 +185,26 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
    <div class="meta">1,543 ha planted · 1,209 ha mature · 335 ha immature · mill on estate</div>
   </div>
   <div class="latest">Latest reports: <b>PA 1/2026</b> (visit 24 Jun 2026, covers Jan–May) · <b>Agronomy</b> (visit 30 Jul 2026)</div>
+  <a class="fld" href="https://drive.google.com/drive/folders/1lzGiAsALFRWMI2DA7UVeqaMDzoYl0SiC" target="_blank" rel="noopener">Open report folder ↗</a>
  </div>
 </header>
 
 <nav class="tabs" aria-label="Sections">
  <div class="in" role="tablist">
-  <button role="tab" data-t="overview" aria-selected="true">Overview</button>
+  <button role="tab" data-t="ask" aria-selected="true">Ask</button>
+  <button role="tab" data-t="overview">Overview</button>
   <button role="tab" data-t="blocks">Blocks</button>
   <button role="tab" data-t="money">Money</button>
   <button role="tab" data-t="field">Field work</button>
   <button role="tab" data-t="people">People</button>
-  <button role="tab" data-t="ask">Ask</button>
-  <button role="tab" data-t="integrity">Integrity<span class="cnt">20</span></button>
+  <button role="tab" data-t="integrity">Reports</button>
  </div>
 </nav>
 
 <main><div class="in">
 
 <!-- OVERVIEW -->
-<section role="tabpanel" id="t-overview">
+<section role="tabpanel" id="t-overview" hidden>
  <div class="card">
   <h2>Yield per hectare</h2>
   <p class="sub">FFB t/ha by full year, with budget where reported, plus 2026 to date</p>
@@ -226,7 +230,7 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
    <h2>Same period, 2025 against 2026</h2>
    <p class="sub">t/ha to June. Only the young P21A is up.</p>
    <div class="chart"><canvas id="cL2" aria-label="Yield to June 2025 against 2026 by block"></canvas></div>
-   <p class="note">Agronomy Jul 2026. The PA report says yield is slightly up; see Integrity.</p>
+   <p class="note">Agronomy Jul 2026. The PA report says yield is slightly up (PA 1/2026, to May).</p>
   </div>
  </div>
  <div class="two">
@@ -417,7 +421,7 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 </section>
 
 <!-- ASK -->
-<section role="tabpanel" id="t-ask" hidden>
+<section role="tabpanel" id="t-ask">
  <div class="card">
   <h2>Ask about this estate</h2>
   <p class="sub">Answers come only from the 10 compiled PARAS reports, with the report cited. </p>
@@ -446,14 +450,9 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
    <tbody id="fups"></tbody>
   </table></div></div>
  </details>
- <details class="fold" open><summary><span class="t">Report discrepancies</span><span class="s">12 items</span></summary>
-  <div class="body">
-   <div class="row"><label for="flagSel" class="sub">Show</label><select id="flagSel"><option value="all">All</option><option value="bad">Serious only</option><option value="warn">Minor only</option></select></div>
-   <div class="flags" id="flags"></div>
-  </div>
- </details>
- <details class="fold"><summary><span class="t">Source reports</span><span class="s">10 PDFs in Google Drive</span></summary>
+ <details class="fold" open><summary><span class="t">Source reports</span><span class="s">10 PDFs in Google Drive</span></summary>
   <div class="body src">
+   <a href="https://drive.google.com/drive/folders/1lzGiAsALFRWMI2DA7UVeqaMDzoYl0SiC" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>
    <a href="https://drive.google.com/file/d/1gmoSSLuRZxExYtDxvsyZDTzXOrQmXS4G/view" target="_blank" rel="noopener">PA 1/2024 · 6 Mar 2024 · Adnan</a>
    <a href="https://drive.google.com/file/d/1L6ICvp1oqiYuvBTE-jQyD31yyioS2w9c/view" target="_blank" rel="noopener">Agronomy 1/2024 · 8 Apr 2024 · Lai</a>
    <a href="https://drive.google.com/file/d/1Ra0uPirt0UJ2Qq-tYazW9Wvh_5qgBRvP/view" target="_blank" rel="noopener">PA 2/2024 · 25 Sep 2024 · Adnan</a>
@@ -479,9 +478,9 @@ const C={good:"var(--good)",warn:"var(--warn)",bad:"var(--bad)"};
 const esc=s=>String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
 
 /* ---------- tabs ---------- */
-const TABS=["overview","blocks","money","field","people","ask","integrity"];
+const TABS=["ask","overview","blocks","money","field","people","integrity"];
 function showTab(t){
- if(!TABS.includes(t))t="overview";
+ if(!TABS.includes(t))t="ask";
  TABS.forEach(n=>{document.getElementById("t-"+n).hidden=n!==t});
  document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));
  try{history.replaceState(null,"","#"+t)}catch(e){}
@@ -681,7 +680,7 @@ const FLAGS=[
  ["warn","Mixed review cut-off dates","Each PA report quotes crop to one month and costs to the month before. This dashboard follows the reports as written."]
 ];
 function renderFlags(){const f=document.getElementById("flagSel").value;document.getElementById("flags").innerHTML=FLAGS.map((x,i)=>[x,i]).filter(([x])=>f==="all"||x[0]===f).map(([x,i])=>`<div class="flag ${x[0]}"><span class="n">${i+1}</span><div><div class="t">${x[1]}</div><p>${esc(x[2])}</p></div></div>`).join("")}
-document.getElementById("flagSel").addEventListener("change",renderFlags);renderFlags();
+
 
 /* ---------- charts ---------- */
 const built={};
@@ -771,7 +770,7 @@ document.getElementById("f-yield").addEventListener("toggle",e=>{if(e.target.ope
 })();
 
 showBlock("P98C");
-showTab((location.hash||"#overview").slice(1));
+showTab((location.hash||"#ask").slice(1));
 </script>
 
 </body>
