@@ -63,7 +63,7 @@ function actions(){
  [...new Set(A.map(a=>a.e.slug))].map(s=>E.find(e=>e.slug===s)).sort((a,b)=>nm(a).localeCompare(nm(b))).forEach(e=>{const o=document.createElement("option");o.value=e.slug;o.textContent=`${nm(e)} (${(e.actions||[]).length})`;$("aE").append(o)});
  ["aE","aSt","aQ"].forEach(id=>$(id).addEventListener("input",()=>{lim=25;draw()}));draw();
 }
-fetch("/data/index.json").then(r=>r.json()).then(j=>{E=j.estates;
+fetch("/data/index.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{E=j.estates;
  try{const p=localStorage.getItem(PRICE_KEY);if(p)$("fp").value=p}catch(e){}
  totals();attention();league();actions();
  $("srt").addEventListener("input",league);

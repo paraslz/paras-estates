@@ -164,5 +164,5 @@ function ask(text){if(window.PARAS_ASK)window.PARAS_ASK(text)}
 
 /* load */
 if(!slug){location.replace("/");return}
-fetch(`/data/${slug}.json`).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
+fetch(`/data/${slug}.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
 })();

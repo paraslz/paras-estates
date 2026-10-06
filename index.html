@@ -59,7 +59,7 @@ function draw(){
    <div class="go">View dashboard →</div>
   </a>`}).join("")||`<p class="empty">No estates match “${esc(q)}”.</p>`;
 }
-fetch("/data/index.json").then(r=>r.json()).then(j=>{E=j.estates;draw()});
+fetch("/data/index.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{E=j.estates;draw()});
 $("q").addEventListener("input",draw);
 })();
 </script>
