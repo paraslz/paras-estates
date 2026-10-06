@@ -62,3 +62,19 @@ Every yield figure must have its period. Every period must be exactly what the r
 }
 ```
 Never compute tonnes from t/ha × area. The group page sums 2026 to the month that the most estates can be matched to (monthly series up to that month, or a cumulative total ending exactly that month).
+
+## blocks[].detail and blockEstateWide (full per-block report content)
+```
+"detail": {
+  "manuring":  [row], "spraying": [row], "pests": [row], "yield": [row], "harvesting": [row],
+  "pruning": [row], "nutrients": [row], "field": [row], "other": [row],
+  "fertNow":  {"year": 2026, "rows": [row]},   // current programme, g/palm, by month
+  "fertPrev": {"year": 2025, "rows": [row]},   // previous year's programme (from the previous Agronomy report)
+  "fertNext": {"year": 2027, "rows": [row]}    // only if a report already gives next year's programme
+}
+row = {"k": "short label", "v": "finding with figures and the period", "src": "PA 2/2026" | "Agro 1/2026"}
+"blockEstateWide": {"manuring": [row], "spraying": [row], "pests": [row], ...}   // estate-level facts, not repeated per block
+"blockGaps", "blockMap": internal notes (not shown)
+```
+Be exhaustive: everything the latest PA and Agronomy reports say about the block. Programmes for year N
+sit in the Agronomy report of the visit before (e.g. 2025 programme in Agro 1/2025; Agro 2/YYYY holds next year's).

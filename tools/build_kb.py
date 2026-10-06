@@ -35,6 +35,29 @@ def ffb_text(d):
     if y: out.append(f"{y['year']} Jan–{MON[y['to']-1]}: {y['t']:,.2f} t ({y.get('src') or '-'}){' — Juasa A and B combined' if f.get('combinedWith') else ''}")
     return "\n".join(out) + "\n"
 
+SEC = [("manuring", "Manuring progress"), ("spraying", "Spraying & weeding"), ("fertNext", "Fertiliser programme (next year)"),
+       ("fertNow", "Fertiliser programme (this year)"), ("fertPrev", "Fertiliser programme (previous year)"), ("pests", "Pests & diseases"),
+       ("yield", "Yield"), ("harvesting", "Harvesting"), ("pruning", "Pruning"), ("nutrients", "Nutrients"), ("field", "Field"), ("other", "Other")]
+def rows(v): return v.get("rows", []) if isinstance(v, dict) else (v or [])
+def block_text(d):
+    out = []
+    ew = d.get("blockEstateWide") or {}
+    if any(rows(v) for v in ew.values()):
+        out.append("\nESTATE-WIDE FIELD NOTES")
+        for k, v in ew.items():
+            for r in rows(v): out.append(f"[{k}] {r.get('k')}: {r.get('v')} ({r.get('src')})")
+    for b in d.get("blocks") or []:
+        det = b.get("detail")
+        if not det: continue
+        out.append(f"\nBLOCK {b['id']} ({b.get('ha')} ha, planted {b.get('planted')}, {b.get('status')})")
+        for k, t in SEC:
+            v = det.get(k)
+            if not v or not rows(v): continue
+            y = f" {v['year']}" if isinstance(v, dict) and v.get("year") else ""
+            out.append(f"{t}{y}:")
+            for r in rows(v): out.append(f"  - {r.get('k')}: {r.get('v')} ({r.get('src')})")
+    return ("\nBLOCK DETAIL (everything the latest reports say per block)" + "\n".join(out) + "\n") if out else ""
+
 os.makedirs("kb", exist_ok=True)
 n = 0
 for f in sorted(glob.glob("data/*.json")):
@@ -54,6 +77,6 @@ Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. 
 
 REPORT EXTRACTS
 {kb}
-{cost_text(d)}{ffb_text(d)}"""
+{cost_text(d)}{ffb_text(d)}{block_text(d)}"""
     open(f"kb/{d['slug']}.txt", "w").write(txt); n += 1
 print(n, "report packs written")

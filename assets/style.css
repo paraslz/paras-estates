@@ -195,3 +195,21 @@ th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-wid
 .topnav .back:hover{background:rgba(255,255,255,.2)}
 .topnav select{font:600 15px var(--f-body);color:var(--band-fg);background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.3);border-radius:8px;padding:9px 10px;max-width:55%;min-width:0}
 .topnav select option{color:#16231c;background:#fff}
+
+/* block picker + detail */
+.bnav{display:flex;gap:8px;align-items:stretch;margin-top:8px}
+.bnav .grow{flex:1;min-width:0}
+.bnav select{width:100%;font:600 17px var(--f-body);padding:11px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--fg)}
+.bnav button{flex:none;width:48px;font:600 24px var(--f-body);border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--fg);cursor:pointer}
+.bdet{display:grid;gap:10px;margin-bottom:12px}
+.bdet .note{margin:2px 4px}
+ul.brows{list-style:none;margin:0;padding:0}
+ul.brows li{padding:9px 0;border-top:1px solid var(--line)}
+ul.brows li:first-child{border-top:0}
+ul.brows .bk{font-weight:600;line-height:1.35}
+ul.brows .bk .tag{margin-left:4px;font-weight:500;vertical-align:1px}
+ul.brows .bv{margin-top:3px;line-height:1.45;overflow-wrap:anywhere}
+.bdet h5,#bEWb h5{margin:14px 0 2px;font:600 15px var(--f-display);color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.bdet h5:first-child,#bEWb h5:first-child{margin-top:0}
+.bdet h5 small{text-transform:none;letter-spacing:0;font-weight:500}
+#bEW{margin-bottom:12px}

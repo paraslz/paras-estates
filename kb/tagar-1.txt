@@ -94,3 +94,424 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2025 (Jan–Dec): 18,688.50 t (PA Report 1/2026 Dec 2025 field table todate (Section 8); also last-year 12 months column in PA 2/2026 Section 8)
 2025 monthly: Dec 1,552.66
 2026 Jan–Jun: 8,393.44 t (PA Report 2/2026 Section 8 Crop Production as at June 2026 (Jan-Jun 2026 actual todate))
+
+BLOCK DETAIL (everything the latest reports say per block)
+ESTATE-WIDE FIELD NOTES
+[manuring] Rounds to Jun 2026: 17 of 40 rounds applied; delay from late delivery of NK mixture and kieserite (PA 2/2026)
+[manuring] Method: 195 ha flat terrain applied with mini-dumpers, the rest broadcast, by checkroll workers at RM65.38/day (PA 2/2026)
+[manuring] Fertiliser 2025 (Agro Table 3): Mix A 375.75 of 487.71 t (77%); Mix/Compound B 787.46 of 1,051.18 t (75%); CIRP 402.80 of 418.10 t (96%); KIE 86.75 of 86.83 t (100%); CRF 34.00 of 44.30 t received (76%); ASKK 87.30 of 111.11 t (78%); NK1 64.20 of 100.62 t (64%); NK2 2.90 t (100%); total 1,841.16 of 2,255.55 t (82%) (Agro 1/2026)
+[manuring] Carry-forward: About 500 t (22%) carried into 2026; surplus 518 bags (10.36 t) CRF to be allocated to supply palms (Agro 1/2026)
+[spraying] Circle to Jun 2026: 1,963 ha (1.3 rounds) = 60% of 3,295 ha budgeted (2.1 rounds). CDA 4 ha per man-day, RM16/ha, RM64/day, glyphosate 0.89 L/ha (1.5 pumps/ha), 6 pumps per man-day vs 9 potential, 4.5 hours/day. Nephrolepis dominates circles in some blocks (one contact herbicide round) (PA 2/2026)
+[spraying] Selective to Jun 2026: 1,914 ha (1.2 rounds) = 72% of 2,670 ha. Mist blower 3.4 ha per man-day, RM18/ha, RM61.20/day, Garlon 0.82 L/ha (2 pumps/ha), 7 pumps vs 11 potential. VOPs, Asystasia and woodies not under control in young mature; overgrown VOPs in low-lying old areas (PA 2/2026)
+[spraying] Weeding 2025 (Agro): No field completed the annual weeding; young mature inter-row 70%, circle 73% of programme (Agro 1/2026)
+[pests] Ganoderma: Fruiting bodies at P01A only (insignificant); no census figures (Agro 1/2026)
+[pests] Leaf-eating pests: None (Agro 1/2026)
+[pests] Rain 2025: 172 rain days, 4,044 mm (2024: 207.5 days, 4,586.25 mm) (Agro 1/2026)
+[yield] Jan-Jun 2026 crop: 5.37 t/ha against budget 8.12 (-34%) and 6.47 same period 2025 (-17%); FFB 8,393.44 t against budget 12,693 t to date; annual budget 27,953 t. Last year's same-period FFB 8,942.13 t. The 'annual 12 months' column (18,688.50 t; 13.51 t/ha) is not labelled clearly (budget or last year) and is not used here (PA 2/2026)
+[yield] Estate 2024 to 2025 (Agro): 14.72 to 13.38 t/ha (-9.1%) (Agro 1/2026)
+[harvesting] Round and outturn: Current interval averaged 18 days; 9.4 rounds to Jun vs 12 budgeted; outturn 104% (includes Sundays and holidays); harvesters work 4-5 hours (PA 2/2026)
+[harvesting] Harvester pay: Basic wage RM65.38 (PA 2/2026)
+[pruning] Progressive pruning to Jun 2026: 1,278.54 of 2,764 ha (estate) (PA 2/2026)
+[pruning] Corrective pruning: 225 ha in P01A, P05C and P20I was due in 2025, only 59 ha done; 271 ha (2022, 2007 and 2011 plantings) due 2026, 72 ha done, expected October; task force of 11 workers; corrective RM2.50 per palm (PA 2/2026)
+[pruning] Agro 2025: Pruning only 50% complete in 2025 estate-wide; young mature 69%; frond stacking poor in terraces; ravines have tall palms (Agro 1/2026)
+[labour] Workers: 96 vs 142 required; harvesters 51 vs 78 at 1:20 ha (PA advises 1:18 ha = 87); 70 harvesters at July, short 17, 17 new harvesters due August; manuring 9 vs 15; sprayers 10 vs 20; ratio 1:16 vs 1:12 (PA 2/2026)
+[costs] General charge to Jun 2026: RM1,870,488.13 vs RM1,312,314 budget (+43%); RM1,013.27/ha vs RM710.90/ha; management and supervision RM1,244,083.82 vs RM597,888 (PA 2/2026)
+[costs] Upkeep mature: RM1,466,223 vs RM1,628,946 (RM938.08/ha vs RM1,042.19/ha): weeding RM147,290 vs RM213,354; manuring RM1,205,219 vs RM1,198,494 (RM771.09/ha vs RM766.79/ha); pest and disease RM8,455 vs RM46,356; drains RM879 vs RM11,682; roads RM56,793 vs RM95,130; pruning RM47,587 vs RM63,750 (PA 2/2026)
+[costs] Harvesting and collection: RM779,919 vs RM1,272,330 (RM92.92/t vs RM100.24/t) (PA 2/2026)
+[costs] Cost of production: RM469.86/t FFB vs RM331.03 budget to date vs RM300.62 annual (RM2,506.24/t CPO); CPO 1,573.55 t at 18.75% extraction (PA 2/2026)
+[costs] Capex: Budget RM93,000 vs RM46,500; RM196,030 tractor (PA 2/2026)
+[field] Area: 2,103.76 ha; planted 1,851 ha (PA 2/2026)
+[field] Roads: 1,008 chains graded of 5,469 budgeted (budget RM12.50/chain, actual RM8.50/chain); 95.12 t crusher run at RM45/t unbudgeted; roads eroded; back-mounted grader ineffective; backhoe loader and stop blocks recommended. 2025: 2,170 chains (33% of budget) (PA 2/2026)
+[field] Drains: 331.77 chains of 8'x6'x4' desilting not done (budget RM46/chain) (PA 2/2026)
+[staff] Staff: Adequate. Manager Gunasegaran rejoined 1 Jun 2026; Sr Asst Lam Thou Chin resigned Jun 2026; Nor Mohd Farid promoted Jan 2026 (PA 2/2026)
+
+BLOCK PM01A (129 ha, planted 2001, Mature)
+Manuring progress:
+  - NK1, Feb, 2,000 g (671 bags): Scheduled Feb; no date printed. 2025 carry-forward completed in Feb (PA 2/2026)
+  - NK1, Jun, 2,500 g (839 bags): Scheduled Jun; no date printed (PA 2/2026)
+  - Agro check 2025: Semi-mechanised NK with power-wheel barrow checked in P01, acceptable (Agro 1/2026)
+  - Carry-forward from 2025: NK1 2,000 g (Oct) incomplete at end 2025 (Agro Table 4) (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Jan/May/Sep (3 rounds); completed Jan, Apr, Jul. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): programmed Mar; completed Mar (PA 2/2026)
+  - Weeds: Overgrown VOPs and woodies (PA); slow circle weeding (Agro 2025) (PA 2/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Feb: NK1 2,000 g (carry-forward from 2025); Jun: NK1 2,500 g; Oct: NK1 2,500 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Feb, Jun, Oct: NK1 2,000 g each (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: /1 to /4: 3.0% Jan, then NIL (PA 2/2026)
+  - Ganoderma: Fruiting bodies seen, insignificant; debolling to 1.5 x 1.5 x 1.5 m advised; no progress since last visit (Agro) (Agro 1/2026)
+  - Cattle: Court proceeding in September 2026 (PA photo) (PA 2/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 12.9 t/ha; 2025 14.5 t/ha; difference +12.4% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 15.39 t/ha; 2024 12.9 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2001 planting: Jun 2025 22.1 kg (22,100 g); Jun 2026 25.6 kg (25,600 g). PA calls this increase odd and needing investigation (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.5-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.59 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Interval: Intervals above 20 days in older plantings (Agro Jan 2026) (Agro 1/2026)
+  - Harvester pay 2026: Div 1A: rate RM54/t; 1.47 t per man-day; earning RM79.38/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): Sub-blocks of 21, 89, 11 and 8 ha programmed (4 rounds); no completed values printed (PA 2/2026)
+  - Progressive pruning cost: RM0.92 per palm per year (PA 2/2026)
+  - Condition 2025: Little progress in P01A2/A3/A4; under-pruned (Agro) (Agro 1/2026)
+
+BLOCK PM04B (148 ha, planted 2004, Mature)
+Manuring progress:
+  - Mix A, Feb, 2,250 g (972 bags): Applied 9.3.26-29.4.26 (PA 2/2026)
+  - NK1, May, 2,250 g (972 bags): Scheduled May (PA 2/2026)
+  - Agro check 2025: Narrowband reduced in P04 with semi-mechanised NK (power-wheel barrow) (Agro 1/2026)
+  - Carry-forward from 2025: Mix A 2,000 g (Oct) incomplete at end 2025 (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Jan/May/Sep; completed Jan only. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): programmed Mar/Jul/Nov; completed Mar, Apr (PA 2/2026)
+  - Weeds: Slow circle weeding; over-spray leaving bare ground (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Feb: Mix A carry-forward 2,000 g; May: NK1 2,250 g; Aug: Mix A 2,250 g; Nov: NK1 2,250 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Jan: Mix A 2,250 g; Apr: Mix A 2,000 g; Jul: Mix A 2,250 g; Aug: RP 1,500 g; Oct: Mix A 2,000 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: NIL (PA 2/2026)
+  - Crop theft: Theft on 12 Oct 2024, not recurred (Agro 1/2025) (Agro 1/2025)
+Yield:
+  - Full year 2025 vs 2024: 2024 21.73 t/ha; 2025 18.2 t/ha; difference -16.3% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 20.32 t/ha; 2024 21.73 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2004 planting: Jun 2025 21.7 kg (21,700 g); Jun 2026 23.8 kg (23,800 g). PA calls this increase odd and needing investigation (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.0-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.71 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Harvester pay 2026: Div 1B: rate RM49/t; 1.46 t per man-day; earning RM71.54/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): 55.04 ha done of 296 ha programme; balance 240.96 ha (PA 2/2026)
+  - Progressive pruning cost: RM0.82 per palm per year (PA 2/2026)
+  - Condition 2025: Under-pruned (Agro) (Agro 1/2026)
+
+BLOCK PM05C (76 ha, planted 2005, Mature)
+Manuring progress:
+  - Mix A, Feb, 2,000 g (420 bags): Applied 5.3.26-9.3.26 (PA 2/2026)
+  - NK1, May, 2,000 g (420 bags): Scheduled May (PA 2/2026)
+  - Carry-forward from 2025: Mix A 2,000 g (Oct) incomplete at end 2025 (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): completed Jun only. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): programmed Mar; completed Feb, Jul (PA 2/2026)
+  - Weeds: Slow circle weeding (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Feb: Mix A carry-forward 2,000 g; May: NK1 2,000 g; Aug: Mix A 2,000 g; Nov: NK1 2,000 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Jan: Mix A 2,250 g; Apr: Mix A 2,000 g; Jul: Mix A 2,250 g; Aug: RP 1,500 g; Oct: Mix A 2,000 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: 3.0% Jan (PA 2/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 14.56 t/ha; 2025 10.69 t/ha; difference -26.6% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 14.7 t/ha; 2024 14.56 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2005 planting: Jun 2025 17.9 kg (17,900 g); Jun 2026 20.6 kg (20,600 g). PA calls this increase odd and needing investigation (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.0-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.28 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Harvester pay 2026: Div 1A: rate RM45/t; 0.91 t per man-day; earning RM40.95/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): 76 ha programmed; only 26.80 printed as done (PA 2/2026)
+  - Progressive pruning cost: RM0.87 per palm per year (PA 2/2026)
+  - Condition 2025: Under-pruned (Agro) (Agro 1/2026)
+Nutrients:
+  - Chlorosis: Chlorotic palms in ravines (Agro) (Agro 1/2026)
+Field:
+  - Spacing: Close spacing (Agro) (Agro 1/2026)
+
+BLOCK PM07D (173 ha, planted 2007, Mature)
+Manuring progress:
+  - Mix A, Feb, 2,250 g (1,074 bags): Applied 6.5.26-14.5.26 (PA 2/2026)
+  - Round 2, Jun, 2,000 g (955 bags): Scheduled Jun (PA 2/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Feb/Mar/Jun/Jul/Oct/Nov; completed Apr, May, Jun. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): completed Jan, Jun, Jul (PA 2/2026)
+  - Weeds: Only one inter-row round in 2025; jungle woody growth; Clidemia; Ageratum in circles (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Feb: Mix A 2,250 g; May: Mix A 2,000 g; Aug: Mix A 2,250 g; Sep: RP 1,500 g; Nov: Mix A 2,000 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Feb: kieserite 1,000 g; Jun: Mix A 2,500 g; Aug: RP 1,500 g; Sep: Mix A 2,500 g; Nov: Mix A 2,000 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: NIL (PA 2/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 18.85 t/ha; 2025 16.6 t/ha; difference -11.9% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 16.05 t/ha; 2024 18.85 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2007 planting: Jun 2025 20.9 kg (20,900 g); Jun 2026 21.8 kg (21,800 g) (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.5-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.72 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Harvester pay 2026: Div 1B: rate RM41/t; 1.57 t per man-day; earning RM64.37/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): /1 53 ha, no values; /2 62 ha, 86.33 done, balance 37.67; /3 58 ha, 106.76 done, balance 9.24 (PA 2/2026)
+  - Progressive pruning cost: RM0.72 per palm per year (PA 2/2026)
+  - Condition 2025: Little progress in P07D1; under-pruned (Agro) (Agro 1/2026)
+
+BLOCK PM11E (140 ha, planted 2011, Mature)
+Manuring progress:
+  - Mix B R1, Feb, 2,250 g (857 bags): Applied 11.4.26-18.4.26 (PA 2/2026)
+  - Mix B R2, May, 2,250 g (857 bags): Scheduled May; no date (PA 2/2026)
+  - Carry-forward from 2025: Mix B 2,250 g (Oct) incomplete at end 2025 (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Jan/Feb/May/Jun/Sep/Oct; completed Jan, Feb, Jun. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): programmed Jan/Feb/Mar/May/Jun/Sep/Oct; completed Mar (PA 2/2026)
+  - Weeds: E2 only one inter-row round in 2025; slow circle weeding in E1 (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Feb: Mix B 2,250 g (carry-forward); May: Mix B 2,250 g; Aug: Mix B 2,250 g; Sep: RP 1,500 g; Nov: Mix B 2,250 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Jan: Mix B 2,500 g; Apr: Mix B 2,250 g; Jul: Mix B 2,500 g; Aug: RP 1,500 g; Oct: Mix B 2,250 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: NIL (PA 2/2026)
+  - Census Nov 2025: 6.0% (Agro 1/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 23.09 t/ha; 2025 20.29 t/ha; difference -12.1% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 21.55 t/ha; 2024 23.09 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2011 planting: Jun 2025 15.8 kg (15,800 g); Jun 2026 17.4 kg (17,400 g) (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.5-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.7 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Harvester pay 2026: Div 1B: rate RM40/t; 1.49 t per man-day; earning RM59.60/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): /1 18 ha, none printed; /2 94 ha, 173.31 done, balance 14.69; /3 13 ha, 24.06 done, balance 1.94; /4 15 ha, 11.60 done, balance 18.40 (PA 2/2026)
+  - Progressive pruning cost: RM0.63 per palm per year (PA 2/2026)
+  - Condition 2025: Little progress in P11E1 (Agro) (Agro 1/2026)
+Nutrients:
+  - Soil: Sandy patches, leaching (Agro) (Agro 1/2026)
+Field:
+  - Soil: Sandy patches (Agro 1/2026)
+
+BLOCK PM16F (24 ha, planted 2016, Mature)
+Manuring progress:
+  - Mix B R1, 2,250 g (147 bags): Applied 2.3.26 (PA 2/2026)
+  - Kieserite, Feb, 750 g (49 bags): No date (PA 2/2026)
+  - Mix B R2, Apr, 2,250 g (147 bags): Applied 25.6.26-26.6.26 (PA 2/2026)
+  - RP, Aug, 1,500 g (98 bags): Scheduled Aug (Agro programme says 1,750 g) (PA 2/2026)
+  - Carry-forward from 2025: Mix B 2,250 g (Oct) was incomplete at end 2025 (Agro Table 4) (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Feb/Jun/Oct; completed Mar; circles due for spraying (photo). Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): programmed Jan; completed Feb, Jun (PA 2/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Jan: Mix B 2,250 g (carry-forward); Feb: kieserite 750 g; Apr: Mix B 2,250 g; Jul: Mix B 2,250 g; Aug: RP 1,750 g; Oct: Mix B 2,250 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Jan: Mix B 2,250 g; Feb: kieserite 750 g; Apr: Mix B 2,250 g; Jul: Mix B 2,250 g; Aug: RP 1,750 g; Oct: Mix B 2,250 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: 4.0% Jan (PA 2/2026)
+  - Census Dec 2025: 4.0% (Agro 1/2026)
+  - Notes: Rat attack noticeable; abnormal palms to poison (Agro) (Agro 1/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 20.71 t/ha; 2025 19.83 t/ha; difference -4.2% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 19.02 t/ha; 2024 20.71 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2016 planting: Jun 2025 10.7 kg (10,700 g); Jun 2026 13.1 kg (13,100 g) (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.5-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.48 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Harvester pay 2026: Div 1A: rate RM37/t; 1.14 t per man-day; earning RM42.18/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): No values printed (PA 2/2026)
+  - Progressive pruning cost: RM0.51 per palm per year (PA 2/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: Mg suboptimal, especially in short palm areas; orange fronds due to low soil Mg/CEC; no analysis table printed (Agro 1/2026)
+
+BLOCK PM17G (36 ha, planted 2017, Mature)
+Manuring progress:
+  - Mix B R1, 2,250 g (220 bags): Applied 3.3.26-5.3.26 (PA 2/2026)
+  - Kieserite, Feb, 750 g (73 bags): No date (PA 2/2026)
+  - Mix B R2, Apr, 2,250 g (220 bags): Applied 24.6.26 (PA 2/2026)
+  - RP, Aug, 1,500 g (147 bags): Scheduled Aug (Agro programme says 1,750 g) (PA 2/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Feb/Jun/Oct; completed Mar; circles due for spraying (photo). Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): programmed Feb; completed Feb, May, Jun (PA 2/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Jan: Mix B 2,250 g (carry-forward); Feb: kieserite 750 g; Apr: Mix B 2,250 g; Jul: Mix B 2,250 g; Aug: RP 1,750 g; Oct: Mix B 2,250 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme: Jan: Mix B 2,250 g; Feb: kieserite 750 g; Apr: Mix B 2,250 g; Jul: Mix B 2,250 g; Aug: RP 1,750 g; Oct: Mix B 2,250 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: 4.0% Jan (PA 2/2026)
+  - Census Dec 2025: 4.0% (Agro 1/2026)
+  - Notes: Rat attack noticeable; abnormal palms to poison (Agro) (Agro 1/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 21.88 t/ha; 2025 19.97 t/ha; difference -8.7% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 22.37 t/ha; 2024 21.88 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2017 planting: Jun 2025 6.0 kg (6,000 g); Jun 2026 12.7 kg (12,700 g). PA calls this increase odd and needing investigation (PA 2/2026)
+Harvesting:
+  - Rounds per month 2025: 1.0-2.0 (Agro Table 5) (Agro 1/2026)
+  - Harvester productivity 2025 mean: 1.58 t per man-day (Agro Table 6) (Agro 1/2026)
+  - Harvester pay 2026: Div 1A: rate RM37/t; 1.29 t per man-day; earning RM47.73/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): No values printed (PA 2/2026)
+  - Progressive pruning cost: RM0.51 per palm per year (PA 2/2026)
+  - Condition 2025: Under-pruned (Agro) (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: Mg suboptimal, especially in short palm areas; orange fronds due to low soil Mg/CEC; no analysis table printed (Agro 1/2026)
+
+BLOCK PM19H (193 ha, planted 2019, Young mature)
+Manuring progress:
+  - Mix B R1, 2,250 g (1,181 bags): Applied 24.3.26-11.4.26 (PA 2/2026)
+  - Kieserite, Mar, 750 g (394 bags): No date (PA 2/2026)
+  - Mix B R2, Apr, 2,250 g (1,181 bags): Applied 12.6.12 (as printed, typo)-24.6.26 (PA 2/2026)
+  - RP, Jun, 2,000 g (1,050 bags): Scheduled Jun (PA 2/2026)
+  - Carry-forward from 2025: Mix B 2,000 g (Oct) incomplete at end 2025 (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): programmed Feb/May/Aug/Nov; completed Jan, Feb, May. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): completed Feb, Apr, May, Jun (PA 2/2026)
+  - Weeds: Large VOPs in P19 (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Jan: Mix B 2,000 g (carry-forward); Mar: kieserite 750 g; Apr: Mix B 2,250 g; Jun: RP 2,000 g; Jul: Mix B 2,250 g; Oct: Mix B 2,250 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme (PM19A/B in 2025 report): Jan: Mix B 2,000 g; Feb: kieserite 500 g; Apr: Mix B 2,000 g; Jul: Mix B 2,000 g; Aug: RP 2,000 g; Oct: Mix B 2,000 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: /1 4.0% Jan; /2 11.0% Jun (PA 2/2026)
+  - Baiting Jun 2026: 128.66 ha. One round not sufficient; rat damage extensive (PA 2/2026)
+  - Baiting 2025: 60.0 ha Apr and 60.0 ha Jul (Agro 1/2026)
+  - Census 2025: /2 6.31% Dec 2025 (Agro 1/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 15.71 t/ha; 2025 18.21 t/ha; difference +15.9% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 13.74 t/ha; 2024 15.71 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2019 planting: Jun 2025 8.2 kg (8,200 g); Jun 2026 8.3 kg (8,300 g) (PA 2/2026)
+Harvesting:
+  - Harvester pay 2026: Div 1A: RM69/t, 1.39 t, RM95.91/day; Div 1B: RM74/t, 1.39 t, RM102.86/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): /1 60 ha, 97.79 done, balance 22.21; /2 133 ha, 243.54 done, balance 22.46 (PA 2/2026)
+  - Progressive pruning cost: RM0.51 per palm per year (PA 2/2026)
+  - Condition 2025: Slight over-pruning (Agro) (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: Leaf Mg below range in P19, P20 and P21; no analysis table printed (Agro 1/2026)
+
+BLOCK PM20I (220 ha, planted 2020, Young mature)
+Manuring progress:
+  - Mix B R1, 2,000 g (1,197 bags): Applied 15.5.26-30.5.26 (PA 2/2026)
+  - Kieserite, Feb, 500 g (299 bags): No date (PA 2/2026)
+  - Mix B R2, Apr, 2,000 g (1,197 bags): No date (PA 2/2026)
+  - RP, May, 2,000 g (1,197 bags): Scheduled May (PA 2/2026)
+  - Carry-forward from 2025: Mix B 2,000 g (Nov) incomplete at end 2025 (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): 4 rounds budgeted; completed Jan-May and Nov; circles due. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): 4 rounds budgeted; completed Jan, Feb, Mar, Apr, May (PA 2/2026)
+  - Weeds: Woodies (PA) (PA 2/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Jan: Mix B 2,000 g (carry-forward); Feb: kieserite 500 g; Apr: Mix B 2,000 g; May: RP 2,000 g; Jul: Mix B 2,250 g; Oct: Mix B 2,250 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme (PN20 in 2025 report): Feb: Mix B 1,750 g; Mar: kieserite 500 g; May: Mix B 1,750 g; Jul: RP 2,000 g; Aug: Mix B 1,750 g; Nov: Mix B 2,000 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: /1 4.0% Jan; /2 4.0% Jan (PA 2/2026)
+  - Baiting 2025: 140.0 ha Apr and 73.0 ha Oct (Agro 1/2026)
+  - Runts: Runt palms to poison (PA photo) (PA 2/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 3.93 t/ha; 2025 7.63 t/ha; difference +94.0% (Agro 1/2026)
+  - Full year 2024 vs 2023: 2023 2.18 t/ha; 2024 3.93 t/ha (Agro 1/2025)
+  - Bunch weight Jun 2025 vs Jun 2026: 2020 planting: Jun 2025 4.2 kg (4,200 g); Jun 2026 6.2 kg (6,200 g) (PA 2/2026)
+Harvesting:
+  - Harvester pay: No rate row printed (PA 2/2026)
+  - Mucuna: Overgrowth blocks harvest (Agro 2025) (Agro 1/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): /1 117 ha, 160.00 done, balance 74.00; /2 103 ha, none printed (PA 2/2026)
+  - Progressive pruning cost: RM0.44 per palm per year (PA 2/2026)
+  - Condition 2025: Slight over-pruning (Agro) (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: Leaf Mg below range in P19, P20 and P21; no analysis table printed (Agro 1/2026)
+  - Mg deficiency: In terraces (Agro 2025) (Agro 1/2026)
+
+BLOCK PM21J (243 ha, planted 2021, Young mature)
+Manuring progress:
+  - Mix B R1, 1,750 g (1,157 bags): Applied 22.4.26-6.5.26 (PA 2/2026)
+  - Kieserite, Feb, 500 g (330 bags): No date (PA 2/2026)
+  - Mix B R2, Apr, 2,000 g (1,322 bags): No date (PA 2/2026)
+  - RP, May, 2,000 g (1,322 bags): Dates 31.3.26-21.4.26 appear in this row, likely misaligned (PA 2/2026)
+  - Carry-forward from 2025: Mix B 1,750 g (Nov) incomplete at end 2025 (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): 4 rounds budgeted; programmed Jan/Mar/Apr/Jun/Sep/Dec; completed Jan, Feb, May. Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): 4 rounds budgeted; printed as Jan, Mar, then Apr, Jul (as printed) (PA 2/2026)
+  - Weeds: Nephrolepis obstructive in terraces (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - Programme: Jan: Mix B 1,750 g (carry-forward); Feb: kieserite 500 g; Apr: Mix B 2,000 g; May: RP 2,000 g; Jul: Mix B 2,000 g; Oct: Mix B 2,000 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme (PN21 in 2025 report): Feb: Mix B 1,500 g; Mar: kieserite 500 g; May: Mix B 1,750 g; Jul: RP 2,000 g; Aug: Mix B 1,750 g; Nov: Mix B 1,750 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: /1 9.5% Jun; /2 NIL (PA 2/2026)
+  - Baiting Jun 2026: 91.90 ha (PA 2/2026)
+  - Baiting 2025: 125.0 ha May (Agro 1/2026)
+  - Census 2025: 7.9% Dec 2025 (Agro 1/2026)
+  - Cattle: Intrusion defoliating lower fronds (2025) (Agro 1/2026)
+Yield:
+  - Full year 2025 vs 2024: 2024 1.24 t/ha; 2025 4.19 t/ha; difference +237.6% (Agro 1/2026)
+  - Bunch weight Jun 2025 vs Jun 2026: 2021 planting: Jun 2025 2.4 kg (2,400 g); Jun 2026 4.3 kg (4,300 g) (PA 2/2026)
+Harvesting:
+  - Harvester pay 2026: Div 1B: rate RM94/t; 1.08 t per man-day; earning RM101.52/day (basic wage RM65.38) (PA 2/2026)
+Pruning:
+  - Progressive pruning to Jun 2026 (ha done / 4-round programme): /1 131 ha, 212.70 done, balance 49.30; /2 112 ha, 80.61 done, balance 143.39 (PA 2/2026)
+  - Progressive pruning cost: RM0.88 per palm per year (PA 2/2026)
+  - Young mature 2025: 50% complete (Agro) (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: Leaf Mg below range in P19, P20 and P21; no analysis table printed (Agro 1/2026)
+
+BLOCK PR22K (180 ha, planted 2022, Young mature)
+Manuring progress:
+  - Mix B R1, 1,500 g (734 bags): Applied 2.6.26-30.6.26 (PA 2/2026)
+  - Kieserite, Mar, 500 g (245 bags): No date (PA 2/2026)
+  - Mix B R2, May, 1,500 g (734 bags): Scheduled May (PA 2/2026)
+  - RP, Jun, 2,000 g (979 bags): Scheduled Jun (PA 2/2026)
+  - Mg deficiency: Spots on terraces: apply EFB at the palm base (PA 2/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): 6 rounds budgeted; completed Apr, May, Jun, Jul (as printed). Rate RM37/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): 6 rounds budgeted; completed Jan, Feb, Mar, May, Jun (PA 2/2026)
+  - Weeds: Woodies and Asystasia (PA); Asystasia, Clidemia, Hedyotis, wild brinjal where MB absent (Agro 2025) (PA 2/2026)
+Fertiliser programme (this year) 2026:
+  - K1: Feb: Mix B 1,500 g; Mar: kieserite 500 g; May: Mix B 1,500 g; Jun: RP 2,000 g; Aug: Mix B 1,750 g; Nov: Mix B 1,750 g (Agro 1/2026)
+  - K2: Same as K1 but Aug: Mix B 1,500 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - K1, K2 (PN22 in 2025 report): Feb: Mix B 1,500 g; Apr: kieserite 500 g; May: Mix B 1,500 g; Jul: RP 2,000 g; Aug: Mix B 1,500 g; Nov: Mix B 1,500 g (Agro 1/2025)
+Pests & diseases:
+  - Rat census Jan-Jun 2026: 8.3% Jun (PA 2/2026)
+  - Baiting Jun 2026: 73.52 ha (PA 2/2026)
+Yield:
+  - Harvest 2025: Only 12 harvest rounds in 2025 (target 24); no yield figure printed (Agro 1/2026)
+Harvesting:
+  - Harvester pay: No rate row printed (PA 2/2026)
+Pruning:
+  - Progressive pruning cost: RM0.44 per palm per year (PA 2/2026)
+Nutrients:
+  - Mg deficiency: Terraces; orange fronds reduced after annual kieserite (Agro) (Agro 1/2026)
+Field:
+  - Vacancies: 458 vacant points in K1 (2025); vacancies on terraces (Agro). Declared mature in 2026; thinning of runts and basal pruning required (PA ED comment) (PA 2/2026)
+
+BLOCK PR23L (176 ha, planted 2023, Immature)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): 6 rounds budgeted; completed Jan, Mar, Apr, May, Jun, Jul (as printed). Rate RM41/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): 6 rounds budgeted; completed Jan, Mar, Jun (PA 2/2026)
+  - Immature spraying Jun 2026: Circle 342 ha (2 rounds) = 65% of 528 ha (3 rounds); selective 341 ha = 65% of 528 ha. Circles clean; inter-row VOPs and woodies need cleaning (PA 2/2026)
+  - Weeds: Asystasia, Clidemia, Hedyotis, wild brinjal where MB absent (Agro 2025) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - L1: Feb: Compound 1,500 g; May: Compound 1,500 g; Jul: RP 1,750 g; Aug: Mix B 1,500 g; Nov: Mix B 1,500 g (Agro 1/2026)
+  - L2: Feb: Compound 1,000 g; May: Compound 1,200 g; Jul: RP 1,750 g; Aug: Compound 1,200 g; Nov: Compound 1,500 g (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - L1: Jan: Compound 1,000 g; Apr: Compound 1,000 g; Jun: RP 1,750 g; Jul: Compound 1,200 g; Oct: Compound 1,200 g (Agro 1/2025)
+  - L2: Apr: Compound 800 g; Jun: RP 1,750 g; Jul: Compound 900 g; Oct: Compound 1,000 g (Agro 1/2025)
+Pests & diseases:
+  - Pests: Symptoms of rat and Oryctes; census needed (PA) (PA 2/2026)
+Field:
+  - Maturity: PR23L2 palms smaller (planting deferred to Q2 2024). Scout harvest July 2026 (Agro planned Mar). Basal pruning not started, expected October, to finish by December. No supplying done to date; must complete this year. Block becomes mature in 2027 (PA: 'declared mature in 2027') (PA 2/2026)
+  - Vacancies: Vacancies on terraces (Agro) (Agro 1/2026)
+Other:
+  - Cost to Jun 2026: Upkeep RM99,800 vs budget to date RM188,136 (RM567.05/ha vs RM1,068.95/ha); expenditure from start RM1,800,374 (RM10,269.51/ha incl. felling RM1,204,545) (PA 2/2026)
+
+BLOCK PR25M (108 ha, planted 2024/25, Immature)
+Manuring progress:
+  - Quality 2026: Acceptable (Agro Jan 2026) (Agro 1/2026)
+Spraying & weeding:
+  - Circle spray 2026 (PA Jun 2026): 8 rounds budgeted; completed Apr, May, Jun. Rate RM41/ha (PA 2/2026)
+  - Selective spray 2026 (PA Jun 2026): 8 rounds budgeted; completed Jan, Apr, May, Jun (PA 2/2026)
+  - Immature spraying Jun 2026: Circle 228 ha (2 rounds) = 70% of 324 ha (3 rounds); selective 233 ha (2.2 rounds) = 72% of 324 ha. Inter-rows unsatisfactory; woodies to be poisoned with Garlon and diesel (PA 2/2026)
+  - Weeding 2025: 5 of 8 rounds done (about 70%) (Agro 1/2026)
+  - Cover crop: LCC planting 88% Mucuna and 83% CM, establishment unsuccessful (Agro Jan 2026) (Agro 1/2026)
+Fertiliser programme (this year) 2026:
+  - M1 (planted H1 2025): Jan: Compound 1,000 g; Apr: Compound 1,000 g; Jun: RP 1,500 g; Jul: Compound 1,000 g; Oct: Compound 1,200 g (Agro 1/2026)
+  - M2 (planted H2 2025): Jul: Compound 900 g; Sep: RP 1,500 g; Oct: Compound 1,000 g (Agro 1/2026)
+  - At planting: CRF 600 g and RP 500 g per planting hole (Agro 1/2026)
+Fertiliser programme (previous year) 2025:
+  - Programme (PR24M in 2025 report): Planting hole: CRF 600 g and RP 500 g; Aug: Compound 800 g; Sep: RP 1,500 g; Nov: Compound 900 g (Agro 1/2025)
+Pests & diseases:
+  - Oryctes: Minimal, no spray (PA) (PA 2/2026)
+Field:
+  - Planting progress (Agro Table 10, Jan 2026): Felling 100%; terracing 100%; lining 100%; holing 12,159 of 14,688 (83%); planting 12,159 (83%); blanket spray 100%; Mucuna 28,500 of 32,400 (88%); CM 90 of 108 (83%) (Agro 1/2026)
+  - Planting by month (Table 11): Dec 2024 520; Jan 2025 1,520; Feb 1,154; Mar 690; Apr 1,380; May 500; Jun 450; Jul 1,200; Aug 545; Oct 1,000; Dec 3,200 palms (Agro 1/2026)
+  - SPH and vacancies: SPH 134 (Jan 2026); 900 points unfilled (para 2.6) versus 2,529 unplanted in Table 10 (do not agree). Split into M1 (Dec-Jun 2025) and M2 (Jul 2025-Jan 2026) for foliar sampling. PA Jun 2026: vacant points seen; census and supplying advised (Agro 1/2026)
+  - Cost to Jun 2026: Upkeep RM61,874 vs RM133,542 budget (RM572.91/ha); felling and clearing RM51,796; total RM113,670 (RM1,052.50/ha); expenditure from start RM884,887 (RM8,193.40/ha) (PA 2/2026)

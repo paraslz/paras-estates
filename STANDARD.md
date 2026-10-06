@@ -56,7 +56,13 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
      printed full-year tonnage.
   3. Block yield vs estimate/last year, cost per tonne vs budget, field programme progress.
   4. Key takeaways, then "At a glance" tiles — at the BOTTOM.
-- **Blocks:** clickable block tiles + table; yields carry the block period and source.
+- **Blocks:** no tiles. A block dropdown with ‹ › buttons, then the block card (area, SPH, planted,
+  yield with period) and the FULL report detail for that block (`blocks[].detail`), in folds:
+  Manuring progress, Spraying & weeding, Fertiliser programme (this year AND previous year, plus next
+  year if printed), Pests & diseases (open by default), then Yield & crop, Harvesting, Pruning,
+  Leaf & soil nutrients, Field condition, Other. Each row = label, source tag, finding with figures and
+  period. A line lists sections the reports don't cover. "Estate-wide field notes" fold below
+  (`blockEstateWide`), then the "All blocks" yield table (collapsed). Aim: everything the reports say.
 - **Money:**
   - "Operating cost per tonne FFB" table (header "RM per t FFB"), full line-by-line breakdown from
     `costDetail` (Harvest & collection → harvesting, transport…; Upkeep & cultivation → weeding,
