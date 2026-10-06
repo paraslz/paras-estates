@@ -1,7 +1,7 @@
 PARAS ESTATE REPORT PACK — Ladang Insan Jaya
 Company: Insan Jaya Sendirian Berhad · Group: Prosper
 Latest reports: PA Report 1/2026 (visit 2026-04-08); Agronomy Report 1/2026 (Darabif & Insan Jaya) (visit 2026-02-10)
-Dashboard: https://paras-estates.netlify.app/estate.html?e=insan-jaya
+Dashboard: https://prosper-paras.netlify.app/estate.html?e=insan-jaya
 Full reports (Google Drive): https://drive.google.com/drive/folders/15lMDHZLz0ITx4dpOsXXzd4l2ujfFD-xI
 Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
 

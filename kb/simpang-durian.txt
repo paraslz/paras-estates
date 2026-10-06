@@ -1,7 +1,7 @@
 PARAS ESTATE REPORT PACK — Simpang Durian Estate
 Company: Ria Gemilang Sdn Bhd · Group: Prosper
 Latest reports: PA Report 1/2026 (visit 2026-04-20); Agronomy Report 1/2026 (visit 2026-02-25)
-Dashboard: https://paras-estates.netlify.app/estate.html?e=simpang-durian
+Dashboard: https://prosper-paras.netlify.app/estate.html?e=simpang-durian
 Full reports (Google Drive): https://drive.google.com/drive/folders/1N2rvusO5vbcPTzctKf-JQqxFmbDcvnTd
 Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
 

@@ -33,7 +33,7 @@ for f in sorted(glob.glob("data/*.json")):
     txt = f"""PARAS ESTATE REPORT PACK — {d['name']}
 Company: {d.get('company') or '-'} · Group: {d.get('group') or '-'}
 Latest reports: {src or '-'}
-Dashboard: https://paras-estates.netlify.app{d.get('page') or '/estate.html?e=' + d['slug']}
+Dashboard: https://prosper-paras.netlify.app{d.get('page') or '/estate.html?e=' + d['slug']}
 Full reports (Google Drive): {d.get('folder') or '-'}
 Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
 

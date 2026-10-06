@@ -1,7 +1,7 @@
 PARAS ESTATE REPORT PACK — Ladang Nuklias 6
 Company: Innomakmur Sdn Bhd (Kema); Accent Palm Sdn Bhd (Timur A); Promvest Sdn Bhd (Timur B) · Group: Prosper
 Latest reports: PA Report 1/2026 - Timur A & B (visit 2026-06-10); PA Report 1/2026 - Kema Division (visit 2026-06-09); Agronomy Report 1/2026 (visit 2026-05-14)
-Dashboard: https://paras-estates.netlify.app/estate.html?e=nuklias-6
+Dashboard: https://prosper-paras.netlify.app/estate.html?e=nuklias-6
 Full reports (Google Drive): https://drive.google.com/drive/folders/1-puu8v6ktP1umP0MctSvMf2WxAs4363I
 Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
 
