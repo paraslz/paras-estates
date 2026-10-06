@@ -1,0 +1,505 @@
+{
+ "slug": "semai-sempurna",
+ "name": "Ladang Sempurna",
+ "company": "Semai Sempurna Sdn Bhd",
+ "group": "Prosper",
+ "manager": "Mr. Wong Kok Cheng (Estate Manager, rejoined Apr 2026); Mr. Lee Chong Yew (General Manager)",
+ "advisors": {
+  "pa": "Mr. Boey Chee Weng",
+  "agro": "En. Muhammad Nurhafizi Zahari (Junior Agronomist) / Mr. Chong Kuan Ming (Senior Agronomist)"
+ },
+ "reports": {
+  "pa": {
+   "title": "PA Report 2/2026",
+   "visit": "2026-08-11",
+   "period": "Jan–Jun 2026",
+   "costTo": "Jun 2026",
+   "url": "https://drive.google.com/file/d/1zk80T3QlWH_rKA9i42KSc45IiSF5EWUA/view"
+  },
+  "agro": {
+   "title": "Agronomy Report 2/2026",
+   "visit": "2026-07-08",
+   "url": "https://drive.google.com/file/d/1JsM6NKz7EyssvZoLM87YKo6DzldKB7wr/view"
+  }
+ },
+ "area": {
+  "title": 683.94,
+  "planted": 668.4,
+  "mature": 668.4,
+  "immature": null,
+  "replant": null,
+  "nursery": null
+ },
+ "kpi": {
+  "ffb": 5829.97,
+  "ffbBudget": 7380.0,
+  "ffbPeriod": "Jan–Jun 2026",
+  "yph": 8.72,
+  "yphBudget": 11.04,
+  "yphPrevSame": 10.22,
+  "cop": 265.22,
+  "copBudget": 243.01,
+  "copPeriod": "Jan–Jun 2026",
+  "gcHa": 586.07,
+  "gcHaBudget": 662.74,
+  "ucHa": 1003.09,
+  "ucHaBudget": 1108.18,
+  "hcT": 80.47,
+  "hcTBudget": 87.91,
+  "workers": 32,
+  "workersReq": 40,
+  "harvesters": 23,
+  "harvestersReq": 28,
+  "harvestInterval": "15 days (PA, Aug 2026); 11–14 days in Jun 2026 (Agro Table 5)",
+  "manuringPct": 59,
+  "manuringNote": "571.00 of 959.85 mt (Agro Table 4, to Jun 2026; total row does not match its 3 product rows); PA: 13 of 15 rounds",
+  "circlePct": 100,
+  "selectivePct": 95,
+  "pruningPct": 100
+ },
+ "costParts": [
+  {
+   "name": "General charges",
+   "actual": 67.19,
+   "budget": 60.02
+  },
+  {
+   "name": "Upkeep & cultivation",
+   "actual": 117.56,
+   "budget": 95.08
+  },
+  {
+   "name": "Harvest & collection",
+   "actual": 80.47,
+   "budget": 87.91
+  }
+ ],
+ "upkeep": [
+  {
+   "item": "Weeding",
+   "actual": 109.99,
+   "budget": 112.5
+  },
+  {
+   "item": "Manuring",
+   "actual": 746.7,
+   "budget": 751.6
+  },
+  {
+   "item": "Pest & diseases",
+   "actual": 20.85,
+   "budget": 30.57
+  },
+  {
+   "item": "Census & thinning out",
+   "actual": 5.72,
+   "budget": 4.7
+  },
+  {
+   "item": "Drains",
+   "actual": 4.41,
+   "budget": 26.88
+  },
+  {
+   "item": "Roads (recalculated from RM amounts)",
+   "actual": 80.78,
+   "budget": 58.5
+  },
+  {
+   "item": "Bridges",
+   "actual": 8.07,
+   "budget": 14.91
+  },
+  {
+   "item": "Boundaries/survey/fences",
+   "actual": 0.54,
+   "budget": 0.54
+  },
+  {
+   "item": "Pruning",
+   "actual": 48.31,
+   "budget": 49.55
+  }
+ ],
+ "labour": [
+  {
+   "cat": "Harvester",
+   "actual": 23,
+   "req": 28
+  },
+  {
+   "cat": "Drivers / loaders",
+   "actual": 2,
+   "req": 3
+  },
+  {
+   "cat": "Weeder (sprayer)",
+   "actual": 3,
+   "req": 4
+  },
+  {
+   "cat": "Manurer",
+   "actual": 3,
+   "req": 4
+  },
+  {
+   "cat": "Mandore",
+   "actual": 0,
+   "req": 0
+  },
+  {
+   "cat": "General worker",
+   "actual": 1,
+   "req": 1
+  }
+ ],
+ "blocks": [
+  {
+   "id": "P06A",
+   "ha": 173.9,
+   "sph": 120,
+   "planted": "2006",
+   "status": "Mature",
+   "ytd": 8.97,
+   "est": null,
+   "prevYtd": 8.8,
+   "fert": "2027: Mix A 2000 g (Feb, Aug) + Mix B 2000 g (May, Nov) + RP 1500 g (Jun)",
+   "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Jan–Jun 2026 8.97 vs 8.80 t/ha (+1.93%); the only block up on last year."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Worst Ganoderma: 4,660 of 20,868 palms (22.33%) infected or collapsed in the 2024 census; vacant areas grow broadleaf weeds."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Circle raking needed, VOPs and fractured fronds seen; fronds in flood-prone A3 to be restacked; rat damage 12%."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Leaf Mg out of range; P low in P06A1; palm count fell from 22,046 to 20,868 (SPH 120)."
+    }
+   ]
+  },
+  {
+   "id": "P09B",
+   "ha": 202.4,
+   "sph": 126,
+   "planted": "2009",
+   "status": "Mature",
+   "ytd": 7.2,
+   "est": null,
+   "prevYtd": 8.98,
+   "fert": "2027: Mix A 2250 g (Feb, Aug) + Mix B 2250 g (May, Nov) + RP 1500 g (Jun)",
+   "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Jan–Jun 2026 7.20 vs 8.98 t/ha (-19.82%); lowest yield of the five blocks."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Second selective spraying round only 83% done (133.60 of 202.40 ha); VOPs and rat damage seen."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Rat damage 15% (Apr), 17% (Jun after baiting); Ganoderma rising per Agro text (84 palms, 0.33% in 2024 census)."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Waterlogging in P09B1 no longer a concern."
+    }
+   ]
+  },
+  {
+   "id": "P10C",
+   "ha": 139.2,
+   "sph": 131,
+   "planted": "2010",
+   "status": "Mature",
+   "ytd": 8.29,
+   "est": null,
+   "prevYtd": 10.1,
+   "fert": "2027: Mix B 2250 g (Jan, Apr, Jul, Oct) + RP 1500 g (Jun)",
+   "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Jan–Jun 2026 8.29 vs 10.10 t/ha (-17.92%)."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Neglected part of C2 under corrective pruning, about 50% done, due July 2026."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Selective deboling of Ganoderma palms under way here; rat damage 15% (Apr), 14% (Jun)."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Barn owl box occupancy 36% (5 of 14)."
+    }
+   ]
+  },
+  {
+   "id": "P11D",
+   "ha": 72.8,
+   "sph": 129,
+   "planted": "2011",
+   "status": "Mature",
+   "ytd": 10.24,
+   "est": null,
+   "prevYtd": 12.9,
+   "fert": "2027: Mix B 2500 g (Jan, Jul) + Mix B 2250 g (Apr, Oct) + RP 1500 g (Jun)",
+   "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Jan–Jun 2026 10.24 vs 12.90 t/ha (-20.62%)."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Only block short on rounds: 11 of 12 (91.66%) to June."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Rat damage 13% (Apr) rising to 19% (Jun, after baiting); Ganoderma 158 palms (1.69%, 2024 census)."
+    }
+   ]
+  },
+  {
+   "id": "P11E",
+   "ha": 80.1,
+   "sph": 126,
+   "planted": "2011",
+   "status": "Mature",
+   "ytd": 11.42,
+   "est": null,
+   "prevYtd": 14.22,
+   "fert": "2027: Mix B 2500 g + KIE 750 g (Jan) + Mix B 2250 g (Apr, Oct) + Mix B 2500 g (Jul) + RP 1750 g (Jun)",
+   "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Best yield: Jan–Jun 2026 11.42 vs 14.22 t/ha (about -19.7%; report prints -16.69%)."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Leaf Mg out of range; P marginally low in P11E3."
+    },
+    {
+     "src": "Agro 2/2026",
+     "text": "Rat damage 19% (Apr; PA shows 18%), 18% (Jun); Ganoderma 130 palms (1.29%, 2024 census)."
+    }
+   ]
+  }
+ ],
+ "yieldHistory": [
+  {
+   "year": 2022,
+   "yph": 23.83
+  },
+  {
+   "year": 2023,
+   "yph": 18.2
+  },
+  {
+   "year": 2024,
+   "yph": 25.36
+  },
+  {
+   "year": 2025,
+   "yph": 22.18
+  }
+ ],
+ "rainfall": [
+  {
+   "year": 2022,
+   "mm": 2394.0,
+   "days": 135
+  },
+  {
+   "year": 2023,
+   "mm": 2044.5,
+   "days": 101
+  },
+  {
+   "year": 2024,
+   "mm": 1940.5,
+   "days": 117
+  },
+  {
+   "year": 2025,
+   "mm": 2196.0,
+   "days": 85
+  }
+ ],
+ "summary": [
+  "Jan–Jun 2026 yield 8.72 t/ha vs 11.04 budget (-21%) and 10.22 last year (-14.68%); FFB 5,829.97 t (Agro, PA).",
+  "Four of five blocks are down 17–21% on last year; only P06A rose (+1.93%). Cause given: harvester shortage (23 vs 28 in June, 20 on 8 July), low-crop season and dry spells (PA).",
+  "Cost Jan–Jun 2026 RM265.22/t vs RM243.01 budget to date (+9%); upkeep is the big overrun at RM117.56/t vs RM95.08 (PA).",
+  "Rat damage 12–19% is above the 10% threshold; Ganoderma hit 6.04% of palms in the 2024 census (22.33% in P06A) and no new census has been done (Agro, PA).",
+  "Manuring is on schedule per Agro (59% of tonnage to June, Mix B rounds on time); PA says 13 of 15 rounds done and blames late rock phosphate."
+ ],
+ "issues": [
+  {
+   "sev": "bad",
+   "title": "Last year's full-year FFB differs between reports",
+   "detail": "PA 2/2026 section 8 shows last year's 12-month FFB as 16,373.00 t (24.50 t/ha). Agro 2/2026 Appendix 3(a) gives 2025 as 14,823.53 t (22.18 t/ha). Jan–Jun 2025 agrees in both (6,832.51 t)."
+  },
+  {
+   "sev": "bad",
+   "title": "Upkeep RM/ha misprinted for roads; totals follow",
+   "detail": "PA section 6 prints roads at RM58.50/ha actual and RM116.93 budget. From the RM amounts, actual is 53,994 / 668.40 = RM80.78 and budget to date 39,102 / 668.40 = RM58.50. Printed totals RM1,003.09 actual and RM1,108.18 budget should be about RM1,025.37 and RM1,049.85, so roads are over budget, not under."
+  },
+  {
+   "sev": "warn",
+   "title": "Harvesting RM/t: 80.35 vs 80.47",
+   "detail": "PA section 7 total is RM80.35/t (components sum to it; RM468,427 / 5,829.97 t). PA section 9 cost of production uses RM80.47, giving RM265.22/t; with 80.35 it would be RM265.10."
+  },
+  {
+   "sev": "warn",
+   "title": "Agro manuring table total does not add up",
+   "detail": "Agro Table 4 total row: 959.85 mt required, 571.00 applied (59%). The three product rows (Mix B, CIRP, Mix A) sum to 789.80 required and 436.90 applied (55%). A product row may be missing."
+  },
+  {
+   "sev": "warn",
+   "title": "Manuring delay: PA vs Agro",
+   "detail": "PA 6.4: 13 of 15 rounds done, delay due to late rock phosphate. Agro 3.1: no delay over one month, CIRP only slightly late in P06A and P09B, and 41.90 mt RP in store."
+  },
+  {
+   "sev": "warn",
+   "title": "Harvester numbers differ by date",
+   "detail": "PA (Jun 2026): 23 harvesters vs 28 required. Agro 4.1.3 (visit 8 Jul 2026): 20 harvesters, about 70% of 28."
+  },
+  {
+   "sev": "warn",
+   "title": "Harvesting interval: 15 days vs 11–14 days",
+   "detail": "PA 7.3 says the interval averaged 15 days. Agro Table 5 shows 11–14 days in June 2026, and the Agro comment column says 11 to 12 days."
+  },
+  {
+   "sev": "warn",
+   "title": "P11E yield change misprinted",
+   "detail": "Agro Table 9 shows P11E -16.69% (14.22 to 11.42 t/ha). The figures give -19.69%."
+  },
+  {
+   "sev": "warn",
+   "title": "Basic wage RM65.38 vs RM65.89 in PA",
+   "detail": "PA 6.2.4 quotes a daily basic wage of RM65.38; the PA harvesting rates table uses RM65.89."
+  },
+  {
+   "sev": "warn",
+   "title": "Manuring workers: adequate vs short by 1",
+   "detail": "PA 3.4 says manuring workers were adequate as at July. The PA labour table shows 3 manurers vs 4 required."
+  },
+  {
+   "sev": "warn",
+   "title": "Rat census figures differ",
+   "detail": "PA has P11E at 18% (1,779 of 10,092 palms); Agro Table 6 has 19% in April. Agro's June post-baiting census (P09B 17%, P11D 19%) is higher than April (15%, 13%) although Agro says fresh damage fell."
+  },
+  {
+   "sev": "warn",
+   "title": "Wrong block name and palm counts",
+   "detail": "Agro comment column calls the corrective pruning area P09C2; the text says P10C2 (no P09C block exists). PA rat table palm counts total 84,088 vs Agro 84,058 (P11D 9,391 vs 9,359)."
+  },
+  {
+   "sev": "warn",
+   "title": "Rock phosphate stock does not tie",
+   "detail": "Agro Table 4: 99.90 mt received less 54.10 mt applied = 45.80 mt, but Agro 3.3 says 41.90 mt in store."
+  },
+  {
+   "sev": "warn",
+   "title": "PA table typos",
+   "detail": "PA 6.7 grading total printed as 7,800 chains vs 780 budgeted; PA area table prints total estate hectarage as 15.54 (1.23%) instead of 683.94 ha (100%)."
+  }
+ ],
+ "actions": [
+  {
+   "item": "Recruit harvesters (23 vs 28 in Jun; 5 due by end Aug) and sprayers; raise workers toward 1 per 14–16 ha",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Lift harvester productivity and earnings (all below basic wage) to curb turnover",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Raise circle and selective spraying output (3 ha/man-day vs 5 and 6 targets)",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Record chemical use accurately; time and motion study of pumps per man-day",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "One round of circle raking in lieu of circle spraying; restack fronds in flood-prone areas",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Eradicate all VOPs this financial year with a dedicated selective round",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Quarterly rat damage census; bait when damage exceeds 10%",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Increase barn owl occupancy (43%); maintain boxes in P06A, P09B, P10C",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Update the Ganoderma census (annual) and the palm census (last done 2024)",
+   "src": "Agro 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Expedite deboling of Ganoderma-fallen palms (1.5 m cube), esp. P06A and P09B",
+   "src": "Agro 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Finish corrective pruning in P10C2 by July 2026; stack fronds away from circles",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Complete CIRP in July and the remaining 20.50 mt Mix B (round 3); keep within one month of schedule",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Weed vacant areas left by fallen palms (Clidemia risk), esp. P06A",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Monitor leaf magnesium, esp. P06A and P11E; re-sample",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Road grading (780 chains) and drain desilting (685 chains) not done; find a contractor",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Improve harvesting quality (long stalks seen)",
+   "src": "PA 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Spend capex (RM302,000 budget, nothing spent to June); estate says September",
+   "src": "PA 2/2026",
+   "status": "open"
+  }
+ ],
+ "kb": "LADANG SEMPURNA (company: Semai Sempurna Sdn Bhd, Prosper group). Fact pack drawn from two reports. (1) PA Report 2/2026: Planting Advisor Mr. Boey Chee Weng, visit 11 August 2026, period reviewed January to June 2026 (costs as at June 2026). (2) Agronomy Report 2/2026: Junior Agronomist En. Muhammad Nurhafizi Zahari and Senior Agronomist Mr. Chong Kuan Ming, visit 8 July 2026 (previous agronomy visit 13 January 2026), includes the 2027 fertiliser programme. General Manager Mr. Lee Chong Yew; Estate Manager Mr. Wong Kok Cheng (rejoined the company April 2026; shown as Assistant in-Charge on the report covers). Yields below are all Jan-Jun 2026 unless stated.\n\nAREA (PA 2/2026, section 2): total estate 683.94 ha. Mature oil palm 668.40 ha (97.73%); office and housing complex 15.54 ha (2.27%); unplantable 0.00 ha. No immature area is shown. No change in area statement. Blocks (field, ha, share of estate): P06A planted 2006, 173.90 ha (25%); P09B planted 2009, 202.40 ha (30%); P10C planted 2010, 139.20 ha (20%); P11D planted 2011, 72.80 ha (11%); P11E planted 2011, 80.10 ha (12%). Blocking system unchanged.\n\nPALM CENSUS (Agro 2/2026, Table 3): current total 84,058 palms, 126 SPH (previous census 88,892 palms, 133 SPH, -5%). By block: P06A 20,868 palms, 120 SPH (previous 22,046); P09B 25,503, 126 SPH; P10C 18,235, 131 SPH; P11D 9,359, 128-129 SPH; P11E 10,093, 126 SPH. Agro 2.2: the palm census data were last updated in 2024; a new census is needed because productive palm stand keeps falling due to Ganoderma, and it is needed for accurate fertiliser estimates.\n\nLABOUR (PA 2/2026, section 3, June 2026): total workers 32 against 40 required (-8). Harvesters 23 vs 28 required (-5; ratio 1:29 ha against 1:24 ha required). Drivers/loaders 2 vs 3. Weeders (sprayers) 3 vs 4. Manurers 3 vs 4. Mandore 0 vs 0. General worker 1 vs 1. May 2026 numbers were the same as June. PA: 5 new harvesters due by end August. Worker to planted ha ratio 1:21 ha; ideal for this estate 1:15 ha. PA 3.4 says manuring workers were adequate as at July although the table shows manurers 3 vs 4. Agro 2/2026 (4.1.3, visit 8 July 2026): the estate had 20 harvesters, about 70% of the 28 required; management said more would be recruited in July.\n\nSTAFF (PA 2/2026, section 4): Estate Manager Mr. Wong Kok Cheng (rejoined Apr 2026), Assistant Manager Amry B. Lamin, two Field Conductors, two office clerks. Assistant in-charge En. Norhisam was transferred to Insan Jaya Estate from April. Staff were adequate.\n\nGENERAL CHARGES (PA 2/2026, section 5, as at June 2026): actual RM391,731.69 vs budget to date RM442,974 (underspent 12%); annual budget RM885,954. Per ha: actual RM586.07, budget to date RM662.74, annual RM1,325.48. Management and supervision RM255,342.92 (RM382.02/ha) vs RM186,882 to date budget; labour and amenities RM80,542.81 vs RM124,944; other expenditure RM55,845.96 vs RM131,148. Management and supervision is over its to-date budget while labour and other items are well under.\n\nUPKEEP AND CULTIVATION (PA 2/2026, section 6, as at June 2026): actual RM685,356 vs budget to date RM701,718 (underspent 2%); annual budget RM1,403,329. Amounts RM actual / budget to date: weeding 73,514 / 75,198; manuring 499,096 / 502,368; pest and disease 13,937 / 20,430; census 3,820 / 3,144; drains 2,950 / 17,964; roads 53,994 / 39,102; bridges 5,391 / 9,966; boundary 363 / 426; pruning 32,291 / 33,120. Roads per ha is misprinted: the table shows 58.50 actual and 116.93 budget, but 53,994 / 668.40 = 80.78 actual and 39,102 / 668.40 = 58.50 budget to date. The printed per-ha totals (1,003.09 actual, 1,108.18 budget to date, 2,101.57 annual) therefore carry that error; amounts imply about 1,025.37 actual and 1,049.85 budget to date. Roads are thus over budget to date, not under.\n\nWEEDING (PA 2/2026, 6.2 and 6.3, and Agro 2/2026, 4.4). Circle spraying: 668.40 ha (1 round) = 100% of the 1 round budgeted to June. Output 3.0 ha/man-day (low; achievable 5). Piece rate RM16/ha, average earnings RM48/man-day, below the daily basic wage RM65.38. Glyphosate 0.32 l/ha, recorded as 1.9 pumps/ha, which PA says is not correct (should be about 4 pumps/ha at 3 ha/man-day); management could not verify pumps sprayed and was told to do a time and motion study. Many circles covered with debris need circle raking in lieu of one round of circle spraying; palms in flash-flood-prone low areas have fronds in the circles and need restacking. Selective spraying: 1,268.00 ha (1.9 rounds) = 95% of 1,336.80 ha (2 rounds) budgeted; P09B only 83% on the second round (202.40 + 133.60 = 336.00 of 404.80 ha). Mist blower output 3 ha/man-day, RM22/ha (high; sister estates about RM16/ha), earnings RM66/man-day. Garlon 0.31 l/ha = 1.6 pumps/ha, also not correct (about 3 pumps). Inter-rows generally clean but many VOPs seen; PA advises one dedicated selective round to eradicate VOPs. Agro: weeding rounds largely on schedule (P09B second inter-row round 83% in June); soft grasses dominate inter-rows; broadleaf spots and Clidemia risk in vacant areas in P06A left by Ganoderma-fallen palms; weed control satisfactory but quality needs improvement.\n\nMANURING (Agro 2/2026, section 3 and PA 6.4). Agro Table 4 (to June 2026), tonnes: Mix B required 556.90, received 298.95, balance to receive 257.95, applied 278.45 (50%); CIRP (rock phosphate) required 128.55, received 99.90, to receive 28.65, applied 54.10 (42%); Mix A required 104.35, received 104.35, applied 104.35 (100%). The table total row shows required 959.85, received 575.00, balance 384.85, applied 571.00 (59%), which does not equal the sum of the three rows (789.80 / 503.20 / 286.60 / 436.90); a fourth product may be missing. Agro: no significant delay of more than one month; CIRP slight delay in P06A and P09B, completion expected July; store 41.90 mt RP plus 28.65 mt due July; remaining 20.50 mt Mix B for July; application suspended at the visit due to rain. Manuring quality improved. PA 6.4: 13 of 15 rounds budgeted were applied to June; delay due to late delivery of rock phosphate; broadcasting output 29 bags/man-day (satisfactory), RM2.50/bag, earnings RM72.50/man-day.\n\n2027 FERTILISER PROGRAMME (Agro 2/2026, Appendix 1, kg per palm; months read from garbled table): P06A Mix A 2.00 (Feb, Aug), Mix B 2.00 (May, Nov), RP 1.50 (Jun). P09B Mix A 2.25 (Feb, Aug), Mix B 2.25 (May, Nov), RP 1.50 (Jun). P10C Mix B 2.25 (Jan, Apr, Jul, Oct), RP 1.50 (Jun). P11D Mix B 2.50 (Jan, Jul), 2.25 (Apr, Oct), RP 1.50 (Jun). P11E Mix B 2.50 plus kieserite 0.75 (Jan), Mix B 2.50 (Jul), 2.25 (Apr, Oct), RP 1.75 (Jun).\n\nLEAF NUTRIENT STATUS (Agro 2/2026, 4.3; leaf sampling April 2026): N from marginally low to high, none deficient; P normal or high except marginally low in P06A1 and P11E3; K within acceptable range; Mg out of the desired range in certain blocks, especially P06A and P11E; B normal in all blocks. Overall acceptable; monitor Mg.\n\nPRUNING AND CANOPY (PA 6.5 and Agro 4.2, 5.3). PA: 4,010.40 ha pruned and paid out of 4,010.40 ha (100% of 6 rounds of 668.40 ha; programme year 8,020.80 ha); appearance satisfactory; many fractured fronds seen. Cost RM100.08/ha/year (2006-2010 plantings) and RM84.96 (2011). Agro: progressive pruning up to date in all fields; over-pruning insignificant except a neglected portion of P10C2 now under corrective pruning, about 50% done at the visit, expected to finish July 2026 (the Agro comment column names this P09C2, which does not exist). Frond stacking in terraced sections needs improvement (stack away from circles).\n\nPEST AND DISEASE. Rats (Agro Table 6 and PA 6.6.1): rat damage census April-May 2026 showed P06A 12%, P09B 15%, P10C 15%, P11D 13%, P11E 19% (PA shows P11E 18%: 1,779 of 10,092 palms); the post-baiting census in June showed P09B 17%, P10C 14%, P11D 19%, P11E 18%. Threshold is 10%. PA: damage extensive; 3 rounds of baiting in P09B, P10C, P11D and P11E (3 rounds, coverage falling to about 17% by round 3); acceptance high after the third round; P06A not baited. Agro: fresh damage reduced after baiting but old and fresh damage still seen in most blocks; continue quarterly census and baiting above 10%. Barn owls (Agro Table 7): 67 boxes (1 per 10 ha), 29 occupied (43%); occupied P06A 8 of 18 (44%), P09B 7 of 20 (35%), P10C 5 of 14 (36%), P11D 4 of 7 (57%), P11E 5 of 8 (63%); 50 boxes good, 17 poor; inspect and maintain boxes. Bagworm: no signs seen (Agro 4.5.5, 5.6); only old damage on lower fronds. Ganoderma (Agro Table 8, 2024 census): P06A 173.90 ha, 20,868 palms, 2,471 infected, 2,189 collapsed, total 4,660 (22.33%); P09B 25,503 palms, 45 infected, 39 collapsed, 84 (0.33%); P10C 18,235 palms, 16 + 25 = 41 (0.22%); P11D 9,359 palms, 48 + 110 = 158 (1.69%); P11E 10,093 palms, 123 + 7 = 130 (1.29%); estate 84,058 palms, 2,703 infected, 2,370 collapsed, 5,073 total (6.04%). Agro: infection rising, particularly P06A and P09B; census not updated, no progress since previous visit; deboling (1.5 m cube) under way in P10C; expedite deboling of fallen palms. PA: many infected palms with fruiting bodies in P06A and P09B; census to be started.\n\nROADS AND DRAINS (PA 6.7, 6.8). Laterite surfacing: 98.60 chains this month, 395.65 of 400 chains budgeted to date, cost RM105/chain as budgeted. Grading: 780 chains budgeted (RM19/chain incl. compaction), none done, no contractor available (low volume). Drain desilting: 685 chains budgeted (5x4x3 ft 120 chains RM25; 8x6x4 ft 170 chains RM46; 12x8x6 ft 395 chains RM51), none done, no contractor. Roads satisfactory; no drain issues.\n\nHARVESTING AND COLLECTION (PA 2/2026, section 7, as at June 2026). Cost actual RM468,427 vs budget to date RM648,798, annual RM1,297,602. RM per tonne actual / budget to date / annual: harvesting labour 41.84 / 45.67 / 37.72; internal transport 18.85 / 18.43 / 15.22; harvesting incentive 1.63 / 4.35 / 3.59; external transport 16.64 / 18.44 / 15.23; top-up wages 1.39 / 1.02 / 0.84; total 80.35 / 87.91 / 72.60. Rounds 11.8 vs 12 budgeted (Agro Table 10: 12 rounds in all blocks except P11D 11, 91.66%). PA: interval averaged 15 days; outturn 93%. Agro Table 5: June 2026 intervals 11-14 days (January range 12-20 days); Agro says intervals averaged under 15 days, kept in range because crop was low; few over-ripe bunches, loose fruit collection satisfactory. Equipment: 5 Badang units for infield collection. Harvester rates and productivity by planting year (rate RM/t, t per man-day, earnings RM/day, basic wage RM65.89 in this table): 2006 RM33, 1.64, RM54.12; 2009 RM33, 1.55, RM51.15; 2010 RM32, 1.95, RM62.40; 2011 RM32, 1.89, RM60.48. All harvesters earn below the daily basic wage (PA 6.2.4 quotes RM65.38); PA warns of turnover. Many bunches with long stalks seen. Crop pattern: production usually rises in the third quarter; Agro urges quick resolution of the labour shortage.\n\nCROP PRODUCTION (PA 2/2026, section 8, Jan-Jun 2026, 668.40 ha). FFB 5,829.97 t vs budget to date 7,380.00 t, same period 2025 6,832.51 t, annual budget 17,871.00 t. CPO 1,107.69 t vs 1,400.00 t budget, 1,298.86 t last year, annual budget 3,395.49 t. Palm kernel 291.50 t vs 369.00 t, 341.62 t last year. OER CPO 19.00% (budget to date 18.97%, last year 19.01%); kernel 5.00%. Yield FFB 8.72 t/ha vs 11.04 budget (21% below) and 10.22 last year (15% lower; Agro -14.68%); CPO 1.66 t/ha vs 2.09 budget; annual budget 26.74 t/ha FFB. PA: shortfall mainly due to shortage and low productivity of harvesters, and a low-cropping first half; bunch production remained low. PA table prints last year 12-month FFB as 16,373.00 t (24.50 t/ha), conflicting with Agro 2025 total 14,823.53 t (22.18 t/ha). Bunch weights rose in most blocks from June 2025 to June 2026 (e.g. 2010 planting 17.0 to 19.9 kg); PA suspects 2025 bunch counting errors.\n\nYIELD BY BLOCK (Agro 2/2026, Table 9 and Appendix 3a, Jan-Jun, t/ha 2025 to 2026): P06A 8.80 to 8.97 (+1.93%); P09B 8.98 to 7.20 (-19.82%); P10C 10.10 to 8.29 (-17.92%); P11D 12.90 to 10.24 (-20.62%); P11E 14.22 to 11.42 (printed -16.69%, calculated -19.69%); estate 10.22 to 8.72 (-14.68%). Only P06A rose. Full-year yield t/ha 2022 / 2023 / 2024 / 2025: P06A 19.44 / 15.38 / 22.41 / 18.66; P09B 24.44 / 17.04 / 23.48 / 20.68; P10C 21.84 / 17.58 / 24.40 / 21.76; P11D 30.15 / 23.01 / 31.33 / 26.92; P11E 29.53 / 23.99 / 32.76 / 30.02. Estate: 23.83 (15,926.18 t) / 18.20 (12,165.77 t) / 25.36 (16,949.67 t) / 22.18 (14,823.53 t).\n\nMONTHLY FFB (Agro Appendix 3b, tonnes, 2026 vs 2025): Jan 1,158.92 vs 964.70; Feb 714.26 vs 977.56; Mar 926.23 vs 961.51; Apr 1,183.65 vs 1,306.02; May 913.65 vs 1,277.45; Jun 933.26 vs 1,345.27. 2025 second half 7,991.01 t. Agro expects higher yield in the second half of 2026.\n\nCOST OF PRODUCTION (PA 2/2026, section 9, as at June 2026), RM per tonne FFB actual / budget to date / annual budget: general charges 67.19 / 60.02 / 49.57; upkeep and cultivation 117.56 / 95.08 / 78.53; harvesting and collection 80.47 / 87.91 / 72.60; total 265.22 / 243.01 / 200.70. Harvesting is printed as 80.47 here but 80.35 in the harvesting table (components sum to 80.35, giving total 265.10). PA: acceptable under current circumstances; lower cost needs higher yield.\n\nRAINFALL (Agro Appendix 4): 2022 2,394.00 mm, 135 days; 2023 2,044.50 mm, 101 days; 2024 1,940.50 mm, 117 days; 2025 2,196.00 mm, 85 days. 2026 Jan-Jun: 837.50 mm over 39 rain days (Jan 87.50, Feb 278.00, Mar 0.00, Apr 215.50, May 231.00, Jun 25.50 mm). Agro 5.8: January, March and June were dry (under 100 mm); prolonged dry weather may lower FFB in coming months.\n\nCAPITAL EXPENDITURE (PA section 11): budget RM302,000 (residential buildings RM300,000; office equipment and others RM2,000); nothing spent to June; estate said capex would be spent in September 2026.\n\nDATA CAVEATS: see the issues list for PA versus Agro mismatches (last-year FFB, harvesting RM/t, harvester count, interval, basic wage, Agro Table 4 totals, roads per ha).",
+ "folder": "https://drive.google.com/drive/folders/1J5iUD36IshAE76CBCcepH6mAZX7rg_f6",
+ "blockPeriod": "Jan–Jun 2026",
+ "blockSrc": "Agronomy Report 2/2026 Table 9 and Appendix 3(a)"
+}

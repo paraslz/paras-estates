@@ -1,0 +1,785 @@
+{
+ "slug": "nuklias-6",
+ "name": "Ladang Nuklias 6",
+ "company": "Innomakmur Sdn Bhd (Kema); Accent Palm Sdn Bhd (Timur A); Promvest Sdn Bhd (Timur B)",
+ "group": "Prosper",
+ "manager": "En. Yunus Bin Saom (Estate Manager); En. Mat Zin Bin Mat Akir (Visiting Senior Manager)",
+ "advisors": {
+  "pa": "En. Adnan Bin Mustafa (visiting PA; reports signed by Mr. Boey Chee Weng)",
+  "agro": "En. Ghazali Bin Abd Ghani (Junior Agronomist) and Mr. Chong Kuan Ming (Senior Agronomist)"
+ },
+ "reports": {
+  "pa": {
+   "title": "PA Report 1/2026 - Timur A & B",
+   "visit": "2026-06-10",
+   "period": "Jan–Dec 2025",
+   "costTo": "Dec 2025",
+   "url": "https://drive.google.com/file/d/1-w_RNF4Z1dTRc6RRVkeiRUacUtHX373H/view"
+  },
+  "pa2": {
+   "title": "PA Report 1/2026 - Kema Division",
+   "visit": "2026-06-09",
+   "period": "Jan–Dec 2025",
+   "costTo": "Dec 2025",
+   "url": "https://drive.google.com/file/d/1527uhy6TmISuLgQ0k9bZuanuNEBMWyP7/view"
+  },
+  "agro": {
+   "title": "Agronomy Report 1/2026",
+   "visit": "2026-05-14",
+   "url": "https://drive.google.com/file/d/1OUEHqjloz9UFgebV9LAuFnVnWnWBj7ts/view"
+  }
+ },
+ "area": {
+  "title": 841.89,
+  "planted": 824.5,
+  "mature": 824.5,
+  "immature": 0,
+  "replant": null,
+  "nursery": null
+ },
+ "kpi": {
+  "ffb": 21291.02,
+  "ffbBudget": 20612,
+  "ffbPeriod": "Jan–Dec 2025 (Timur + Kema combined)",
+  "yph": 25.82,
+  "yphBudget": 25.0,
+  "yphPrevSame": 24.47,
+  "cop": 302.48,
+  "copBudget": 210.53,
+  "copPeriod": "Jan–Dec 2025 (Timur + Kema combined)",
+  "gcHa": null,
+  "gcHaBudget": null,
+  "ucHa": null,
+  "ucHaBudget": null,
+  "hcT": null,
+  "hcTBudget": null,
+  "workers": 53,
+  "workersReq": 57,
+  "harvesters": 37,
+  "harvestersReq": 40,
+  "harvestInterval": "12 days (PA, Jun 2026); 13–15 days Timur, 11–17 days Kema Jan–Apr 2026 (Agro)",
+  "manuringPct": 100,
+  "manuringNote": "2025 programme 100% both divisions (Agro Table 4); 2026 to Apr: Timur Mix A 16.70 of 33.40 mt in progress, other rounds on schedule",
+  "circlePct": 75,
+  "selectivePct": 83,
+  "pruningPct": 97
+ },
+ "costParts": [
+  {
+   "name": "General charges",
+   "actual": 133.21,
+   "budget": 51.07
+  },
+  {
+   "name": "Upkeep & cultivation",
+   "actual": 78.94,
+   "budget": 68.58
+  },
+  {
+   "name": "Harvest & collection",
+   "actual": 90.33,
+   "budget": 90.88
+  }
+ ],
+ "upkeep": [
+  {
+   "item": "Weeding",
+   "actual": 228.06,
+   "budget": 226.65
+  },
+  {
+   "item": "Manuring",
+   "actual": 1434.09,
+   "budget": 1279.79
+  },
+  {
+   "item": "Pest & diseases",
+   "actual": 38.81,
+   "budget": 14.93
+  },
+  {
+   "item": "Census & thinning out",
+   "actual": 1.21,
+   "budget": 2.43
+  },
+  {
+   "item": "Drains",
+   "actual": 17.65,
+   "budget": 43.66
+  },
+  {
+   "item": "Roads & bridges",
+   "actual": 198.86,
+   "budget": 46.08
+  },
+  {
+   "item": "Tools",
+   "actual": 8.71,
+   "budget": 0.0
+  },
+  {
+   "item": "Supplying",
+   "actual": 2.43,
+   "budget": 0.0
+  },
+  {
+   "item": "Pruning",
+   "actual": 108.58,
+   "budget": 100.88
+  }
+ ],
+ "labour": [
+  {
+   "cat": "Harvester",
+   "actual": 37,
+   "req": 40
+  },
+  {
+   "cat": "Manuring worker",
+   "actual": 4,
+   "req": 5
+  },
+  {
+   "cat": "Spraying worker",
+   "actual": 4,
+   "req": 5
+  },
+  {
+   "cat": "Driver",
+   "actual": 4,
+   "req": 4
+  },
+  {
+   "cat": "Line sweeper",
+   "actual": 2,
+   "req": 1
+  },
+  {
+   "cat": "Ramp attendant",
+   "actual": 2,
+   "req": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "P02B1",
+   "ha": 62.0,
+   "sph": 130,
+   "planted": "2002",
+   "status": "Mature",
+   "ytd": 7.29,
+   "est": null,
+   "prevYtd": 8.1,
+   "fert": "NK1 2500 g + NK1 2500 g (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 28.27 t/ha (-3.1%); Jan–Apr 2026 7.29 vs 8.10 t/ha (-10.0%)."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Circles, inter-rows and pruning clean; palms had no bunches at visit (low crop season)."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Harvester output 1.98 t/man-day on 2002 plantings at RM37/t."
+    }
+   ]
+  },
+  {
+   "id": "P02B2",
+   "ha": 56.85,
+   "sph": 125,
+   "planted": "2002",
+   "status": "Mature",
+   "ytd": 6.77,
+   "est": null,
+   "prevYtd": 5.84,
+   "fert": "NK1 2500 g + NK1 2500 g (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 24.69 t/ha (+11.0%); Jan–Apr 2026 6.77 vs 5.84 t/ha (+15.9%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Rat damage 11% (Apr 2026), above 10% threshold; first baiting early Apr 2026 with second-generation bait, dead rats found."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Circle raking needed for debris; very little bunches at visit."
+    }
+   ]
+  },
+  {
+   "id": "P02B3",
+   "ha": 43.43,
+   "sph": 129,
+   "planted": "2002",
+   "status": "Mature",
+   "ytd": 7.14,
+   "est": null,
+   "prevYtd": 6.22,
+   "fert": "NK1 2500 g + NK1 2500 g (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 23.45 t/ha (+11.0%); Jan–Apr 2026 7.14 vs 6.22 t/ha (+14.8%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Rat damage 11% (Apr 2026), above 10% threshold; baiting started early Apr."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Barn owl occupancy 50% (2 of 4 boxes)."
+    }
+   ]
+  },
+  {
+   "id": "P03C",
+   "ha": 66.41,
+   "sph": 127,
+   "planted": "2003",
+   "status": "Mature",
+   "ytd": 6.54,
+   "est": null,
+   "prevYtd": 7.29,
+   "fert": "Mix A 2000 g x 3 rounds (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 24.06 t/ha (-0.8%); Jan–Apr 2026 6.54 vs 7.29 t/ha (-10.3%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Mild potassium deficiency (orange spotting) seen; leaf sampling in 2025 showed suboptimal N."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Eroded culverts cut the shortcut road to the loading ramp; excavator repair needed. Barn owl occupancy only 29%."
+    }
+   ]
+  },
+  {
+   "id": "P06D1",
+   "ha": 70.99,
+   "sph": 126,
+   "planted": "2006",
+   "status": "Mature",
+   "ytd": 6.43,
+   "est": null,
+   "prevYtd": 7.03,
+   "fert": "Mix B 2250 g + Mix A 2000 g + Mix B 2000 g (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 26.30 t/ha (+4.4%); Jan–Apr 2026 6.43 vs 7.03 t/ha (-8.5%)."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "2006 plantings need better harvester productivity: 107 bunches in about 6 hours vs 159 potential over 9 hours."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Leaf sampling in 2025 showed suboptimal N."
+    }
+   ]
+  },
+  {
+   "id": "P06D2",
+   "ha": 65.62,
+   "sph": 132,
+   "planted": "2006",
+   "status": "Mature",
+   "ytd": 6.81,
+   "est": null,
+   "prevYtd": 7.83,
+   "fert": "Mix B 2250 g + Mix A 2000 g + Mix B 2000 g (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 27.93 t/ha (+4.1%); Jan–Apr 2026 6.81 vs 7.83 t/ha (-13.0%)."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Eroded collection road seen; no bunches on palms at visit."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Leaf sampling in 2025 showed suboptimal N."
+    }
+   ]
+  },
+  {
+   "id": "P98A1",
+   "ha": 46.5,
+   "sph": 128,
+   "planted": "1998",
+   "status": "Mature",
+   "ytd": 6.94,
+   "est": null,
+   "prevYtd": 4.71,
+   "fert": "NK2 2500 g single round (revised 2026 programme)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 22.36 t/ha (-3.3%); Jan–Apr 2026 6.94 vs 4.71 t/ha (+47.3%). Replanting planned 2028."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Grassy circles, new woodies and VOPs in inter-rows; sporadic Ganoderma with fruiting bodies and upper stem rot."
+    },
+    {
+     "src": "PA 1/2026 Timur",
+     "text": "Pruning only 89.1% updated (lowest in Timur); bunch weight for 1998 planting fell (25 to 24.7 kg)."
+    }
+   ]
+  },
+  {
+   "id": "P98E1",
+   "ha": 53.39,
+   "sph": 128,
+   "planted": "1998",
+   "status": "Mature",
+   "ytd": 7.47,
+   "est": null,
+   "prevYtd": 5.98,
+   "fert": "Withdrawn (replanting 2027)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 22.84 t/ha (-1.8%); Jan–Apr 2026 7.47 vs 5.98 t/ha (+24.9%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Fertiliser programme withdrawn; replanting deferred to 2027 (P98E1 and E2 together 77.95 ha)."
+    },
+    {
+     "src": "PA 1/2026 Kema",
+     "text": "1998 bunch weight fell from 33 to 30 kg; rat census 0%."
+    }
+   ]
+  },
+  {
+   "id": "P98E2",
+   "ha": 24.56,
+   "sph": 112,
+   "planted": "1998",
+   "status": "Mature",
+   "ytd": 6.94,
+   "est": null,
+   "prevYtd": 7.24,
+   "fert": "Withdrawn (replanting 2027)",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 24.20 t/ha (-5.7%); Jan–Apr 2026 6.94 vs 7.24 t/ha (-4.1%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Lowest stand in estate at 112 palms/ha; programme withdrawn for 2027 replanting."
+    }
+   ]
+  },
+  {
+   "id": "P08G1",
+   "ha": 68.58,
+   "sph": 130,
+   "planted": "2008",
+   "status": "Mature",
+   "ytd": 6.07,
+   "est": null,
+   "prevYtd": 7.1,
+   "fert": "Mix B 2250 g + KIE 750 g + Mix B 2250 g + RP 1500 g + Mix B 1500 g + Mix B 1500 g",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 30.17 t/ha (+34.2%), best block; Jan–Apr 2026 6.07 vs 7.10 t/ha (-14.5%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Rat damage 12% (Apr 2026), above 10% threshold; 271 palms thinned to date."
+    },
+    {
+     "src": "PA 1/2026 Kema",
+     "text": "Much Ganoderma (upper stem rot, fruiting bodies); collection road badly damaged."
+    }
+   ]
+  },
+  {
+   "id": "P08G2",
+   "ha": 45.83,
+   "sph": 116,
+   "planted": "2008",
+   "status": "Mature",
+   "ytd": 6.64,
+   "est": null,
+   "prevYtd": 7.45,
+   "fert": "Mix B 2250 g + KIE 750 g + Mix B 2250 g + RP 1500 g + Mix B 1500 g + Mix B 1500 g",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 27.55 t/ha (+24.9%); Jan–Apr 2026 6.64 vs 7.45 t/ha (-10.9%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Rat damage 12% (Apr 2026), above threshold; dead rat found on main road; 111 palms thinned (Mar 2025)."
+    }
+   ]
+  },
+  {
+   "id": "P08G3",
+   "ha": 63.09,
+   "sph": 122,
+   "planted": "2008",
+   "status": "Mature",
+   "ytd": 7.54,
+   "est": null,
+   "prevYtd": 8.09,
+   "fert": "Mix B 2250 g + KIE 750 g + Mix B 2250 g + RP 1500 g + Mix B 1500 g + Mix B 1500 g",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 24.60 t/ha (-8.9%); Jan–Apr 2026 7.54 vs 8.09 t/ha (-6.8%)."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Mild potassium deficiency seen; suboptimal leaf N in 2025 sampling; rat damage 11% (Apr 2026)."
+    },
+    {
+     "src": "PA 1/2026 Kema",
+     "text": "Ganoderma upper stem rot with fruiting bodies."
+    }
+   ]
+  },
+  {
+   "id": "P09F1",
+   "ha": 49.28,
+   "sph": 116,
+   "planted": "2009",
+   "status": "Mature",
+   "ytd": 7.19,
+   "est": null,
+   "prevYtd": 7.31,
+   "fert": "Mix B 2250 g + KIE 750 g + Mix B 2250 g + RP 1500 g + Mix B 1500 g + Mix B 1500 g",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 24.87 t/ha (+3.6%); Jan–Apr 2026 7.19 vs 7.31 t/ha (-1.6%)."
+    },
+    {
+     "src": "PA 1/2026 Kema",
+     "text": "Overgrown VOPs and wild bananas in ravines; damaged collection road and infield drain needing desilting; Ganoderma seen."
+    }
+   ]
+  },
+  {
+   "id": "P09F2",
+   "ha": 89.55,
+   "sph": 125,
+   "planted": "2009",
+   "status": "Mature",
+   "ytd": 7.11,
+   "est": null,
+   "prevYtd": 8.24,
+   "fert": "Mix B 2250 g + KIE 750 g + Mix B 2250 g + RP 1500 g + Mix B 1500 g + Mix B 1500 g",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 27.27 t/ha (+11.2%); Jan–Apr 2026 7.11 vs 8.24 t/ha (-13.7%)."
+    },
+    {
+     "src": "PA 1/2026 Kema",
+     "text": "Circle raking needed; very little bunches at visit."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "40 palms thinned (Mar 2026)."
+    }
+   ]
+  },
+  {
+   "id": "P18H",
+   "ha": 18.41,
+   "sph": 138,
+   "planted": "2018",
+   "status": "Young mature",
+   "ytd": 4.2,
+   "est": null,
+   "prevYtd": 5.81,
+   "fert": "Mix B 2250 g + KIE 500 g + Mix B 2250 g + RP 1500 g + Mix B 1500 g + Mix B 1500 g",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "2025 yield 25.17 t/ha (+5.1%); Jan–Apr 2026 4.20 vs 5.81 t/ha (-27.7%), weakest block."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Rat census Feb–Mar 2026 high; Agro calls rat control here urgent, though the April table shows 9%."
+    },
+    {
+     "src": "PA 1/2026 Kema",
+     "text": "Elephant damage to many palms; harvest rate RM62/t, output 1.23 t/man-day; two rat baiting rounds to May 2026."
+    }
+   ]
+  }
+ ],
+ "yieldHistory": [
+  {
+   "year": 2024,
+   "yph": 24.47
+  },
+  {
+   "year": 2025,
+   "yph": 25.82
+  }
+ ],
+ "rainfall": [
+  {
+   "year": 2021,
+   "mm": 3106.0,
+   "days": 154
+  },
+  {
+   "year": 2022,
+   "mm": 3097.0,
+   "days": 188
+  },
+  {
+   "year": 2023,
+   "mm": 2962.0,
+   "days": 158
+  },
+  {
+   "year": 2024,
+   "mm": 2315.0,
+   "days": 150
+  },
+  {
+   "year": 2025,
+   "mm": 2570.0,
+   "days": 165
+  }
+ ],
+ "rainfallKema": [
+  {
+   "year": 2021,
+   "mm": 2558.0,
+   "days": 152
+  },
+  {
+   "year": 2022,
+   "mm": 2902.0,
+   "days": 157
+  },
+  {
+   "year": 2023,
+   "mm": 2541.0,
+   "days": 138
+  },
+  {
+   "year": 2024,
+   "mm": 2532.0,
+   "days": 157
+  },
+  {
+   "year": 2025,
+   "mm": 2735.5,
+   "days": 142
+  }
+ ],
+ "rainfallNote": "rainfall = Timur division; rainfallKema = Kema division (PA 1/2026 and Agro 1/2026 appendices)",
+ "summary": [
+  "Jan–Apr 2026 yield 6.84 t/ha vs 7.12 t/ha in Jan–Apr 2025 (-3.9%; Timur 6.82 vs 6.86, Kema 6.87 vs 7.37) (Agro; combined derived).",
+  "2025: 21,291 t FFB on 824.50 ha = 25.82 t/ha vs 25.00 budget and 24.47 in 2024; Kema 26.12 (+8.3%), Timur 25.53 (+2.8%) (Agro, PA).",
+  "Cost per tonne is far above budget, driven by unbudgeted Head Office general charges: Timur RM311 vs RM185, Kema RM294.00 vs RM236.82 (PA, Dec 2025).",
+  "Harvesters 37 vs 40 required; rats above 10% in P02B2, P02B3, P08G and elephant damage in P18H; Ganoderma widespread in Kema block G per PA but negligible per Agro.",
+  "Both PAs and the Agro report note a low-crop season in mid-2026; roads and drain desilting suspended or behind, and P98E/P98A1 replanting set for 2027/2028."
+ ],
+ "issues": [
+  {
+   "sev": "bad",
+   "title": "Ganoderma: widespread (PA) vs negligible (Agro)",
+   "detail": "PA Kema 6.6.2 (9 Jun 2026): a lot of infected palms, particularly block G, mostly upper stem rot, census and deboling advised. Agro 1/2026 4.5.7 (14 May 2026): Ganoderma infection remains negligible. PA Timur also found sporadic infection in P98A1."
+  },
+  {
+   "sev": "bad",
+   "title": "PA Timur 2024 yield and the 29% gain are wrong",
+   "detail": "PA Timur 8.1-8.2 says 2025 yield 25.53 t/ha was 29% above 2024 at 19.77 t/ha. Its own 2024 crop of 10,225.67 t on 411.80 ha is 24.83 t/ha, and Agro Table 12 shows 24.83 to 25.53 (+2.8%). The 19.77 and 19.36 t/ha figures do not reconcile to the tonnage."
+  },
+  {
+   "sev": "bad",
+   "title": "Timur 2021-2024 annual totals misprinted in Agro",
+   "detail": "Agro Appendix 2a prints annual Timur totals of 8,729.75 (2021), 10,249.06 (2022), 10,164.90 (2023) and 12,249.67 t (2024). The monthly figures sum to 6,708.75, 8,227.06, 8,141.90 and 10,225.67 t. Only 2025 (10,513.05) and 2024 per the PA (10,225.67) are consistent. Printed 2024 total would wrongly show a 14% fall in 2025."
+  },
+  {
+   "sev": "warn",
+   "title": "Kema area basis: 406.19 ha vs 412.70 ha",
+   "detail": "PA Kema crop and RM/ha tables use 406.19 ha, giving 26.53 t/ha for 2025 (budget 25.40, 2024 24.50). The area statement and Agro use 412.70 ha, giving 26.12 t/ha (2024: 24.11). Same crop of 10,777.97 t."
+  },
+  {
+   "sev": "warn",
+   "title": "Weeding: 67-83% done (PA) vs three rounds completed (Agro)",
+   "detail": "PA Timur 6.3.1: circle spraying 83% (2.3 of 2.8 rounds) and selective 67% to Dec 2025. PA Kema: circle 67% (2 of 3 rounds), selective 99%. Agro 4.4.1 says both divisions completed three rounds of inter-row and circle weeding as budgeted in 2025."
+  },
+  {
+   "sev": "warn",
+   "title": "Rats: no issue (PA Timur) vs above threshold (Agro)",
+   "detail": "PA Timur 6.6.1 (10 Jun 2026): all blocks below 10% in 2025, no baiting, no issues. Agro Table 10 (Apr 2026): P02B2 and P02B3 at 11%, baiting started early Apr 2026. Agro 5.6 says rat pressure is high in P06D (Timur) and P08G, yet Table 10 shows P06D at 7-8%."
+  },
+  {
+   "sev": "warn",
+   "title": "Agro stresses P18H rats, but P18H is 9% in its own table",
+   "detail": "Agro 6.5 says rat infestation in P18H needs immediate action. Agro Table 10 shows P18H 9% (below 10%) while P08G1 and P08G2 are 12% and P08G3 11%. PA Kema also calls P18 rat infestation extensive but its census shows 7-13% for 2025."
+  },
+  {
+   "sev": "warn",
+   "title": "Kema roads: unsatisfactory (PA) vs satisfactory (Agro)",
+   "detail": "PA Kema item 8 and 6.7.2: collection roads unsatisfactory, hilly sections badly damaged, only 344.18 of 2,000 chains graded in 2025 and none to May 2026. Agro 4.1.3: roads generally satisfactory. PA Timur also reports a road cut off by eroded culverts at P03C."
+  },
+  {
+   "sev": "warn",
+   "title": "Replanting: none planned (PA Timur) vs P98A1 in 2028 (Agro)",
+   "detail": "PA Timur 2.3 says no replanting plans yet. Agro 2.2-2.3 schedules P98A1 (46.50 ha, Timur B) for 2028 and P98E1/E2 (77.95 ha, Kema) for 2027, with the P98E fertiliser programme already withdrawn."
+  },
+  {
+   "sev": "warn",
+   "title": "Barn owl occupancy: 80% (PA Timur) vs 61% (Agro)",
+   "detail": "PA Timur 6.6.2 says occupancy averaged 80% and was acceptable. The same Oct 2025 census in Agro Table 11 gives 22 of 36 boxes = 61% (P03C 29%, P98A1 and P02B3 50%), below threshold."
+  },
+  {
+   "sev": "warn",
+   "title": "Cost of production basis differs between divisions",
+   "detail": "PA Timur harvesting RM72/t excludes external transport (section 7 total RM103.83/t less RM31.66 external). PA Kema harvesting RM108.21/t in the cost table does not match its section 7 total of RM76.57/t (which excludes despatch), so it appears to include about RM31/t of despatch. Combined COP mixes the two bases."
+  },
+  {
+   "sev": "warn",
+   "title": "Timur labour statement does not add up",
+   "detail": "PA Timur table: harvesters show 17 contract workers but a total of 19 (text 3.1 also says 19); total workers 27 vs 29 required is -2, yet the table prints -5."
+  },
+  {
+   "sev": "warn",
+   "title": "General charges overspend stated as 312%",
+   "detail": "PA Timur 5.1 says 312% overspent. Accent Palm actual RM1,194,118.43 vs budget RM382,561.35 is 3.12 times budget (+212%); Promvest RM603,436.05 vs RM97,909.58 is 6.2 times. Combined Timur RM1,797,554.48 vs RM480,470.93 is 3.7 times (+274%). PA says unbudgeted Head Office charges; Pinfosys not implemented, so PA could not verify."
+  },
+  {
+   "sev": "warn",
+   "title": "Palm thinning totals: 730 vs 1,748",
+   "detail": "Agro Table 8 rows add to 730 palms (matches text 4.2.4), but the table prints a grand total of 1,748. The Plantation Controller had asked for clarification on thinning in P08."
+  },
+  {
+   "sev": "warn",
+   "title": "Harvest interval: 12 days (PA) vs 13-17 days (Agro)",
+   "detail": "Both PAs say interval averaged 12 days (Jun 2026). Agro Tables 6-7 show 13-15 days in Timur and 11-17 days in Kema for Jan-Apr 2026; Kema January rows are 15-17 days against the Agro text of within 15 days."
+  }
+ ],
+ "actions": [
+  {
+   "item": "Recruit harvesters: Timur 19 vs 20, Kema 18 vs 20 (Dec 2025)",
+   "src": "PA 1/2026 Kema",
+   "status": "open"
+  },
+  {
+   "item": "Raise harvester productivity, especially 2006 plantings (107 vs 159 bunches potential) and 2008 plantings",
+   "src": "PA 1/2026 Timur",
+   "status": "open"
+  },
+  {
+   "item": "Complete road grading and collection road repairs before the monsoon; resume suspended grading (diesel)",
+   "src": "PA 1/2026 Kema",
+   "status": "repeat"
+  },
+  {
+   "item": "Repair eroded culverts at P03C (excavator needed)",
+   "src": "PA 1/2026 Timur",
+   "status": "open"
+  },
+  {
+   "item": "Budget a larger drain desilting volume so a contractor will mobilise (Kema infield and main drains, Timur P03C)",
+   "src": "PA 1/2026 Kema",
+   "status": "repeat"
+  },
+  {
+   "item": "Ganoderma census and deboling, starting with Kema block G and Timur P98A1",
+   "src": "PA 1/2026 Kema",
+   "status": "open"
+  },
+  {
+   "item": "Continue rat census; bait where above 10% (P02B2, P02B3, P08G, P18H)",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Clean, repair or replace barn owl boxes in Timur (61% occupancy)",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Review circle and selective spraying piece rates (RM19.76-24.71/ha vs usual RM15-20/ha) and chemical usage",
+   "src": "PA 1/2026 Timur",
+   "status": "open"
+  },
+  {
+   "item": "Use CDA or Inter Pump instead of CKS to lift circle spraying output to 5 ha/man-day (Kema)",
+   "src": "PA 1/2026 Kema",
+   "status": "open"
+  },
+  {
+   "item": "Use official area statement, not stand per ha, for spraying programme (Timur)",
+   "src": "PA 1/2026 Timur",
+   "status": "open"
+  },
+  {
+   "item": "Update palm census for Kema division and use it for fertiliser budgeting",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Supervise palm thinning; SM approval before removal of abnormal palms",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Eradicate overgrown VOPs and wild bananas in Kema ravines; charge to selective weeding",
+   "src": "PA 1/2026 Kema",
+   "status": "open"
+  },
+  {
+   "item": "Consider digging boundary trenches against elephant intrusion at P18H",
+   "src": "PA 1/2026 Kema",
+   "status": "open"
+  },
+  {
+   "item": "Collect all FFB daily; no bunches left overnight along boundaries",
+   "src": "PA 1/2026 Timur",
+   "status": "open"
+  },
+  {
+   "item": "Replant P98E1/E2 in 2027 and P98A1 in 2028; withdraw fertiliser once confirmed",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Prepare 2027 fertiliser programme after second-half 2026 field inspection; re-sample leaves in 2026",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Consider promoting field conductor Azren to at least Junior Assistant (Timur)",
+   "src": "PA 1/2026 Timur",
+   "status": "open"
+  }
+ ],
+ "kb": "LADANG NUKLIAS 6 (Prosper group). Oil palm estate in two divisions run by Estate Manager En. Yunus Bin Saom, with Visiting Senior Manager En. Mat Zin Bin Mat Akir and Plantation Controller Dr. Chua Chin Kok (Agro). Timur division = Timur A (Accent Palm Sdn Bhd, 255.46 ha) and Timur B (Promvest Sdn Bhd, 156.34 ha). Kema division = Innomakmur Sdn Bhd (412.70 ha). Sources: (1) PA Report 1/2026 Timur A & B, visit 10 June 2026, review Jan–Dec 2025, PA En. Adnan Bin Mustafa, signed by Boey Chee Weng; (2) PA Report 1/2026 Kema Division, visit 9 June 2026, review Jan–Dec 2025, same authors; (3) Agronomy Report 1/2026, visit 14 May 2026 (previous visit 18 Nov 2025), by Ghazali Abd Ghani (Junior) and Chong Kuan Ming (Senior), crop and weeding data to April 2026. Combined estate figures marked (derived) were added up by the dashboard compiler from the division figures; the reports themselves give no estate-wide totals.\n\nAREA (PA Timur, PA Kema, Agro Table 1). Timur: mature 411.80 ha (98.0%), immature none, housing/road 1.93, ponds/river reserves/steep 6.15, unplantable 1.00, total 420.88 ha. Kema: mature 412.70 ha (98%), unplanted 7.10, compound 0.81, ramp 0.40, total 421.01 ha. Estate planted (derived) 824.50 ha, all mature; Agro: no immature plantings (P18H counted by Agro as young mature). Title area (derived) 841.89 ha.\nBlocks Timur A: P02B1 62.00 ha, P02B2 56.85, P06D1 70.99, P06D2 65.62. Timur B: P98A1 46.50 (1998), P02B3 43.43 (2002), P03C 66.41 (2003). Kema: P98E1 53.39 and P98E2 24.56 (1998), P09F1 49.28 and P09F2 89.55 (2009), P08G1 68.58, P08G2 45.83, P08G3 63.09 (2008), P18H 18.41 (2018). All DxP.\nAge (Agro 2.5): 41% prime, 44% aging, 15% very old. Replanting (Agro): P98E1/E2 (77.95 ha, 18.88% of Kema) deferred to 2027 and the fertiliser programme for P98E is withdrawn; P98A1 (46.50 ha) planned 2028. PA Timur says no replanting plans yet; PA Kema says P98E replanting postponed.\n\nPALM DENSITY (Agro Table 3; Kema census not yet updated). Palms per ha: Timur A P02B1 130, P02B2 125, P06D1 126, P06D2 132 (32,779 palms, 128/ha); Timur B P98A1 128, P02B3 129, P03C 127 (19,919, 127/ha); Kema P98E1 128, P98E2 112, P09F1 116, P09F2 125, P08G1 130, P08G2 116, P08G3 122, P18H 138 (50,924, 123/ha).\n\nLABOUR (PA Timur, PA Kema, Dec 2025). Timur: harvesters 19 vs 20 required (1:22 ha; one short), manuring workers 2 vs 3, spraying workers 2 vs 3, drivers 2 vs 2, line sweeper 1 vs 0, ramp attendant 1 vs 1; total 27 vs 29 required; worker ratio 1:15 ha. The table lists 17 contract harvesters against a total of 19 and prints a shortfall of -5 where the rows give -2. Kema: harvesters 18 vs 20 (1:23 ha; two short), manuring 2 vs 2, spraying 2 vs 2, drivers 2 vs 2, sweeper 1 vs 1, ramp 1 vs 1; total 26 vs 28; ratio 1:16 ha. PA Kema: recruit more harvesters to cover shortage and be ready for peak crop; Group MD wants ratio 1:22 ha with 18 harvesters on mostly tall prime palms. Staff: Timur Assistant transferred out Sep 2025 with no replacement; PA recommends promoting Field Conductor Mohd Azren to at least Junior Assistant.\n\nGENERAL CHARGES (PA, Jan–Dec 2025). Timur Accent Palm: actual RM1,194,118.43 vs budget RM382,561.35 (management RM698,860.25; labour and amenities RM10,064.49; other RM479,397.36; MSPO RM5,796.33). Timur Promvest: actual RM603,436.05 vs budget RM97,909.58 (management RM396,240.37; labour RM11,233.60; other RM191,020.45; MSPO RM4,941.63). PA states Timur overspent 312% from unbudgeted Head Office items; Pinfosys not implemented. Kema: actual RM1,038,551.86 vs budget RM572,162.19 (management RM704,336.64; labour RM14,733.23; other RM313,669.65; MSPO RM5,812.34), overspent 82%; PA could not comment because Pinfosys is not implemented. Combined (derived) RM2,836,106.34 vs RM1,052,633.12.\n\nUPKEEP AND CULTIVATION (PA, Jan–Dec 2025, RM). Timur total 716,769.59 vs budget 684,794.32 (+5%, wrong Head Office charging): weeding 80,295.61 (92,655.00); manuring 551,112.57 (509,513.04); pest and disease 880 (6,502.90); drains 0 (19,399.26); roads 37,699.40 (14,160.58); tools 7,180.10 (0); pruning 39,601.91 (42,563.54). Kema total 963,884.47 vs 728,740.23: weeding 107,742.06 (94,219.41); manuring 631,291.02 (545,671.94); pest and disease 31,115.10 (5,809.20); drains 14,555 (16,600); roads 126,260.47 (23,830); supplying 2,000 (none done); pruning 49,920.82 (40,609.68). Kema RM/ha in PA uses 406.19 ha.\n\nWEEDING (PA). Timur circle spraying 956.39 ha (2.3 rounds) = 83% of 1,155.54 ha (2.8 rounds) to Dec 2025, short by Nov–Dec rain; selective 823.60 ha (2 rounds) = 67% of 1,235.40 ha. Estate used stand/ha (1,155.54 ha) instead of area statement (1,235.40 ha); advised to use official ha. CKS circle output 5.1 ha/man-day, RM19.76/ha, RM100.78/day, glyphosate 0.68 l/ha (high). Mist blower selective 5.7 ha/man-day, RM24.71/ha (high; group norm RM17, PA suggests about RM15), RM140.85/day, Garlon 0.83 l/ha (should be 0.5). P98A1 grassy circles, woodies and VOPs. Kema circle 830.79 ha (2 rounds) = 67% of 1,236.98 ha; selective 1,218.57 ha (2.9 rounds) = 99%. CKS output 3.3 ha/man-day, RM24.71/ha (usual RM16–20), RM81.54/day, glyphosate 0.58 l/ha; 9 pumps/man-day vs potential 12; advised CDA or Inter Pump for 5 ha/man-day. Selective 4 ha/man-day, RM98.84/day, Garlon 0.84 l/ha, 10 pumps/day; ravines near drains have overgrown VOPs and wild bananas (P09F1). Agro 4.4: both divisions did three inter-row and three circle rounds in 2025 as budgeted; Apr 2026 first round 100% done everywhere, soft grasses dominant, circles established; two rounds remaining in 2026 (one circle round remaining per Agro 4.4.3 for Timur).\n\nMANURING (PA, Agro). 2025 programme completed 100% in both divisions. Agro Table 4: Timur Mix B 220.00 mt, NK1 195.80, RP 38.80, total 454.60 mt; Kema Mix B 352.80, NK1 66.98, kieserite 1.91, RP 62.67, total 484.36 mt. PA: Timur 27 rounds (100%), Kema 37 rounds (100%). Output 30 bags/man-day both; Timur RM2.30/bag (RM69/day), Kema RM2.50/bag (RM75/day). Agro visit at P02B2: four applicators did 27 bags each, even broadcast. 2026 to Apr (Agro Table 5): Timur Mix A 16.70 of 33.40 mt applied (ongoing), Mix B 39.45 of 78.90, NK1 51.65 of 154.95, NK2 14.65 of 29.30, balance NK1 5.05 mt (101 bags); Kema Mix B 186.10 of 372.20 mt, NK2 23.90 of 47.85, kieserite 6.10 of 30.45, CIRP 0 of 61.95. Agro says rest on schedule. 2026 programme was revised, especially second half, due to fertiliser price rise and limited stock; 2027 programme to be drawn after second-half 2026 inspection. Revised 2026 programme (Agro Appendix 1, kg per palm): P02B1, P02B2, P02B3 NK1 2.50 twice; P06D1, P06D2 Mix B 2.25, Mix A 2.00, Mix B 2.00; P03C Mix A 2.00 three times; P98A1 NK2 2.50 once; P98E withdrawn; P08G and P09F Mix B 2.25, kieserite 0.75, Mix B 2.25, RP 1.50, Mix B 1.50, Mix B 1.50; P18H same with kieserite 0.50. Mix A 45% SOA, 40% MOP, 15% kieserite; Mix B 45% SOA, 40% MOP, 14% kieserite, 1% borate; NK1 50:50 SOA:MOP; NK2 60:40.\n\nPEST AND DISEASE. Rats (PA, Agro): Timur 2025 quarterly census 5–9% (below 10%) so no baiting (PA). Agro Table 10 Apr 2026: Timur P98A1 6%, P02B1 6%, P02B2 11%, P02B3 11%, P03C 0%, P06D1 7%, P06D2 8%; Kema P98E1 0%, P98E2 0%, P09F1 8%, P09F2 9%, P08G1 12%, P08G2 12%, P08G3 11%, P18H 9%. First baiting early April 2026 with second-generation bait, dead rats seen. Agro 5.6 says Feb–Mar 2026 census was high for P06D and P08G. Kema 2025 census (PA): F and G blocks 10–15% Jan–Sep falling to 7–9% by Dec; one baiting round F and G, two in P18; P18 infestation called extensive. Barn owls: Timur 22 of 36 boxes occupied = 61% (was 58%), P03C 29%, P98A1 and P02B3 50%; Kema 23 of 27 = 85%; box ratios 1:11 and 1:14 (Agro Table 11, Oct 2025 census). PA Timur wrongly says 80%. Ganoderma: PA Timur sporadic at P98A1 (fruiting bodies, upper stem rot), census to start if it spreads; PA Kema many infected palms especially block G, mostly upper stem rot, census and deboling advised; Agro 4.5.7 says negligible. Bagworm: none significant (Agro 4.5.8). Elephants: PA Kema many palms damaged at P18H, once a year, suggests boundary trenches; Agro 5.4: infestation decreasing since early 2026, damaged palms recovering with promising bunches.\n\nPRUNING AND CANOPY (PA, Agro). Timur: 385.18 ha programmed, progressive pruning done 4,528.77 of 4,622.16 ha = 98%, P98A1 89.1%; cost per palm per year RM1.00 (1998), RM0.80 (2002–2003), RM0.75 (2006). Kema: 4,666.75 of 4,874.28 ha = 96% (some pruning quality to be corrected); RM1.00 (1998), RM0.75 (2008, 2009, 2018). Agro: acceptable in both divisions; P18H over/under-pruning minimal. Thinning (Agro 4.2.4, Table 8): 730 palms removed Mar 2025–Apr 2026 in P08G, P09F, P98E (P08G1 271, P08G2 111, P08G3 193, P09F2 40, P98E1 58, P98E2 57), 10–15 ft radius, etiolated palms; table prints grand total 1,748. Removals need Senior Manager approval. Palm condition: mild potassium deficiency in P08G3 and P03C; 2025 leaf sampling showed suboptimal N in P02B2, P02B3, P03C, P06D1, P06D2, P08G3; re-sampling in 2026. P18H mild K and Mg deficiency.\n\nROADS AND DRAINS (PA). Timur: no road grading in 2025 against 1,000 chains budgeted (contractor tied up at Kema, rain); grading and backhoe rental suspended due to diesel price; crusher run 100 of 100 mt at RM50/mt (budget RM41); backhoe 589 hours; eroded culverts at P03C cut the shortcut road; no drain desilting (volume too small to mobilise excavator). Kema: 344.18 of 2,000 chains graded at RM10/chain, none to May 2026; crusher run 233.74 of 375 mt at RM47 (budget RM39); collection roads unsatisfactory, hilly sections badly damaged, main roads laterited; no desilting of 400 chains budgeted. Agro 4.1.3 calls roads generally satisfactory.\n\nHARVESTING AND COLLECTION (PA, Agro). 24 rounds achieved in 2025 vs 24 budget in both divisions. PA interval averaged 12 days; Agro Tables 6–7 show 13–15 days Timur and 11–17 days Kema for Jan–Apr 2026, eight rounds (100% of target) in every block to April. Outturn Timur 104%, Kema 115% (includes Sundays and holidays). Over-ripe bunches and loose fruit negligible (Agro). Wheelbarrows with one cutter and one collector. Rates and output (t/man-day): Timur 1998 RM50/t 1.84; 2002 RM37 1.98; 2003 RM37 1.99; 2006 RM32 2.03 (RM64.98/day, below basic wage RM65.39; 107 bunches in about 6 hours vs 159 potential over 9). Kema 1998 RM47 1.90; 2009 RM38 2.05; 2008 RM38 1.72 (below basic wage); 2018 RM62 1.23. Harvesting cost 2025 Timur RM1,091,538.03 = RM103.83/t vs RM101.30 (harvesting labour 44.47, internal transport 22.69, external transport 31.66, incentive 5.00); Kema RM825,227.28 = RM76.57/t vs RM80.72 (labour 51.18, internal transport 22.83, incentive 2.56; excludes despatch).\n\nCROP (PA, Agro). 2025: Timur FFB 10,513.05 t vs budget 10,295 t on 411.80 ha = 25.53 t/ha (budget 25.00, 2024 24.83 per Agro); CPO 1,973.29 t, OER 18.77% vs 19.00%; kernel 598.19 t, 5.69%. Kema FFB 10,777.97 t vs budget 10,317 t; 26.12 t/ha on 412.70 ha (Agro, +8.3% on 24.11) or 26.53 t/ha on 406.19 ha (PA, budget 25.40, 2024 24.50); CPO 2,023.02 t. Estate 2025 (derived) 21,291.02 t, 25.82 t/ha vs budget 25.00 (20,612 t), 2024 24.47 t/ha (20,175.98 t). Timur crop 2024 was 10,225.67 t; Agro Appendix 2a misprints annual totals for 2021–2024. Monthly FFB Jan–Apr 2026 (Agro App. 2a/2b): Timur 813.68, 547.75, 704.80, 741.28 = 2,807.51 t; Kema 934.06, 635.14, 650.58, 615.00 = 2,834.78 t. Jan–Apr 2025: Timur 2,825.94 t; Kema 3,040.43 t. Jan–Apr 2026 yield Timur 6.82 vs 6.86 t/ha (-0.6%); Kema 6.87 vs 7.37 (-6.8%); estate (derived) 6.84 vs 7.12. Crop losses minimal. Both PAs: palms in a low-cropping season at the June 2026 visits, many without bunches; 2026 yield may miss budget (PA Timur: May 2026 yield 1–2 t/ha below May 2025).\nBlock 2025 yields (Agro Table 12) range 22.36 (P98A1) to 30.17 t/ha (P08G1); Timur 25.53 (2024 24.83), Kema 26.12 (24.11). All blocks above 20 t/ha; 80% above 24 t/ha.\nYield Jan–Apr 2025 to Jan–Apr 2026 t/ha (Agro Table 13): Timur P02B1 8.10 to 7.29; P02B2 5.84 to 6.77; P06D1 7.03 to 6.43; P06D2 7.83 to 6.81; P98A1 4.71 to 6.94; P02B3 6.22 to 7.14; P03C 7.29 to 6.54. Kema P98E1 5.98 to 7.47; P98E2 7.24 to 6.94; P08G1 7.10 to 6.07; P08G2 7.45 to 6.64; P08G3 8.09 to 7.54; P09F1 7.31 to 7.19; P09F2 8.24 to 7.11; P18H 5.81 to 4.20.\nBunch weight Dec 2024 to Dec 2025 (PA): Timur 1998 fell 25 to 24.7 kg, others rose (2003 19 to 21.3); Kema 1998 fell 33 to 30 kg, 2008/2009/2018 unchanged.\n\nCOST OF PRODUCTION (PA, Jan–Dec 2025, RM per tonne FFB). Timur: general charges 171.00 (budget 47.00), upkeep 68.00 (67.00), harvesting 72.00 (71.00; excludes external transport), total 311.00 vs 185.00; per tonne CPO 1,659 vs 953. Kema: general 96.36 (55.46), upkeep 89.43 (70.63), harvesting 108.21 (110.72), total 294.00 vs 236.82; per tonne CPO 1,566.35 vs 1,246.40. PAs blame unbudgeted Head Office general charges (and Kema upkeep anomalies). Combined crop-weighted (derived): general 133.21 (budget 51.07), upkeep 78.94 (68.58), harvest 90.33 (90.88), total 302.48 vs 210.53; the harvest basis differs between divisions.\n\nRAINFALL (PA and Agro appendices). Timur mm (rain days): 2021 3,106 (154); 2022 3,097 (188); 2023 2,962 (158); 2024 2,315 (150); 2025 2,570 (165); Jan–Apr 2026 446 (35). Kema: 2021 2,558 (152); 2022 2,902 (157); 2023 2,541 (138); 2024 2,532 (157); 2025 2,735.5 (142); Jan–Apr 2026 390 (26). Nov–Dec 2025 very wet and disrupted spraying and road grading.\n\nCONCLUSIONS. PA Timur: well managed; recruit harvesters and sprayers, review piece rates, start road grading. PA Kema: crop budget achieved, fields clean; raise circle-spraying productivity, recruit harvesters, finish roads by September. Agro: rat control in P18H urgent; update Kema palm census; supervise thinning.\n\nKNOWN INCONSISTENCIES (see issues list): Ganoderma extent; PA Timur 19.77 t/ha 2024 base and 29% gain; Appendix 2a totals; Kema 406.19 vs 412.70 ha; weeding completion; rat status; roads; replanting plans; barn owl 80% vs 61%; COP basis; Timur labour table; thinning total; harvest interval.\n",
+ "blockPeriod": "Jan–Apr 2026",
+ "blockSrc": "Agronomy Report 1/2026 Table 13 (2025 full-year yields in Table 12)",
+ "ytdCurrent": {
+  "year": 2026,
+  "period": "Jan–Apr 2026",
+  "yph": 6.84,
+  "prevSame": 7.12,
+  "src": "Derived from Agronomy Report 1/2026 Appendix 2a/2b monthly crop (5,642.29 t vs 5,866.37 t) over 824.50 ha; Table 13 gives Timur 6.82 vs 6.86 and Kema 6.87 vs 7.37"
+ },
+ "folder": "https://drive.google.com/drive/folders/1-puu8v6ktP1umP0MctSvMf2WxAs4363I"
+}

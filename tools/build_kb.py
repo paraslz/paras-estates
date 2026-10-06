@@ -16,7 +16,7 @@ for f in sorted(glob.glob("data/*.json")):
     d = json.load(open(f)); kb = (d.get("kb") or "").strip()
     if not kb: continue
     r = d.get("reports") or {}
-    src = "; ".join(f"{x.get('title')} (visit {x.get('visit')})" for x in (r.get("pa"), r.get("agro")) if x)
+    src = "; ".join(f"{x.get('title')} (visit {x.get('visit')})" for x in (r.get("pa"), r.get("pa2"), r.get("agro")) if x)
     txt = f"""PARAS ESTATE REPORT PACK — {d['name']}
 Company: {d.get('company') or '-'} · Group: {d.get('group') or '-'}
 Latest reports: {src or '-'}

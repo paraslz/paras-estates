@@ -16,13 +16,14 @@ document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",
 /* charts */
 function css(n){return getComputedStyle(document.documentElement).getPropertyValue(n).trim()}
 function T(){const grid=css("--grid"),line=css("--line"),muted=css("--muted");Chart.defaults.color=muted;Chart.defaults.font.family="Archivo, system-ui, sans-serif";Chart.defaults.font.size=13;Chart.defaults.plugins.legend.labels.boxWidth=10;Chart.defaults.maintainAspectRatio=false;return{accent:css("--accent"),fruit:css("--fruit"),bad:css("--bad"),warn:css("--warn"),line,muted,ax:{grid:{color:grid},border:{color:line}}}}
-const clean=p=>String(p||"").replace(/\s*\(.*\)\s*$/,"").trim();
+const bare=p=>String(p||"").replace(/\s*\(.*\)\s*$/,"").trim();
+const clean=p=>String(p||"").replace(/\s*\([^)]*\bsee\b[^)]*\)/i,"").trim();
 const BP=()=>clean(D.blockPeriod||(D.kpi||{}).ffbPeriod)||"period not stated";
 const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/(\d{4})/,y=>y-1):"same period last year"};
 function YTD(){const k=D.kpi||{};let c=D.ytdCurrent;
- if(!c&&k.yph!=null){const p=clean(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
+ if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
  if(!c)return null;const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);if(yh.some(y=>+y.year===+c.year))return null;
- return {...c,months:clean(c.period).replace(/\s*\d{4}$/,"")}}
+ return {...c,months:bare(c.period).replace(/\s*\d{4}$/,"")}}
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -56,7 +57,7 @@ function render(){
  $("eb").textContent=[D.group,D.company,"PARAS advisory"].filter(Boolean).join(" · ");
  $("nm").textContent=D.name;
  $("mt").textContent=[a.planted!=null?`${fmt(a.planted)} ha planted`:null,a.mature!=null?`${fmt(a.mature)} ha mature`:null,a.immature?`${fmt(a.immature)} ha immature`:null].filter(Boolean).join(" · ");
- const rp=[];if(r.pa)rp.push(`<b>${esc(r.pa.title)}</b> (visit ${esc(r.pa.visit||"–")}${r.pa.period?", covers "+esc(r.pa.period):""})`);if(r.agro)rp.push(`<b>${esc(r.agro.title)}</b> (visit ${esc(r.agro.visit||"–")})`);
+ const rp=[];if(r.pa)rp.push(`<b>${esc(r.pa.title)}</b> (visit ${esc(r.pa.visit||"–")}${r.pa.period?", covers "+esc(r.pa.period):""})`);if(r.pa2)rp.push(`<b>${esc(r.pa2.title)}</b> (visit ${esc(r.pa2.visit||"–")}${r.pa2.period?", covers "+esc(r.pa2.period):""})`);if(r.agro)rp.push(`<b>${esc(r.agro.title)}</b> (visit ${esc(r.agro.visit||"–")})`);
  $("lt").innerHTML="Latest reports: "+(rp.join(" · ")||"none found");
  // KPIs
  $("glH").textContent=k.ffbPeriod?`${clean(k.ffbPeriod)} at a glance`:"At a glance";
@@ -120,7 +121,7 @@ function render(){
  }
  // reports + folder
  if(D.folder){const f=$("fld");f.href=D.folder;f.hidden=false}
- $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
+ $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.pa2,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
  // ask chips
  const bid=B[0]?B[0].id:"the oldest block";
  ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What should I look out for on a field visit?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
