@@ -49,3 +49,16 @@ Write UTF-8 JSON. Use numbers (not strings) for figures. Use null when a figure 
  "ytdCurrent": {"year": 2026, "period": "Jan–Jun 2026", "yph": 0, "prevSame": 0, "src": "Agronomy Report 1/2026 Table 13"}
      // ONLY when the latest full-year in kpi is e.g. Jan–Dec 2025 but a report also gives current-year-to-date estate yield. Otherwise omit.
 Every yield figure must have its period. Every period must be exactly what the report says.
+
+## ffbProd (FFB production tonnes — drives the estate "FFB production" chart and the group chart)
+```
+"ffbProd": {
+  "years": [{"year": 2025, "t": 28187.68, "src": "PA Report 1/2026 Section 8"}],   // full calendar years only, whole estate, as printed
+  "monthly": {"2025": [Jan..Dec or null], "2026": [Jan..Dec or null]},             // printed monthly tonnes
+  "monthlySrc": "...",
+  "ytd": {"year": 2026, "from": 1, "to": 5, "t": 7375.22, "src": "..."},           // latest printed cumulative tonnage this year
+  "combinedWith": "juasa-b",   // only when the ytd figure covers two estates (Juasa A+B); put it on one estate only
+  "notes": "conflicts, partial years (not shown to clients)"
+}
+```
+Never compute tonnes from t/ha × area. The group page sums 2026 to the month that the most estates can be matched to (monthly series up to that month, or a cumulative total ending exactly that month).

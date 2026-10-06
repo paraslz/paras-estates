@@ -22,6 +22,19 @@ def cost_text(d):
     out.append(f"Total operating cost: {f(t.get('actual'))} / {f(t.get('budget'))}")
     return "\n".join(out) + "\n"
 
+MON = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
+def ffb_text(d):
+    f = d.get("ffbProd")
+    if not f: return ""
+    out = ["\nFFB PRODUCTION (tonnes, whole estate, as printed in the reports)"]
+    for y in f.get("years", []): out.append(f"{y['year']} (Jan–Dec): {y['t']:,.2f} t ({y.get('src') or '-'})")
+    for yr, m in (f.get("monthly") or {}).items():
+        v = [f"{MON[i]} {x:,.2f}" for i, x in enumerate(m) if x is not None]
+        if v: out.append(f"{yr} monthly: " + "; ".join(v))
+    y = f.get("ytd")
+    if y: out.append(f"{y['year']} Jan–{MON[y['to']-1]}: {y['t']:,.2f} t ({y.get('src') or '-'}){' — Juasa A and B combined' if f.get('combinedWith') else ''}")
+    return "\n".join(out) + "\n"
+
 os.makedirs("kb", exist_ok=True)
 n = 0
 for f in sorted(glob.glob("data/*.json")):
@@ -41,6 +54,6 @@ Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. 
 
 REPORT EXTRACTS
 {kb}
-{cost_text(d)}"""
+{cost_text(d)}{ffb_text(d)}"""
     open(f"kb/{d['slug']}.txt", "w").write(txt); n += 1
 print(n, "report packs written")

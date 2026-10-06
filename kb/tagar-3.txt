@@ -74,3 +74,12 @@ General charges: 79.39 / 77.66
   - Other expenditure: 38.72 / 31.75 *
   - Cost of MSPO: 0.45 / 0.32 *
 Total operating cost: 279.52 / 263.61
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2022 (Jan–Dec): 20,868.10 t (Agronomy Report 1/2024 Table 5 (monthly production, printed total))
+2023 (Jan–Dec): 26,906.87 t (Agronomy Report 1/2024 Table 5 (printed total; agrees with 17.38 t/ha in Table 12))
+2024 (Jan–Dec): 29,248.13 t (PA Report 1/2026 Section 8 (last year same period) and Agronomy Report 1/2026 Table 6 total)
+2025 (Jan–Dec): 28,187.68 t (PA Report 1/2026 Section 8 Crop Production (Jan-Dec 2025) and Agronomy Report 1/2026 Table 6 total)
+2025 monthly: Jan 2,603.76; Feb 2,382.04; Mar 2,292.32; Apr 2,648.34; May 2,251.10; Jun 2,367.67; Jul 2,618.41; Aug 2,592.47; Sep 2,491.50; Oct 2,164.34; Nov 1,906.46; Dec 1,869.27
+2026 monthly: Jan 1,551.33; Feb 1,275.21; Mar 1,446.46; Apr 1,577.19; May 1,525.03
+2026 Jan–May: 7,375.22 t (Agronomy Report 1/2026 Table 6 total (Jan-May 2026))

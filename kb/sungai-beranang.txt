@@ -55,3 +55,10 @@ The 2027 programme follows the second agronomy visit.
 RAINFALL (Agro Appendix 2), mm and rain days: 2020 2,533 (163); 2021 2,464 (157); 2022 3,821 (169); 2023 2,819 (117); 2024 2,519 (146); 2025 2,441 (128).
 
 DATA ISSUES: R21 supply figures conflict between the reports. R14 rubber yield is suspect. The 2024 vs 2025 yield uses different area bases. Agro section headings give PR21B as 23.07 ha and R21 as 27.92 ha against 26.83 and 20.42 in the area tables. Replant and basal pruning deadlines are inconsistent within the PA report. The PA manuring table has a G2 RP date error and the bunch-weight table lists 2004 twice. The Agro text cites a non-existent P98, and the R21 dose unit is wrong. Agro 4.1.2 says under 5 t/ha from P13 to date but Table 13 and 8.4 give 6.74 t/ha. Agro Table 14 uses 2025 rubber areas of 35.1, 20.0 and 33.0 ha (88.1 total) against 33.15, 17.60 and 32.98 ha (83.73) for 2026.
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2024 (Jan–Dec): 5,517.66 t (Agronomy Report 1/2026 Table 7 (monthly production, 12 months summed = printed total))
+2025 (Jan–Dec): 5,374.76 t (Agronomy Report 1/2026 Table 7 (12 months summed = printed total))
+2025 monthly: Jan 325.30; Feb 273.22; Mar 363.88; Apr 462.62; May 557.11; Jun 456.65; Jul 630.42; Aug 514.23; Sep 482.57; Oct 518.29; Nov 427.39; Dec 363.08
+2026 monthly: Jan 401.62; Feb 362.80; Mar 396.91; Apr 377.75; May 431.73; Jun 398.78
+2026 Jan–Jun: 2,369.59 t (Agronomy Report 1/2026 Table 7 total (Jan-Jun 2026))

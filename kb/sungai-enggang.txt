@@ -85,3 +85,14 @@ General charges: 88.94 / 97.73
   - Other expenditures: 32.69 / 37.04 *
   - MSPO: 0.00 / 0.00 *
 Total operating cost: 254.64 / 262.36
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2020 (Jan–Dec): 54,978.06 t (Agronomy Report 1/2026 Appendix 2(b) Monthly Yield Record (total of months))
+2021 (Jan–Dec): 41,079.43 t (Agronomy Report 1/2026 Appendix 2(a)/(b))
+2022 (Jan–Dec): 39,062.94 t (Agronomy Report 1/2026 Appendix 2(a)/(b) (2-2024 Appendix 3(b) prints 39,062.43 total, typo; months sum 39,062.94))
+2023 (Jan–Dec): 41,887.31 t (Agronomy Report 1/2026 Appendix 2(b) monthly total (Appendix 2(a) block total prints 41,874.13))
+2024 (Jan–Dec): 42,643.13 t (Agronomy Report 1/2026 Appendix 2(a)/(b))
+2025 (Jan–Dec): 34,353.43 t (PA Report 1/2026 Section 8 Crop Production (Jan-Dec 2025) and Agronomy Report 1/2026 Appendix 2(b))
+2025 monthly: Jan 2,116.99; Feb 2,998.12; Mar 2,371.62; Apr 3,258.16; May 3,513.48; Jun 2,577.66; Jul 2,878.16; Aug 2,715.94; Sep 2,548.70; Oct 3,380.72; Nov 3,303.70; Dec 2,690.18
+2026 monthly: Jan 3,201.64; Feb 2,954.36; Mar 3,014.98; Apr 3,388.18
+2026 Jan–Apr: 12,559.16 t (Agronomy Report 1/2026 Appendix 2(b) 1st half total column (Jan-Apr 2026))

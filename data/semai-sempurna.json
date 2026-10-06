@@ -636,5 +636,83 @@
    "Group totals for GC and upkeep match section 9 and costParts.",
    "Annual budget total printed 200.70 (not used)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2019,
+    "t": 14762.99,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2020,
+    "t": 16426.14,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2021,
+    "t": 15197.86,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2022,
+    "t": 15926.18,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2023,
+    "t": 12165.77,
+    "src": "Agro 2/2026 App 3a/3b"
+   },
+   {
+    "year": 2024,
+    "t": 16949.67,
+    "src": "Agro 2/2026 App 3a/3b"
+   },
+   {
+    "year": 2025,
+    "t": 14823.53,
+    "src": "Agro 2/2026 App 3a/3b (monthly grand total 14,823.52)"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    964.7,
+    977.56,
+    961.51,
+    1306.02,
+    1277.45,
+    1345.27,
+    1204.33,
+    1256.87,
+    1418.4,
+    1436.73,
+    1383.57,
+    1291.11
+   ],
+   "2026": [
+    1158.92,
+    714.26,
+    926.23,
+    1183.65,
+    913.65,
+    933.26,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agro 2/2026 Appendix 3a/3b",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 5829.97,
+   "src": "PA 2/2026 section 8; Agro 2/2026 App 3"
+  },
+  "notes": "Agro 1/2024 App 2 2023 total column is a typo repeating 15,926.18; corrected to 12,165.77 from Agro 2/2026. PA prints last-year 12-month FFB as 16,373 t (24.50 t/ha), conflicting with Agro 2025 actual 14,823.53 t (22.18 t/ha); Agro preferred. 668.40 ha basis. 2026 YTD equals sum of monthly figures. 2022 Jan-Jun monthly: 1062.11, 795.93, 1328.64, 1110.17, 1239.02, 1216.94."
  }
 }

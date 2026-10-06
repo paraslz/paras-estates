@@ -682,5 +682,39 @@
    "General charges budget MISMATCH: printed group budget RM110.00/t (annual 93.74) does not equal item sum (937,880/4,367 = 214.76/t). 110.00 and 93.74 correspond to Management & supervision only (annual 1,149,459/12,262 = 93.74; todate 478,940/4,367 = 109.67); so items' budget calc (109.67 + 51.16 + 53.93) sums to 214.76, not 110.00. Actual 175.10 does match the full item total (704,084.68/4,021.26 = 175.09).",
    "Item RM amounts sum exactly to printed RM group totals; actual group per-tonne totals match dashboard costParts. Upkeep budget 154.00 printed vs 153.68 calc (minor); harvest budget 128.62 vs 128.63."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2020,
+    "t": 15234.69,
+    "src": "Agronomy Report 2-2024 Appendix 3(b) monthly yield record totals"
+   },
+   {
+    "year": 2021,
+    "t": 11900.1,
+    "src": "Agronomy Report 2-2024 Appendix 3(b) monthly yield record totals"
+   },
+   {
+    "year": 2022,
+    "t": 9033.18,
+    "src": "Agronomy Report 2-2024 Appendix 3(b) monthly yield record totals"
+   },
+   {
+    "year": 2023,
+    "t": 7845.5,
+    "src": "Agronomy Report 2-2024 Appendix 3(b) monthly yield record totals"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "No 2025/2026 monthly table printed; 2024 Jan-Sep from Agronomy Report 2-2024 (sum 4541.54)",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 5,
+   "t": 4021.26,
+   "src": "PA Report 1-2026 Table 8 (788.02 ha basis)"
+  },
+  "notes": "Estate then included old fields later replanted, so 2020-2023 basis differs from today. Same period Jan-May 2025 = 3265.68. Jan-Oct 2025 = 7299.35 (PA 2-2025); Jan-Oct 2024 = 5700.94 (409.81 ha basis). Full-year 2024 and 2025 tonnage not printed. 6,493 and 5,551 are budgets, excluded."
  }
 }

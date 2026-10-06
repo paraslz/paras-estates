@@ -50,3 +50,7 @@ RAINFALL (Agronomy). Data only from July 2025: Jul 74 mm/7 days, Aug 183/13, Sep
 IMMATURE. PR23 (100 ha, planted Dec 2023, target 136 SPH): scout harvesting since Jan 2026; Mix B 1.75 kg/palm Feb 2026; rat and Oryctes below 3%. Agronomy: vigour below optimum, excessive frond removal, rotten bunches and loose fruit left, weeding delayed. PR24 (100 ha PA / 98 ha Agro, planted Dec 2024, 148 SPH design): Comp 1.20 kg/palm Jan and Mar 2026; PA says first ablation June 2026; Agronomy says ablation not needed; severe Oryctes, declining after carbofuran; PJ cover climbing palms.
 
 MECHANISATION (PA). Mist blower spraying started; consider mini crawler or motorised wheelbarrow for FFB evacuation and manuring; visit group estates.
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2025 monthly: Jul 2,032.36; Aug 2,079.98; Sep 2,023.22; Oct 2,275.48; Nov 1,862.78; Dec 1,881.56
+2026 Jan–Mar: 3,816.45 t (Planting Advisory Report 1/2026, section 7 Crop Production (Jan-Mar 2026, mature 1,030 ha))

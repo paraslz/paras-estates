@@ -653,5 +653,73 @@
    "Upkeep table is 'Cost of Upkeep (Mature)'; no immature area. Tools and Supplying lines are nil and omitted. Soil/water conservation actual nil (mounding not started).",
    "General charges report gives only 3 sub-group lines (no item-level detail in the PA report body)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 27398.17,
+    "src": "Agro 2/2024 App 3"
+   },
+   {
+    "year": 2022,
+    "t": 23092.6,
+    "src": "Agro 2/2024 App 3 (monthly total prints 23,093.64)"
+   },
+   {
+    "year": 2023,
+    "t": 27411.3,
+    "src": "Agro 2/2024 App 3"
+   },
+   {
+    "year": 2024,
+    "t": 27650,
+    "src": "Agro 1/2025 Table 15 (block sum ~27,647; 13.83 t/ha)"
+   },
+   {
+    "year": 2025,
+    "t": 25434.05,
+    "src": "Agro 1/2026 App 3a; PA 1/2026 section 8"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    1661.99,
+    1870.48,
+    null,
+    null,
+    null,
+    null,
+    null,
+    2588.15,
+    null,
+    null,
+    null,
+    1747.83
+   ],
+   "2026": [
+    1708.16,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "2025: Jan-Feb Agro 1/2025 App 3; Aug Agro 2/2025 App 3 (Jan-Jul 13,164.54; Jan-Aug 15,752.69); Dec Agro 1/2026 App 3a (Jan-Nov 23,686.22). 2026 Jan: Agro 1/2026 App 3b",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 8765.54,
+   "src": "PA 2/2026 section 8"
+  },
+  "notes": "CONFLICT: 25,780.41 labelled 2024/last year in Agro 1/2026 and PA 1/2026 is Jan-Nov 2024 only (Agro 2/2024 App 3b H1 12,337.22 + H2 13,443.19), so 2025 is compared with a partial 2024; full-year 2024 taken as 27,650. Other 2025 cumulatives: Jan-Jun 10,903.58 (PA 2/2026); Jan-Nov 23,686.22 (PA 1/2026). 2024 Dec not printed. PA annual budget 33,785 t excluded. 2021-2023 monthly in Agro 2/2024 App 3(b). Feb-Jun 2026 implied 7,057.38 is derived, not printed."
  }
 }

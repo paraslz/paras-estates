@@ -629,5 +629,54 @@
    "Group totals as printed in section 9; match dashboard costParts. Budget is to-date (Jan-Jun); budget RM/t for calc items = to-date budget RM / to-date budget FFB 4,805.00 t.",
    "Harvest items printed per tonne in section 7 and sum to the printed totals (within rounding). Upkeep and general-charges items computed from RM amounts / 4,161.98 t and sum to the printed group totals (within rounding)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2022,
+    "t": 7018.69,
+    "src": "PA Report 1/2024 Section 8 same-period-last-year G.TOTAL"
+   },
+   {
+    "year": 2023,
+    "t": 7784.45,
+    "src": "PA Report 1/2024 Dec 2023 field table G.TOTAL (mature subtotal 7,518.05 + PR20A 266.40)"
+   },
+   {
+    "year": 2024,
+    "t": 9140.05,
+    "src": "PA Report 1/2025 Crop Production table; agrees with PA 1/2026 same-period-last-year column"
+   },
+   {
+    "year": 2025,
+    "t": 8675.13,
+    "src": "PA Report 1/2026 Dec 2025 field table total (mature fields, 638.35 ha, 13.59 t/ha)"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    783.58
+   ]
+  },
+  "monthlySrc": "No text monthly table for 2025 or 2026; Agronomy monthly production is chart-only. Only Dec 2025 (783.58 t) is printed in PA 1/2026 Dec field table ('actual this month'). Dec 2023 month was 823.28 t (PA 1/2024).",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 4161.98,
+   "src": "PA Report 2/2026 Section 8 Crop Production (Jan-Jun 2026 actual todate)"
+  },
+  "notes": "Scope differences: 2023 G.TOTAL 7,784.45 includes immature/scout-harvest PR20A (266.40 t); mature-only subtotal 7,518.05. 2025 figure is mature fields only (PR20A and PR22H not in the total as printed). 2025 conflict: PA 1/2026 Nov summary table printed 7,983.61 todate but the Dec field table shows previous todate 7,891.55 + Dec 783.58 = 8,675.13; used the Dec field-table total. In PA 2/2026 Section 8, the 'last year / annual 12 months' column prints 12,230, which is a budget not an actual and was ignored; annual budget 10,350. Jan-Jun 2025 same period was 4,060.71 t. YTD 4,161.98 is Jan-Jun 2026 only."
  }
 }

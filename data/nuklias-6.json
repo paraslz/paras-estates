@@ -929,5 +929,73 @@
    "Total (sum of groups) will differ from dashboard kpi.cop 302.48 because of the harvest basis above.",
    "Total 318.20 actual / 225.66 budget (sum of combined groups) vs dashboard 302.48."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 13719.2,
+    "src": "Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures"
+   },
+   {
+    "year": 2022,
+    "t": 15850.55,
+    "src": "Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures"
+   },
+   {
+    "year": 2023,
+    "t": 16223.48,
+    "src": "Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures"
+   },
+   {
+    "year": 2024,
+    "t": 20175.98,
+    "src": "Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures ; matches PA Timur 10,225.67 + Kema 9,950.31"
+   },
+   {
+    "year": 2025,
+    "t": 21291.02,
+    "src": "Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures ; matches PA 1-2026 Table 8 Timur 10,513.05 + Kema 10,777.97"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    1311.8,
+    1296.11,
+    1484.4,
+    1774.06,
+    2077.28,
+    1932.57,
+    1633.82,
+    1857.08,
+    1786.08,
+    2009.06,
+    2116.03,
+    2012.73
+   ],
+   "2026": [
+    1747.74,
+    1182.89,
+    1355.38,
+    1356.28,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1-2026 Appendix 2a (Timur A&B) and 2b (Kema), monthly MT 2021-Apr 2026; estate = Timur + Kema summed month by month.",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 4,
+   "t": 5642.29,
+   "src": "Agronomy Report 1-2026 Appendix 2a+2b: Timur 2,807.51 + Kema 2,834.78"
+  },
+  "notes": "Nuklias 6 is one estate = Timur (A&B) + Kema divisions; every figure here is the sum of the printed division figures. Division figures: 2025 Timur 10,513.05 / Kema 10,777.97; 2024 Timur 10,225.67 / Kema 9,950.31 (both confirmed in PA 1-2026 crop tables); 2023 Timur 8,141.90 / Kema 8,081.58; 2022 Timur 8,227.06 / Kema 7,623.49; 2021 Timur 6,708.75 / Kema 7,010.45 (earlier years are sums of printed months). Misprint: Agro Appendix 2a prints Timur annual totals for 2021-2024 as 8,729.75, 10,249.06, 10,164.90 and 12,249.67, each exactly 2,000 t above the sum of its printed months; months were used. Timur 2024 sum of months 10,225.67 agrees with PA. PA 1-2026 Timur table also prints an odd 'same period' 2024 value of 7,971.13 (Kema 7,961.08) beside the full-year 2024 actual; not used. 2026 monthly is Jan-Apr only; no PA 2-2026 exists in the folder. Jan-Apr 2026 estate 5,642.29 vs Jan-Apr 2025 5,866.37 (Timur 2,825.94 + Kema 3,040.43)."
  }
 }

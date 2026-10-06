@@ -632,5 +632,88 @@
    "General charges has 29 appendix lines; kept 13 largest plus Other. Sub-totals reconcile: Supervision 421,260.83; Labour items sum 102,231.34 vs printed 102,231.67 (RM0.33 diff); Other 170,408.35; printed total 693,900.85 (Table 6) vs 693,901 (Table 20).",
    "Appendix 2 prints Head Office/Agency Fees budget todate as RM20,000 (annual RM360,000); this is a typo - other lines sum to RM610,770 so RM120,000 (annual/3) is needed to reach the printed RM730,772 todate subtotal. RM120,000 used for the budget item (calc)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2018,
+    "t": 23006.94,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2019,
+    "t": 28021.02,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2020,
+    "t": 23725.58,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2021,
+    "t": 19465.7,
+    "src": "Agro 1/2024 Appendix 2"
+   },
+   {
+    "year": 2022,
+    "t": 22373.29,
+    "src": "Agro 2/2026 Appendix 3"
+   },
+   {
+    "year": 2023,
+    "t": 21148.53,
+    "src": "Agro 2/2026 Appendix 3"
+   },
+   {
+    "year": 2024,
+    "t": 23581.34,
+    "src": "Agro 2/2026 Appendix 3"
+   },
+   {
+    "year": 2025,
+    "t": 21698.93,
+    "src": "Agro 2/2026 Appendix 3"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    526.31,
+    895.69,
+    1870.07,
+    2196.64,
+    2565.64,
+    2541.18,
+    2340.22,
+    1895.4,
+    1976.42,
+    1931.96,
+    1846.36,
+    1113.04
+   ],
+   "2026": [
+    1496.46,
+    1110.66,
+    1447.66,
+    1668.28,
+    1355.84,
+    1515.92,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agro 2/2026 Appendix 3",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 8594.82,
+   "src": "Agro 2/2026 Appendix 3"
+  },
+  "notes": "Area basis changed from 1,165.52 ha to 974.82 ha. PA budget/estimate figures excluded. PA 1/2026 Jan-May 7,078.90 equals the Jan-May sum of monthly figures. Jan 2025 526.31 as printed."
  }
 }

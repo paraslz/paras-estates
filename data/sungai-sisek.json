@@ -728,5 +728,18 @@
    "Harvest items printed per tonne in section 7; they sum to the printed group totals (91.44 / 105.26). Harvesting labour and internal transport only.",
    "Annual budget total printed 268.61 (not used)."
   ]
+ },
+ "ffbProd": {
+  "years": [],
+  "monthly": {},
+  "monthlySrc": "none printed",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 5,
+   "t": 9458.11,
+   "src": "PA Report 1-2026 (1469.53 ha)"
+  },
+  "notes": "No annual or monthly tonnages printed in PA 2-2025, PA 1-2026, Agronomy 1-2025, 2-2025, 1-2026 (yield given in t/ha only; 2024 14.84, 2025 yield per Agronomy). Same period Jan-May 2025 = 9702.76 (1286.21 ha); yield 6.44 vs 7.54 t/ha. Jan-Oct 2025 = 22157.79; Jan-Oct 2024 = 19293.90 (PA 2-2025). 2024-2025 full-year not derived. Budgets 25,200 and 22,021 excluded. Agronomy 2024 reports and PA 2024/1-2025 not read."
  }
 }

@@ -696,5 +696,73 @@
    "Harvest budget has no top-up wages (null). Zero/empty lines omitted (Supervision, Soil/water conservation, Tools, Supplying). No separate items for FFB transport to mill: Internal transport is the only transport line.",
    "Total uses the report's printed 261.78 (sum of rounded groups = 261.77)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 7882.98,
+    "src": "Agronomy Report 1/2026 Appendix 2(a)/2(b)"
+   },
+   {
+    "year": 2022,
+    "t": 6949.55,
+    "src": "Agronomy Report 1/2026 Appendix 2(a)/2(b)"
+   },
+   {
+    "year": 2023,
+    "t": 7213.05,
+    "src": "Agronomy Report 1/2026 Appendix 2(a)/2(b)"
+   },
+   {
+    "year": 2024,
+    "t": 9285.52,
+    "src": "PA Report 1/2026 Section 8 (same figure in Agronomy 1/2026 App 2a/2b)"
+   },
+   {
+    "year": 2025,
+    "t": 8845.68,
+    "src": "PA Report 1/2026 Section 8 Crop Production table (Jan-Dec 2025)"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    673.28,
+    694.85,
+    765.53,
+    663.45,
+    806.38,
+    718.92,
+    917.86,
+    701.25,
+    768.16,
+    747.63,
+    688.68,
+    699.67
+   ],
+   "2026": [
+    784.64,
+    513.29,
+    808.83,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1/2026 (visit 13 Apr 2026) Appendix 2(b) Monthly Production, 464 ha, 2021-2026",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 3,
+   "t": 2106.76,
+   "src": "Agronomy Report 1/2026 Table 15 / Appendix 2(a) and 2(b) (Jan-Mar 2026, 4.54 t/ha)"
+  },
+  "notes": "All figures whole-estate (464 ha). 2020 and earlier not printed in the reports read. 2025 total: PA 1/2026 prints 8,845.68; Agronomy App 2(a) 8,845.67; App 2(b) 8,845.66 (monthly figures sum to 8,845.66; April 2025 shown as 663.45 in Agro 1/2026 but 663.46 in Agro 2/2025). Used PA 8,845.68 for the year. Monthly 2026 Jan-Mar sums to 2,106.76, agreeing with cumulative YTD. Monthly sums verified equal to printed annual totals for 2021-2025. PA 1/2026 prints 2025 yield 18.80 t/ha, which conflicts with tonnes/464 ha (19.06 t/ha, as in Agronomy); tonnes unaffected. No tonnage after March 2026 in either report (PA visit 13 May 2026 reviews Jan-Dec 2025 only)."
  }
 }

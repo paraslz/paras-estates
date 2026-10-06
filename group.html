@@ -29,6 +29,9 @@
 .st{font:500 12px var(--f-mono);padding:2px 7px;border-radius:10px;white-space:nowrap}
 .st.repeat{background:var(--bad-soft);color:var(--bad)}.st.open{background:var(--warn-soft);color:var(--warn)}.st.done{background:var(--good-soft);color:var(--good)}
 #acts td{white-space:normal}
+.ffbD{margin-top:10px;min-width:0;max-width:100%}.ffbD .tbl{max-width:100%}#ffbC{min-width:0;overflow:hidden}.ffbD summary{cursor:pointer;font-weight:600;padding:6px 0}
+.ffbT td,.ffbT th{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}.ffbT td:first-child,.ffbT th:first-child{text-align:left;white-space:normal}
+.ffbT tr.tot td{font-weight:700;border-top:2px solid var(--line)}.ffbT .x{color:var(--muted)}
 </style>
 </head>
 <body>
@@ -43,6 +46,9 @@
 <main><div class="in">
 
 <div class="card"><h2>Group at a glance</h2><p class="sub" id="gS"></p><div class="tot4" id="tot"></div></div>
+
+<div class="card" id="ffbC"><h2>Group FFB production</h2><p class="sub" id="ffbS"></p><div class="chart"><canvas id="cFfb" aria-label="Group FFB tonnes by year"></canvas></div><p class="note" id="ffbN"></p>
+ <details class="ffbD"><summary>Figures by estate</summary><div class="tbl"><table class="ffbT"><thead id="ffbH"></thead><tbody id="ffbB"></tbody></table></div></details></div>
 
 <div class="card" id="attC"><h2>Needs attention</h2><p class="sub" id="attS"></p><div class="att" id="att"></div></div>
 
@@ -70,6 +76,7 @@
 
 </div></main>
 <footer class="foot"><div class="in">Compiled from PARAS Planting Advisory and Agronomy reports. Figures as reported.</div></footer>
+<script src="/assets/vendor/chart.umd.min.js"></script>
 <script src="/assets/group.js"></script>
 </body>
 </html>

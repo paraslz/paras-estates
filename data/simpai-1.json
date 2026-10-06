@@ -679,5 +679,59 @@
    "Annual budget total RM/t FFB 272.57 (general 69.78, upkeep 113.17, harvest 89.62) not used.",
    "Report's own FFB-to-date 6,245.10 t is far below budget 8,375 t, inflating per-tonne general charges (179.80 vs 86.06)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 10517.24,
+    "src": "Agronomy Report 1-2026 Appendix 2, sum of printed field totals"
+   },
+   {
+    "year": 2022,
+    "t": 12579.49,
+    "src": "Agronomy Report 1-2026 Appendix 2, sum of printed field totals"
+   },
+   {
+    "year": 2023,
+    "t": 11779.95,
+    "src": "Agronomy Report 1-2026 Appendix 2, sum of printed field totals"
+   },
+   {
+    "year": 2024,
+    "t": 15787.34,
+    "src": "Agronomy Report 1-2026 Appendix 2, sum of printed field totals"
+   },
+   {
+    "year": 2025,
+    "t": 21349.28,
+    "src": "Agronomy Report 1-2026 Appendix 2, sum of printed field totals"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    1147.57,
+    874.48,
+    1394.63,
+    1749.34,
+    1609.81,
+    1783.38,
+    2093.3,
+    2225.75,
+    2126.19,
+    2502.93,
+    2145.17,
+    1696.73
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1-2026 Appendix 2, monthly field records summed across fields (Jan-May 2025 sum 6775.83 equals PA same-period actual)",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 5,
+   "t": 6245.1,
+   "src": "PA Report 1-2026 Section 8 crop production"
+  },
+  "notes": "Whole-estate totals are derived by summing printed field values; no printed estate total. 2025 includes PM15A(TR) 2158.14 and PR22G 155.23. Agronomy says Q1 2026 yield +9% vs Q1 2025, but PA Jan-May 2026 (6245.10) is 23% below Jan-May 2025 (6775.83). Budgets (19,105 / 24,788) excluded."
  }
 }

@@ -807,5 +807,54 @@
    "MISMATCH general charges: section 5 RM 1,870,488.13 / 8,393.44 t = 222.85/t (budget 1,312,314/12,693 = 103.39), but section 9 prints 188.27 (87.31); ratio 0.845 in both, approx mature/planted ha (1,563/1,851), so section 9 appears to allocate general charges to mature area only. Items shown are the unallocated section 5 figures and sum to 222.85, not 188.27.",
    "General charges 'MSPO' has no actual spend (budget annual RM 7,000 only; no to-date budget printed)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2022,
+    "t": 17934.91,
+    "src": "Agronomy Report 1/2024 Table 4 (monthly production printed total)"
+   },
+   {
+    "year": 2023,
+    "t": 17703.09,
+    "src": "PA Report 1/2024 Section 8 Dec 2023 field table total; equals Agronomy 1/2024 Table 4 total"
+   },
+   {
+    "year": 2024,
+    "t": 18330.11,
+    "src": "PA Report 1/2025 Crop Production table (Jan-Dec 2024)"
+   },
+   {
+    "year": 2025,
+    "t": 18688.5,
+    "src": "PA Report 1/2026 Dec 2025 field table todate (Section 8); also last-year 12 months column in PA 2/2026 Section 8"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    1552.66
+   ]
+  },
+  "monthlySrc": "No text monthly table for 2025 or 2026. Agronomy reports 1/2025, 2/2025 and 1/2026 show monthly production only as chart images. Only Dec 2025 (1,552.66 t, 'actual this month' in PA 1/2026 Dec field table) is printed as text. 2022 and 2023 monthly figures are printed in Agronomy 1/2024 Table 4 (see monthlyExtra).",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 8393.44,
+   "src": "PA Report 2/2026 Section 8 Crop Production as at June 2026 (Jan-Jun 2026 actual todate)"
+  },
+  "notes": "Conflicts: (a) 2022: PA 1/2024 'same period last year' column prints 17,532.12 t vs 17,934.91 t (sum of Agro 1/2024 Table 4 monthly figures); used 17,934.91 since it ties to the monthly figures, alternative 17,532.12. (b) 2024: PA 1/2025 prints 18,330.11 t but PA 1/2026 same-period-last-year column totals 17,917.45 t; used the contemporaneous 18,330.11, alternative 17,917.45 (differences likely from scope: young/scout-harvest fields PR20A and PM22K included or excluded in whole-estate total; PA 2/2026 hectarage is 1,563 ha this year vs 1,383 ha last year). (c) 2025: Nov 2025 summary table todate was 17,135.84; Dec field table adds 1,552.66 to give 18,688.50. PA 2/2026 same-period-last-year (Jan-Jun 2025) is 8,942.13 t. The 'annual 12 months budget' column is not used. 2026 YTD of 8,393.44 t (5.37 t/ha) is Jan-Jun only; there is no 2026 monthly breakdown in text, so no monthly 2026 values."
  }
 }

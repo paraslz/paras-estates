@@ -660,5 +660,58 @@
   "prevSame": 8.2,
   "src": "Agronomy Report 1/2026 Table 13"
  },
- "folder": "https://drive.google.com/drive/folders/1R_m2xemJAImIwcwF2wQ4D55TKcFcND89"
+ "folder": "https://drive.google.com/drive/folders/1R_m2xemJAImIwcwF2wQ4D55TKcFcND89",
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2024,
+    "t": 5517.66,
+    "src": "Agronomy Report 1/2026 Table 7 (monthly production, 12 months summed = printed total)"
+   },
+   {
+    "year": 2025,
+    "t": 5374.76,
+    "src": "Agronomy Report 1/2026 Table 7 (12 months summed = printed total)"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    325.3,
+    273.22,
+    363.88,
+    462.62,
+    557.11,
+    456.65,
+    630.42,
+    514.23,
+    482.57,
+    518.29,
+    427.39,
+    363.08
+   ],
+   "2026": [
+    401.62,
+    362.8,
+    396.91,
+    377.75,
+    431.73,
+    398.78,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1/2026 (visit 25 Jun 2026) Table 7 Monthly Production, whole estate (MT). Printed totals 5,517.66 / 5,374.76 / 2,369.59 all equal the sum of the printed months.",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 2369.59,
+   "src": "Agronomy Report 1/2026 Table 7 total (Jan-Jun 2026)"
+  },
+  "notes": "Only Agro 1/2026 prints tonnes; PA 1/2026, PA/Agro 2-2025, 1-2025, 2-2024 print yield in t/ha only (no FFB tonnage; 2-2024 has a production chart that is not readable as text). So only 2024 and 2025 full-year tonnages exist. 2025 oil palm yield printed 18.07 t/ha (PA 1/2026, 270.53 ha mature + 26.83 ha PM21H = 297.36 ha implied) and 19.44 t/ha (Agro 2-2025, 270.53 ha mature only, before P21H) - basis differs. Estate area includes mature oil palm only; rubber not included. Jan-Jun 2026 yield 7.97 t/ha on 297.36 ha (Agro Table 13). No 2026 data after June."
+ }
 }

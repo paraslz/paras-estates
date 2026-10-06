@@ -1269,5 +1269,45 @@
    "Upkeep group covers mature upkeep only (matches the printed RM/t); immature and replanting costs are excluded from cost of production.",
    "Section 9 annual budget per tonne FFB: GC 277.97, Upkeep 293.51, Harvest 236.98, total 808.46 (not used)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 16439.34,
+    "src": "Agronomy Report 1-2025 (visit for 2-2024) Appendix 4a Monthly Yield Record (sum of months = printed total)"
+   },
+   {
+    "year": 2022,
+    "t": 11375.38,
+    "src": "Agronomy Report 1-2025 (visit for 2-2024) Appendix 4a Monthly Yield Record"
+   },
+   {
+    "year": 2023,
+    "t": 15207.84,
+    "src": "PA Juasa A 1-2024 Crop Production; Agro Agronomy Report 1-2025 (visit for 2-2024) Appendix 4a"
+   },
+   {
+    "year": 2024,
+    "t": 18957.03,
+    "src": "PA Juasa A 1-2026 field table, same-period-last-year column total (Dec 2024)"
+   },
+   {
+    "year": 2025,
+    "t": 19410.85,
+    "src": "PA Juasa A 1-2026 'Crop Achieved Till December 2025' field table total"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "Agronomy Report 1-2025 (visit for 2-2024) Appendix 4a (Juasa A monthly MT, 2020-Nov 2024). No 2025/2026 monthly tonnage printed.",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 6,
+   "t": 14032.23,
+   "src": "PA Report 2-2026 Table 8 Crop Production, Juasa A+B combined (2,149.17 ha); same period 2025 15,660.18"
+  },
+  "combinedWith": "juasa-b",
+  "notes": "2021-2023 and Jan-Nov 2024 from Agro monthly records (A: 16,439.34; 11,375.38; 15,207.84; 17,656.63). 2022 conflict: Agro Appendix 3a yield statistic prints 11,325.39 and PA 1-2024 prints 11,322.70 as same-period 2022; monthly sum 11,375.38 used. 2023 15,207.84 confirmed by PA 1-2024 Table (Crop Production) and Agro 3a. 2024 full year 18,957.03 is the 'same period last year' column total of the field table in PA 1-2026 (field sum verified 18,957.03); implies Dec 2024 = 1,300.40 vs Jan-Nov 17,656.63; treat as less certain. 2025 19,410.85 = PA 1-2026 'Crop achieved till December 2025' field table total (field sum verified 19,410.85; 'previously' 18,196.89 + Dec 1,213.96); covers mature fields incl. P22T3 only, excludes PR23 scout harvesting (0.96 t/ha to Jun 2026 is not tonnage). 2026: only COMBINED A+B Jan-Jun 14,032.23 t (hectarage 2,149.17) exists, so the ytd entry is the combined figure and is deliberately left out of juasa-b.json (combinedWith juasa-b applies to the ytd entry only; all 'years' entries are Juasa A alone). The 2026 crop table also prints an annual-12-month column of 40,080 (budget) that is not used. PA says yield 3% below same period 2025 (Juasa A report) / 9% (Juasa B report); printed 6.53 vs 7.20 t/ha is 9.3% lower. Separate A and B figures exist, so they are kept separate. Jan-Nov 2024 is the last month in the monthly records (December 2024 blank). The PA 'Crop Production' tables for Juasa A and B (PA 1-2025, 1-2026, 2-2025, 2-2026) print COMBINED A+B figures only: Jan-Nov 2024 33,787.77 (= A 17,656.63 + B 16,131.14); Jan-May 2025 12,940.28 (same period 2024 14,250.94 = A 7,591.49 + B 6,659.45); Jan-Nov 2025 31,122.76 (table labelled 'as at November 2025'; PA text says Jan-Dec); Jan-Jun 2026 14,032.23 (same period 2025 15,660.18). No monthly tonnage for 2025 or 2026 is printed in any report (Agro Tables 16/17 give t/ha only). Agro 2020 monthly records are not used as years because both estates' January 2020 value is identical (1,394.42), which looks like a copy error (A 2020 sum 23,297.65; B 2020 sum 22,623.24)."
  }
 }

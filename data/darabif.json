@@ -608,5 +608,39 @@
    "FFB 34,207.33 t is from Table 27; Table 29 totals imply ~34,206 t. Brief's 34,195.12 not found in report.",
    "Upkeep items sum to RM2,812,406.36 vs printed 2,812,406.00; general-charges items sum exactly to printed. Group per-tonne totals match dashboard costParts (54.91, 82.22, 82.29). Windfall tax RM34.11/t (budget 25.00), depreciation 17.16, amortisation 12.78 are excluded from the RM219.41 sub-total (grand total 283.46)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2022,
+    "t": 25910.42,
+    "src": "Agronomy Report 2-2024 Table 7 (monthly total; equals sum of 12 months)"
+   },
+   {
+    "year": 2023,
+    "t": 30648.03,
+    "src": "Agronomy Report 2-2024 Table 7 printed total (sum of printed months is 30,648.13)"
+   },
+   {
+    "year": 2024,
+    "t": 38542.91,
+    "src": "PA Report 1-2026 Table 27, last-year column (1,627 ha basis, 23.69 t/ha)"
+   },
+   {
+    "year": 2025,
+    "t": 34207.33,
+    "src": "PA Report 1-2026 Table 27 (1,627 ha basis, 21.02 t/ha)"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "Agronomy Report 2-2024 Table 7 (Darabif only, 1,647 ha basis incl. E2; Jan 2022 to Nov 2024). No monthly tonnage table for 2025 or 2026 in any report (Agro 2-2025 has graph images only).",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 3,
+   "t": 7729.83,
+   "src": "PA Report 1-2026 Table 28 (Jan-Mar 2026; same period 2025 7,110.26)"
+  },
+  "notes": "2024 monthly Jan-Nov sums to 36,415.56 (= printed Table 7 total) but December is blank, so it is NOT used as the annual figure; annual 2024 comes from the PA. Basis conflict: PA annual figures use 1,627 ha (exclude E2, 20 ha operated by Insan Jaya but charged to Darabif); the Q1 2026 table and Agro Table 7 use 1,647 ha (include E2). Agro gives 2025 yield 20.94 t/ha on 1,647 ha vs PA 21.02 t/ha. Conflict: Jan-Oct 2023 per PA 2-2024 is 27,554.10 but the Agro monthly sum Jan-Oct 2023 is 24,427.01; Oct 2023 (3,544.00) looks anomalous. Cumulative checkpoints (PA): Jan-May 2025 12,161.01; Jan-Oct 2025 27,549.20; Jan-May 2024 15,595.16; Jan-Oct 2024 33,229.28. 2026 Q1 block sums: A 1,268.09; B 2,228.95; C 2,152.21; D 2,037.05; E2 43.53. Agro D&IJ report is shared with Insan Jaya; figures kept separate."
  }
 }

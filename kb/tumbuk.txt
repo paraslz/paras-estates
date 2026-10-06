@@ -45,3 +45,28 @@ ROADS AND DRAINS (PA): backhoe 72 hours at RM68.75/hr = RM4,950; 390 t crusher r
 VEHICLES (PA): Toyota Hilux WB 472 H and Mazda 1-ton lorry WGK 6856, fair condition; running costs monitored by HQ.
 RAINFALL (Agronomy 1/2026): 2021 1,548 mm/68 days; 2022 2,241/77; 2023 2,101/97; 2024 1,388/88; 2025 2,618/161.
 COST OF PRODUCTION: neither report contains general charges, upkeep cost or cost-per-tonne tables.
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2006 (Jan–Dec): 4,759.37 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2007 (Jan–Dec): 5,594.95 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2008 (Jan–Dec): 6,332.53 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2009 (Jan–Dec): 7,365.37 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2010 (Jan–Dec): 7,788.49 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2011 (Jan–Dec): 8,242.29 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2012 (Jan–Dec): 8,953.95 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2013 (Jan–Dec): 8,226.72 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2014 (Jan–Dec): 6,952.62 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2015 (Jan–Dec): 6,255.06 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2016 (Jan–Dec): 5,485.36 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2017 (Jan–Dec): 7,329.07 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2018 (Jan–Dec): 6,783.67 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2019 (Jan–Dec): 7,027.54 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2020 (Jan–Dec): 6,194.14 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2021 (Jan–Dec): 5,542.90 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2022 (Jan–Dec): 3,908.91 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2023 (Jan–Dec): 4,142.10 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
+2024 (Jan–Dec): 4,681.35 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic ; also Table 4 monthly sum)
+2025 (Jan–Dec): 4,937.92 t (Agronomy Report 1/2026, Table 4 printed total (monthly values sum to 4937.92))
+2025 monthly: Jan 290.64; Feb 307.86; Mar 400.35; Apr 478.39; May 554.08; Jun 544.06; Jul 583.30; Aug 469.19; Sep 441.59; Oct 329.54; Nov 292.07; Dec 246.85
+2026 monthly: Jan 211.68; Feb 174.05
+2026 Jan–Feb: 385.73 t (Agronomy Report 1/2026 Table 4 (Jan 211.68 + Feb 174.05 = 385.73, printed total))

@@ -343,5 +343,78 @@
   "yph": 2.98,
   "prevSame": 2.5,
   "src": "Agronomy Report 1/2026 Table 12 and Appendix 3"
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2020,
+    "t": 2638.65,
+    "src": "Agronomy Report 1/2026 Appendix 2 Yield Statistic"
+   },
+   {
+    "year": 2021,
+    "t": 1644.91,
+    "src": "Agronomy Report 1/2026 Appendix 2 and Appendix 3 Monthly Production"
+   },
+   {
+    "year": 2022,
+    "t": 1411.65,
+    "src": "Agronomy Report 1/2026 Appendix 3 Monthly Production (sum of months; Appendix 2 prints 1,239.48 - see notes)"
+   },
+   {
+    "year": 2023,
+    "t": 1871.07,
+    "src": "Agronomy Report 1/2026 Appendix 2 and 3"
+   },
+   {
+    "year": 2024,
+    "t": 1799.89,
+    "src": "Agronomy Report 1/2026 Appendix 2 and 3"
+   },
+   {
+    "year": 2025,
+    "t": 1627.55,
+    "src": "Agronomy Report 1/2026 Appendix 3 Monthly Production (total, 13.34 t/ha)"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    95.04,
+    97.12,
+    112.24,
+    124.97,
+    174.7,
+    179.29,
+    146.74,
+    146.74,
+    126.75,
+    135.84,
+    179.87,
+    108.25
+   ],
+   "2026": [
+    169.82,
+    80.85,
+    112.33,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1/2026 (visit 13 Apr 2026) Appendix 3 Monthly Production, 121.97 ha, 2021-2026",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 3,
+   "t": 363.0,
+   "src": "Agronomy Report 1/2026 Appendix 3 (Jan-Mar 2026, 2.98 t/ha; Jan-Mar 2025 304.40 t)"
+  },
+  "notes": "PA Report 1/2026 section 6 table is labelled 2024 vs 2025 but prints 1,871.07 t (2024) and 1,799.89 t (2025); these are actually the 2023 and 2024 actuals per Agronomy Appendix 2/3 - PA labels are one year out, so PA 'Jan-Dec 2025 = 1,799.89 t / 14.76 t/ha' conflicts with Agronomy 2025 = 1,627.55 t / 13.34 t/ha. Used Agronomy (monthly table). 2022 conflict inside Agronomy 1/2026: Appendix 2 prints 2022 total 1,239.48 t (10.16 t/ha, fields 49.92+153.75+1,035.81) but Appendix 3 monthly sums to 1,411.65 t (11.57 t/ha); used 1,411.65 (monthly, sums verified). Appendix 2 column headed '2025 as at March' (304.40 t) equals Jan-Mar 2025 from Appendix 3 (95.04+97.12+112.24). July and August 2025 are both printed as 146.74 in Appendix 3 (possible duplicate entry) but the year total still sums to 1,627.55. Jan-Mar 2026 monthly sums to 363.00, agreeing with cumulative. PA 1/2026 (visit 13 May 2026) has no 2026 tonnage."
  }
 }

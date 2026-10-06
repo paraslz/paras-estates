@@ -24,6 +24,11 @@ function YTD(){const k=D.kpi||{};let c=D.ytdCurrent;
  if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
  if(!c)return null;const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);if(yh.some(y=>+y.year===+c.year))return null;
  return {...c,months:bare(c.period).replace(/\s*\d{4}$/,"")}}
+const MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function FP(){const f=D.ffbProd;if(!f)return null;const ys=(f.years||[]).filter(y=>y.t!=null).slice(-8);
+ let c=null;if(!f.combinedWith){const m=(f.monthly||{})["2026"]||[];let n=0,t=0;for(const v of m){if(v==null)break;n++;t+=v}
+  if(n)c={year:2026,to:n,t,src:f.monthlySrc};const y=f.ytd;if(y&&y.from===1&&(!c||y.to>=c.to))c={year:y.year,to:y.to,t:y.t,src:y.src}}
+ return {ys,c,f}}
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -38,6 +43,9 @@ const DEF={
    if(c){ds.push({label:`${c.year}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
     if(c.prevSame!=null)ds.push({label:`${c.year-1}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
    if(yh.length+(c?1:0)>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:!!c}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
+  {const P=FP();if(P&&P.ys.length+(P.c?1:0)>0){const L=P.ys.map(y=>String(y.year)),V=P.ys.map(y=>y.t),col=P.ys.map(()=>t.accent);
+   if(P.c){L.push(`${P.c.year} (Jan–${MON[P.c.to-1]})`);V.push(P.c.t);col.push(t.fruit)}
+   out.push(new Chart($("ch5"),{type:"bar",data:{labels:L,datasets:[{label:"FFB tonnes",data:V,backgroundColor:col}]},options:{plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${fmt(x.raw,0)} t`}}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"tonnes FFB"}}}}}))}}
   return out},
  money(t){return[]},
  field(t){const out=[];const lb=(D.labour||[]).filter(l=>l.actual!=null);
@@ -80,6 +88,11 @@ function render(){
   const last=yh.length?yh[yh.length-1].year:null;
   $("ch4n").textContent=c?`The ${c.year} figure covers ${c.months} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months ${c.year-1}: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}`
    :(last?`No ${last+1} crop figure in the latest reports yet.`:"")}
+ {const P=FP();if(!P||P.ys.length+(P.c?1:0)===0)$("cB5").hidden=true;else{const n=[];
+  if(P.c)n.push(`${P.c.year} covers Jan–${MON[P.c.to-1]} only (${fmt(P.c.t,0)} t), so it is not comparable with full years.`);
+  if(P.f.combinedWith||slug==="juasa-b")n.push(`2026 to date is reported only for Juasa A and B combined: ${fmt(((D.kpi||{}).ffb),0)} t, ${bare((D.kpi||{}).ffbPeriod)}.`);
+  const yrs=P.ys.map(y=>y.year);if(yrs.length>1){const miss=[];for(let y=yrs[0];y<=yrs[yrs.length-1];y++)if(!yrs.includes(y))miss.push(y);if(miss.length)n.push(`No full-year tonnage printed for ${miss.join(", ")}.`)}
+  n.push("Tonnes as printed in the PARAS reports.");$("ch5n").textContent=n.join(" ")}}
 
  // blocks
  const B=D.blocks||[];

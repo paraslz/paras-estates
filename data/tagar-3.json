@@ -807,5 +807,68 @@
    "Upkeep items sum to 122.94 / 109.60 vs printed 122.95 / 109.58 (rounding).",
    "Harvest budget items sum to 76.36 vs 76.37 printed in s.9 (s.7 itself prints 76.36). External transport nil; top-up wages unbudgeted."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2022,
+    "t": 20868.1,
+    "src": "Agronomy Report 1/2024 Table 5 (monthly production, printed total)"
+   },
+   {
+    "year": 2023,
+    "t": 26906.87,
+    "src": "Agronomy Report 1/2024 Table 5 (printed total; agrees with 17.38 t/ha in Table 12)"
+   },
+   {
+    "year": 2024,
+    "t": 29248.13,
+    "src": "PA Report 1/2026 Section 8 (last year same period) and Agronomy Report 1/2026 Table 6 total"
+   },
+   {
+    "year": 2025,
+    "t": 28187.68,
+    "src": "PA Report 1/2026 Section 8 Crop Production (Jan-Dec 2025) and Agronomy Report 1/2026 Table 6 total"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    2603.76,
+    2382.04,
+    2292.32,
+    2648.34,
+    2251.1,
+    2367.67,
+    2618.41,
+    2592.47,
+    2491.5,
+    2164.34,
+    1906.46,
+    1869.27
+   ],
+   "2026": [
+    1551.33,
+    1275.21,
+    1446.46,
+    1577.19,
+    1525.03,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1/2026 (visit 17 Jun 2026) Table 6 Monthly Crop Production; 2025 months sum to 28,187.68 and 2026 Jan-May sum to 7,375.22, both matching printed totals. Earlier months also printed: 2024 same table (sums to 29,248.13); 2022 and 2023 in Agronomy Report 1/2024 Table 5.",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 5,
+   "t": 7375.22,
+   "src": "Agronomy Report 1/2026 Table 6 total (Jan-May 2026)"
+  },
+  "notes": "No PA Report 2/2026 exists in the folder yet (latest PA is 1/2026, visit 8 Apr 2026), so 2026 data comes only from Agronomy 1/2026 (Jan-May). No Jun 2026 figure. Area basis is mature 1,548.20 ha throughout (PN25K 80 ha ex-excavation block is unplanted). 2022 caveat: printed 2022 total 20,868.10 t (sum of the printed monthly figures) does not reconcile with the 14.36 t/ha 2022 yield printed in Agro 1/2024 Table 12 (20,868.10 / 1,548.20 = 13.48 t/ha; 14.36 t/ha corresponds to roughly 22.2k t, and Table 13 bunch count x ABW is of similar order). Used the printed tonnage total; treat 2022 with caution. 2021 and earlier tonnages are not printed in the folder reports. Nov 2024 todate 26,831.31 (PA 1/2025 visit 2-2024) + Dec 2,416.82 = 29,248.13, consistent. PA 1/2026 para 8.2 says 2025 yield was 7% above 2024, but figures show 28,187.68 vs 29,248.13 (a 3.6% fall), as Agro states."
  }
 }

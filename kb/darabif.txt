@@ -76,3 +76,10 @@ General charges: 54.91 / 59.12
   - Labour & amenities: 12.07 / 10.78 *
   - Other expenditure: 4.82 / 15.51 *
 Total operating cost: 219.41 / 229.15
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2022 (Jan–Dec): 25,910.42 t (Agronomy Report 2-2024 Table 7 (monthly total; equals sum of 12 months))
+2023 (Jan–Dec): 30,648.03 t (Agronomy Report 2-2024 Table 7 printed total (sum of printed months is 30,648.13))
+2024 (Jan–Dec): 38,542.91 t (PA Report 1-2026 Table 27, last-year column (1,627 ha basis, 23.69 t/ha))
+2025 (Jan–Dec): 34,207.33 t (PA Report 1-2026 Table 27 (1,627 ha basis, 21.02 t/ha))
+2026 Jan–Mar: 7,729.83 t (PA Report 1-2026 Table 28 (Jan-Mar 2026; same period 2025 7,110.26))

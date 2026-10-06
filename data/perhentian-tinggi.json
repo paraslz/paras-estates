@@ -794,5 +794,73 @@
    "Sub-items add to group totals (General RM1,611,566.10; Upkeep RM1,074,593; Harvest RM868,498.08).",
    "Zero/empty lines omitted (Harvest supervision, Soil/water conservation, Boundary/survey/fences). Harvest budget has no top-up wages (null)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 10118.03,
+    "src": "Agro 1/2026 Appendix 3"
+   },
+   {
+    "year": 2022,
+    "t": 10134.76,
+    "src": "Agro 1/2026 Appendix 3"
+   },
+   {
+    "year": 2023,
+    "t": 11188.91,
+    "src": "Agro 1/2026 Appendix 3"
+   },
+   {
+    "year": 2024,
+    "t": 11869.8,
+    "src": "Agro 1/2026 Appendix 3"
+   },
+   {
+    "year": 2025,
+    "t": 11489.06,
+    "src": "Agro 1/2026 Appendix 3; PA 1/2026 section 8"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    718.33,
+    648.83,
+    1154.61,
+    943.18,
+    1033.07,
+    1089.23,
+    1155.1,
+    1043.68,
+    1043.68,
+    1081.65,
+    911.16,
+    646.3
+   ],
+   "2026": [
+    990.51,
+    773.51,
+    718.17,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agro 1/2026 Appendix 2/3 monthly production",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 3,
+   "t": 2482.19,
+   "src": "Agro 1/2026 Table 12 / Appendix 2"
+  },
+  "notes": "2024 is 11,869.80 (Appendix 3, PA) vs 11,871.80 (Appendix 2). 2021 is 10,118.03 vs 10,118.02 in Appendix 2. Aug and Sep 2025 both print 1,043.68 (suspicious). PA covers Jan-Dec 2025 only. 2019 and 2020 totals not printed. 2026 YTD equals sum of monthly figures. Area basis 611 ha mature in 2025-26. CHECK: printed 2025 monthly values sum to 11,468.82, 20.24 t below the printed annual 11,489.06 (possibly the duplicated Aug/Sep 1,043.68 value); annual figure used as printed."
  }
 }

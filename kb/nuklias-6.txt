@@ -76,3 +76,13 @@ General charges: 133.21 / 51.07
   - Other expenditures: 46.22 / 16.81 *
   - MSPO: 0.78 / 0.71 *
 Total operating cost: 318.20 / 225.66
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2021 (Jan–Dec): 13,719.20 t (Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures)
+2022 (Jan–Dec): 15,850.55 t (Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures)
+2023 (Jan–Dec): 16,223.48 t (Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures)
+2024 (Jan–Dec): 20,175.98 t (Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures ; matches PA Timur 10,225.67 + Kema 9,950.31)
+2025 (Jan–Dec): 21,291.02 t (Agronomy Report 1-2026 Appendix 2a (Timur) + 2b (Kema), sum of printed monthly figures ; matches PA 1-2026 Table 8 Timur 10,513.05 + Kema 10,777.97)
+2025 monthly: Jan 1,311.80; Feb 1,296.11; Mar 1,484.40; Apr 1,774.06; May 2,077.28; Jun 1,932.57; Jul 1,633.82; Aug 1,857.08; Sep 1,786.08; Oct 2,009.06; Nov 2,116.03; Dec 2,012.73
+2026 monthly: Jan 1,747.74; Feb 1,182.89; Mar 1,355.38; Apr 1,356.28
+2026 Jan–Apr: 5,642.29 t (Agronomy Report 1-2026 Appendix 2a+2b: Timur 2,807.51 + Kema 2,834.78)

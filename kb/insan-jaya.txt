@@ -76,3 +76,8 @@ General charges: 38.44 / 60.18
   - Labour & amenities: 7.43 / 8.36 *
   - Other expenditure: 4.87 / 18.01 *
 Total operating cost: 193.10 / 230.86
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2024 (Jan–Dec): 10,791.41 t (PA Report 1-2026 Table 26, last-year column)
+2025 (Jan–Dec): 11,248.14 t (PA Report 1-2026 Table 26 (23.29 t/ha on 483 ha))
+2026 Jan–Mar: 1,673.82 t (PA Report 1-2026 Table 27 block sum (C1 185.72, E 362.90, F 606.83, G 518.37); report text says 1,673.83)

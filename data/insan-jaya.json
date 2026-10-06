@@ -561,5 +561,29 @@
    "Report text elsewhere (exec summary and section 13) quotes RM191.10/t for total production cost vs RM193.10 in Table 28 and 9.1; Table 28 figure used (matches dashboard 193.1). Budget quoted there as 'per hectare' is a typo.",
    "Group totals match dashboard costParts (38.44, 83.90, 70.75)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2024,
+    "t": 10791.41,
+    "src": "PA Report 1-2026 Table 26, last-year column"
+   },
+   {
+    "year": 2025,
+    "t": 11248.14,
+    "src": "PA Report 1-2026 Table 26 (23.29 t/ha on 483 ha)"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "None: no monthly tonnage table for Insan Jaya in any report.",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 3,
+   "t": 1673.82,
+   "src": "PA Report 1-2026 Table 27 block sum (C1 185.72, E 362.90, F 606.83, G 518.37); report text says 1,673.83"
+  },
+  "notes": "Annual tonnage for 2023 and earlier is not printed (only Jan-Oct 2023 7,584.97 in PA 2-2024, and Agro yields in t/ha: 2022 22.31, 2023 20.06). Checkpoints (PA): Jan-May 2025 3,439.97; Jan-Oct 2025 9,444.55; Jan-May 2024 3,816.38; Jan-Oct 2024 9,320.65. PA 1-2025 printed an annual budget of 10,381 or 10,625 in different places; these are budgets, not actuals, and are not used. Shares Agro report with Darabif; figures kept separate."
  }
 }

@@ -445,5 +445,73 @@
   "prevSame": 5.85,
   "src": "Agronomy Report 1/2026 Table 8"
  },
- "folder": "https://drive.google.com/drive/folders/1PbCxincGZYwKR0LhOO46_P5W3WKk0n3Y"
+ "folder": "https://drive.google.com/drive/folders/1PbCxincGZYwKR0LhOO46_P5W3WKk0n3Y",
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2021,
+    "t": 4952.11,
+    "src": "Agronomy Report 1/2026 Appendix 2 Yield Statistics (estate total)"
+   },
+   {
+    "year": 2022,
+    "t": 5408.05,
+    "src": "Agronomy Report 1/2026 Appendix 2 Yield Statistics (estate total)"
+   },
+   {
+    "year": 2023,
+    "t": 8256.32,
+    "src": "Agronomy Report 1/2026 Appendix 2 Yield Statistics (estate total)"
+   },
+   {
+    "year": 2024,
+    "t": 5906.69,
+    "src": "PA Report 1/2026 Section 6 Crop Production table; Agronomy 1/2026 Table 3 and Appendix 2"
+   },
+   {
+    "year": 2025,
+    "t": 8108.08,
+    "src": "PA Report 1/2026 Section 6 Crop Production table; Agronomy 1/2026 Table 3 and Appendix 2"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    560.42,
+    617.1,
+    639.97,
+    505.88,
+    748.09,
+    704.09,
+    851.6,
+    650.79,
+    703.99,
+    680.06,
+    701.87,
+    744.22
+   ],
+   "2026": [
+    754.67,
+    588.09,
+    652.02,
+    754.83,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1/2026 (visit 14 May 2026) Table 3 Monthly Production; 2025 months sum to 8,108.08 and 2026 Jan-Apr sum to 2,749.61, matching printed totals. 2024 months in the same table sum to 5,906.69.",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 4,
+   "t": 2749.61,
+   "src": "Agronomy Report 1/2026 Table 3 total (Jan-Apr 2026)"
+  },
+  "notes": "Whole estate, all mature, 396.91 ha (PA); Agro tables 7 and 8 print 399.2 ha but estate yields only compute on 396.91 ha. Only PA 1/2026 and Agro 1/2026 are the latest; no 2026 PA exists, so latest data is Jan-Apr 2026 (Agro). 2025 block tonnages in Appendix 2 sum to 8,108.04 vs printed total 8,108.08 (rounding). 2021-2023 values come from Agro 1/2026 Appendix 2 only; 2023 yield of 20.80 t/ha is consistent. 2024 and 2025 in PA 1/2026 agree with Agro. Other PA/Agro reports in the folder (1/2024, 2/2024, 1/2025, 2/2025) were not needed since the 2026 Agro appendix carries 5 years of estate tonnage."
+ }
 }

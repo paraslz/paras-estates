@@ -781,5 +781,78 @@
    "All groups reconcile to printed totals within 0.01 rounding. Groups sum to the total 254.64 / 262.36.",
    "General charges were not previously obtained by management per the GMD comment; the report prints them for 2025 (30% underspent)."
   ]
+ },
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2020,
+    "t": 54978.06,
+    "src": "Agronomy Report 1/2026 Appendix 2(b) Monthly Yield Record (total of months)"
+   },
+   {
+    "year": 2021,
+    "t": 41079.43,
+    "src": "Agronomy Report 1/2026 Appendix 2(a)/(b)"
+   },
+   {
+    "year": 2022,
+    "t": 39062.94,
+    "src": "Agronomy Report 1/2026 Appendix 2(a)/(b) (2-2024 Appendix 3(b) prints 39,062.43 total, typo; months sum 39,062.94)"
+   },
+   {
+    "year": 2023,
+    "t": 41887.31,
+    "src": "Agronomy Report 1/2026 Appendix 2(b) monthly total (Appendix 2(a) block total prints 41,874.13)"
+   },
+   {
+    "year": 2024,
+    "t": 42643.13,
+    "src": "Agronomy Report 1/2026 Appendix 2(a)/(b)"
+   },
+   {
+    "year": 2025,
+    "t": 34353.43,
+    "src": "PA Report 1/2026 Section 8 Crop Production (Jan-Dec 2025) and Agronomy Report 1/2026 Appendix 2(b)"
+   }
+  ],
+  "monthly": {
+   "2025": [
+    2116.99,
+    2998.12,
+    2371.62,
+    3258.16,
+    3513.48,
+    2577.66,
+    2878.16,
+    2715.94,
+    2548.7,
+    3380.72,
+    3303.7,
+    2690.18
+   ],
+   "2026": [
+    3201.64,
+    2954.36,
+    3014.98,
+    3388.18,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "monthlySrc": "Agronomy Report 1/2026 (visit 21 May 2026) Appendix 2(b) Monthly Yield Record, whole estate FFB (MT). Also printed there for 2020-2024. Sums of the printed months equal the printed totals for every year 2020-2026 (2023: 41,887.31).",
+  "ytd": {
+   "year": 2026,
+   "from": 1,
+   "to": 4,
+   "t": 12559.16,
+   "src": "Agronomy Report 1/2026 Appendix 2(b) 1st half total column (Jan-Apr 2026)"
+  },
+  "notes": "Whole estate (mature + young mature P20H; immature not harvested commercially). PA 1/2026 prints 2025 FFB 34,353.43 t (matches Agro monthly total) but gives 'last year same period' as 32,943.6 t / 14.12 t/ha on 2,445.93 ha and says 2025 was 12% higher than 2024; this conflicts with the Agronomy report where 2024 = 42,643.13 t (16.04 t/ha on 2,658.05 ha; Table 13 18.29 -> 15.88 t/ha, -13.2%). Preferred Agronomy figures (months sum to total, consistent in 1-2024, 2-2024 and 1-2026). 2023 annual: 41,887.31 (monthly) vs 41,874.13 (block table in Appendix 2(a)); 2022 total typo 39,062.43 in 2-2024 report. 2019 and earlier tonnages not printed in the reports read (Agro 1-2024, 2-2024, 1-2026, PA 1-2026). 2026 monthly (Jan-Apr) sums to the YTD figure 12,559.16; no May/June 2026 data. Agro Jan-Apr 2026 yield 5.81 t/ha vs 4.97 Jan-Apr 2025 (+16.90%)."
  }
 }

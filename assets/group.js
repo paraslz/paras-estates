@@ -23,6 +23,43 @@ function totals(){
  $("tot").innerHTML=[["Estates",E.length,0],["Planted ha",s("planted"),0],["Mature ha",s("mature"),0],["Immature & replant ha",s("immature")+s("replant"),0]]
   .map(([k,v,d])=>`<div><div class="k">${k}</div><div class="v">${fmt(v,d)}</div></div>`).join("");
 }
+const MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const list=a=>a.length<=1?a.join(""):a.slice(0,-1).join(", ")+" and "+a[a.length-1];
+function production(){
+ const F=E.filter(e=>e.ffb);if(!F.length||!window.Chart){$("ffbC").hidden=true;return}
+ const name=s=>nm(E.find(e=>e.slug===s)||{name:s});
+ const cnt={};F.forEach(e=>Object.keys(e.ffb.years).forEach(y=>cnt[y]=(cnt[y]||0)+1));
+ const Y=Object.keys(cnt).filter(y=>cnt[y]>=E.length*0.75).sort();
+ const yr=Y.map(y=>{const inc=F.filter(e=>e.ffb.years[y]!=null);return {y,t:inc.reduce((s,e)=>s+e.ffb.years[y],0),n:inc.length,miss:E.filter(e=>!inc.includes(e)).map(nm)}});
+ // 2026: the month that lets the most estates be summed Jan to that month
+ const cov=e=>[e.slug].concat(e.ffb.with?[e.ffb.with]:[]);
+ let best=null;for(let m=1;m<=12;m++){const inc=F.filter(e=>e.ffb.cum26[m]!=null);const c=new Set(inc.flatMap(cov));if(c.size&&(!best||c.size>=best.c.size))best={m,inc,c}}
+ let cur=null;
+ if(best){const notes=E.filter(e=>!best.c.has(e.slug)).map(e=>{const k=e.ffb?Object.keys(e.ffb.cum26).map(Number):[];const mx=k.length?Math.max(...k):0;
+   const h=F.find(x=>x.ffb.with===e.slug);const hx=h?Math.max(...Object.keys(h.ffb.cum26).map(Number)):0;const M=mx||hx;
+   return {n:nm(e),why:!M?"no 2026 tonnage in the reports":M<best.m?`reports only to ${MON[M-1]}`:`only a Jan–${MON[M-1]} total, no monthly split`}});
+  cur={label:`2026 Jan–${MON[best.m-1]}`,t:best.inc.reduce((s,e)=>s+e.ffb.cum26[best.m],0),n:best.c.size,m:best.m,miss:notes}}
+ const t=(()=>{const g=getComputedStyle(document.documentElement),v=n=>g.getPropertyValue(n).trim();Chart.defaults.color=v("--muted");Chart.defaults.font.family="Archivo, system-ui, sans-serif";Chart.defaults.font.size=13;Chart.defaults.maintainAspectRatio=false;return{accent:v("--accent"),fruit:v("--fruit"),ax:{grid:{color:v("--grid")},border:{color:v("--line")}}}})();
+ const B=yr.map(r=>({l:[r.y,`${r.n} estates`],t:r.t,c:t.accent}));if(cur)B.push({l:[cur.label,`${cur.n} estates`],t:cur.t,c:t.fruit});
+ new Chart($("cFfb"),{type:"bar",data:{labels:B.map(b=>b.l),datasets:[{label:"FFB tonnes",data:B.map(b=>b.t),backgroundColor:B.map(b=>b.c)}]},
+  options:{plugins:{legend:{display:false},tooltip:{callbacks:{title:x=>x[0].label.replace(","," · "),label:x=>`${fmt(x.raw)} t`}}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"tonnes FFB"},ticks:{callback:v=>v>=1000?fmt(v/1000)+"k":v}}}}});
+ const last=yr[yr.length-1];
+ $("ffbS").textContent=`Tonnes of FFB across the estates, summed from each estate's PARAS reports.${last?` ${last.y}: ${fmt(last.t)} t from ${last.n} estates.`:""}${cur?` ${cur.label}: ${fmt(cur.t)} t from ${cur.n} estates.`:""}`;
+ const N=[];
+ if(cur)N.push(`2026 is summed to ${MON[cur.m-1]}, the latest month that the most estates' reports can be matched to (Jan–${MON[cur.m-1]} for every estate included). Not included: ${[...new Set(cur.miss.map(x=>x.why))].map(w=>`${list(cur.miss.filter(x=>x.why===w).map(x=>x.n))} (${w})`).join("; ")}.`);
+ if(last&&last.miss.length)N.push(`${last.y} leaves out ${list(last.miss)}, which have no full-year ${last.y} tonnage in their reports.`);
+ const chg=yr.filter((r,i)=>i&&r.miss.join()!==yr[i-1].miss.join()).length;if(chg)N.push("The estates included differ slightly from year to year; see the figures by estate.");
+ $("ffbN").textContent=N.join(" ");
+ // table
+ const cols=Y.concat(cur?["2026"]:[]);
+ $("ffbH").innerHTML=`<tr><th>Estate</th>${Y.map(y=>`<th>${y}</th>`).join("")}${cur?`<th>2026 Jan–${MON[cur.m-1]}</th>`:""}</tr>`;
+ const cell=v=>v==null?`<td class="x">–</td>`:`<td>${fmt(v)}</td>`;
+ const rows=[...E].sort((a,b)=>nm(a).localeCompare(nm(b))).map(e=>{const f=e.ffb||{years:{},cum26:{}};
+  const host=F.find(x=>x.ffb.with===e.slug);
+  const c26=!cur?"":f.cum26[cur.m]!=null?`<td>${fmt(f.cum26[cur.m])}${f.with?` <small>(incl. ${esc(name(f.with))})</small>`:""}</td>`:host&&host.ffb.cum26[cur.m]!=null?`<td class="x">in ${esc(name(host.slug))}</td>`:`<td class="x">–</td>`;
+  return `<tr><td><a href="${esc(e.href)}">${esc(nm(e))}</a></td>${Y.map(y=>cell(f.years[y])).join("")}${c26}</tr>`});
+ $("ffbB").innerHTML=rows.join("")+`<tr class="tot"><td>Total</td>${yr.map(r=>`<td>${fmt(r.t)}</td>`).join("")}${cur?`<td>${fmt(cur.t)}</td>`:""}</tr>`;
+}
 function attention(){
  const R=E.map(e=>({e,f:flag(e)})).filter(x=>x.f.worst===2).sort((a,b)=>(a.f.y??0)-(b.f.y??0));
  if(!R.length){$("attC").hidden=true;return}
@@ -70,7 +107,7 @@ function actions(){
 }
 fetch("/data/index.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{E=j.estates;
  try{const p=localStorage.getItem(PRICE_KEY);if(p)$("fp").value=p}catch(e){}
- totals();attention();league();actions();
+ totals();production();attention();league();actions();
  $("srt").addEventListener("input",league);
  $("fp").addEventListener("input",()=>{try{localStorage.setItem(PRICE_KEY,$("fp").value)}catch(e){}league()});
 });
