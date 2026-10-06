@@ -188,13 +188,18 @@ th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-wid
 .price{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:12px}
 .price input{width:130px;font:16px var(--f-body);padding:9px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg)}
 .fld+.fld{margin-left:8px}
+.topnav{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap}
+.topnav .back{display:inline-block;font:600 16px var(--f-body);color:var(--band-fg);background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.3);border-radius:8px;padding:9px 14px;text-decoration:none}
+.topnav .back:hover{background:rgba(255,255,255,.2)}
+.topnav select{font:600 15px var(--f-body);color:var(--band-fg);background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.3);border-radius:8px;padding:9px 10px;max-width:55%;min-width:0}
+.topnav select option{color:#16231c;background:#fff}
 </style>
 
 </head>
 <body data-slug="cheekah-kemayan">
 <header class="band">
  <div class="in">
-  <a href="/" style="color:var(--band-muted);text-decoration:none;font-size:13px">‹ All estates</a>
+  <div class="topnav"><a class="back" href="/">‹ All estates</a><label class="sr" for="jump">Jump to another estate</label><select id="jump" hidden><option value="">Jump to estate…</option></select></div>
   <div class="eyebrow">Prosper · Kosfarm Development · PARAS advisory · 10 reports, Mar 2024 – Jul 2026</div>
   <div>
    <h1>Ladang Cheekah Kemayan</h1>
@@ -794,5 +799,6 @@ showTab((location.hash||"#overview").slice(1));
 </script>
 
 <script src="/assets/byoai.js"></script>
+<script src="/assets/nav.js"></script>
 </body>
 </html>

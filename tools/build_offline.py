@@ -5,8 +5,8 @@ import json, glob, os, re
 
 SITE = "https://prosper-paras.netlify.app"
 read = lambda p: open(p, encoding="utf-8").read()
-CSS, CHART, COST, EST, BYO = (read(p) for p in ("assets/style.css", "assets/vendor/chart.umd.min.js",
-                                                  "assets/cost.js", "assets/estate.js", "assets/byoai.js"))
+CSS, CHART, COST, EST, BYO, NAV = (read(p) for p in ("assets/style.css", "assets/vendor/chart.umd.min.js",
+                                                  "assets/cost.js", "assets/estate.js", "assets/byoai.js", "assets/nav.js"))
 safe = lambda js: js.replace("</script", "<\\/script")
 tag = lambda js: f"<script>{safe(js)}</script>"
 
@@ -15,6 +15,7 @@ def common(h):
     h = h.replace('<script src="/assets/vendor/chart.umd.min.js"></script>', tag(CHART))
     h = h.replace('<script src="/assets/cost.js"></script>', tag(COST))
     h = h.replace('<script src="/assets/byoai.js"></script>', tag(BYO))
+    h = h.replace('<script src="/assets/nav.js"></script>', tag(NAV))
     h = re.sub(r'<a class="fld" id="offl"[^>]*>.*?</a>', "", h, flags=re.S)
     h = h.replace('href="/"', f'href="{SITE}/"').replace('href="/group.html"', f'href="{SITE}/group.html"')
     return h
