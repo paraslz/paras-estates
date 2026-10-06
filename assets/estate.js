@@ -9,8 +9,8 @@ const slug=(new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9
 let D=null,curBlock=null;const built={};
 
 /* tabs */
-const TABS=["ask","overview","blocks","money","field","reports"];
-function showTab(t){if(!TABS.includes(t))t="ask";TABS.forEach(n=>$("t-"+n).hidden=n!==t);document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));try{history.replaceState(null,"",location.pathname+location.search+"#"+t)}catch(e){}const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});buildCharts(t)}
+const TABS=["overview","blocks","money","field","reports"];
+function showTab(t){if(!TABS.includes(t))t="overview";TABS.forEach(n=>$("t-"+n).hidden=n!==t);document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));try{history.replaceState(null,"",location.pathname+location.search+"#"+t)}catch(e){}const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});buildCharts(t)}
 document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.t)));
 
 /* charts */
@@ -124,7 +124,7 @@ function render(){
  // ask chips
  const bid=B[0]?B[0].id:"the oldest block";
  ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What discrepancies are there between the reports?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
- showTab((location.hash||"#ask").slice(1));
+ showTab((location.hash||"#overview").slice(1));
 }
 function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;curBlock=b;$("bSel").value=id;document.querySelectorAll("#tiles .tile").forEach(t=>t.setAttribute("aria-selected",t.dataset.b===id?"true":"false"));
  const ref=b.est!=null?b.est:b.prevYtd,refL=b.est!=null?"estimate":prevP(BP());
@@ -138,7 +138,7 @@ function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;cu
  ${b.fert?`<div class="bsec"><h4>Fertiliser programme</h4><div class="fert">${esc(b.fert)}</div></div>`:""}
  <div class="bsec"><h4>Report comments</h4><ul class="obs">${(b.notes||[]).map(n=>`<li><span class="tag ${/agro/i.test(n.src||"")?"ag":""}">${esc(n.src)}</span><span>${esc(n.text)}</span></li>`).join("")||`<li><span></span><span class="empty">No comments on this block.</span></li>`}</ul></div>
  <button type="button" class="askblock" id="askBlk">Ask a question about ${esc(b.id)}</button>`;
- $("askBlk").addEventListener("click",()=>{showTab("ask");$("q").value=`Tell me about block ${b.id}: `;$("q").focus()});
+ $("askBlk").addEventListener("click",()=>{document.getElementById("askBox").scrollIntoView({behavior:"smooth",block:"start"});$("q").value=`Tell me about block ${b.id}: `;$("q").focus()});
 }
 
 /* ask */

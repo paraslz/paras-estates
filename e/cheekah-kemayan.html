@@ -172,6 +172,7 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 .fld{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:var(--band-fg);text-decoration:none;border:1px solid rgba(255,255,255,.3);border-radius:6px;padding:6px 10px}
 .fld:hover{background:rgba(255,255,255,.08)}
 @media (max-width:480px){th,td{padding:7px 5px}td:first-child{white-space:normal}.pill{padding:1px 4px}}
+.askWrap{padding-top:14px}.askWrap .card{margin:0}.askTop h2{margin-top:0}
 </style>
 
 </head>
@@ -188,11 +189,30 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
   <a class="fld" href="https://drive.google.com/drive/folders/1lzGiAsALFRWMI2DA7UVeqaMDzoYl0SiC" target="_blank" rel="noopener">Open report folder ↗</a>
  </div>
 </header>
+<div class="askWrap"><div class="in">
+ <div class="card askTop" id="askBox">
+  <h2>Ask about this estate</h2>
+  <p class="sub">Answers come only from the 10 compiled PARAS reports, with the report cited. </p>
+  <div class="chips" id="chips">
+   <button type="button">How many harvesters in the latest report?</button>
+   <button type="button">What were the fertiliser programmes for P99D in 2024, 2025 and 2026?</button>
+   <button type="button">How has P01E3 yield changed and why?</button>
+   <button type="button">Which follow-ups have never been closed?</button>
+  </div>
+  <div class="log" id="log" aria-live="polite"></div>
+  <form id="askForm" class="askrow">
+   <label for="q" class="sr">Your question</label>
+   <input id="q" type="text" autocomplete="off" placeholder="e.g. What was the cost of production in 2023?">
+   <button id="send" type="submit">Ask</button>
+   
+  </form>
+  <p class="note" id="askNote"></p>
+ </div>
+</div></div>
 
 <nav class="tabs" aria-label="Sections">
  <div class="in" role="tablist">
-  <button role="tab" data-t="ask" aria-selected="true">Ask</button>
-  <button role="tab" data-t="overview">Overview</button>
+  <button role="tab" data-t="overview" aria-selected="true">Overview</button>
   <button role="tab" data-t="blocks">Blocks</button>
   <button role="tab" data-t="money">Money</button>
   <button role="tab" data-t="field">Field work</button>
@@ -204,7 +224,7 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 <main><div class="in">
 
 <!-- OVERVIEW -->
-<section role="tabpanel" id="t-overview" hidden>
+<section role="tabpanel" id="t-overview">
  <div class="card">
   <h2>Yield per hectare</h2>
   <p class="sub">FFB t/ha by full year, with budget where reported, plus 2026 to date</p>
@@ -421,26 +441,7 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 </section>
 
 <!-- ASK -->
-<section role="tabpanel" id="t-ask">
- <div class="card">
-  <h2>Ask about this estate</h2>
-  <p class="sub">Answers come only from the 10 compiled PARAS reports, with the report cited. </p>
-  <div class="chips" id="chips">
-   <button type="button">How many harvesters in the latest report?</button>
-   <button type="button">What were the fertiliser programmes for P99D in 2024, 2025 and 2026?</button>
-   <button type="button">How has P01E3 yield changed and why?</button>
-   <button type="button">Which follow-ups have never been closed?</button>
-  </div>
-  <div class="log" id="log" aria-live="polite"></div>
-  <form id="askForm" class="askrow">
-   <label for="q" class="sr">Your question</label>
-   <input id="q" type="text" autocomplete="off" placeholder="e.g. What was the cost of production in 2023?">
-   <button id="send" type="submit">Ask</button>
-   
-  </form>
-  <p class="note" id="askNote"></p>
- </div>
-</section>
+
 
 <!-- INTEGRITY -->
 <section role="tabpanel" id="t-integrity" hidden>
@@ -478,9 +479,9 @@ const C={good:"var(--good)",warn:"var(--warn)",bad:"var(--bad)"};
 const esc=s=>String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
 
 /* ---------- tabs ---------- */
-const TABS=["ask","overview","blocks","money","field","people","integrity"];
+const TABS=["overview","blocks","money","field","people","integrity"];
 function showTab(t){
- if(!TABS.includes(t))t="ask";
+ if(!TABS.includes(t))t="overview";
  TABS.forEach(n=>{document.getElementById("t-"+n).hidden=n!==t});
  document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));
  try{history.replaceState(null,"","#"+t)}catch(e){}
@@ -586,7 +587,7 @@ function showBlock(id){
    ${b.v26?`<div class="fact"><div class="k">Jan–May 2026</div><div class="v">${b.v26[0].toFixed(2)} <small>t/ha</small></div><div class="k">${pill(v)} vs ${b.v26[1].toFixed(2)}</div></div>`:""}
   </div>
   <button type="button" class="askblock" id="askBlk">Ask a question about ${b.id}</button>`;
- document.getElementById("askBlk").addEventListener("click",()=>{showTab("ask");const q=document.getElementById("q");q.value=`Tell me about block ${b.id}: `;q.focus()});
+ document.getElementById("askBlk").addEventListener("click",()=>{document.getElementById("askBox").scrollIntoView({behavior:"smooth",block:"start"});const q=document.getElementById("q");q.value=`Tell me about block ${b.id}: `;q.focus()});
  // yield
  const fy=document.getElementById("f-yield"),by=document.getElementById("b-yield");
  if(b.years){
@@ -770,7 +771,7 @@ document.getElementById("f-yield").addEventListener("toggle",e=>{if(e.target.ope
 })();
 
 showBlock("P98C");
-showTab((location.hash||"#ask").slice(1));
+showTab((location.hash||"#overview").slice(1));
 </script>
 
 </body>

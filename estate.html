@@ -19,18 +19,8 @@
   <a class="fld" id="fld" href="#" target="_blank" rel="noopener" hidden>Open report folder ↗</a>
  </div>
 </header>
-<nav class="tabs" aria-label="Sections"><div class="in" role="tablist">
- <button role="tab" data-t="ask" aria-selected="true">Ask</button>
- <button role="tab" data-t="overview">Overview</button>
- <button role="tab" data-t="blocks">Blocks</button>
- <button role="tab" data-t="money">Money</button>
- <button role="tab" data-t="field">Field &amp; people</button>
- <button role="tab" data-t="reports">Reports</button>
-</div></nav>
-<main><div class="in">
-
-<section role="tabpanel" id="t-ask">
- <div class="card">
+<div class="askWrap"><div class="in">
+ <div class="card askTop" id="askBox">
   <h2>Ask about this estate</h2>
   <p class="sub">Answers come only from this estate's latest PARAS reports, with the report cited.</p>
   <div class="chips" id="chips"></div>
@@ -38,8 +28,18 @@
   <form id="askForm" class="askrow"><label for="q" class="sr">Your question</label><input id="q" type="text" autocomplete="off" placeholder="Type a question about this estate"><button id="send" type="submit">Ask</button></form>
   <p class="note" id="askNote"></p>
  </div>
-</section>
-<section role="tabpanel" id="t-overview" hidden>
+</div></div>
+<nav class="tabs" aria-label="Sections"><div class="in" role="tablist">
+ <button role="tab" data-t="overview" aria-selected="true">Overview</button>
+ <button role="tab" data-t="blocks">Blocks</button>
+ <button role="tab" data-t="money">Money</button>
+ <button role="tab" data-t="field">Field &amp; people</button>
+ <button role="tab" data-t="reports">Reports</button>
+</div></nav>
+<main><div class="in">
+
+
+<section role="tabpanel" id="t-overview">
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
  <div class="card"><div class="head"><div><h2 id="glH">At a glance</h2><p class="sub" id="glS"></p></div></div><div class="kv" id="kv"></div></div>
  <div class="card" id="sumCard"><h2>Key takeaways</h2><ol class="takeaways" id="sum"></ol></div>
