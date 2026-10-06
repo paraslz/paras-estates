@@ -15,7 +15,7 @@ Rules:
 export default async (req: Request, context: Context) => {
   if (req.method !== "POST") return Response.json({ error: "Use POST." }, { status: 405 });
 
-  const key = Netlify.env.get("ANTHROPIC_API_KEY");
+  const key = (Netlify.env.get("ANTHROPIC_API_KEY") || "").trim();
   if (!key) return Response.json({ error: "Ask is not switched on yet. The site owner needs to add the Claude API key in Netlify." }, { status: 503 });
 
   let body: { slug?: string; messages?: Msg[] };
@@ -38,7 +38,10 @@ export default async (req: Request, context: Context) => {
 
   const r = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
-    headers: { "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+    headers: {
+      "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json",
+      ...(Netlify.env.get("ANTHROPIC_WORKSPACE_ID") ? { "anthropic-workspace-id": String(Netlify.env.get("ANTHROPIC_WORKSPACE_ID")).trim() } : {})
+    },
     body: JSON.stringify({
       model: Netlify.env.get("ASK_MODEL") || "claude-sonnet-5-5",
       max_tokens: 900,
