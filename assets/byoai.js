@@ -9,15 +9,5 @@
  window.PARAS_ASK=t=>{window.open("https://claude.ai/new?q="+encodeURIComponent(prompt(t)),"_blank","noopener")};
  form.addEventListener("submit",e=>{e.preventDefault();e.stopImmediatePropagation();window.PARAS_ASK(qEl.value)},true);
  const send=document.getElementById("send");if(send)send.textContent="Ask in Claude ↗";
- const box=document.createElement("div");box.className="byo";
- box.innerHTML=`<span class="byoL">Opens in your own Claude account. Using ChatGPT or Gemini instead?</span>
-  <button type="button" class="byoB" id="byoCopy">Copy question + reports</button>
-  <span class="byoM" id="byoMsg" aria-live="polite"></span>`;
- form.insertAdjacentElement("afterend",box);
- document.getElementById("byoCopy").addEventListener("click",async()=>{
-  const m=document.getElementById("byoMsg");m.textContent="Copying…";
-  try{const t=await (await fetch(url)).text();
-   await navigator.clipboard.writeText(`Answer my question about this oil palm estate using only the report pack below, citing the report for each figure.\n\nMy question: ${qEl.value.trim()||DEF}\n\n----- REPORT PACK -----\n${t}`);
-   m.textContent="Copied. Open ChatGPT or Gemini and paste."}
-  catch(e){m.innerHTML=`Couldn't copy. <a href="${url}" target="_blank" rel="noopener">Open the report pack</a> and copy it by hand.`}});
+ const note=document.createElement("p");note.className="byoL";note.textContent="Opens in your own Claude account.";form.insertAdjacentElement("afterend",note);
 })();
