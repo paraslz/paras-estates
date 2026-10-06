@@ -449,6 +449,18 @@ function render(){
    +`<tr><td><b>Total</b></td><td><b>${na(k.ucHa)?NA:fmt(k.ucHa,2)}</b></td><td>${na(k.ucHaBudget)?NA:fmt(k.ucHaBudget,2)}</td><td>${na(k.ucHa)||na(k.ucHaBudget)?NA:pill(pct(k.ucHa,k.ucHaBudget),true)}</td></tr>`;
   if(rb>=0)$("upN").textContent=`This report gives roads and bridges as one line ("${up[rb].item}").`;
  }
+ // harvesting and manuring (field & people tab)
+ {const li=(t,v)=>`<li><span class="tag">${esc(t)}</span><span>${v}</span></li>`;const L=[];
+  if(k.harvesters!=null)L.push(li("Harvesters",`${k.harvesters}${k.harvestersReq!=null?` of ${k.harvestersReq} required${k.harvestersReq>k.harvesters?` (short ${k.harvestersReq-k.harvesters})`:""}`:""}${k.workers!=null?`; all workers ${k.workers}${k.workersReq!=null?` of ${k.workersReq}`:""}`:""}`));
+  if(k.harvestInterval)L.push(li("Harvest interval",esc(k.harvestInterval)));
+  if(k.hcT!=null)L.push(li("Harvest cost",`RM${fmt(k.hcT,2)}/t${k.hcTBudget!=null?` vs budget RM${fmt(k.hcTBudget,2)}`:""}${k.copPeriod?` (${esc(clean(k.copPeriod))})`:""}`));
+  if(k.manuringPct!=null||k.manuringNote)L.push(li("Manuring",`${k.manuringPct!=null?`<b>${fmt(k.manuringPct)}% done</b>`:""}${k.manuringNote?` — ${esc(k.manuringNote)}`:""}`));
+  if(k.circlePct!=null)L.push(li("Circle weeding",`${fmt(k.circlePct)}% of programme`));
+  if(k.selectivePct!=null)L.push(li("Selective weeding",`${fmt(k.selectivePct)}% of programme`));
+  if(k.pruningPct!=null)L.push(li("Pruning",`${fmt(k.pruningPct)}% of programme`));
+  $("hm").innerHTML=L.join("")||`<li><span></span><span class="empty">Not given in the latest reports.</span></li>`;
+  const lab=D.labour||[];if(!lab.length){const c=$("labC");if(c)c.hidden=true}else if($("labS"))$("labS").textContent=`Headcount from ${r.pa?r.pa.title:"the latest PA report"}`;
+  const rf=(D.rainfall||[]).filter(x=>x.mm!=null);if(!rf.length&&$("rfF"))$("rfF").hidden=true;}
  // action tracker
  {const A=(D.actions||[]).slice().sort((a,b)=>({repeat:0,open:1,done:2}[a.status]??3)-({repeat:0,open:1,done:2}[b.status]??3));
   const rep=A.filter(a=>a.status==="repeat").length,op=A.filter(a=>a.status==="open").length;
