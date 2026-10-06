@@ -98,9 +98,11 @@ function render(){
  // money (standard layout, same as Cheekah Kemayan)
  const NA="N/A",na=v=>v==null;
  $("mS").textContent=k.cop!=null||k.ucHa!=null?`${clean(k.copPeriod)||"Period not stated"}${r.pa?" · "+r.pa.title:""}`:(r.pa?`${r.pa.title} · no cost section`:"No cost section");
- const mk=[["Cost of production",k.cop,k.copBudget,"/t"],["General charges",k.gcHa,k.gcHaBudget,"/ha"],["Upkeep & cultivation",k.ucHa,k.ucHaBudget,"/ha"],["Harvest & collection",k.hcT,k.hcTBudget,"/t"]];
- $("mKv").innerHTML=mk.map(m=>`<div><div class="k">${m[0]}</div><div class="v">${na(m[1])?NA:`RM${fmt(m[1],2)}<small>${m[3]}</small>`}</div><div class="d">${na(m[1])?"":na(m[2])?"budget N/A":pill(pct(m[1],m[2]),true)+" budget RM"+fmt(m[2],2)}</div></div>`).join("");
- if(mk.every(m=>na(m[1])))$("mNone").hidden=false;
+ {const cp=n=>(D.costParts||[]).find(c=>n.test(c.name||""))||{};
+  const H=cp(/harvest/i),U=cp(/upkeep/i),G=cp(/general/i);
+  const rows=[["Harvesting & collection",H.actual??k.hcT,H.budget??k.hcTBudget],["Upkeep & cultivation",U.actual,U.budget],["General charges",G.actual,G.budget],["Total operating cost",k.cop,k.copBudget,1]];
+  $("opT").innerHTML=rows.map(r=>`<tr${r[3]?' class="tot"':""}><td>${r[3]?"<b>"+r[0]+"</b>":r[0]}</td><td>${na(r[1])?NA:(r[3]?"<b>"+fmt(r[1],2)+"</b>":fmt(r[1],2))}</td><td>${na(r[2])?NA:fmt(r[2],2)}</td><td>${na(r[1])||na(r[2])?NA:pill(pct(r[1],r[2]),true)}</td></tr>`).join("");
+  if(rows.every(r=>na(r[1])))$("mNone").hidden=false;}
  {const STD=[["Weeding",/weed/i],["Manuring",/manur/i],["Pest & disease",/pest/i],["Census & thinning",/census|thin/i],["Drains",/drain/i],["Bridges & culverts",/bridge|culvert/i],["Roads",/road/i],["Boundaries",/bound|survey|fence/i],["Pruning",/prun/i]];
   const EXTRA=[["Soil & water conservation",/soil|water/i],["Supplying",/supply/i],["Tools",/tool/i]];
   const up=(D.upkeep||[]).filter(u=>!/total/i.test(u.item||""));const used=new Set();const notes=[];

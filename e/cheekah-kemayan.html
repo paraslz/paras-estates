@@ -341,10 +341,10 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 <section role="tabpanel" id="t-money" hidden>
  <div class="card">
   <div class="head">
-   <div><h2>Cost of production</h2><p class="sub" id="mSub"></p></div>
+   <div><h2>Operating cost per tonne FFB</h2><p class="sub" id="mSub"></p></div>
    <label><span class="sr">Year</span><select id="mYear"><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026" selected>2026</option></select></label>
   </div>
-  <div class="kv" id="mKv"></div>
+  <div class="tbl"><table><thead><tr><th>Cost (RM per t FFB)</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="opT"></tbody></table></div>
   <div class="callout" id="mCall"></div>
  </div>
  <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
@@ -632,23 +632,24 @@ function showBlock(id){
 
 /* ---------- money ---------- */
 const M={
- "2023":{p:"Jan–Dec 2023 · PA 1/2024 · Adnan",cop:239.68,copB:321.29,gc:672.57,gcB:1441.17,uc:1772.08,ucB:2015.70,hc:75.60,hcB:79.72,
+ "2023":{pt:{h:[75.61,79.72],u:[109.40,null],g:[54.66,null]},p:"Jan–Dec 2023 · PA 1/2024 · Adnan",cop:239.68,copB:321.29,gc:672.57,gcB:1441.17,uc:1772.08,ucB:2015.70,hc:75.60,hcB:79.72,
   note:"<b>Cost was 25% under budget on 7% less crop.</b> Corrective pruning ran 182% over budget to clear a backlog, which was justified. Bridges and culverts at RM55,085 against a RM2,076 budget was queried twice and never explained.",
   upk:[["Weeding",205.48,225.27],["Manuring",1077.66,1395.66],["Pest & disease",0.65,95.36],["Census & thinning",5.19,2.34],["Drains",0.40,9.62],["Bridges & culverts",44.14,1.66],["Roads",5.63,125.61],["Boundaries",5.19,7.46],["Supplying",1.59,0],["Pruning",431.34,152.71]]},
- "2024":{p:"Jan–Dec 2024 · PA 1/2025 · Adnan",cop:229.79,copB:295.40,gc:1250.76,gcB:1570.83,uc:1096.72,ucB:1832.38,hc:64.53,hcB:64.96,
+ "2024":{pt:{h:[64.53,64.96],u:[null,null],g:[null,null]},p:"Jan–Dec 2024 · PA 1/2025 · Adnan",cop:229.79,copB:295.40,gc:1250.76,gcB:1570.83,uc:1096.72,ucB:1832.38,hc:64.53,hcB:64.96,
   note:"<b>Crop beat budget by 3%, so cost per tonne fell.</b> Manuring spend was only 57% of budget, though. Part of the 'saving' is fertiliser carried into 2025.",
   upk:[["Weeding",181.80,223.45],["Manuring",769.85,1352.78],["Pest & disease",2.61,78.26],["Census & thinning",8.06,4.58],["Drains",3.04,18.23],["Bridges & culverts",2.12,3.95],["Roads",26.58,52.51],["Boundaries",2.50,0],["Supplying",13.73,0],["Pruning",86.43,98.62]]},
- "2025":{p:"Jan–Oct 2025 · PA 2/2025 · Sufian",cop:223.63,copB:241.22,gc:993.59,gcB:1324.50,uc:1029.19,ucB:1229.52,hc:76.18,hcB:70.76,
+ "2025":{pt:{h:[76.18,70.76],u:[74.70,null],g:[71.75,null]},p:"Jan–Oct 2025 · PA 2/2025 · Sufian",cop:223.63,copB:241.22,gc:993.59,gcB:1324.50,uc:1029.19,ucB:1229.52,hc:76.18,hcB:70.76,
   note:"<b>Cost is 7% under budget, but harvesting is 8% over.</b> The saving comes from general charges and from upkeep that wasn't done (pest work 84% under, drains 59% under).",
   upk:[["Weeding",169.76,206.75],["Manuring",744.05,842.28],["Pest & disease",4.13,25.54],["Census & thinning",2.19,11.34],["Drains",5.81,14.06],["Bridges & culverts",1.37,5.93],["Roads",19.97,30.04],["Boundaries",0.68,0],["Supplying",0.02,0.37],["Pruning",81.21,93.22]]},
- "2026":{p:"Jan–Apr 2026 · PA 1/2026 · Sufian",cop:266.08,copB:286.48,gc:439.60,gcB:501.53,uc:408.69,ucB:447.61,hc:76.28,hcB:91.71,
+ "2026":{pt:{h:[76.28,91.71],u:[91.44,null],g:[98.36,null]},p:"Jan–Apr 2026 · PA 1/2026 · Sufian",cop:266.08,copB:286.48,gc:439.60,gcB:501.53,uc:408.69,ucB:447.61,hc:76.28,hcB:91.71,
   note:"<b>RM266/t is 7% under budget, on 16% less crop.</b> Pruning is 35% under and pest work 90% under. That is work deferred, not saved.",
   upk:[["Weeding",75.81,79.50],["Manuring",274.04,285.50],["Pest & disease",1.08,10.52],["Census & thinning",0.58,0.94],["Drains",0.59,2.32],["Bridges & culverts",1.26,1.48],["Roads",30.14,30.42],["Boundaries",0.49,0],["Pruning",24.71,36.92]]}
 };
 function renderMoney(y){
  const p=M[y];document.getElementById("mSub").textContent=p.p;
- const kv=[["Cost of production",p.cop,"/t",p.copB],["General charges",p.gc,"/ha",p.gcB],["Upkeep & cultivation",p.uc,"/ha",p.ucB],["Harvest & collection",p.hc,"/t",p.hcB]];
- document.getElementById("mKv").innerHTML=kv.map(k=>`<div><div class="k">${k[0]}</div><div class="v">RM${fmt(k[1],2)}<small>${k[2]}</small></div><div class="d">${pill(pct(k[1],k[3]),true)} budget RM${fmt(k[3],2)}</div></div>`).join("");
+ const NA="N/A",f2=v=>v==null?NA:fmt(v,2),vr=(a,b)=>a==null||b==null?NA:pill(pct(a,b),true);
+ const rows=[["Harvesting & collection",...p.pt.h],["Upkeep & cultivation",...p.pt.u],["General charges",...p.pt.g]];
+ document.getElementById("opT").innerHTML=rows.map(r=>`<tr><td>${r[0]}</td><td>${f2(r[1])}</td><td>${f2(r[2])}</td><td>${vr(r[1],r[2])}</td></tr>`).join("")+`<tr><td><b>Total operating cost</b></td><td><b>${f2(p.cop)}</b></td><td>${f2(p.copB)}</td><td>${vr(p.cop,p.copB)}</td></tr>`;
  document.getElementById("mCall").innerHTML=p.note;
  document.getElementById("upk").innerHTML=p.upk.map(r=>`<tr><td>${r[0]}</td><td>${fmt(r[1],2)}</td><td>${r[2]?fmt(r[2],2):"–"}</td><td>${r[2]?pill(pct(r[1],r[2]),true):"<span class='pill warn'>unbudgeted</span>"}</td></tr>`).join("")+`<tr><td><b>Total</b></td><td><b>${fmt(p.uc,2)}</b></td><td>${fmt(p.ucB,2)}</td><td>${pill(pct(p.uc,p.ucB),true)}</td></tr>`;
 }

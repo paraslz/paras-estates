@@ -20,7 +20,7 @@ Sources: PA Report 1/2026 (visit 23 Apr 2026, reviews Jan-Dec 2025). Agronomy Re
 
 AREA (PA 1/2026, Dec 2025, GPS). All oil palm and all mature: 396.91 ha, plus a 0.81 ha building site, so 397.72 ha total. There is no immature area and no change in area.
 New census 2025 (ha; old SPH to new SPH): P97/A1 99.06 ha (132 to 131); P97/A2 78.24 (134 to 133); P98/B 56.13 (131 to 129); P00/C1 49.29 (114 to 112); P00/C2 90.69 (127 to 125); P01/D 8.54 (122 to 120); P06/E 13.64 (131 to 129); P11/F 1.32 (136). Estate average 127 SPH.
-Agro 1/2026 blocking table: 980 ac existing vs 986.5 ac surveyed by Garmin, averaging 52 SPA. Its yield tables use a 399.2 ha total.
+Agro 1/2026 blocking table: 980 ac existing vs 986.5 ac surveyed by Garmin, averaging 52 SPA. Its yield tables 7 and 8 print a 399.2 ha total, but the estate totals (20.43; 6.93) only compute on 396.91 ha.
 Age (Agro): 57.2% of palms are over 25 years old and 39.2% are 20-25, so the estate is in descending yield. P97 (29 years) is tentatively to be replanted in 2027 but this is not finalised. The PA report says there is no decision on replanting.
 
 LABOUR (PA, Dec 2025), requirement vs actual: harvesters 20/20; pruners 4/5; drivers 3/3; weeding 3/3; manuring 3/0. Total 33 vs 31. Harvesters were 18 in March 2026 (short 2). The PA advises a 1:18 ha ratio, so 22 harvesters, because only 1 Badang works and the others use wheelbarrows. Sprayers are temporarily deployed to manuring. Worker ratio 1:12.8 ha. Basic wage RM65.38-65.39 per day.
@@ -40,7 +40,7 @@ The budget was 18.90 t/ha, so 8% above. Harvesting rounds were 16.4 vs 24, the a
 Harvesting rates: RM60/t for 1997, RM55 for 1998 and RM50 for the others. Output 1.51-1.77 t/manday, with earnings RM75-99. Manual loading at RM9/t.
 Bunch weights, Dec 2024 to Dec 2025: 1997 16.99 to 26.20 kg; 1998 19.59 to 31.34; 2000 22.92 to 27.26; 2001 18.55 to 26.87; 2006 10.88 to 17.64; 2011 15.62 to 24.06. The low 2024 weights reflect harvester shortage.
 Agro: the 2025 gain came from completing the full 2024 fertiliser programme and better crop recovery. Crop recovery was still only about 60% of target in most fields. P06 is below potential due to high water tables.
-Yield history (Agro Appendix 2), t/ha: 2021 12.48, 2022 13.63, 2023 20.80, 2024 14.88, 2025 20.43.
+Yield periods: estate yields 2021-2025 are full calendar years (Jan-Dec). Block and estate yields in Table 8 are Jan-Apr 2025 vs Jan-Apr 2026 (Agro Table 8, 'as of April'). Yield history (Agro Appendix 2), t/ha: 2021 12.48, 2022 13.63, 2023 20.80, 2024 14.88, 2025 20.43.
 Monthly 2026 production (Agro): Jan 754.67, Feb 588.09, Mar 652.02, Apr 754.83, totalling 2,749.61 t.
 Jan-Apr yield (Agro Table 8), 2025 to 2026 in t/ha: P97/A1 3.88 to 6.73 (+73.5%); A2 7.00 to 7.05; P98/B 7.60 to 6.92 (-8.9%); C1 7.00 to 8.12; C2 5.96 to 7.03; P01/D 4.02 to 4.78; P06/E 2.49 to 3.85; P11/F 8.61 to 8.74. Total 5.85 to 6.93 (+18.5%).
 Harvesting intervals Jan-Apr 2026, in days: A1 12-19, A2 16-26, P98 22-34, C1 14-27, C2 15-25, P01 14-23, P06 13-28, P11 12-19. The target is 15 days or less. Over-ripe bunches were seen on P97A1 platforms, and loose fruit collection was poor where circles are weedy. Most harvesters produce under 2 t/manday.
@@ -63,4 +63,7 @@ The 2027 programme comes after the second visit in H2 2026.
 
 RAINFALL (Agro Appendix 3), mm and rain days: 2021 2,785 (146); 2022 2,759 (139); 2023 3,522 (170); 2024 3,792 (165); 2025 2,931 (157).
 
-DATA ISSUES: The reports conflict on carrying forward the unfinished 2025 fertiliser. The PA corrective pruning % is wrong (67% stated vs 30% actual). The PA maintenance pruning total is off and the P98 programme figure is wrong. The PA circle rounds are misstated (0.6 vs 1.7). The reports use different planted areas (396.91 vs 399.2 ha). P98/B harvester earnings do not match its rate. The PA reports no rat issue although no census has been done.
+DATA ISSUES: Agro says under 50% of 2025 weeding was done but PA shows circle 56% and inter-row 33%. The reports conflict on carrying forward the unfinished 2025 fertiliser. The PA corrective pruning % is wrong (67% stated vs 30% actual). The PA maintenance pruning total is off and the P98 programme figure is wrong. The PA circle rounds are misstated (0.6 vs 1.7). The reports use different planted areas (396.91 vs 399.2 ha). P98/B harvester earnings do not match its rate. The PA reports no rat issue although no census has been done.
+
+MONTHLY PRODUCTION (Agro Table 3), mt, 2024 / 2025 / 2026: Jan 551.57 / 560.42 / 754.67; Feb 530.64 / 617.10 / 588.09; Mar 440.13 / 639.97 / 652.02; Apr 342.59 / 505.88 / 754.83; May 501.52 / 748.09; Jun 546.59 / 704.09; Jul 702.48 / 851.60; Aug 559.29 / 650.79; Sep 463.07 / 703.99; Oct 436.80 / 680.06; Nov 365.03 / 701.87; Dec 466.98 / 744.22. Totals: 2024 5,906.69; 2025 8,108.08; Jan-Apr 2026 2,749.61. Estate yield: Jan-Dec 2025 20.43 t/ha; Jan-Apr 2026 6.93 t/ha (Jan-Apr 2025 5.85).
+The PA report has no cost section (no cost of production, upkeep cost per ha or budget table), so cost figures are not available. Barn owl boxes (Agro Table 6): P97/A1 6, P97/A2 4, P98/B 3, P00/C1 2, P00/C2 5, P06/E 1 = 21 boxes, none occupied, all in poor condition.
