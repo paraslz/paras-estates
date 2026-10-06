@@ -36,22 +36,23 @@ export default async (req: Request, context: Context) => {
   const kb: string = String(data.kb || "").slice(0, 60000);
   if (!kb) return Response.json({ error: "No report extracts for this estate yet." }, { status: 404 });
 
-  const r = await fetch("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: {
-      "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json",
-      ...(Netlify.env.get("ANTHROPIC_WORKSPACE_ID") ? { "anthropic-workspace-id": String(Netlify.env.get("ANTHROPIC_WORKSPACE_ID")).trim() } : {})
-    },
-    body: JSON.stringify({
-      model: Netlify.env.get("ASK_MODEL") || "claude-sonnet-5-5",
-      max_tokens: 900,
-      system: [
-        { type: "text", text: RULES },
-        { type: "text", text: `ESTATE: ${data.name}\n\nREPORT EXTRACTS:\n${kb}`, cache_control: { type: "ephemeral" } }
-      ],
-      messages: msgs
-    })
-  });
+  const headers = {
+    "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json",
+    ...(Netlify.env.get("ANTHROPIC_WORKSPACE_ID") ? { "anthropic-workspace-id": String(Netlify.env.get("ANTHROPIC_WORKSPACE_ID")).trim() } : {})
+  };
+  const base: Record<string, unknown> = {
+    model: Netlify.env.get("ASK_MODEL") || "claude-sonnet-5-5",
+    max_tokens: 4000, // covers any thinking plus the answer
+    system: [
+      { type: "text", text: RULES },
+      { type: "text", text: `ESTATE: ${data.name}\n\nREPORT EXTRACTS:\n${kb}`, cache_control: { type: "ephemeral" } }
+    ],
+    messages: msgs
+  };
+  const call = (body: Record<string, unknown>) => fetch("https://api.anthropic.com/v1/messages", { method: "POST", headers, body: JSON.stringify(body) });
+  // Low effort keeps answers quick and cheap; fall back without it if the model rejects the setting.
+  let r = await call({ ...base, output_config: { effort: "low" } });
+  if (r.status === 400) r = await call(base);
   if (r.status === 429) return Response.json({ error: "Too many questions at once. Try again in a minute." }, { status: 429 });
   if (!r.ok) {
     const t = await r.text(); console.log("anthropic error", r.status, t);
@@ -65,8 +66,9 @@ export default async (req: Request, context: Context) => {
     return Response.json({ error: why }, { status: 502 });
   }
   const j = await r.json();
-  const text = (j.content || []).filter((c: any) => c.type === "text").map((c: any) => c.text).join("\n").trim();
-  return Response.json({ text: text || "No answer was returned." });
+  let text = (j.content || []).filter((c: any) => c.type === "text").map((c: any) => c.text).join("\n").trim();
+  if (j.stop_reason === "max_tokens") text += (text ? "\n\n" : "") + "(Answer cut short. Ask a narrower question for the rest.)";
+  return Response.json({ text: text || "No answer was returned. Try rephrasing the question." });
 };
 
 export const config: Config = { path: "/api/ask" };
