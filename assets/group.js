@@ -26,7 +26,12 @@ function totals(){
 function attention(){
  const R=E.map(e=>({e,f:flag(e)})).filter(x=>x.f.worst===2).sort((a,b)=>(a.f.y??0)-(b.f.y??0));
  if(!R.length){$("attC").hidden=true;return}
- $("att").innerHTML=R.map(({e,f})=>`<a href="${esc(e.href)}"><span class="dot r" style="margin-top:5px"></span><span><span class="t">${esc(nm(e))}</span><br><span class="r">${esc(f.why.join("; "))} · ${esc(e.period||"")}</span></span></a>`).join("");
+ const row=({e,f})=>`<a href="${esc(e.href)}"><span class="dot r" style="margin-top:6px"></span><span><span class="t">${esc(nm(e))}</span> <span class="r">${esc(f.why.join("; "))}</span></span></a>`;
+ const N=5;let all=false;
+ const draw=()=>{$("att").innerHTML=(all?R:R.slice(0,N)).map(row).join("")+(R.length>N?`<button type="button" class="byoB" id="attMore">${all?"Show fewer":`Show all ${R.length}`}</button>`:"");
+  const m=$("attMore");if(m)m.addEventListener("click",()=>{all=!all;draw()})};
+ $("attS").textContent=`${R.length} of ${E.length} estates are red-flagged. Worst 5 shown; full list in the league table below.`;
+ draw();
 }
 function league(){
  const price=parseFloat($("fp").value);const hasP=!isNaN(price)&&price>0;

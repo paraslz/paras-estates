@@ -19,7 +19,7 @@
 .lg td:first-child small{display:block;color:var(--muted);font-weight:400;font-size:.85em}
 .lg td small{display:block;font-size:.85em}
 .att{display:grid;gap:8px}
-.att a{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:var(--fg);background:var(--bad-soft);border-radius:8px;padding:10px 12px}
+.att{gap:6px}.att a{display:flex;gap:8px;align-items:flex-start;text-decoration:none;color:var(--fg);background:var(--bad-soft);border-radius:8px;padding:7px 10px;line-height:1.35}.att .byoB{justify-self:start}
 .att a .t{font-weight:600}.att a .r{font-size:.92em;color:var(--muted)}
 .ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
 .ctl select,.ctl input{font:15px var(--f-body);padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg);min-width:0}
@@ -44,7 +44,7 @@
 
 <div class="card"><h2>Group at a glance</h2><p class="sub" id="gS"></p><div class="tot4" id="tot"></div></div>
 
-<div class="card" id="attC"><h2>Needs attention</h2><p class="sub">Red flag: yield 15% or more below budget, or cost per tonne 15% or more over budget.</p><div class="att" id="att"></div></div>
+<div class="card" id="attC"><h2>Needs attention</h2><p class="sub" id="attS"></p><div class="att" id="att"></div></div>
 
 <div class="card">
  <div class="head"><div><h2>Estate league table</h2><p class="sub">Latest report for each estate. Green within 5% of budget, amber 5–15%, red beyond 15%.</p></div></div>
