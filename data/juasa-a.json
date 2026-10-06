@@ -1109,5 +1109,165 @@
   "prevSame": 6.14,
   "src": "Agronomy Report 1/2026 Table 16"
  },
- "folder": "https://drive.google.com/drive/folders/1XFLNRqfTzcVcPFP1_utXzlbRzvFun2bV"
+ "folder": "https://drive.google.com/drive/folders/1XFLNRqfTzcVcPFP1_utXzlbRzvFun2bV",
+ "costDetail": {
+  "period": "Jan–Jun 2026 (Juasa A+B combined)",
+  "src": "PA Report 2/2026, Sections 5-9 (General Charges, Upkeep, Harvesting, Crop, Cost of Production)",
+  "ffb": 14032.23,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 91.83,
+    "budget": 87.97,
+    "items": [
+     {
+      "item": "Supervision",
+      "actual": 0,
+      "budget": 0.62
+     },
+     {
+      "item": "Harvesting labour",
+      "actual": 67.35,
+      "budget": 65.57
+     },
+     {
+      "item": "Internal transport",
+      "actual": 19.14,
+      "budget": 17.82
+     },
+     {
+      "item": "Harvesting incentive",
+      "actual": 0.59,
+      "budget": 3.96
+     },
+     {
+      "item": "Top-up wages",
+      "actual": 4.75,
+      "budget": 0
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 136.85,
+    "budget": 108.97,
+    "items": [
+     {
+      "item": "Weeding",
+      "actual": 15.8,
+      "budget": 14.67,
+      "calc": true
+     },
+     {
+      "item": "Manuring",
+      "actual": 102.1,
+      "budget": 68.61,
+      "calc": true
+     },
+     {
+      "item": "Pest & disease",
+      "actual": 2.13,
+      "budget": 2.19,
+      "calc": true
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0.0,
+      "budget": 0.22,
+      "calc": true
+     },
+     {
+      "item": "Drains",
+      "actual": 4.34,
+      "budget": 9.88,
+      "calc": true
+     },
+     {
+      "item": "Roads",
+      "actual": 6.63,
+      "budget": 3.89,
+      "calc": true
+     },
+     {
+      "item": "Culvert & bridges",
+      "actual": 0.82,
+      "budget": 0.64,
+      "calc": true
+     },
+     {
+      "item": "Soil/water conservation",
+      "actual": 0.08,
+      "budget": 2.03,
+      "calc": true
+     },
+     {
+      "item": "Boundary, survey, fences",
+      "actual": 0.08,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Tools",
+      "actual": 0.02,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Supplying",
+      "actual": 0.0,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Pruning",
+      "actual": 4.85,
+      "budget": 6.84,
+      "calc": true
+     }
+    ],
+    "budgetCalc": true
+   },
+   {
+    "name": "General charges",
+    "actual": 96.0,
+    "budget": 103.2,
+    "items": [
+     {
+      "item": "Management & supervision",
+      "actual": 62.0,
+      "budget": 57.64,
+      "calc": true
+     },
+     {
+      "item": "Labour & amenities",
+      "actual": 17.28,
+      "budget": 13.74,
+      "calc": true
+     },
+     {
+      "item": "Other expenditures",
+      "actual": 16.72,
+      "budget": 31.81,
+      "calc": true
+     }
+    ],
+    "budgetCalc": true
+   }
+  ],
+  "total": {
+   "actual": 324.69,
+   "budget": 300.13,
+   "budgetCalc": true
+  },
+  "notes": [
+   "Cost tables (Sections 5, 6, 7, 9) cover Juasa A+B combined; Juasa A and Juasa B PA 2/2026 print identical tables, so both files carry the same figures.",
+   "FFB basis: 14,032.23 t actual Jan-Jun 2026; 18,899 t budget to date (Section 8, A+B combined).",
+   "General Charges and Upkeep items: report prints RM and RM/ha only, so RM/t = RM / FFB t (actual 14,032.23 t; budget 18,899 t), marked calc. Harvest items are as printed (Section 7).",
+   "Sub-items add up to group totals: GC RM1,347,116.32 actual / RM1,950,318 budget; mature upkeep RM1,920,326 / RM2,059,350; harvest 91.83 / 87.97. No mismatch.",
+   "Group actuals 96.00 / 136.85 / 91.83 = 324.69 match Section 9 and dashboard costParts.",
+   "Section 9 prints a different 'estimate to date' budget: GC 13.90 (appears a misprint; annual 277.97), Upkeep 146.76, Harvest 118.49, total 279.15. These do not reconcile with Sections 5-7 budgets divided by budget FFB (GC 103.20, Upkeep 108.97, Harvest 87.97, total 300.14). Group budgets here use the item-consistent figures (Harvest 87.97 as printed in Section 7, matching dashboard).",
+   "Upkeep group covers mature upkeep only (matches the printed RM/t); immature and replanting costs are excluded from cost of production.",
+   "Section 9 annual budget per tonne FFB: GC 277.97, Upkeep 293.51, Harvest 236.98, total 808.46 (not used)."
+  ]
+ }
 }

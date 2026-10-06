@@ -186,3 +186,36 @@ Semi-mechanised manuring: raised PA 1/2024, Agronomy 1/2025, GMD, PA 1/2026; not
 Path spraying in P21A: raised Agronomy 1/2024, 1/2025, Jan 2026, Jul 2026; still seen.
 Vehicle running-cost records: raised PA 2/2024 onwards; not started.
 Bridges & culverts RM55,855 (2023) breakdown: asked by PA 1/2024 and GMD; no answer recorded.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Apr 2026, from PA Report 1/2026, section 9 (Table 19), Table 16, Table 7, Appendix 2 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 76.28 / 91.71
+  - Harvesting: 52.16 / 65.72
+  - Internal transport: 17.93 / 21.05
+  - Others (incentive): 1.19 / 4.94
+  - Top up wages: 5.00 / N/A
+Upkeep & cultivation: 91.44 / 91.84
+  - Weeding: 16.96 / 16.31 *
+  - Manuring: 61.32 / 58.58 *
+  - Pest & disease: 0.24 / 2.16 *
+  - Census & thinning out: 0.13 / 0.19 *
+  - Drains: 0.13 / 0.48 *
+  - Bridges & culverts: 0.28 / 0.30 *
+  - Roads: 6.74 / 6.24 *
+  - Boundaries / survey: 0.11 / N/A *
+  - Pruning: 5.53 / 7.58 *
+General charges: 98.36 / 102.93
+  - Salaries – exec & staff: 29.85 / 23.84 *
+  - Quit rent: 14.91 / 17.55 *
+  - Bonus – exec & staff: 15.85 / 7.97 *
+  - Recruitment expenses: 4.41 / 10.59 *
+  - Welfare: 5.06 / 6.49 *
+  - Paid leave: 5.90 / 4.29 *
+  - Electricity supply: 5.99 / 2.40 *
+  - EPF – exec & staff: 4.65 / 3.35 *
+  - Upkeep lines: 1.32 / 2.91 *
+  - Security: 0.00 / 3.95 *
+  - Fringe benefits: 0.00 / 3.92 *
+  - Staff transport / reimbursement: 1.13 / 2.59 *
+  - Office expenses: 1.46 / 1.85 *
+  - Other (15 items): 7.84 / 11.24 *
+Total operating cost: 266.08 / 286.48

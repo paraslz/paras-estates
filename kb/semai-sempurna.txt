@@ -58,3 +58,26 @@ RAINFALL (Agro Appendix 4): 2022 2,394.00 mm, 135 days; 2023 2,044.50 mm, 101 da
 CAPITAL EXPENDITURE (PA section 11): budget RM302,000 (residential buildings RM300,000; office equipment and others RM2,000); nothing spent to June; estate said capex would be spent in September 2026.
 
 DATA CAVEATS: see the issues list for PA versus Agro mismatches (last-year FFB, harvesting RM/t, harvester count, interval, basic wage, Agro Table 4 totals, roads per ha).
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026 (visit 11 Aug 2026), sections 5, 6, 7, 9 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 80.47 / 87.91
+  - Harvesting labour: 41.84 / 45.67
+  - Internal transport: 18.85 / 18.43
+  - Harvesting incentive: 1.63 / 4.35
+  - External transport: 16.64 / 18.44
+  - Top-up wages: 1.39 / 1.02
+Upkeep & cultivation: 117.56 / 95.08
+  - Weeding: 12.61 / 10.19 *
+  - Manuring: 85.61 / 68.07 *
+  - Pest & disease: 2.39 / 2.77 *
+  - Census & thinning out: 0.66 / 0.43 *
+  - Drains: 0.51 / 2.43 *
+  - Roads: 9.26 / 5.30 *
+  - Bridges: 0.92 / 1.35 *
+  - Boundary, survey & fences: 0.06 / 0.06 *
+  - Pruning: 5.54 / 4.49 *
+General charges: 67.19 / 60.02
+  - Management & supervision: 43.80 / 25.32 *
+  - Labour & amenities: 13.82 / 16.93 *
+  - Other expenditures: 9.58 / 17.77 *
+Total operating cost: 265.22 / 243.01

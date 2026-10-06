@@ -98,7 +98,8 @@ function render(){
  // money (standard layout, same as Cheekah Kemayan)
  const NA="N/A",na=v=>v==null;
  $("mS").textContent=k.cop!=null||k.ucHa!=null?`${clean(k.copPeriod)||"Period not stated"}${r.pa?" · "+r.pa.title:""}`:(r.pa?`${r.pa.title} · no cost section`:"No cost section");
- {const cp=n=>(D.costParts||[]).find(c=>n.test(c.name||""))||{};
+ if(D.costDetail&&window.costTableHTML){const cd=D.costDetail,o=costTableHTML(cd,fmt,pill,pct);$("opT").innerHTML=o.html;costTableWire($("opT"));$("opN").textContent=(o.note?o.note+" ":"")+"Tap a line to hide or show its breakdown.";$("mS").textContent=`${cd.period||"Period not stated"} · ${cd.src||(r.pa&&r.pa.title)||""}`}
+ else {const cp=n=>(D.costParts||[]).find(c=>n.test(c.name||""))||{};
   const H=cp(/harvest/i),U=cp(/upkeep/i),G=cp(/general/i);
   const rows=[["Harvesting & collection",H.actual??k.hcT,H.budget??k.hcTBudget],["Upkeep & cultivation",U.actual,U.budget],["General charges",G.actual,G.budget],["Total operating cost",k.cop,k.copBudget,1]];
   $("opT").innerHTML=rows.map(r=>`<tr${r[3]?' class="tot"':""}><td>${r[3]?"<b>"+r[0]+"</b>":r[0]}</td><td>${na(r[1])?NA:(r[3]?"<b>"+fmt(r[1],2)+"</b>":fmt(r[1],2))}</td><td>${na(r[2])?NA:fmt(r[2],2)}</td><td>${na(r[1])||na(r[2])?NA:pill(pct(r[1],r[2]),true)}</td></tr>`).join("");

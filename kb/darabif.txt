@@ -50,3 +50,29 @@ RAINFALL (Agro Appendix 2, group record): 2023 157 rain days, 2,965 mm; 2025 mon
 2026 OUTLOOK AND ADVICE: Agro says early 2026 yields have improved (Darabif Jan 2.23 t/ha, acceptable). PA concluding advice: expedite manuring, remove dried hanging fronds, increase harvester productivity, grade roads by June 2026, request PARAS GIS team to do palm census for fertiliser requirements, keep quarterly rat census, deboling of Ganoderma-fallen palms, interrow VOP eradication.
 
 DATA CAVEATS: PA harvesting cost RM68.64 vs RM82.29 per t; PA yield 21.02 t/ha (1,627 ha) vs Agro 20.94 t/ha (1,647 ha); PA 2025 manuring 86% vs Agro 100%; harvester requirement 74 vs 76; Ganoderma table PM03/C2 listed as 55 ha vs 89 ha; rainfall totals. See issues.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, Tables 6, 7, 26, 29 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 82.29 / 79.40
+  - Contract harvesting & collection: 43.03 / 43.00
+  - Internal transport: 15.03 / 14.82
+  - External transport: 10.57 / 10.40
+Upkeep & cultivation: 82.22 / 90.63
+  - Weeding - selective/blanket spray: 4.09 / 4.41 *
+  - Weeding - circle spray: 5.47 / 4.78 *
+  - Manuring - labour: 0.00 / 0.30 *
+  - Manuring - material: 56.83 / 60.58 *
+  - Manuring - contract: 3.52 / 5.86 *
+  - Manuring - diesel subsidy: 0.00 / 0.03 *
+  - Manuring - leaf sampling: 0.02 / 0.00 *
+  - Pest & disease - rat baiting: 0.00 / 1.48 *
+  - Pest & disease - others: 0.01 / 0.51 *
+  - Drains: 0.74 / 0.88 *
+  - Roads & bridges: 6.24 / 6.70 *
+  - Soil/water conservation: 0.00 / 0.02 *
+  - Boundaries/survey/fences: 0.10 / 0.04 *
+  - Pruning: 5.19 / 5.03 *
+General charges: 54.91 / 59.12
+  - Management & supervision: 38.03 / 32.83 *
+  - Labour & amenities: 12.07 / 10.78 *
+  - Other expenditure: 4.82 / 15.51 *
+Total operating cost: 219.41 / 229.15

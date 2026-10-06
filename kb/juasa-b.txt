@@ -36,3 +36,29 @@ PESTS (PA and Agro agree): fresh rat damage May 2026 P04L 22%, P15N 27%, P16P 22
 IMMATURE AND REPLANT (PA): PR24 V3-V4 126.7 ha cost RM116,863 to date (RM922/ha vs RM1,126 budget); cumulative RM1,185,731 (RM9,359/ha). Circle and selective spraying 3 of 3 rounds, manuring 2 of 2 rounds. PR26 X5-X6 60 ha: RM48,520 spent vs RM393,180 budget to date; felling and chipping from June; 43 ha need camber bunds. Agro: land preparation from mid-August 2026; consider 160 SPH on peat; install piezometers; compact peat on bunds; remove all polybags.
 
 RAINFALL (Agro): average annual 2,827 mm with about 12 rainy days a month, about 18 effective working days a month; June averages about 153 mm. No year-by-year record for Juasa B in either report.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026 (Juasa A+B combined), from PA Report 2/2026, Sections 5-9 (General Charges, Upkeep, Harvesting, Crop, Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 91.83 / 87.97
+  - Supervision: 0.00 / 0.62
+  - Harvesting labour: 67.35 / 65.57
+  - Internal transport: 19.14 / 17.82
+  - Harvesting incentive: 0.59 / 3.96
+  - Top-up wages: 4.75 / 0.00
+Upkeep & cultivation: 136.85 / 108.97
+  - Weeding: 15.80 / 14.67 *
+  - Manuring: 102.10 / 68.61 *
+  - Pest & disease: 2.13 / 2.19 *
+  - Census & thinning out: 0.00 / 0.22 *
+  - Drains: 4.34 / 9.88 *
+  - Roads: 6.63 / 3.89 *
+  - Culvert & bridges: 0.82 / 0.64 *
+  - Soil/water conservation: 0.08 / 2.03 *
+  - Boundary, survey, fences: 0.08 / 0.00 *
+  - Tools: 0.02 / 0.00 *
+  - Supplying: 0.00 / 0.00 *
+  - Pruning: 4.85 / 6.84 *
+General charges: 96.00 / 103.20
+  - Management & supervision: 62.00 / 57.64 *
+  - Labour & amenities: 17.28 / 13.74 *
+  - Other expenditures: 16.72 / 31.81 *
+Total operating cost: 324.69 / 300.13

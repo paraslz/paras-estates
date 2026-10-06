@@ -71,3 +71,22 @@ Upkeep to May RM73,220 vs RM141,445 budget (RM685/ha vs RM1,324); since start RM
 
 RAINFALL
 Agro annual: 2021 3,038.5 mm (122 days listed), 2022 3,353 mm (151), 2023 4,242 mm (143), 2024 2,548 mm (120), 2025 3,169.5 mm (152); Jan-Mar 2026 275.5 mm (20 days). Dry Feb-Jul 2024 may depress yield in following 1-2 years. PA appendix: 2024 2,241 mm (115 days), 2025 3,169.5 mm (152), Jan-May 2026 717 mm (39 days); January 2026 only 65 mm.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5-7 and 9 (Cost of Production As At May 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 91.06 / 90.52
+  - Harvesting labour: 67.81 / 63.45
+  - Internal transport: 23.25 / 27.07
+Upkeep & cultivation: 137.92 / 139.57
+  - Weeding: 14.72 / 13.96 *
+  - Manuring: 100.26 / 105.07 *
+  - Pest & disease: 4.35 / 3.83 *
+  - Census & thinning out: 0.00 / 0.05 *
+  - Drains: 4.67 / 3.46 *
+  - Bridges: 1.45 / 1.32 *
+  - Roads: 7.30 / 7.89 *
+  - Pruning: 5.18 / 3.98 *
+General charges: 179.80 / 86.06
+  - Management & supervision: 138.99 / 46.14 *
+  - Labour & amenities: 24.30 / 22.17 *
+  - Other expenditures: 16.51 / 17.75 *
+Total operating cost: 408.78 / 316.15

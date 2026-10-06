@@ -48,3 +48,26 @@ DATA NOTES: The PA crop table's last-year 12,230 t / 19.13 t/ha is the 2025 annu
 FERTILISER PROGRAMME, REVISED 2026 (Agronomy 1/2026 Appendix 1, grams per palm, month): PM00A (P00A1 and P00A2) NK2 2000 g Jan and 2000 g May, to be withdrawn if replanted in 2027. PM01B and PM02C Mix A 1750 g Jan, NK1 1750 g Apr, Mix A 2000 g Aug. PM12D (D1 and D2) Mix B 2250 g Feb, Mix B 2250 g May, RP 1500 g Jun, Mix B 2250 g Sep. PM16E Mix B 2250 g Jan, kieserite 750 g Feb, Mix B 2250 g Apr, RP 2000 g May, Mix B 1500 g Jul, Mix B 1500 g Oct. PM18F Mix B 2250 g Feb, kieserite 750 g Mar, Mix B 2000 g May, RP 2000 g Jun, Mix B 1500 g Aug, Mix B 1500 g Nov. PM20G Mix B 2000 g Feb, kieserite 500 g Mar, Mix B 2000 g May, Mix B 1500 g Aug, RP 2000 g Sep, Mix B 1500 g Nov. PR22H1 Mix B 1500 g Feb, 1750 g May, 1500 g Aug, RP 2000 g Sep, Mix B 1500 g Nov; PR22H2 same but 1500 g in May. The 2026 programme was revised for price rises and limited stock; the 2027 programme comes after the second agronomy visit (tentatively September 2026). PA 2/2026 manuring table shows actual 2026 application dates (e.g. PM12D Mix B 11-27 Feb, kieserite PM16E 22-24 Feb; PM18F and PM20G Mix B Feb-Apr).
 PA RAT CENSUS (PA 2/2026 table, before baiting): June 2026 PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%, PR22H 19%; earlier PM16E 16% Jan and 14% Feb, PM18F 18% Jan and Feb, PM20G 15% Mar, PR22H 15% Feb and 17% Mar. Baiting (ha) June: PM12D 40, PM16E 42.06, PM18F 75.50, PM20G 105.82, PR22H 96.
 YIELD PERIODS: block yields in this pack are Jan-Mar 2026 (Agronomy Table 16) versus Jan-Mar 2025; estate yield Jan-Mar 2026 2.54 t/ha (2.57 in Jan-Mar 2025). Estate FFB yield 5.67 t/ha is Jan-Jun 2026 (PA); 2025 full year 13.59 t/ha and 2024 14.32 t/ha (Agronomy Table 15).
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5-7 and 9 (cost of production table, p.43) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 89.10 / 94.12
+  - Harvesting labour: 63.71 / 65.91
+  - Internal transport: 25.28 / 25.52
+  - Implements: 0.00 / 0.27
+  - Harvesting incentive: 0.00 / 0.25
+  - Top-up wages: 0.12 / 2.17
+Upkeep & cultivation: 150.73 / 155.21
+  - Weeding: 19.92 / 20.25 *
+  - Manuring: 115.18 / 107.44 *
+  - Pest & disease: 3.93 / 4.47 *
+  - Census & thinning out: 0.03 / 0.13 *
+  - Drains: 0.54 / 4.49 *
+  - Roads: 2.71 / 9.13 *
+  - Bridges & culverts: 0.77 / 1.83 *
+  - Boundary, survey, fences & trenches: 0.17 / 0.44 *
+  - Pruning: 7.49 / 7.02 *
+General charges: 141.02 / 136.30
+  - Management & supervision: 48.06 / 43.03 *
+  - Labour & amenities: 33.65 / 36.19 *
+  - Other expenditure: 59.30 / 57.08 *
+Total operating cost: 380.85 / 385.63

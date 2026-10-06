@@ -37,3 +37,36 @@ FIELD UPKEEP: PA: one round circle spraying done on 974.82 ha (100% of to-date p
 PESTS AND GANODERMA: Rat damage below 3% (PA); Agro Q1/Q2 2.25-3.50%, under 10% threshold, no baiting. 153 barn owl boxes, 86 occupied (56%); PA says 48 damaged; Agro shows 97 good, 56 poor and says 117 boxes would be optimal (1 per 10 ha), occupancy against that ratio is 73%. Bagworm: 3%/2% in Jan (P05C/P06D) then 0%. Ganoderma: PA says 17% of palms dead or infested; Agro census shows 2,189 infected and 21,048 fallen palms (P99A 808/3,124; P04B 911/9,894; P05C 277/3,612; P06D 193/4,418). Agro: infection increasing; new census in five categories required; mound to 1 m where infection exceeds 5%; deboling now improved to specification. PA: P05C deboling/mounding budgeted but not started.
 
 RAINFALL: 2022 1,685.0 mm/120 days; 2023 1,850.5/123; 2024 2,212.0/149; 2025 2,025.0/151; 2026 Jan-Jun 694.5 mm/57 days (Jan 13, Mar 30 and Jun 65.5 mm were very low; Agro flags water stress).
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Apr 2026 (cost to 30 Apr 2026), from PA Report 1/2026, sections 5-7 and 10 (Tables 6, 7, 16, 20; Appendix 2) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 67.80 / 69.21
+  - Harvesting: 45.71 / 47.60
+  - Internal transport: 17.57 / 17.44
+  - Others: 0.42 / 4.17
+  - Top-up wages: 4.10 / 0.00
+Upkeep & cultivation: 103.71 / 116.91
+  - Weeding: 14.84 / 11.53 *
+  - Manuring: 81.24 / 86.57 *
+  - Pest & disease: 0.02 / 9.22 *
+  - Census & thinning out: 0.39 / 0.08 *
+  - Drains: 0.07 / 0.40 *
+  - Bridges & culverts: 0.11 / 0.37 *
+  - Roads: 0.31 / 3.30 *
+  - Boundaries / survey: 0.30 / 0.14 *
+  - Pruning: 6.42 / 5.30 *
+General charges: 121.25 / 100.49
+  - Salaries - exec & staff: 19.88 / 16.86 *
+  - Bonus - exec & staff: 8.90 / 6.67 *
+  - EPF - exec & staff: 4.54 / 2.65 *
+  - Staff transport / reimbursement: 1.03 / 2.12 *
+  - Head office / agency fees: 35.03 / 16.50 *
+  - Paid leave: 6.70 / 3.35 *
+  - Upkeep lines: 2.26 / 3.06 *
+  - Electricity supply: 2.91 / 3.42 *
+  - Recruitment expenses: 4.09 / 15.17 *
+  - Fringe benefits: 0.00 / 2.54 *
+  - Quit rent: 18.03 / 13.41 *
+  - Security: 9.99 / 4.21 *
+  - Sundries: 0.07 / 2.81 *
+  - Other (15 items): 7.80 / 7.70 *
+Total operating cost: 292.76 / 286.61

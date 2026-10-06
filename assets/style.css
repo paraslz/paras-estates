@@ -180,3 +180,7 @@ a{color:var(--accent)}
 .askrow{flex-wrap:wrap}.askrow input{flex:1 1 180px}.askrow button{flex:0 0 auto}.askTop,.askTop>*{min-width:0;max-width:100%}.chips button{max-width:100%;white-space:normal}
 @media (max-width:480px){.kv .v{font-size:22px}.kv>div{padding:10px}}
 .kv .v{overflow-wrap:anywhere}
+tr.grp.exp{cursor:pointer}tr.grp .car{display:inline-block;width:1.1em;color:var(--muted);transition:transform .15s}tr.grp.shut .car{transform:rotate(-90deg)}
+tr.grp td{background:var(--bg)}tr.sub td{font-size:.92em;color:var(--muted)}tr.sub td:first-child{padding-left:1.6em;white-space:normal}tr.tot td{border-top:2px solid var(--line)}
+th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-width:0}
+#opT td:first-child{overflow-wrap:anywhere}

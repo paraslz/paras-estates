@@ -53,3 +53,26 @@ RAINFALL (PA and Agro appendices). Timur mm (rain days): 2021 3,106 (154); 2022 
 CONCLUSIONS. PA Timur: well managed; recruit harvesters and sprayers, review piece rates, start road grading. PA Kema: crop budget achieved, fields clean; raise circle-spraying productivity, recruit harvesters, finish roads by September. Agro: rat control in P18H urgent; update Kema palm census; supervise thinning.
 
 KNOWN INCONSISTENCIES (see issues list): Ganoderma extent; PA Timur 19.77 t/ha 2024 base and 29% gain; Appendix 2a totals; Kema 406.19 vs 412.70 ha; weeding completion; rat status; roads; replanting plans; barn owl 80% vs 61%; COP basis; Timur labour table; thinning total; harvest interval.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025 (Timur + Kema combined), from PA Report 1/2026 Timur A & B (sections 5–9) + PA Report 1/2026 Kema Division (sections 5–9); combined by summing RM amounts / combined FFB (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 106.05 / 106.01
+  - Harvesting labour: 47.86 / 47.19 *
+  - Internal transport: 22.76 / 21.58 *
+  - External transport (FFB despatch): 31.65 / 30.00 *
+  - Harvesting incentive: 3.76 / 7.24 *
+Upkeep & cultivation: 78.94 / 68.58
+  - Weeding: 8.83 / 9.07 *
+  - Manuring: 55.54 / 51.19 *
+  - Pest & disease: 1.50 / 0.60 *
+  - Census & thinning out: 0.05 / 0.10 *
+  - Drains: 0.68 / 1.75 *
+  - Roads & bridges: 7.70 / 1.84 *
+  - Tools: 0.34 / 0.00 *
+  - Supplying: 0.09 / 0.00 *
+  - Pruning: 4.20 / 4.04 *
+General charges: 133.21 / 51.07
+  - Management & supervision: 84.52 / 25.37 *
+  - Labour & amenities: 1.69 / 8.18 *
+  - Other expenditures: 46.22 / 16.81 *
+  - MSPO: 0.78 / 0.71 *
+Total operating cost: 318.20 / 225.66

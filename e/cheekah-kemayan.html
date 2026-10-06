@@ -181,6 +181,10 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 .askrow{flex-wrap:wrap}.askrow input{flex:1 1 180px}.askrow button{flex:0 0 auto}.askTop,.askTop>*{min-width:0;max-width:100%}.chips button{max-width:100%;white-space:normal}
 @media (max-width:480px){.kv .v{font-size:22px}.kv>div{padding:10px}}
 .kv .v{overflow-wrap:anywhere}
+tr.grp.exp{cursor:pointer}tr.grp .car{display:inline-block;width:1.1em;color:var(--muted);transition:transform .15s}tr.grp.shut .car{transform:rotate(-90deg)}
+tr.grp td{background:var(--bg)}tr.sub td{font-size:.92em;color:var(--muted)}tr.sub td:first-child{padding-left:1.6em;white-space:normal}tr.tot td{border-top:2px solid var(--line)}
+th:first-child{white-space:normal}#opT td:first-child{white-space:normal;min-width:0}
+#opT td:first-child{overflow-wrap:anywhere}
 </style>
 
 </head>
@@ -344,7 +348,8 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
    <div><h2>Operating cost per tonne FFB</h2><p class="sub" id="mSub"></p></div>
    <label><span class="sr">Year</span><select id="mYear"><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026" selected>2026</option></select></label>
   </div>
-  <div class="tbl"><table><thead><tr><th>Cost (RM per t FFB)</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="opT"></tbody></table></div>
+  <div class="tbl"><table><thead><tr><th>RM per t FFB</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="opT"></tbody></table></div>
+  <p class="note" id="opN"></p>
   <div class="callout" id="mCall"></div>
  </div>
  <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
@@ -477,6 +482,7 @@ tr.clk{cursor:pointer} tr.clk:hover td{background:var(--accent-soft)}
 
 </div></main>
 
+<script src="/assets/cost.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <script>
 const fmt=(n,d=0)=>n.toLocaleString("en-MY",{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -631,6 +637,7 @@ function showBlock(id){
 }
 
 /* ---------- money ---------- */
+const CD26={"period": "Jan–Apr 2026", "src": "PA Report 1/2026, section 9 (Table 19), Table 16, Table 7, Appendix 2", "ffb": 5140.97, "groups": [{"name": "Harvest & collection", "actual": 76.28, "budget": 91.71, "items": [{"item": "Harvesting", "actual": 52.16, "budget": 65.72}, {"item": "Internal transport", "actual": 17.93, "budget": 21.05}, {"item": "Others (incentive)", "actual": 1.19, "budget": 4.94}, {"item": "Top up wages", "actual": 5.0, "budget": null}]}, {"name": "Upkeep & cultivation", "actual": 91.44, "budget": 91.84, "items": [{"item": "Weeding", "actual": 16.96, "budget": 16.31, "calc": true}, {"item": "Manuring", "actual": 61.32, "budget": 58.58, "calc": true}, {"item": "Pest & disease", "actual": 0.24, "budget": 2.16, "calc": true}, {"item": "Census & thinning out", "actual": 0.13, "budget": 0.19, "calc": true}, {"item": "Drains", "actual": 0.13, "budget": 0.48, "calc": true}, {"item": "Bridges & culverts", "actual": 0.28, "budget": 0.3, "calc": true}, {"item": "Roads", "actual": 6.74, "budget": 6.24, "calc": true}, {"item": "Boundaries / survey", "actual": 0.11, "budget": null, "calc": true}, {"item": "Pruning", "actual": 5.53, "budget": 7.58, "calc": true}]}, {"name": "General charges", "actual": 98.36, "budget": 102.93, "items": [{"item": "Salaries – exec & staff", "actual": 29.85, "budget": 23.84, "calc": true}, {"item": "Quit rent", "actual": 14.91, "budget": 17.55, "calc": true}, {"item": "Bonus – exec & staff", "actual": 15.85, "budget": 7.97, "calc": true}, {"item": "Recruitment expenses", "actual": 4.41, "budget": 10.59, "calc": true}, {"item": "Welfare", "actual": 5.06, "budget": 6.49, "calc": true}, {"item": "Paid leave", "actual": 5.9, "budget": 4.29, "calc": true}, {"item": "Electricity supply", "actual": 5.99, "budget": 2.4, "calc": true}, {"item": "EPF – exec & staff", "actual": 4.65, "budget": 3.35, "calc": true}, {"item": "Upkeep lines", "actual": 1.32, "budget": 2.91, "calc": true}, {"item": "Security", "actual": 0.0, "budget": 3.95, "calc": true}, {"item": "Fringe benefits", "actual": 0.0, "budget": 3.92, "calc": true}, {"item": "Staff transport / reimbursement", "actual": 1.13, "budget": 2.59, "calc": true}, {"item": "Office expenses", "actual": 1.46, "budget": 1.85, "calc": true}, {"item": "Other (15 items)", "actual": 7.84, "budget": 11.24, "calc": true}]}], "total": {"actual": 266.08, "budget": 286.48}, "notes": ["FFB 5,140.97 t (Jan–Apr, Appendix 2 'Total MT'); budget FFB 5,606 t. Cost tables cover Jan–Apr 2026 (FFB production table 18 covers Jan–May, 6,569.39 t, not used).", "Harvest items printed as RM/t in Table 16; sub-items sum 76.28 actual / 91.71 budget (OK).", "Upkeep items computed as RM amount (Table 7) / FFB 5,140.97 actual, / 5,606 budget; they sum to the printed 91.44 / 91.84 (rounding only).", "General charges group (RM 505,632 / 576,992) is the mature-area proportion of total estate GC (RM 652,309.30 / 744,224). Appendix 2 line items are for whole estate, so item RM/t = line RM x (505,632/652,309.30 actual; 576,992/744,224 budget) / FFB; calc. Sums match group totals within rounding.", "Appendix 2 prints budget total 744,244 and mature budget 576,692 vs Table 6/19 576,992 / 744,224 (likely typos); Table 19 used. Net-zero transfer lines (insurance, vehicles, heavy plant) omitted; interest and similar small lines in Other.", "Report text says Table 6 RM/ha 439.60; Appendix says 439.59 (rounding)."]};
 const M={
  "2023":{pt:{h:[75.61,79.72],u:[109.40,null],g:[54.66,null]},p:"Jan–Dec 2023 · PA 1/2024 · Adnan",cop:239.68,copB:321.29,gc:672.57,gcB:1441.17,uc:1772.08,ucB:2015.70,hc:75.60,hcB:79.72,
   note:"<b>Cost was 25% under budget on 7% less crop.</b> Corrective pruning ran 182% over budget to clear a backlog, which was justified. Bridges and culverts at RM55,085 against a RM2,076 budget was queried twice and never explained.",
@@ -649,7 +656,10 @@ function renderMoney(y){
  const p=M[y];document.getElementById("mSub").textContent=p.p;
  const NA="N/A",f2=v=>v==null?NA:fmt(v,2),vr=(a,b)=>a==null||b==null?NA:pill(pct(a,b),true);
  const rows=[["Harvesting & collection",...p.pt.h],["Upkeep & cultivation",...p.pt.u],["General charges",...p.pt.g]];
- document.getElementById("opT").innerHTML=rows.map(r=>`<tr><td>${r[0]}</td><td>${f2(r[1])}</td><td>${f2(r[2])}</td><td>${vr(r[1],r[2])}</td></tr>`).join("")+`<tr><td><b>Total operating cost</b></td><td><b>${f2(p.cop)}</b></td><td>${f2(p.copB)}</td><td>${vr(p.cop,p.copB)}</td></tr>`;
+ const tb=document.getElementById("opT"),nt=document.getElementById("opN");
+ if(y==="2026"&&window.costTableHTML){const o=costTableHTML(CD26,fmt,pill,pct);tb.innerHTML=o.html;costTableWire(tb);nt.textContent=(o.note?o.note+" ":"")+"Tap a line to hide or show its breakdown."}
+ else{nt.textContent="Line-by-line breakdown is shown for the latest report (2026).";
+ document.getElementById("opT").innerHTML=rows.map(r=>`<tr><td>${r[0]}</td><td>${f2(r[1])}</td><td>${f2(r[2])}</td><td>${vr(r[1],r[2])}</td></tr>`).join("")+`<tr><td><b>Total operating cost</b></td><td><b>${f2(p.cop)}</b></td><td>${f2(p.copB)}</td><td>${vr(p.cop,p.copB)}</td></tr>`;}
  document.getElementById("mCall").innerHTML=p.note;
  document.getElementById("upk").innerHTML=p.upk.map(r=>`<tr><td>${r[0]}</td><td>${fmt(r[1],2)}</td><td>${r[2]?fmt(r[2],2):"–"}</td><td>${r[2]?pill(pct(r[1],r[2]),true):"<span class='pill warn'>unbudgeted</span>"}</td></tr>`).join("")+`<tr><td><b>Total</b></td><td><b>${fmt(p.uc,2)}</b></td><td>${fmt(p.ucB,2)}</td><td>${pill(pct(p.uc,p.ucB),true)}</td></tr>`;
 }

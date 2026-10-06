@@ -646,5 +646,153 @@
   "prevSame": 4.13,
   "src": "Agronomy Report 1/2026 Table 12"
  },
- "folder": "https://drive.google.com/drive/folders/16MDI7ADQ03HoMtFFMAIyEMRTasiAGDcv"
+ "folder": "https://drive.google.com/drive/folders/16MDI7ADQ03HoMtFFMAIyEMRTasiAGDcv",
+ "costDetail": {
+  "period": "Jan–Dec 2025",
+  "src": "PA Report 1/2026, sections 5–9 (General Charges, Upkeep & Cultivation, Harvesting & Collection tables; Production Cost table 9)",
+  "ffb": 11489.06,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 75.59,
+    "budget": 73.16,
+    "items": [
+     {
+      "item": "Harvesting labour",
+      "actual": 48.0,
+      "budget": 47.66
+     },
+     {
+      "item": "Internal transport",
+      "actual": 17.49,
+      "budget": 17.49
+     },
+     {
+      "item": "Harvesting incentive",
+      "actual": 8.16,
+      "budget": 8.0
+     },
+     {
+      "item": "Top-up wages",
+      "actual": 1.94,
+      "budget": null
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 93.53,
+    "budget": 84.63,
+    "items": [
+     {
+      "item": "Weeding",
+      "actual": 10.6,
+      "budget": 9.66,
+      "calc": true
+     },
+     {
+      "item": "Supervision – upkeep",
+      "actual": 0.2,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Manuring",
+      "actual": 70.37,
+      "budget": 58.29,
+      "calc": true
+     },
+     {
+      "item": "Pest & disease",
+      "actual": 0.9,
+      "budget": 5.59,
+      "calc": true
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0.4,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Drains",
+      "actual": 0.22,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Roads",
+      "actual": 1.76,
+      "budget": 3.97,
+      "calc": true
+     },
+     {
+      "item": "Culverts & bridges",
+      "actual": 2.53,
+      "budget": 1.03,
+      "calc": true
+     },
+     {
+      "item": "Tools",
+      "actual": 0.02,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Supplying",
+      "actual": 0.0,
+      "budget": 0.23,
+      "calc": true
+     },
+     {
+      "item": "Pruning",
+      "actual": 6.53,
+      "budget": 5.86,
+      "calc": true
+     }
+    ]
+   },
+   {
+    "name": "General charges",
+    "actual": 140.27,
+    "budget": 79.7,
+    "items": [
+     {
+      "item": "Management & supervision",
+      "actual": 80.18,
+      "budget": 44.07,
+      "calc": true
+     },
+     {
+      "item": "Labour & amenities",
+      "actual": 30.78,
+      "budget": 26.14,
+      "calc": true
+     },
+     {
+      "item": "Other expenditures",
+      "actual": 25.86,
+      "budget": 8.45,
+      "calc": true
+     },
+     {
+      "item": "MSPO",
+      "actual": 3.45,
+      "budget": 1.03,
+      "calc": true
+     }
+    ]
+   }
+  ],
+  "total": {
+   "actual": 309.39,
+   "budget": 237.49
+  },
+  "notes": [
+   "General Charges and Upkeep items printed as RM amounts and RM/ha; item RM/t = RM amount / FFB (11,489.06 t actual; 12,471 t budget), calc:true. Harvest items are printed RM/t.",
+   "Group totals match dashboard costParts (140.27/93.53/75.59; budget 79.70/84.63/73.16) and total 309.39/237.49.",
+   "Sub-items add to group totals (General RM1,611,566.10; Upkeep RM1,074,593; Harvest RM868,498.08).",
+   "Zero/empty lines omitted (Harvest supervision, Soil/water conservation, Boundary/survey/fences). Harvest budget has no top-up wages (null)."
+  ]
+ }
 }

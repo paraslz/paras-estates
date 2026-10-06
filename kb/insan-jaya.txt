@@ -52,3 +52,27 @@ RAINFALL (Agro Appendix 2, group record): 2023 157 rain days, 2,965 mm. 2025 mon
 ADVICE AND OUTLOOK: PA: use GIS census density for fertiliser, add 4 harvesters, rehabilitate PM15G3, upgrade hilly roads, update pruning (PM05E, PM03C1), keep vigilant on rats and bagworm. Agro: finish 2026 manuring on schedule, keep intervals at 15 days or less, rat control per SOP, eradicate VOPs and bamboo, census and de-bole Ganoderma.
 
 DATA CAVEATS: rat damage Dec 2025 differs between PA and Agro; cost per t 193.10 vs 191.10; Ganoderma percentage and E2 hectares; baiting table hectares for F and G blocks appear swapped; soil and water conservation overspend; harvester counts 17 vs 20. See issues.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, Tables 5, 6, 25, 28 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 70.75 / 69.77
+  - Contract harvesting & collection: 44.61 / 44.29
+  - Internal transport: 15.43 / 15.08
+  - External transport: 10.72 / 10.40
+Upkeep & cultivation: 83.90 / 100.91
+  - Weeding - selective/blanket spray: 4.73 / 4.91 *
+  - Weeding - circle spray: 3.30 / 4.54 *
+  - Manuring - labour: 3.70 / 7.16 *
+  - Manuring - material: 55.11 / 67.76 *
+  - Pest & disease - rat baiting: 2.41 / 2.23 *
+  - Pest & disease - others: 0.03 / 0.46 *
+  - Census & thinning out: 0.00 / 0.24 *
+  - Drains: 0.00 / 0.79 *
+  - Roads & bridges: 8.70 / 8.77 *
+  - Soil/water conservation: 2.61 / 0.28 *
+  - Boundaries/survey/fences: 0.08 / 0.14 *
+  - Pruning: 3.23 / 3.60 *
+General charges: 38.44 / 60.18
+  - Management & supervision: 26.14 / 33.81 *
+  - Labour & amenities: 7.43 / 8.36 *
+  - Other expenditure: 4.87 / 18.01 *
+Total operating cost: 193.10 / 230.86

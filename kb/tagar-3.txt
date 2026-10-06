@@ -50,3 +50,27 @@ AGRO PRUNING AND PALM CONDITION: 95.8 ha of pruning pending in P00A, P09C and P1
 PA BUNCH WEIGHTS (Dec 2024 to Dec 2025): 2000 23.0 to 22.1 kg; 2006 22.0 to 22.3; 2009 21.0 to 21.5; 2010 21.0 to 20.8; 2011 20.0 to 20.5; 2012 21.0 to 20.3; 2016 13.0 to 13.6; 2017 9.0 to 10.2; 2018 6.0 to 6.0; 2019 4.0 to 5.4 kg. Overripe bunches from extended intervals were noted. Vehicles: the ambulance ran 5,668 of 10,000 km (grossly underused). Tractors BPD 1246 and BPJ 4895 ran 1,468 and 1,532 of 2,200 hours (low because the PN25K planting was deferred). Manual loading: Div A 18 t/day and Div B 16 t/day at RM7.50/t.
 
 DATA CAVEATS: PA 8.2 states 2025 yield was 7% above 2024, but the figures (18.21 vs 18.89 t/ha) show a 3.6% fall. The PA general charges RM/t (79.39) does not reconcile to its RM table (83.50 implied). Harvester counts, productivity, harvesting intervals and palm census differ between the two reports; see issues.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5, 6, 7 and 9 (Production Cost) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 77.18 / 76.37
+  - Harvesting: 49.56 / 49.62
+  - Internal transport: 19.55 / 19.33
+  - External transport: 0.00 / 0.00
+  - Harvesting incentive: 6.11 / 7.41
+  - Top-up wages: 1.96 / 0.00
+Upkeep & cultivation: 122.95 / 109.58
+  - Weeding: 11.77 / 10.95 *
+  - Manuring: 90.67 / 79.44 *
+  - Pest & diseases: 8.39 / 3.67 *
+  - Census & thinning out: 0.46 / 0.25 *
+  - Drains: 0.06 / 1.28 *
+  - Roads & bridges: 5.35 / 6.86 *
+  - Boundaries / survey / fences: 0.01 / 0.17 *
+  - Soil / water conservation: 0.05 / 1.16 *
+  - Pruning: 6.18 / 5.82 *
+General charges: 79.39 / 77.66
+  - Management & supervision: 28.10 / 26.57 *
+  - Labour & amenities: 16.22 / 23.04 *
+  - Other expenditure: 38.72 / 31.75 *
+  - Cost of MSPO: 0.45 / 0.32 *
+Total operating cost: 279.52 / 263.61

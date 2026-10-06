@@ -50,3 +50,25 @@ COST OF PRODUCTION (PA, to June). RM389.93 per t FFB vs estimate RM320.56 (annua
 RAINFALL (Agro Appendix 2). 2023: 4,215.5 mm (stated 180 rain days; monthly rows add to 204). 2024: 3,770.5 mm, 136 days. 2025: 3,637.5 mm, 131 days. January 2026: 101 mm in 6 days.
 
 ADVISORS' BOTTOM LINE. PA: recruit harvesters and sprayers, switch to Inter Pumps, raise pumps per manday and hours worked, clear the pruning backlog, start mounding, train the new Assistants, and fix prolonged flooding. Agro: keep strictly to the fertiliser programme, since deviations over two years have depressed yield and bunch weight; shorten harvest intervals; speed up census; maintain barn owl boxes.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5-9 (General charges, Upkeep, Harvesting tables, Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 71.77 / 81.53
+  - Harvesting labour: 47.51 / 50.60
+  - Internal transport: 19.62 / 19.69
+  - Harvesting incentive: 1.23 / 4.26
+  - Top-up wages: 3.41 / 6.98
+Upkeep & cultivation: 209.65 / 145.70
+  - Weeding: 29.30 / 14.51 *
+  - Manuring: 126.39 / 94.77 *
+  - Pest & disease: 10.48 / 4.54 *
+  - Census & thinning out: 0.25 / 0.43 *
+  - Drains: 16.00 / 6.95 *
+  - Roads & bridges: 13.12 / 9.48 *
+  - Soil / water conservation: 0.00 / 7.60 *
+  - Boundary, survey, fences: 0.04 / 0.13 *
+  - Pruning: 14.06 / 7.28 *
+General charges: 108.51 / 93.34
+  - Management & supervision: 40.84 / 28.02 *
+  - Labour & amenities: 32.57 / 27.32 *
+  - Other expenditures: 35.10 / 38.00 *
+Total operating cost: 389.93 / 320.56

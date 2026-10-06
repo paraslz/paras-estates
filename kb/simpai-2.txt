@@ -46,3 +46,21 @@ ROADS AND DRAINS (PA Sections 6.6, 6.7). Grading and compacting 1,612.46 chains 
 RAINFALL (Agro Table 21 and PA Appendix A). Annual mm and rain days: 2023 3,470.5 mm, 141 days; 2024 2,461.5 mm, 106 days; 2025 2,745 mm, 122 days. 2022 Agro table shows 3,058 mm and 151 days but January 2022 rainfall is blank. 2026 to March: 224 mm on 17 days (Jan 54 mm/3 days, Feb 121 mm/6 days, Mar 49 mm/8 days). Agro: prolonged drought in 2024 expected to hurt yield; 2025 rainfall distribution favourable for 2026 FFB, but dry early 2026 may cause moisture stress.
 
 CONCLUSIONS. PA 13: expedite recruitment of sprayers and manurers; train sprayers; continue manuring and finish by October; keep 14-day harvest interval, consider Electric Badang; eradicate Asystasia, Lalang and VOPs in immature areas. Agro 7 and 8: yield improving in young mature blocks; PM97I weak; ground management priority; fertiliser technique; second-half 2026 programme revised. PA overall: estate performance acceptable. Data cautions: see issues (PA 2025 annual FFB 6,493 t vs Agro 17.59 t/ha; rat census conflict; yield area basis; budget general charges per tonne).
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5-7 and 9 (Cost of Production As At May 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 113.28 / 128.62
+  - Harvesting labour: 86.73 / 99.78
+  - Internal transport: 26.54 / 28.85
+Upkeep & cultivation: 133.72 / 154.00
+  - Weeding: 18.05 / 17.98 *
+  - Manuring: 94.46 / 111.16 *
+  - Pest & disease: 2.53 / 4.13 *
+  - Drains: 2.18 / 4.42 *
+  - Roads: 8.82 / 7.61 *
+  - Bridges: 2.62 / 3.73 *
+  - Pruning: 5.05 / 4.65 *
+General charges: 175.10 / 110.00
+  - Management & supervision: 99.99 / 109.67 *
+  - Labour & amenities: 36.13 / 51.16 *
+  - Other expenditures: 38.97 / 53.93 *
+Total operating cost: 422.10 / 392.62

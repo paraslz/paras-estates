@@ -44,8 +44,8 @@
   "yph": 25.82,
   "yphBudget": 25.0,
   "yphPrevSame": 24.47,
-  "cop": 302.48,
-  "copBudget": 210.53,
+  "cop": 318.2,
+  "copBudget": 225.66,
   "copPeriod": "Jan–Dec 2025 (Timur + Kema combined)",
   "gcHa": null,
   "gcHaBudget": null,
@@ -77,8 +77,8 @@
   },
   {
    "name": "Harvest & collection",
-   "actual": 90.33,
-   "budget": 90.88
+   "actual": 106.05,
+   "budget": 106.01
   }
  ],
  "upkeep": [
@@ -781,5 +781,153 @@
   "prevSame": 7.12,
   "src": "Derived from Agronomy Report 1/2026 Appendix 2a/2b monthly crop (5,642.29 t vs 5,866.37 t) over 824.50 ha; Table 13 gives Timur 6.82 vs 6.86 and Kema 6.87 vs 7.37"
  },
- "folder": "https://drive.google.com/drive/folders/1-puu8v6ktP1umP0MctSvMf2WxAs4363I"
+ "folder": "https://drive.google.com/drive/folders/1-puu8v6ktP1umP0MctSvMf2WxAs4363I",
+ "costDetail": {
+  "period": "Jan–Dec 2025 (Timur + Kema combined)",
+  "src": "PA Report 1/2026 Timur A & B (sections 5–9) + PA Report 1/2026 Kema Division (sections 5–9); combined by summing RM amounts / combined FFB",
+  "ffb": 21291.02,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 106.05,
+    "budget": 106.01,
+    "calc": true,
+    "items": [
+     {
+      "item": "Harvesting labour",
+      "actual": 47.86,
+      "budget": 47.19,
+      "calc": true
+     },
+     {
+      "item": "Internal transport",
+      "actual": 22.76,
+      "budget": 21.58,
+      "calc": true
+     },
+     {
+      "item": "External transport (FFB despatch)",
+      "actual": 31.65,
+      "budget": 30.0,
+      "calc": true
+     },
+     {
+      "item": "Harvesting incentive",
+      "actual": 3.76,
+      "budget": 7.24,
+      "calc": true
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 78.94,
+    "budget": 68.58,
+    "calc": true,
+    "items": [
+     {
+      "item": "Weeding",
+      "actual": 8.83,
+      "budget": 9.07,
+      "calc": true
+     },
+     {
+      "item": "Manuring",
+      "actual": 55.54,
+      "budget": 51.19,
+      "calc": true
+     },
+     {
+      "item": "Pest & disease",
+      "actual": 1.5,
+      "budget": 0.6,
+      "calc": true
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0.05,
+      "budget": 0.1,
+      "calc": true
+     },
+     {
+      "item": "Drains",
+      "actual": 0.68,
+      "budget": 1.75,
+      "calc": true
+     },
+     {
+      "item": "Roads & bridges",
+      "actual": 7.7,
+      "budget": 1.84,
+      "calc": true
+     },
+     {
+      "item": "Tools",
+      "actual": 0.34,
+      "budget": 0,
+      "calc": true
+     },
+     {
+      "item": "Supplying",
+      "actual": 0.09,
+      "budget": 0,
+      "calc": true
+     },
+     {
+      "item": "Pruning",
+      "actual": 4.2,
+      "budget": 4.04,
+      "calc": true
+     }
+    ]
+   },
+   {
+    "name": "General charges",
+    "actual": 133.21,
+    "budget": 51.07,
+    "calc": true,
+    "items": [
+     {
+      "item": "Management & supervision",
+      "actual": 84.52,
+      "budget": 25.37,
+      "calc": true
+     },
+     {
+      "item": "Labour & amenities",
+      "actual": 1.69,
+      "budget": 8.18,
+      "calc": true
+     },
+     {
+      "item": "Other expenditures",
+      "actual": 46.22,
+      "budget": 16.81,
+      "calc": true
+     },
+     {
+      "item": "MSPO",
+      "actual": 0.78,
+      "budget": 0.71,
+      "calc": true
+     }
+    ]
+   }
+  ],
+  "total": {
+   "actual": 318.2,
+   "budget": 225.66,
+   "calc": true
+  },
+  "notes": [
+   "Combined Timur A&B (Accent Palms + Promvest, 411.80 ha) and Kema (406.19 ha): all items are calc:true = summed reported RM amounts of both PA reports divided by combined FFB (actual 10,513.05 + 10,777.97 = 21,291.02 t; budget 10,295 + 10,317 = 20,612 t). Period 'to date' = Jan–Dec 2025.",
+   "Upkeep: summed RM amounts of both divisions; zero/empty lines omitted. Timur General Charges sum of Accent Palms (RM1,194,118.43) + Promvest (RM603,436.05); Kema RM1,038,551.86; sub-items add to those totals.",
+   "General charges combined 133.21 and upkeep 78.94 match dashboard costParts (budget 51.07 and 68.58 also match).",
+   "HARVEST MISMATCH vs dashboard (90.33 / budget 90.88): the two reports treat external transport (FFB despatch) differently in Production Cost table 9. Timur table 9 prints 72 (RM/t, integer-rounded, excludes external transport; section 7 total with external transport is 103.83 = RM1,091,538.03). Kema table 9 prints 108.21 (includes despatch; section 7 total excl. despatch is 76.57 = RM825,227.28). Dashboard figure 90.33 appears to average 72 and 108.21 on mixed bases. Here both are put on the including-external-transport basis (consistent with Kema table 9 and Timur section 7), giving 106.05 actual / 106.01 budget (dashboard budget 90.88).",
+   "Kema external transport RM amount is not printed: derived from printed table 9 RM/t less section 7 RM/t (108.21 - 76.57 = 31.64 actual; 110.72 - 80.72 = 30.00 budget) times Kema FFB, so small rounding error (about +/-RM100). Kema's 30.00 budget equals Timur's 30.00 budget for external transport, supporting the derivation.",
+   "Timur Table 9 prints group figures rounded to whole numbers (171/68/72, budget 47/67/71 = total 311/185) and 1,659 RM/t CPO; the section 5-7 amounts reproduce 171.00 (general) and 68.18 (upkeep).",
+   "Total (sum of groups) will differ from dashboard kpi.cop 302.48 because of the harvest basis above.",
+   "Total 318.20 actual / 225.66 budget (sum of combined groups) vs dashboard 302.48."
+  ]
+ }
 }

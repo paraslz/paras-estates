@@ -666,5 +666,146 @@
   "prevSame": 7.87,
   "src": "Agronomy Report 1/2026"
  },
- "folder": "https://drive.google.com/drive/folders/1MQTI8Ew-vQrXvzwjUxbjLfD4-Q5LFtSr"
+ "folder": "https://drive.google.com/drive/folders/1MQTI8Ew-vQrXvzwjUxbjLfD4-Q5LFtSr",
+ "costDetail": {
+  "period": "Jan–Dec 2025",
+  "src": "PA Report 1/2026, sections 5, 6, 7 and 9 (Production Cost)",
+  "ffb": 28187.68,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 77.18,
+    "budget": 76.37,
+    "items": [
+     {
+      "item": "Harvesting",
+      "actual": 49.56,
+      "budget": 49.62
+     },
+     {
+      "item": "Internal transport",
+      "actual": 19.55,
+      "budget": 19.33
+     },
+     {
+      "item": "External transport",
+      "actual": 0,
+      "budget": 0
+     },
+     {
+      "item": "Harvesting incentive",
+      "actual": 6.11,
+      "budget": 7.41
+     },
+     {
+      "item": "Top-up wages",
+      "actual": 1.96,
+      "budget": 0
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 122.95,
+    "budget": 109.58,
+    "items": [
+     {
+      "item": "Weeding",
+      "actual": 11.77,
+      "budget": 10.95,
+      "calc": true
+     },
+     {
+      "item": "Manuring",
+      "actual": 90.67,
+      "budget": 79.44,
+      "calc": true
+     },
+     {
+      "item": "Pest & diseases",
+      "actual": 8.39,
+      "budget": 3.67,
+      "calc": true
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0.46,
+      "budget": 0.25,
+      "calc": true
+     },
+     {
+      "item": "Drains",
+      "actual": 0.06,
+      "budget": 1.28,
+      "calc": true
+     },
+     {
+      "item": "Roads & bridges",
+      "actual": 5.35,
+      "budget": 6.86,
+      "calc": true
+     },
+     {
+      "item": "Boundaries / survey / fences",
+      "actual": 0.01,
+      "budget": 0.17,
+      "calc": true
+     },
+     {
+      "item": "Soil / water conservation",
+      "actual": 0.05,
+      "budget": 1.16,
+      "calc": true
+     },
+     {
+      "item": "Pruning",
+      "actual": 6.18,
+      "budget": 5.82,
+      "calc": true
+     }
+    ]
+   },
+   {
+    "name": "General charges",
+    "actual": 79.39,
+    "budget": 77.66,
+    "items": [
+     {
+      "item": "Management & supervision",
+      "actual": 28.1,
+      "budget": 26.57,
+      "calc": true
+     },
+     {
+      "item": "Labour & amenities",
+      "actual": 16.22,
+      "budget": 23.04,
+      "calc": true
+     },
+     {
+      "item": "Other expenditure",
+      "actual": 38.72,
+      "budget": 31.75,
+      "calc": true
+     },
+     {
+      "item": "Cost of MSPO",
+      "actual": 0.45,
+      "budget": 0.32,
+      "calc": true
+     }
+    ]
+   }
+  ],
+  "total": {
+   "actual": 279.52,
+   "budget": 263.61
+  },
+  "notes": [
+   "Harvest items are RM/t as printed (s.7); upkeep and general-charges items computed as RM amount / 28,187.68 t actual and 31,235 t budget (calc).",
+   "MISMATCH general charges: printed group RM/t 79.39 actual / 77.66 budget, but sub-items (RM 2,353,528.70 / 28,187.68 t) sum to 83.49 / 81.68 (about 5% higher). Group totals kept as printed in s.9 (match dashboard costParts); the report's implied tonnage (about 29,645 t) is unexplained. General-charges items therefore do not add to the group total.",
+   "Upkeep items sum to 122.94 / 109.60 vs printed 122.95 / 109.58 (rounding).",
+   "Harvest budget items sum to 76.36 vs 76.37 printed in s.9 (s.7 itself prints 76.36). External transport nil; top-up wages unbudgeted."
+  ]
+ }
 }

@@ -52,3 +52,29 @@ IMMATURE AND REPLANT (PA Section 10, Agro Section 7): PR23 U1-U4 190.25 ha: many
 NURSERY (PA Section 11, Agro Section 3): 44,000 Yangambi (ML161) and 5,000 three-way cross seedlings, 8 months old; culling to date 6%; stringent culling needed (many runts). Ekot CRF 75 g per palm caused deficiency, supplementary urea and kieserite given; PA advises Sumi Coat or Fuji Coat 50 g; Agro advises Ekot CRF 50 g in two holes of 25 g.
 
 OTHER: Vehicle running (Hilux, A+B) RM18,803.51 vs budget RM27,336. Capex RM3,600 spent (fibre boat, 19 January 2026) vs RM6,000 budget.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026 (Juasa A+B combined), from PA Report 2/2026, Sections 5-9 (General Charges, Upkeep, Harvesting, Crop, Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 91.83 / 87.97
+  - Supervision: 0.00 / 0.62
+  - Harvesting labour: 67.35 / 65.57
+  - Internal transport: 19.14 / 17.82
+  - Harvesting incentive: 0.59 / 3.96
+  - Top-up wages: 4.75 / 0.00
+Upkeep & cultivation: 136.85 / 108.97
+  - Weeding: 15.80 / 14.67 *
+  - Manuring: 102.10 / 68.61 *
+  - Pest & disease: 2.13 / 2.19 *
+  - Census & thinning out: 0.00 / 0.22 *
+  - Drains: 4.34 / 9.88 *
+  - Roads: 6.63 / 3.89 *
+  - Culvert & bridges: 0.82 / 0.64 *
+  - Soil/water conservation: 0.08 / 2.03 *
+  - Boundary, survey, fences: 0.08 / 0.00 *
+  - Tools: 0.02 / 0.00 *
+  - Supplying: 0.00 / 0.00 *
+  - Pruning: 4.85 / 6.84 *
+General charges: 96.00 / 103.20
+  - Management & supervision: 62.00 / 57.64 *
+  - Labour & amenities: 17.28 / 13.74 *
+  - Other expenditures: 16.72 / 31.81 *
+Total operating cost: 324.69 / 300.13

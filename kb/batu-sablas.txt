@@ -50,3 +50,25 @@ PRODUCTION COST (PA section 9, Jan-Dec 2025). Total RM2,315,577 = RM261.78/t FFB
 RAINFALL (PA Appendix 1 and Agro Appendix 3). Total mm and rain days: 2021 1,871.00 mm, 128 days; 2022 2,369.00, 116; 2023 2,335.00, 145; 2024 2,256.10, 165; 2025 2,313.00, 130. 2026 to March: Jan 32.00 mm (2 days), Feb 219.00 (8), Mar 133.00 (7), total 384.00 mm in 17 days.
 
 DATA CAVEATS. (1) PA prints 18.80 t/ha for 2025; arithmetic and Agro give 19.06 t/ha. (2) PA budget yield 20.41 t/ha does not match 10,463 t over 464 ha (22.55 t/ha); on tonnes FFB was 15.5% below budget, not 8%. (3) PA says no replanting plans; Agro schedules P98 in 2028 and P02 in 2029. (4) Rounds in 2025: 18.5 (PA) vs 15.0 (Agro). (5) P02 inter-rows unsatisfactory in PA (May) but acceptable in Agro (April). (6) Rat census percentages in Agro Table 8 do not match counts for P11A, P12B, P13A, P13B. (7) Agro Table 13 shows P13A 2024 yield 19.67, Appendix 2a gives 19.62.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5–9 (General Charges, Upkeep & Cultivation, Harvesting & Collection tables; Production Cost table 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 74.72 / 68.80
+  - Harvesting labour: 42.65 / 41.56
+  - Internal transport: 20.51 / 19.24
+  - Harvesting incentive: 7.66 / 8.00
+  - Top-up wages: 3.91 / N/A
+Upkeep & cultivation: 105.19 / 91.78
+  - Weeding: 10.66 / 8.92 *
+  - Manuring: 81.91 / 66.15 *
+  - Pest & disease: 0.51 / 3.10 *
+  - Census & thinning out: 0.21 / 0.53 *
+  - Drains: 0.40 / 0.00 *
+  - Roads & bridges: 4.96 / 6.23 *
+  - Boundary, survey, fences: 0.02 / 1.36 *
+  - Pruning: 6.52 / 5.49 *
+General charges: 81.86 / 40.42
+  - Management & supervision: 30.42 / 17.94 *
+  - Labour & amenities: 19.02 / 15.38 *
+  - Other expenditures: 29.52 / 6.40 *
+  - MSPO: 2.89 / 0.71 *
+Total operating cost: 261.78 / 201.00

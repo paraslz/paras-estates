@@ -565,5 +565,136 @@
   "prevSame": 4.6,
   "src": "Agronomy Report 1/2026 Table 15"
  },
- "folder": "https://drive.google.com/drive/folders/1Z5VOoTHb8O6zyhZoUk2QUAu9vl1TBXu7"
+ "folder": "https://drive.google.com/drive/folders/1Z5VOoTHb8O6zyhZoUk2QUAu9vl1TBXu7",
+ "costDetail": {
+  "period": "Jan–Dec 2025",
+  "src": "PA Report 1/2026, sections 5–9 (General Charges, Upkeep & Cultivation, Harvesting & Collection tables; Production Cost table 9)",
+  "ffb": 8845.68,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 74.72,
+    "budget": 68.8,
+    "items": [
+     {
+      "item": "Harvesting labour",
+      "actual": 42.65,
+      "budget": 41.56
+     },
+     {
+      "item": "Internal transport",
+      "actual": 20.51,
+      "budget": 19.24
+     },
+     {
+      "item": "Harvesting incentive",
+      "actual": 7.66,
+      "budget": 8.0
+     },
+     {
+      "item": "Top-up wages",
+      "actual": 3.91,
+      "budget": null
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 105.19,
+    "budget": 91.78,
+    "items": [
+     {
+      "item": "Weeding",
+      "actual": 10.66,
+      "budget": 8.92,
+      "calc": true
+     },
+     {
+      "item": "Manuring",
+      "actual": 81.91,
+      "budget": 66.15,
+      "calc": true
+     },
+     {
+      "item": "Pest & disease",
+      "actual": 0.51,
+      "budget": 3.1,
+      "calc": true
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0.21,
+      "budget": 0.53,
+      "calc": true
+     },
+     {
+      "item": "Drains",
+      "actual": 0.4,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Roads & bridges",
+      "actual": 4.96,
+      "budget": 6.23,
+      "calc": true
+     },
+     {
+      "item": "Boundary, survey, fences",
+      "actual": 0.02,
+      "budget": 1.36,
+      "calc": true
+     },
+     {
+      "item": "Pruning",
+      "actual": 6.52,
+      "budget": 5.49,
+      "calc": true
+     }
+    ]
+   },
+   {
+    "name": "General charges",
+    "actual": 81.86,
+    "budget": 40.42,
+    "items": [
+     {
+      "item": "Management & supervision",
+      "actual": 30.42,
+      "budget": 17.94,
+      "calc": true
+     },
+     {
+      "item": "Labour & amenities",
+      "actual": 19.02,
+      "budget": 15.38,
+      "calc": true
+     },
+     {
+      "item": "Other expenditures",
+      "actual": 29.52,
+      "budget": 6.4,
+      "calc": true
+     },
+     {
+      "item": "MSPO",
+      "actual": 2.89,
+      "budget": 0.71,
+      "calc": true
+     }
+    ]
+   }
+  ],
+  "total": {
+   "actual": 261.78,
+   "budget": 201.0
+  },
+  "notes": [
+   "Report prints group RM/t only in Table 9 (RM/tonne FFB columns show RM amounts then RM/t); General Charges and Upkeep items are printed as RM amounts and RM/ha, so item RM/t = RM amount / FFB (8,845.68 t actual; 10,463 t budget), calc:true. Harvest items are printed RM/t.",
+   "Group totals match dashboard costParts (81.86/105.19/74.72; budget 40.42/91.78/68.80) and total 261.78/201.00.",
+   "Sub-items add to group totals (General RM724,081.03; Upkeep RM930,510; Harvest RM660,986). Minor report inconsistency: Table 9 budget upkeep RM960,301 and harvest RM719,857 vs sections 6/7 RM960,331 and RM719,887 (no effect on RM/t at 2 dp).",
+   "Harvest budget has no top-up wages (null). Zero/empty lines omitted (Supervision, Soil/water conservation, Tools, Supplying). No separate items for FFB transport to mill: Internal transport is the only transport line.",
+   "Total uses the report's printed 261.78 (sum of rounded groups = 261.77)."
+  ]
+ }
 }

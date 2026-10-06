@@ -64,3 +64,25 @@ Acute shortage of harvesters and sprayers; low earnings drive turnover. Sprayer 
 BLOCK YIELD NOTE
 The block yields in the dashboard are Agro Table 12 full-year 2025 figures with 2024 as comparison. PA 2/2026 gives estate yield only (Jan–Jun 2026 5.37 t/ha; same period 2025 6.47; last year's 12 months 13.51 t/ha on 1,383 ha), no block yields.
 Other differences between reports: planting material (PA Yangambi for P16 to P24, Agro Felda); rock phosphate for PM16 and PM17 (PA 1.50 kg vs Agro 1.75 kg); PR23L scout harvesting (Agro: deferred to March 2026; PA: began July 2026). Agro Table 2 gives 2021 planting as 238 ha, 2016 as 25 ha and 2017 as 38 ha against Table 1 243, 24 and 36 ha.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5-7 and 9 (cost of production table, p.46) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 106.90 / 115.39
+  - Supervision: 2.42 / 2.82
+  - Harvesting labour: 65.32 / 72.20
+  - Internal transport: 22.30 / 22.97
+  - Harvesting incentive: 0.04 / 0.00
+  - Top-up wages: 2.83 / 2.25
+Upkeep & cultivation: 174.69 / 128.33
+  - Weeding: 17.55 / 16.81 *
+  - Manuring: 143.59 / 94.42 *
+  - Pest & disease: 1.01 / 3.65 *
+  - Census & thinning out: 0.00 / 0.01 *
+  - Drains: 0.10 / 0.92 *
+  - Roads & bridges: 6.77 / 7.49 *
+  - Pruning: 5.67 / 5.02 *
+General charges: 188.27 / 87.31
+  - Management & supervision: 148.22 / 47.10 *
+  - Labour & amenities: 30.97 / 25.30 *
+  - Other expenditures: 43.66 / 30.98 *
+  - MSPO: 0.00 / N/A *
+Total operating cost: 469.86 / 331.03

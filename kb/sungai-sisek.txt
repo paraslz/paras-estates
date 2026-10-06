@@ -53,3 +53,22 @@ IMMATURE (PA, to May). PR23B (232.71 ha): upkeep RM158,312 vs RM288,545 budget (
 RAINFALL (PA Appendix A). 2024: 2,241 mm over 115 days. 2025: 3,164 mm over 132 days. 2025 monthly mm: Jan 233, Feb 68, Mar 284, Apr 458, May 237, Jun 203, Jul 42, Aug 192, Sep 193, Oct 241, Nov 270, Dec 743.
 
 PA CONCLUDING REMARKS: recruit harvesters, sprayers and manurers immediately; use CDA for circle spraying (the GM will buy units and recover cost by instalments); raise mist-blower pumps per day; consider semi-mechanised manuring; start bagworm census and spraying; keep replants well maintained. AGRO KEY POINTS: harvesting intervals inconsistent in Q1; yield in the first quarter down on 2025, mainly in old blocks; young blocks are trending up; full census needed; rat and Ganoderma census to be updated; fertiliser programme for the second half revised.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026 (visit 17 Jun 2026), sections 5, 6, 7, 9 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 91.44 / 105.26
+  - Harvesting labour: 68.80 / 79.69
+  - Internal transport: 22.64 / 25.57
+Upkeep & cultivation: 104.32 / 111.84
+  - Weeding: 16.18 / 12.74 *
+  - Manuring: 70.49 / 82.65 *
+  - Pest & disease: 1.52 / 3.18 *
+  - Census & thinning out: 0.00 / 0.04 *
+  - Drains: 5.93 / 2.92 *
+  - Roads: 3.00 / 4.44 *
+  - Bridges: 1.27 / 1.03 *
+  - Pruning: 5.93 / 4.84 *
+General charges: 85.47 / 93.00
+  - Management & supervision: 38.85 / 37.28 *
+  - Labour & amenities: 19.31 / 23.36 *
+  - Other expenditures: 27.31 / 32.55 *
+Total operating cost: 281.23 / 310.10

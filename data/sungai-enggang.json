@@ -637,5 +637,149 @@
   "prevSame": 4.97,
   "src": "Agronomy Report 1/2026 Table 15"
  },
- "folder": "https://drive.google.com/drive/folders/1JGuTSNkSwabqZsbydda0xdMDnvgi5uWl"
+ "folder": "https://drive.google.com/drive/folders/1JGuTSNkSwabqZsbydda0xdMDnvgi5uWl",
+ "costDetail": {
+  "period": "Jan–Dec 2025",
+  "src": "PA Report 1/2026, sections 5, 6, 7 and 9 (Cost of Production)",
+  "ffb": 34353.43,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 67.06,
+    "budget": 66.85,
+    "items": [
+     {
+      "item": "Harvesting labour",
+      "actual": 48.66,
+      "budget": 48.89
+     },
+     {
+      "item": "Internal collection",
+      "actual": 18.4,
+      "budget": 17.96
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 98.64,
+    "budget": 97.78,
+    "items": [
+     {
+      "item": "Weeding",
+      "actual": 12.61,
+      "budget": 11.04,
+      "calc": true
+     },
+     {
+      "item": "Manuring",
+      "actual": 70.48,
+      "budget": 65.55,
+      "calc": true
+     },
+     {
+      "item": "Pest & disease",
+      "actual": 0.87,
+      "budget": 0.29,
+      "calc": true
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0.0,
+      "budget": 0.26,
+      "calc": true
+     },
+     {
+      "item": "Drains",
+      "actual": 3.94,
+      "budget": 4.77,
+      "calc": true
+     },
+     {
+      "item": "Roads",
+      "actual": 5.7,
+      "budget": 6.86,
+      "calc": true
+     },
+     {
+      "item": "Bridges",
+      "actual": 0.62,
+      "budget": 2.84,
+      "calc": true
+     },
+     {
+      "item": "Soil / water conservation",
+      "actual": 0.0,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Boundary, survey, fences",
+      "actual": 0.0,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Tools",
+      "actual": 0.01,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Supplying",
+      "actual": 0.0,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Pruning",
+      "actual": 4.42,
+      "budget": 6.16,
+      "calc": true
+     }
+    ]
+   },
+   {
+    "name": "General charges",
+    "actual": 88.94,
+    "budget": 97.73,
+    "items": [
+     {
+      "item": "Management & supervision",
+      "actual": 39.6,
+      "budget": 40.7,
+      "calc": true
+     },
+     {
+      "item": "Labour & amenities",
+      "actual": 16.66,
+      "budget": 20.0,
+      "calc": true
+     },
+     {
+      "item": "Other expenditures",
+      "actual": 32.69,
+      "budget": 37.04,
+      "calc": true
+     },
+     {
+      "item": "MSPO",
+      "actual": 0.0,
+      "budget": 0.0,
+      "calc": true
+     }
+    ]
+   }
+  ],
+  "total": {
+   "actual": 254.64,
+   "budget": 262.36
+  },
+  "notes": [
+   "Harvest items are RM/t as printed (s.7); upkeep and general-charges items computed as RM amount / 34,353.43 t actual and 44,433 t budget (calc).",
+   "Upkeep items are the mature-area upkeep lines (s.6, 'Cost of upkeep (mature)'); immature costs (s.10) are excluded, consistent with printed group total 98.64.",
+   "All groups reconcile to printed totals within 0.01 rounding. Groups sum to the total 254.64 / 262.36.",
+   "General charges were not previously obtained by management per the GMD comment; the report prints them for 2025 (30% underspent)."
+  ]
+ }
 }

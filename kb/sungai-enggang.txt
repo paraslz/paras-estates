@@ -61,3 +61,27 @@ VEHICLES AND CAPEX (PA). Hilux BRL 9181 and NDY 1918 running RM0.34 and 0.33/km 
 RAINFALL (Agro). 2022 3,604.7 mm/191 days; 2023 4,359.0/196; 2024 3,264.0/142; 2025 4,086.05/151 (Dec 2025 1,204 mm); 2026 Jan-Apr 655.8 mm/31 days.
 
 PA CONCLUSIONS. High harvester turnover; need adequate field upkeep workers for immature areas; mature field condition well controlled, raise sprayer productivity; eradicate VOPs in immature areas; expedite delayed pruning. Agro conclusions: harvesting interval and under-pruning are the two key issues; rats in young and immature plantings need monitoring.
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5, 6, 7 and 9 (Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 67.06 / 66.85
+  - Harvesting labour: 48.66 / 48.89
+  - Internal collection: 18.40 / 17.96
+Upkeep & cultivation: 98.64 / 97.78
+  - Weeding: 12.61 / 11.04 *
+  - Manuring: 70.48 / 65.55 *
+  - Pest & disease: 0.87 / 0.29 *
+  - Census & thinning out: 0.00 / 0.26 *
+  - Drains: 3.94 / 4.77 *
+  - Roads: 5.70 / 6.86 *
+  - Bridges: 0.62 / 2.84 *
+  - Soil / water conservation: 0.00 / 0.00 *
+  - Boundary, survey, fences: 0.00 / 0.00 *
+  - Tools: 0.01 / 0.00 *
+  - Supplying: 0.00 / 0.00 *
+  - Pruning: 4.42 / 6.16 *
+General charges: 88.94 / 97.73
+  - Management & supervision: 39.60 / 40.70 *
+  - Labour & amenities: 16.66 / 20.00 *
+  - Other expenditures: 32.69 / 37.04 *
+  - MSPO: 0.00 / 0.00 *
+Total operating cost: 254.64 / 262.36
