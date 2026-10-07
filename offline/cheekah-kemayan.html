@@ -244,6 +244,14 @@ details.older[open]>summary{margin-bottom:4px}
 .pb .pn{text-align:right;font-weight:600;font-variant-numeric:tabular-nums}
 .pb .pn sup{font-size:.7em;color:var(--muted)}
 
+
+/* block yield history */
+#bYH{margin-bottom:12px}
+table.yht{font-size:13.5px}table.yht th,table.yht td{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;padding:6px 3px}
+table.yht th:first-child,table.yht td:first-child{text-align:left}
+table.yht tr.x td{color:var(--muted)}
+#f-yield{margin-bottom:12px}
+
 </style>
 
 </head>
@@ -397,9 +405,9 @@ details.older[open]>summary{margin-bottom:4px}
   <div class="tiles" id="tiles" hidden></div>
  </div>
  <div class="card" id="bhead"></div>
+ <details class="fold" open id="f-yield"><summary><span class="t">Yield history</span><span class="s" id="s-yield"></span></summary><div class="body" id="b-yield"></div></details>
  <div id="bD" class="bdet"></div>
  <details class="fold" id="bEW"><summary><span class="t">Estate-wide field notes</span><span class="s">apply to all blocks</span></summary><div class="body" id="bEWb"></div></details>
- <details class="fold" open id="f-yield"><summary><span class="t">Yield history</span><span class="s" id="s-yield"></span></summary><div class="body" id="b-yield"></div></details>
  <details class="fold" id="f-subs"><summary><span class="t">Sub-blocks</span><span class="s" id="s-subs"></span></summary><div class="body" id="b-subs"></div></details>
  <details class="fold" id="f-fert"><summary><span class="t">Fertiliser programme</span><span class="s">by year, grams per palm</span></summary><div class="body" id="b-fert"></div></details>
  <details class="fold" id="f-health"><summary><span class="t">Palm stand and Ganoderma</span><span class="s">census by report</span></summary><div class="body" id="b-health"></div></details>
@@ -632,8 +640,8 @@ function progSection(k,d,latest){
   if(old.length)h+=older(`Earlier records${oy?" ("+esc(oy)+")":""} · ${old.length}`,table(old));}
  return h+srcs(pr.concat(r));
 }
-const SECS=[["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
- ["yield","Yield & crop"],["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
+const SECS=[["yield","Yield & crop"],["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
+ ["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
 const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";

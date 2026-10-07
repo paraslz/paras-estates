@@ -251,6 +251,13 @@ details.older[open]>summary{margin-bottom:4px}
 .pb .fl{display:block;height:100%;border-radius:6px;background:var(--c)}
 .pb .pn{text-align:right;font-weight:600;font-variant-numeric:tabular-nums}
 .pb .pn sup{font-size:.7em;color:var(--muted)}
+
+/* block yield history */
+#bYH{margin-bottom:12px}
+table.yht{font-size:13.5px}table.yht th,table.yht td{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;padding:6px 3px}
+table.yht th:first-child,table.yht td:first-child{text-align:left}
+table.yht tr.x td{color:var(--muted)}
+#f-yield{margin-bottom:12px}
 </style>
 </head>
 <body>
@@ -305,6 +312,7 @@ details.older[open]>summary{margin-bottom:4px}
   <div class="bnav"><button type="button" id="bPrev" aria-label="Previous block">‹</button><label class="grow"><span class="sr">Choose block</span><select id="bSel"></select></label><button type="button" id="bNext" aria-label="Next block">›</button></div>
  </div>
  <div class="card" id="bP"></div>
+ <div class="card" id="bYH" hidden><div class="head"><div><h2>Yield history</h2><p class="sub" id="bYHs"></p></div></div><div class="chart sm"><canvas id="chBY" aria-label="Block yield by year"></canvas></div><div class="tbl"><table class="yht"><thead id="bYHh"></thead><tbody id="bYHb"></tbody></table></div><p class="note" id="bYHn"></p></div>
  <div id="bD" class="bdet"></div>
  <details class="fold" id="bEW"><summary><span class="t">Estate-wide field notes</span><span class="s">apply to all blocks</span></summary><div class="body" id="bEWb"></div></details>
  <details class="fold"><summary><span class="t">All blocks</span><span class="s">yield table, tap a row</span></summary><div class="body"><div class="tbl"><table><thead><tr><th>Block</th><th>Ha</th><th>SPH</th><th>Planted</th><th>Yield</th><th>Est.</th><th>Last yr</th><th>Var.</th></tr></thead><tbody id="bT"></tbody></table></div></div></details>
@@ -440,8 +448,8 @@ function progSection(k,d,latest){
   if(old.length)h+=older(`Earlier records${oy?" ("+esc(oy)+")":""} · ${old.length}`,table(old));}
  return h+srcs(pr.concat(r));
 }
-const SECS=[["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
- ["yield","Yield & crop"],["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
+const SECS=[["yield","Yield & crop"],["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
+ ["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
 const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";
@@ -633,6 +641,22 @@ function render(){
  ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What should I look out for on a field visit?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
  showTab((location.hash||"#overview").slice(1));
 }
+let byChart=null;
+function blockYield(b){
+ const c=$("bYH");if(byChart){byChart.destroy();byChart=null}
+ const h=b.yhist;if(!h||!h.years){c.hidden=true;return}
+ const yrs=Object.keys(h.years).sort(),est={};(D.yieldHistory||[]).forEach(y=>{if(y.yph!=null)est[String(y.year)]=y.yph});
+ const last=yrs[yrs.length-1];c.hidden=false;
+ $("bYHs").textContent=`${b.id} t/ha by full year · ${last}: ${fmt(h.years[last],2)} t/ha`;
+ const ty=yrs.slice(-5);
+ $("bYHh").innerHTML=`<tr><th>Year</th>${ty.map(y=>`<th>${y}</th>`).join("")}</tr>`;
+ $("bYHb").innerHTML=`<tr><td>${esc(b.id)}</td>${ty.map(y=>`<td>${fmt(h.years[y],2)}</td>`).join("")}</tr>`+(ty.some(y=>est[y]!=null)?`<tr class="x"><td>Estate</td>${ty.map(y=>`<td>${est[y]!=null?fmt(est[y],2):"–"}</td>`).join("")}</tr>`:"");
+ $("bYHn").textContent=h.src?`From ${h.src}.`:"";
+ if(!window.Chart)return;const t=T();
+ const ds=[{label:b.id,data:yrs.map(y=>h.years[y]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.3,pointRadius:4,pointBackgroundColor:t.accent,borderWidth:2.5}];
+ if(yrs.some(y=>est[y]!=null))ds.push({label:"Estate",data:yrs.map(y=>est[y]??null),borderColor:t.muted,borderDash:[5,4],pointRadius:0,fill:false,tension:.3,borderWidth:2});
+ byChart=new Chart($("chBY"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:ds.length>1}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}});
+}
 function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;curBlock=b;$("bSel").value=id;
  const ref=b.est!=null?b.est:b.prevYtd,refL=b.est!=null?"estimate":prevP(BP());
  $("bP").innerHTML=`<div class="bp-top"><span class="nm">${esc(b.id)}</span>${b.status?`<span class="status">${esc(b.status)}</span>`:""}</div>
@@ -646,6 +670,8 @@ function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;cu
  <div class="bsec"><h4>Report comments</h4><ul class="obs">${(b.notes||[]).map(n=>`<li><span class="tag ${/agro/i.test(n.src||"")?"ag":""}">${esc(n.src)}</span><span>${esc(n.text)}</span></li>`).join("")||`<li><span></span><span class="empty">No comments on this block.</span></li>`}</ul></div>`}
  <button type="button" class="askblock" id="askBlk">Ask a question about ${esc(b.id)}</button>`;
  $("bD").innerHTML=b.detail&&window.blockDetailHTML?blockDetailHTML(b.detail):"";
+ blockYield(b);
+ if(!b.yhist){const f=document.querySelector("#bD .bfold");if(f&&/Yield/.test(f.textContent.slice(0,40)))f.open=true}
  $("askBlk").addEventListener("click",()=>{document.getElementById("askBox").scrollIntoView({behavior:"smooth",block:"start"});$("q").value=`Tell me about block ${b.id}: `;$("q").focus()});
 }
 

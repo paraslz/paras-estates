@@ -64,8 +64,8 @@ function progSection(k,d,latest){
   if(old.length)h+=older(`Earlier records${oy?" ("+esc(oy)+")":""} · ${old.length}`,table(old));}
  return h+srcs(pr.concat(r));
 }
-const SECS=[["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
- ["yield","Yield & crop"],["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
+const SECS=[["yield","Yield & crop"],["manuring","Manuring progress"],["spraying","Spraying & weeding"],["fert","Fertiliser programme"],["pests","Pests & diseases"],
+ ["harvesting","Harvesting"],["pruning","Pruning & canopy"],["nutrients","Leaf & soil nutrients"],["field","Field condition"],["other","Other remarks"]];
 const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";

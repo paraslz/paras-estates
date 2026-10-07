@@ -168,6 +168,22 @@ function render(){
  ["How many harvesters in the latest report?",`What is the fertiliser programme for ${bid}?`,"Why is yield above or below budget?","What should I look out for on a field visit?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>ask(q));$("chips").append(b)});
  showTab((location.hash||"#overview").slice(1));
 }
+let byChart=null;
+function blockYield(b){
+ const c=$("bYH");if(byChart){byChart.destroy();byChart=null}
+ const h=b.yhist;if(!h||!h.years){c.hidden=true;return}
+ const yrs=Object.keys(h.years).sort(),est={};(D.yieldHistory||[]).forEach(y=>{if(y.yph!=null)est[String(y.year)]=y.yph});
+ const last=yrs[yrs.length-1];c.hidden=false;
+ $("bYHs").textContent=`${b.id} t/ha by full year · ${last}: ${fmt(h.years[last],2)} t/ha`;
+ const ty=yrs.slice(-5);
+ $("bYHh").innerHTML=`<tr><th>Year</th>${ty.map(y=>`<th>${y}</th>`).join("")}</tr>`;
+ $("bYHb").innerHTML=`<tr><td>${esc(b.id)}</td>${ty.map(y=>`<td>${fmt(h.years[y],2)}</td>`).join("")}</tr>`+(ty.some(y=>est[y]!=null)?`<tr class="x"><td>Estate</td>${ty.map(y=>`<td>${est[y]!=null?fmt(est[y],2):"–"}</td>`).join("")}</tr>`:"");
+ $("bYHn").textContent=h.src?`From ${h.src}.`:"";
+ if(!window.Chart)return;const t=T();
+ const ds=[{label:b.id,data:yrs.map(y=>h.years[y]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.3,pointRadius:4,pointBackgroundColor:t.accent,borderWidth:2.5}];
+ if(yrs.some(y=>est[y]!=null))ds.push({label:"Estate",data:yrs.map(y=>est[y]??null),borderColor:t.muted,borderDash:[5,4],pointRadius:0,fill:false,tension:.3,borderWidth:2});
+ byChart=new Chart($("chBY"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:ds.length>1}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}});
+}
 function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;curBlock=b;$("bSel").value=id;
  const ref=b.est!=null?b.est:b.prevYtd,refL=b.est!=null?"estimate":prevP(BP());
  $("bP").innerHTML=`<div class="bp-top"><span class="nm">${esc(b.id)}</span>${b.status?`<span class="status">${esc(b.status)}</span>`:""}</div>
@@ -181,6 +197,8 @@ function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;cu
  <div class="bsec"><h4>Report comments</h4><ul class="obs">${(b.notes||[]).map(n=>`<li><span class="tag ${/agro/i.test(n.src||"")?"ag":""}">${esc(n.src)}</span><span>${esc(n.text)}</span></li>`).join("")||`<li><span></span><span class="empty">No comments on this block.</span></li>`}</ul></div>`}
  <button type="button" class="askblock" id="askBlk">Ask a question about ${esc(b.id)}</button>`;
  $("bD").innerHTML=b.detail&&window.blockDetailHTML?blockDetailHTML(b.detail):"";
+ blockYield(b);
+ if(!b.yhist){const f=document.querySelector("#bD .bfold");if(f&&/Yield/.test(f.textContent.slice(0,40)))f.open=true}
  $("askBlk").addEventListener("click",()=>{document.getElementById("askBox").scrollIntoView({behavior:"smooth",block:"start"});$("q").value=`Tell me about block ${b.id}: `;$("q").focus()});
 }
 

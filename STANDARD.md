@@ -57,7 +57,7 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
   3. Block yield vs estimate/last year, cost per tonne vs budget, field programme progress.
   4. Key takeaways, then "At a glance" tiles — at the BOTTOM.
 - **Blocks:** no tiles. A block dropdown with ‹ › buttons, then the block card (area, SPH, planted,
-  yield with period) and the full report detail for that block (`blocks[].detail`) as simple two-column
+  yield with period), then the block's YIELD HISTORY chart first (block t/ha by full year vs estate dashed line, last 5 years in a small table; `blocks[].yhist`), then the full report detail for that block (`blocks[].detail`) as simple two-column
   tables (item | finding), one fold per topic: Manuring progress, Spraying & weeding, Fertiliser
   programme (Month | Fertiliser | g/palm), Pests & diseases (these four open), then Yield & crop,
   Harvesting, Pruning, Leaf & soil nutrients, Field condition, Other (closed). Manuring and spraying
