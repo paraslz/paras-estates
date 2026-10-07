@@ -78,6 +78,10 @@ ESTATE-WIDE FIELD NOTES
 [other] Pruning cost: Progressive pruning cost: 1999 planting RM1.20/palm/year; 2013/2016/2018 plantings RM0.70/palm/year. 584 ha (100%) pruned Jan-Dec 2025. (PA 1/2026)
 
 BLOCK P99A (13.0 ha, planted 1999, Mature)
+Manuring progress (to Feb 2026):
+  - Mix B · round 1 (Feb): 0% — outstanding 27 Feb (Agro 1/2026)
+Spraying progress (to Feb 2026):
+  - Circle weeding 2026: 0% — not yet started (Agro 1/2026)
 Manuring progress:
   - Mix B 2025, 4 rounds: Each round 3.45 MT planned and applied: 1st done Jan 2025 (plan Feb), 2nd Apr (plan May), 3rd Jul (plan Aug), 4th Oct (plan Nov). All completed. Total 13.80 MT. (PA 1/2026)
   - Mix B 1st round 2026: Scheduled Feb 2026, still outstanding at the 27 Feb 2026 visit (late fertiliser delivery). (Agro 1/2026)
@@ -118,6 +122,9 @@ Field:
   - Replanting: No replanting approved for 2026 and 2027; programme not finalised. Earlier: GMD said consider in 2027 (Sep 2025); Agro suggested 2027/2028 because palm height exceeds 50 ft, depleting productive stands and few skilled tall-palm harvesters (Mar 2025). PA: no plans yet. (Agro 1/2026)
 
 BLOCK P13B (21.35 ha, planted 2013, Mature)
+Spraying progress (to Feb 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding: 0% — not started (Agro 1/2026)
 Manuring progress:
   - Mix B 2025: 1st round 7.20 MT done Feb 2025 (plan Jan); 2nd 6.50 MT done May (plan Apr); 3rd 7.20 MT done Jul (plan Jul); 4th 6.50 MT done Sep (plan Oct). All completed. (PA 1/2026)
   - Kieserite and RP 2025: Kieserite 2.15 MT done Apr 2025 (plan Mar). Rock phosphate 5.05 MT done Jun 2025 (plan Jun). (PA 1/2026)
@@ -162,6 +169,9 @@ Field:
   - Palm stand: 2,871 palms, 134/ha. Terraced sections present. (Agro 1/2026)
 
 BLOCK P16C (60.65 ha, planted 2016, Mature)
+Spraying progress (to Feb 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding: 0% — not started (Agro 1/2026)
 Manuring progress:
   - Mix B 2025: 1st 18.40 MT done Mar (plan Jan); 2nd 18.40 MT done May (plan Apr); 3rd 18.40 MT done Aug (plan Jul); 4th 18.40 MT done Oct (plan Oct). All completed. (PA 1/2026)
   - Kieserite and RP 2025: Kieserite 6.15 MT done Apr (plan Mar). Rock phosphate 14.30 MT done Jul (plan Jun). (PA 1/2026)
@@ -206,6 +216,8 @@ Field:
   - Close planting: Palm etiolation in sections: selective thinning recommended (census then thin severely etiolated palms; remove abnormal palms first); no progress made to date as at Feb 2026. (Agro 1/2026)
 
 BLOCK P18D (51.0 ha, planted 2018, Mature)
+Manuring progress (to Feb 2026):
+  - Mix B · round 1 (Feb): 0% — outstanding 27 Feb (Agro 1/2026)
 Manuring progress:
   - Mix B 2025: 1st 15.65 MT done Mar, completed Apr (plan Jan); 2nd 15.65 MT done May, completed Jun (plan Apr); 3rd 15.65 MT done Aug (plan Jul); 4th 15.65 MT done Nov (plan Oct). All completed. (PA 1/2026)
   - Kieserite and RP 2025: Kieserite 3.50 MT done Apr (plan Mar). Rock phosphate 13.90 MT done Jul (plan Jun). (PA 1/2026)
@@ -248,6 +260,11 @@ Field:
   - Abnormal palms: Several abnormal / runtish palms: identify and remove by poisoning as soon as possible. (Agro 1/2026)
 
 BLOCK PR24E (59.0 ha, planted 2024, Immature)
+Manuring progress (to Feb 2026):
+  - Compound · round 1 (Jan): 0% — outstanding 27 Feb (Agro 1/2026)
+Spraying progress (to Feb 2026):
+  - Inter-row weeding rd 1: 100% — on schedule (Agro 1/2026)
+  - Circle weeding rd 1: 100% — on schedule (Agro 1/2026)
 Manuring progress:
   - Compound 2025, 4 rounds + RP: 1st 6.30 MT done Feb 2025; 2nd 7.10 MT done May (plan May); RP 11.80 MT done Jul (plan Jun); 3rd 7.85 MT done Sep (plan Aug); 4th 7.85 MT done Nov (plan Nov). 5 of 5 rounds (100%) applied; palm appearance satisfactory. (PA 1/2026)
   - 1st round 2026: Compound 1st round scheduled Jan 2026, outstanding at 27 Feb 2026 visit (late fertiliser delivery). (Agro 1/2026)

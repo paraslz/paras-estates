@@ -847,6 +847,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Apr",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -1060,6 +1079,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B sub-surface · Feb",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -1194,11 +1232,6 @@
       "k": "2025 deviation",
       "v": "Mix B 2nd, 3rd and 4th rounds and RP completed 2 or more months late (Agro 2/2025).",
       "src": "Agro 2/2025"
-     },
-     {
-      "k": "2026 outstanding (Jun 2026)",
-      "v": "All rounds to June outstanding: Mix B Jan and Apr, Kieserite Feb, RP May.",
-      "src": "Agro 1/2026"
      }
     ],
     "spraying": [
@@ -1323,6 +1356,39 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Jan",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · Apr",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite · Feb",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -1587,6 +1653,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite · Mar",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -1841,6 +1926,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite · Mar",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -2095,6 +2199,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite · Mar",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -2171,11 +2294,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "2026 outstanding (Jun 2026)",
-      "v": "Kieserite (Mar, the additional Mg round) and Mix B (May) outstanding. Agro: the March kieserite had not been done by June 2026.",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "2025",
       "v": "5 of 5 rounds applied (PA).",
@@ -2304,6 +2422,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite · Mar",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
     }
    }
   },
@@ -2543,11 +2690,6 @@
     ],
     "manuring": [
      {
-      "k": "2026 outstanding (Jun 2026)",
-      "v": "AARM compound March round outstanding.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "2025 deviation",
       "v": "2nd round delayed 2 or more months (Agro 2/2025).",
       "src": "Agro 2/2025"
@@ -2636,6 +2778,18 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "AARM compound · Mar",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -2697,11 +2851,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "2026 outstanding (Jun 2026)",
-      "v": "AARM compound February round outstanding.",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "2025 deviation",
       "v": "2nd round delayed 2 or more months (Agro 2/2025).",
@@ -2786,6 +2935,18 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "AARM compound · Feb",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   },
@@ -2847,11 +3008,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "2026 outstanding (Jun 2026)",
-      "v": "AARM compound January round outstanding.",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "2025 deviation",
       "v": "1st and 2nd rounds delayed 2 or more months (Agro 2/2025).",
@@ -2931,6 +3087,28 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "AARM compound · Jan",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Strip weeding",
+       "pct": 0,
+       "note": "none carried out",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
     }
    }
   },
@@ -2986,11 +3164,6 @@
       "k": "2025",
       "v": "4 of 4 rounds applied (PA). Agro 2/2025: 1st and 2nd AARM rounds were delayed.",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "2026 outstanding (Jun 2026)",
-      "v": "AARM compound outstanding: January and April rounds.",
-      "src": "Agro 1/2026"
      }
     ],
     "spraying": [
@@ -3076,6 +3249,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "AARM compound · Jan",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "AARM compound · Apr",
+       "pct": 0,
+       "note": "outstanding",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
     }
    }
   }

@@ -106,12 +106,14 @@ ESTATE-WIDE FIELD NOTES
 [other] Vehicle and capital: Toyota Hilux AKL 1918, running RM0.27/km vs RM0.74 budget. Capital budget RM4,000 (new staff quarters furniture) not spent. (PA 1/2026)
 
 BLOCK P03C1 (55.0 ha, planted 2003, Mature)
+Spraying progress (Jan–Mar 2026):
+  - Circle spraying: 33% — 55.00 ha, 1 round (PA 1/2026)
+  - Selective / inter-row: 33% — 55.00 ha, 1 round (PA 1/2026)
 Manuring progress:
   - 2024 programme deviation (Agro 1/2025): Mix B round 2 (2024) in C1 3-5 months late. (Agro 1/2025)
 Spraying & weeding:
   - Circle spraying 2025 (Jan-Dec): 110 ha done of 165 ha programmed (3 rounds) = 2 rounds, 67% (PA). Agro round 1/2/3 (%): 100/100/-. (PA 1/2026)
   - Inter-row (selective) 2025 (Jan-Dec): 165 ha done of 165 ha programmed (3 rounds) = 3 rounds, 100% (PA). Agro round 1/2/3 (%): 100/100/100. (PA 1/2026)
-  - Jan-Mar 2026: Circle (Mar 2026, PA): 55.00 ha, 1 round (33%). Selective (Mar 2026, PA): 55.00 ha, 1 round (33%). (PA 1/2026)
   - Notes: Circle and inter-row only 2.0 circle rounds in 2025; Agro: three inter-row rounds completed only in P03C. Delayed 2025 programme in P03C and P05E completed by Mar 2026 (PA). (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - C1 (55 ha): Feb NK1 2,000 g; May Mix A 2,000 g; Aug Mix A 2,000 g; Oct NK1 2,000 g = 8,000 g/palm/year (computed). (Agro 1/2026)
@@ -144,13 +146,15 @@ Field:
   - Age: Planted 2003 (block name 2003/C1). Estate: 64% prime mature and 36% old palms (Agro 1/2025); palm ages 11 to 23 years, no replanting (Agro 1/2026). (Agro 1/2025)
 
 BLOCK P05E (118.0 ha, planted 2005, Mature)
+Spraying progress (Jan–Mar 2026):
+  - Circle spraying: 33% — 118.00 ha, 1 round (PA 1/2026)
+  - Selective / inter-row: 33% — 118.00 ha, 1 round (PA 1/2026)
 Manuring progress:
   - 2024 programme deviation (Agro 1/2025): Mix B round 1 (2024) in E1 3-5 months late. (Agro 1/2025)
   - Sub-soil: E1 and E2 are on a sub-soil Mix B programme (9,000 g in Jan, both 2025 and 2026); 2025 first round was pending at Mar 2025 (Agro 1/2025). (Agro 1/2026)
 Spraying & weeding:
   - Circle spraying 2025 (Jan-Dec): 236 ha done of 354 ha programmed (3 rounds) = 2 rounds, 67% (PA). Agro round 1/2/3 (%): 100/100/-. (PA 1/2026)
   - Inter-row (selective) 2025 (Jan-Dec): 354 ha done of 354 ha programmed (3 rounds) = 3 rounds, 100% (PA). Agro round 1/2/3 (%): 100/100/-. (PA 1/2026)
-  - Jan-Mar 2026: Circle (Mar 2026, PA): 118.00 ha, 1 round (33%). Selective (Mar 2026, PA): 118.00 ha, 1 round (33%). (PA 1/2026)
   - Jan 2026 (Agro): Only block where 2026 inter-row weeding had started (100% of round 1) because the 4th round from 2025 was incomplete; no circle progress anywhere. (Agro 1/2026)
   - Weeds and epiphytes: Large epiphytes in E1 and E2: poisoning done and removal ongoing; Clidemia hirta in E1; Stenochlaena to remove (photo 8). Agro 1/2025: over-spraying in E2 (soft grasses eradicated). (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -187,13 +191,15 @@ Field:
   - Vacant land: 5.00 ha plantable vacant land (ravine area) in P05E1 (Agro 1/2025); estate also has 30 ha unplantable hilly rocky land. (Agro 1/2025)
 
 BLOCK P14F (164.0 ha, planted 2014, Mature)
+Spraying progress (Jan–Mar 2026):
+  - Circle spraying: 0% — not started (PA 1/2026)
+  - Selective / inter-row: 33% — 164.00 ha, 1 round (PA 1/2026)
 Manuring progress:
   - Quality check (F3, Feb 2026): Mix B at 2.25 kg per palm applied by 3 workers, 105 bags, average 35 bags per person (acceptable). Quality generally acceptable with minimal lumpy fertiliser, narrow bands and caking; application fully monitored by staff (photos 1-4). (Agro 1/2026)
   - 2024 programme deviation (Agro 1/2025): Mix B rounds 1 and 2 in F1-F4 3-5 months late; round 3 in F1-F4 3-4 months late; Kieserite round 1 in F2-F4 6 months late. (Agro 1/2025)
 Spraying & weeding:
   - Circle spraying 2025 (Jan-Dec): 492 ha done of 492 ha programmed (3 rounds) = 3 rounds, 100% (PA). Agro round 1/2/3 (%): 100/100/100. (PA 1/2026)
   - Inter-row (selective) 2025 (Jan-Dec): 328 ha done of 492 ha programmed (3 rounds) = 2 rounds, 67% (PA). Agro round 1/2/3 (%): 100/100/-. (PA 1/2026)
-  - Jan-Mar 2026: Circle (Mar 2026, PA): not started. Selective (Mar 2026, PA): 164.00 ha, 1 round (33%). (PA 1/2026)
   - Weeds: Scattered Clidemia hirta in F1, F2 (continue selective spraying); Ageratum regenerating in circles of F1 and F2 that were due; VOPs in recently rehabilitated F3 (hilly), regeneration in circles and inter-row; four circle rounds done (acceptable). Agro 1/2025: Clidemia in F1 and F2, bamboo persistent in F4, VOPs at low level in F4 and F2, weedy circles in F4 and F1. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - F1 (33 ha): Jan Mix B 2,250 g; Mar KIE 750 g; Apr Mix B 2,250 g; Jul Mix B 2,250 g; Sep RP 1,750 g; Oct Mix B 2,250 g = 11,500 g/palm/year (computed). (Agro 1/2026)
@@ -242,13 +248,15 @@ Field:
   - Roads: Road grading required in F1 (photo 11); satisfactory in F2 (photo 12). (PA 1/2026)
 
 BLOCK P15G (146.0 ha, planted 2015, Mature)
+Spraying progress (Jan–Mar 2026):
+  - Circle spraying: 0% — not started (PA 1/2026)
+  - Selective / inter-row: 33% — 146.00 ha, 1 round (PA 1/2026)
 Manuring progress:
   - 2024 programme deviation (Agro 1/2025): Mix B rounds 1 and 2 in G1-G4 3-5 months late; round 4 in G3 not completed in 2024; Kieserite round 1 in G1-G4 6 months late. (Agro 1/2025)
   - Sub-soil: G3 and G4 are on a sub-soil Mix B programme in 2026 (9,000 g in Jan). (Agro 1/2026)
 Spraying & weeding:
   - Circle spraying 2025 (Jan-Dec): 438 ha done of 438 ha programmed (3 rounds) = 3 rounds, 100% (PA). Agro round 1/2/3 (%): 100/100/100. (PA 1/2026)
   - Inter-row (selective) 2025 (Jan-Dec): 292 ha done of 438 ha programmed (3 rounds) = 2 rounds, 67% (PA). Agro round 1/2/3 (%): 100/100/-. (PA 1/2026)
-  - Jan-Mar 2026: Circle (Mar 2026, PA): not started. Selective (Mar 2026, PA): 146.00 ha, 1 round (33%). (PA 1/2026)
   - Weeds: G2: Giant Paspalum infestation (needs targeted follow-up); G3 and G4: woody vegetation, scrub, Stenochlaena, bracken and wild bamboo in hilly parts; VOPs and regenerating wild bamboo in terraces of rehabilitated G3/G4; four circle rounds done (acceptable). Photos: clean terrace strip in G3, VOP sprayed with sodium chlorate in G2, circle spraying in G1. Agro 1/2025: woody weeds, bracken in G3; bamboo noted at G1; weedy circle in G1. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - G1 (22 ha): Feb Mix B 2,250 g; Mar KIE 1,000 g; May Mix B 2,000 g; Aug Mix B 2,250 g; Sep RP 1,500 g; Nov Mix B 2,000 g = 11,000 g/palm/year (computed). (Agro 1/2026)

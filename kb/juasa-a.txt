@@ -147,13 +147,16 @@ ESTATE-WIDE FIELD NOTES
 [other] Other-year replanting plan: 2026: 234.7 ha (P97H6, P93D1, P93D2, P01K3, P13M). P92C3-C4 tentatively 2027. 2025 replanting (PR25) completed Feb 2026. (Agro 1/2026)
 
 BLOCK P92C3 (40.44 ha, planted 1992, Mature)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 155.88 of 155.88 ha · P92 C3-4 (PA 2/2026)
+  - Selective spraying: 100% — 155.88 of 155.88 ha · P92 C3-4 (PA 2/2026)
 Manuring progress:
   - EFB 2025: 1,617.6 MT over 40.44 ha at 40 MT/ha (100% of block) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P93C (as printed; P92C blocks)). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93C (as printed; P92C blocks)). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P92 C3-4 (77.94 ha): programme 155.88 ha, done 155.88 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P92 C3-4 (77.94 ha): programme 155.88 ha, done 155.88 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2027 - no manuring (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
@@ -180,13 +183,16 @@ Field:
   - Replanting: Tentatively scheduled for replanting in 2027 (PA 2.2 names P92/C4; Agro Table 6 lists C3 and C4). (Agro 1/2026)
 
 BLOCK P92C4 (37.5 ha, planted 1992, Mature)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 155.88 of 155.88 ha · P92 C3-4 (PA 2/2026)
+  - Selective spraying: 100% — 155.88 of 155.88 ha · P92 C3-4 (PA 2/2026)
 Manuring progress:
   - EFB 2025: 1,500.0 MT over 37.50 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P93C (as printed; P92C blocks)). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93C (as printed; P92C blocks)). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P92 C3-4 (77.94 ha): programme 155.88 ha, done 155.88 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P92 C3-4 (77.94 ha): programme 155.88 ha, done 155.88 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2027 - no manuring (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
@@ -214,13 +220,15 @@ Field:
   - Replanting: Tentatively scheduled for replanting in 2027 (PA 2.2 names P92/C4; Agro Table 6 lists C3 and C4). (Agro 1/2026)
 
 BLOCK P93D1 (70.0 ha, planted 1993, Replant)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 303.90 of 607.80 ha · P93 D1-6 (PA 2/2026)
+  - Selective spraying: 79% — 478.70 of 607.80 ha · P93 D1-6 (PA 2/2026)
 Manuring progress:
   - EFB 2025: 2,800.0 MT over 70.00 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 0% (P93D1-D2). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93D1-D2). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 303.90 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 478.70 ha (79%) (RM39/ha/round; PA table). (PA 2/2026)
   - Spraying discontinued: Selective and circle spraying stopped in blocks scheduled for replanting (Agro 6.4.2). (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2026 - no manuring (Agro 1/2026)
@@ -247,13 +255,15 @@ Field:
   - 2026 replant (PR26 X1-3, all 234.70 ha): Palm census started May 2026 (Agro 2.3). Felling and chipping: PA says started June and completed July; Agro Table 15 (24-25 Jun visit) 95% in progress, new road 80%, new drain 70%, cambered bund 20%, lateriting nil, planting nil. 120 ha need camber bunds; terraces being rebuilt to 16 ft. No manuring or spraying. (Agro 1/2026)
 
 BLOCK P93D2 (59.1 ha, planted 1993, Replant)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 303.90 of 607.80 ha · P93 D1-6 (PA 2/2026)
+  - Selective spraying: 79% — 478.70 of 607.80 ha · P93 D1-6 (PA 2/2026)
 Manuring progress:
   - EFB 2025: 2,364.0 MT over 59.10 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 0% (P93D1-D2). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93D1-D2). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 303.90 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 478.70 ha (79%) (RM39/ha/round; PA table). (PA 2/2026)
   - Spraying discontinued: Selective and circle spraying stopped in blocks scheduled for replanting (Agro 6.4.2). (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2026 - no manuring (Agro 1/2026)
@@ -281,14 +291,18 @@ Field:
   - 2026 replant (PR26 X1-3, all 234.70 ha): Palm census started May 2026 (Agro 2.3). Felling and chipping: PA says started June and completed July; Agro Table 15 (24-25 Jun visit) 95% in progress, new road 80%, new drain 70%, cambered bund 20%, lateriting nil, planting nil. 120 ha need camber bunds; terraces being rebuilt to 16 ft. No manuring or spraying. (Agro 1/2026)
 
 BLOCK P93D3 (45.6 ha, planted 1993, Mature)
+Manuring progress (to Jun 2026):
+  - NK2 · round 1 (Mar): 100% — 45.60 ha · full block (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 303.90 of 607.80 ha · P93 D1-6 (PA 2/2026)
+  - Selective spraying: 79% — 478.70 of 607.80 ha · P93 D1-6 (PA 2/2026)
 Manuring progress:
-  - NK2, round 1 (Mar): 2,500 g/palm programmed; done on 45.60 ha (full block) (PA 2/2026)
   - EFB 2025: 1,824.0 MT over 45.60 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P93D3-D6). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93D3-D6). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 303.90 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 478.70 ha (79%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Mar - NK2: 2,500 g/palm (Agro 1/2026)
   - Amended from Jan 2026 programme: Original Jan-2026 programme also had NK2 2,500 g/palm in Sep; the Sep round is not in the amended programme. (Agro 2/2025 (8 Jan 2026 visit))
@@ -313,15 +327,19 @@ Field:
   - Palm census Table 4 (group): P93D: 38,212 palms over 303.9 ha; 126 SPH previous and current. (Agro 1/2026)
 
 BLOCK P93D4 (38.5 ha, planted 1993, Mature)
+Manuring progress (to Jun 2026):
+  - NK2 · round 1 (Mar): 100% — 38.50 ha · full block (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 303.90 of 607.80 ha · P93 D1-6 (PA 2/2026)
+  - Selective spraying: 79% — 478.70 of 607.80 ha · P93 D1-6 (PA 2/2026)
 Manuring progress:
-  - NK2, round 1 (Mar): 2,500 g/palm programmed; done on 38.50 ha (full block) (PA 2/2026)
   - EFB 2025: 1,540.0 MT over 38.50 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
   - EFB 2026 (to May): 2,059 MT over 51.48 ha in P93D4 and P24V2 combined; block split not printed (Agro 4.16). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P93D3-D6). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93D3-D6). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 303.90 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 478.70 ha (79%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Mar - NK2: 2,500 g/palm (Agro 1/2026)
   - Amended from Jan 2026 programme: Original Jan-2026 programme also had NK2 2,500 g/palm in Sep; the Sep round is not in the amended programme. (Agro 2/2025 (8 Jan 2026 visit))
@@ -346,14 +364,18 @@ Field:
   - Palm census Table 4 (group): P93D: 38,212 palms over 303.9 ha; 126 SPH previous and current. (Agro 1/2026)
 
 BLOCK P93D5 (60.5 ha, planted 1993, Mature)
+Manuring progress (to Jun 2026):
+  - NK2 · round 1 (Mar): 100% — 60.50 ha · full block (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 303.90 of 607.80 ha · P93 D1-6 (PA 2/2026)
+  - Selective spraying: 79% — 478.70 of 607.80 ha · P93 D1-6 (PA 2/2026)
 Manuring progress:
-  - NK2, round 1 (Mar): 2,500 g/palm programmed; done on 60.50 ha (full block) (PA 2/2026)
   - EFB 2025: 2,420.0 MT over 60.50 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P93D3-D6). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93D3-D6). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 303.90 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 478.70 ha (79%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Mar - NK2: 2,500 g/palm (Agro 1/2026)
   - Amended from Jan 2026 programme: Original Jan-2026 programme also had NK2 2,500 g/palm in Sep; the Sep round is not in the amended programme. (Agro 2/2025 (8 Jan 2026 visit))
@@ -378,14 +400,18 @@ Field:
   - Palm census Table 4 (group): P93D: 38,212 palms over 303.9 ha; 126 SPH previous and current. (Agro 1/2026)
 
 BLOCK P93D6 (30.2 ha, planted 1993, Mature)
+Manuring progress (to Jun 2026):
+  - NK2 · round 1 (Mar): 100% — 30.20 ha · full block (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 303.90 of 607.80 ha · P93 D1-6 (PA 2/2026)
+  - Selective spraying: 79% — 478.70 of 607.80 ha · P93 D1-6 (PA 2/2026)
 Manuring progress:
-  - NK2, round 1 (Mar): 2,500 g/palm programmed; done on 30.20 ha (full block) (PA 2/2026)
   - EFB 2025: 1,208.0 MT over 30.20 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P93D3-D6). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P93D3-D6). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 303.90 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P93 D1-6 (303.90 ha): programme 607.80 ha, done 478.70 ha (79%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Mar - NK2: 2,500 g/palm (Agro 1/2026)
   - Amended from Jan 2026 programme: Original Jan-2026 programme also had NK2 2,500 g/palm in Sep; the Sep round is not in the amended programme. (Agro 2/2025 (8 Jan 2026 visit))
@@ -411,11 +437,13 @@ Field:
   - Palm census Table 4 (group): P93D: 38,212 palms over 303.9 ha; 126 SPH previous and current. (Agro 1/2026)
 
 BLOCK P97H6 (8.1 ha, planted 1997, Replant)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 50% — 8.10 of 16.20 ha · P97 H6 (PA 2/2026)
+  - Selective spraying: 50% — 8.10 of 16.20 ha · P97 H6 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 0% (P97H). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0% (P97H). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P97 H6 (8.10 ha): programme 16.20 ha, done 8.10 ha (50%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P97 H6 (8.10 ha): programme 16.20 ha, done 8.10 ha (50%) (RM39/ha/round; PA table). (PA 2/2026)
   - Spraying discontinued: Selective and circle spraying stopped in blocks scheduled for replanting (Agro 6.4.2). (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2026 - no manuring (Agro 1/2026)
@@ -442,16 +470,20 @@ Field:
   - Drainage works (Agro 5.14): Additional drains built and drains de-silted in P97H6; improved field drainage. (Agro 1/2026)
 
 BLOCK P01K1 (44.9 ha, planted 2001, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 44.90 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 44.90 ha · full block (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 86% — 141.40 of 164.20 ha · P01 K1-3 (PA 2/2026)
+  - Selective spraying: 43% — 141.40 of 328.40 ha · P01 K1-3 (PA 2/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): 8,000 g/palm programmed; done on 44.90 ha (full block); sub-surface (PA 2/2026)
-  - RP, round 3 (May): 1,500 g/palm programmed; done on 44.90 ha (full block) (PA 2/2026)
   - EFB 2025: 1,796.0 MT over 44.90 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
   - Frond stacking: Recommended frond-stacking method not consistently implemented (photos 15-16). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P01K1-K2). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P01K1-K2). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P01 K1-3 (164.20 ha): programme 164.20 ha, done 141.40 ha (86%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P01 K1-3 (164.20 ha): programme 328.40 ha, done 141.40 ha (43%) (RM39/ha/round; PA table). (PA 2/2026)
   - Ground cover (Agro photos 136-139): ground predominantly covered by soft grasses. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - Jan - Mix B: 8,000 g/palm, marked * (subsurface; see note) (Agro 1/2026)
@@ -487,15 +519,19 @@ Field:
   - Palm census Table 4 (group): P01K: 18,545 palms over 164.2 ha; 123 SPH. (Agro 1/2026)
 
 BLOCK P01K2 (25.8 ha, planted 2001, Mature)
+Manuring progress (to Jun 2026):
+  - NK2 · round 2 (Feb): 100% — 25.80 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 25.80 ha · full block (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 86% — 141.40 of 164.20 ha · P01 K1-3 (PA 2/2026)
+  - Selective spraying: 43% — 141.40 of 328.40 ha · P01 K1-3 (PA 2/2026)
 Manuring progress:
-  - NK2, round 2 (Feb): 2,000 g/palm programmed; done on 25.80 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 1,750 g/palm programmed; done on 25.80 ha (full block) (PA 2/2026)
   - EFB 2025: 1,032.0 MT total, 22.12 ha of 25.80 ha done at 40 MT/ha (86% of area) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P01K1-K2). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P01K1-K2). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P01 K1-3 (164.20 ha): programme 164.20 ha, done 141.40 ha (86%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P01 K1-3 (164.20 ha): programme 328.40 ha, done 141.40 ha (43%) (RM39/ha/round; PA table). (PA 2/2026)
   - Ground cover (Agro photos 136-139): ground predominantly covered by soft grasses. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - Feb - NK2: 2,000 g/palm (Agro 1/2026)
@@ -534,11 +570,13 @@ Field:
   - Palm census Table 4 (group): P01K: 18,545 palms over 164.2 ha; 123 SPH. (Agro 1/2026)
 
 BLOCK P01K3 (93.5 ha, planted 2001, Replant)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 2 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 86% — 141.40 of 164.20 ha · P01 K1-3 (PA 2/2026)
+  - Selective spraying: 43% — 141.40 of 328.40 ha · P01 K1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 0%, 2nd 0% (P01K3). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 0%, 2nd 0% (P01K3). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P01 K1-3 (164.20 ha): programme 164.20 ha, done 141.40 ha (86%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P01 K1-3 (164.20 ha): programme 328.40 ha, done 141.40 ha (43%) (RM39/ha/round; PA table). (PA 2/2026)
   - Spraying discontinued: Selective and circle spraying stopped in blocks scheduled for replanting (Agro 6.4.2). (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2026 - no manuring (Agro 1/2026)
@@ -571,18 +609,22 @@ Field:
   - 2026 replant (PR26 X1-3, all 234.70 ha): Palm census started May 2026 (Agro 2.3). Felling and chipping: PA says started June and completed July; Agro Table 15 (24-25 Jun visit) 95% in progress, new road 80%, new drain 70%, cambered bund 20%, lateriting nil, planting nil. 120 ha need camber bunds; terraces being rebuilt to 16 ft. No manuring or spraying. (Agro 1/2026)
 
 BLOCK P11M (27.0 ha, planted 2011, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Feb): 100% — 27.00 ha · full block (PA 2/2026)
+  - Mix B · round 2 (May): 100% — 27.00 ha · full block (PA 2/2026)
+  - RP · round 3 (Jun): 100% — 27.00 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 200% — 54.00 of 27.00 ha · P11M (PA 2/2026)
+  - Selective spraying: 100% — 54.00 of 54.00 ha · P11M (PA 2/2026)
 Manuring progress:
-  - Mix B, round 1 (Feb): 2,250 g/palm programmed; done on 27.00 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (May): 2,250 g/palm programmed; done on 27.00 ha (full block) (PA 2/2026)
-  - RP, round 3 (Jun): 1,750 g/palm programmed; done on 27.00 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Aug): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - EFB 2025: 1,080.0 MT over 27.00 ha at 40 MT/ha (100%) (Agro Table 8). (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P11M). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P11M). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P11M (27.00 ha): programme 27.00 ha, done 54.00 ha (200%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P11M (27.00 ha): programme 54.00 ha, done 54.00 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - Circles and inter-rows (PA photos): clean circles and clean inter-rows photographed. (PA 2/2026)
   - Ground cover (Agro photos 136-139): ground predominantly covered by soft grasses. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -628,11 +670,13 @@ Field:
   - Palm census Table 4 (group): P11M+P13M: 4,061 palms over 31.0 ha; 131 SPH. (Agro 1/2026)
 
 BLOCK P13M (4.0 ha, planted 2013, Replant)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 2 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 0% — not started (PA 2/2026)
+  - Selective spraying: 0% — not started (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 0%, 2nd 0% (P13M). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 0%, 2nd 0% (P13M). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P13M (4.00 ha): programme 4.00 ha, done 0.00 ha (0%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P13M (4.00 ha): programme 8.00 ha, done 0.00 ha (0%) (RM39/ha/round; PA table). (PA 2/2026)
   - Spraying discontinued: Selective and circle spraying stopped in blocks scheduled for replanting (Agro 6.4.2). (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - All year - None: REPLANTING in 2026 - no manuring (Agro 1/2026)
@@ -661,17 +705,20 @@ Field:
   - 2026 replant (PR26 X1-3, all 234.70 ha): Palm census started May 2026 (Agro 2.3). Felling and chipping: PA says started June and completed July; Agro Table 15 (24-25 Jun visit) 95% in progress, new road 80%, new drain 70%, cambered bund 20%, lateriting nil, planting nil. 120 ha need camber bunds; terraces being rebuilt to 16 ft. No manuring or spraying. (Agro 1/2026)
 
 BLOCK P19A1 (50.9 ha, planted 2019, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): 2,250 g/palm programmed; done on 50.90 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 2,000 g/palm programmed; done on 50.90 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 50.90 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 50.90 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 50.90 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 50.90 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 342.80 of 342.80 ha · P19 A1-3 (PA 2/2026)
+  - Selective spraying: 100% — 342.80 of 342.80 ha · P19 A1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P19A). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P19A). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P19 A1-3 (171.40 ha): programme 342.80 ha, done 342.80 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P19 A1-3 (171.40 ha): programme 342.80 ha, done 342.80 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Jan - Mix B: 2,250 g/palm (Agro 1/2026)
   - Apr - Mix B: 2,000 g/palm (Agro 1/2026)
@@ -712,18 +759,22 @@ Field:
   - Palm census Table 4 (group): P19A: 25,367 palms over 171.4 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P19A2 (62.4 ha, planted 2019, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 62.40 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 62.40 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 62.40 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 342.80 of 342.80 ha · P19 A1-3 (PA 2/2026)
+  - Selective spraying: 100% — 342.80 of 342.80 ha · P19 A1-3 (PA 2/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): 2,000 g/palm programmed; done on 62.40 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 2,000 g/palm programmed; done on 62.40 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 62.40 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - EFB placement: Uneven, scattered placement rather than uniform across the block (photos 19-22); fertiliser application quality checked here and acceptable. (Agro 1/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P19A). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P19A). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P19 A1-3 (171.40 ha): programme 342.80 ha, done 342.80 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P19 A1-3 (171.40 ha): programme 342.80 ha, done 342.80 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - Circles and inter-rows (PA photos): clean circles and clean inter-rows photographed. (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Jan - Mix B: 2,000 g/palm (Agro 1/2026)
@@ -765,17 +816,20 @@ Field:
   - Palm census Table 4 (group): P19A: 25,367 palms over 171.4 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P19A3 (58.1 ha, planted 2019, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): 2,000 g/palm programmed; done on 58.10 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 2,000 g/palm programmed; done on 58.10 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 58.10 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 58.10 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 58.10 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 58.10 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 342.80 of 342.80 ha · P19 A1-3 (PA 2/2026)
+  - Selective spraying: 100% — 342.80 of 342.80 ha · P19 A1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P19A). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P19A). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P19 A1-3 (171.40 ha): programme 342.80 ha, done 342.80 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P19 A1-3 (171.40 ha): programme 342.80 ha, done 342.80 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - Circles and inter-rows (PA photos): clean circles and clean inter-rows photographed. (PA 2/2026)
   - Localized dense weeds (Agro 6.4.4): localized dense growth of undesirable weeds still occasionally seen. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -821,18 +875,23 @@ Field:
   - Palm census Table 4 (group): P19A: 25,367 palms over 171.4 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P20R1 (38.4 ha, planted 2020, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 38.40 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 38.40 ha · full block (PA 2/2026)
+  - RP · round 3 (Apr): 100% — 38.40 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Sep): 0% — due Sep · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 82% — 209.20 of 256.60 ha · P20 R1-3 (PA 2/2026)
+  - Selective spraying: 100% — 256.60 of 256.60 ha · P20 R1-3 (PA 2/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): 2,000 g/palm programmed; done on 38.40 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 2,000 g/palm programmed; done on 38.40 ha (full block) (PA 2/2026)
-  - RP, round 3 (Apr): 2,000 g/palm programmed; done on 38.40 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Sep): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - EFB (PA photo 17): EFB shown applied; PA dosage 40 ton/ha. (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P20R). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P20R). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P20 R1-3 (128.30 ha): programme 256.60 ha, done 209.20 ha (82%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P20 R1-3 (128.30 ha): programme 256.60 ha, done 256.60 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Jan - Mix B: 2,000 g/palm (Agro 1/2026)
   - Apr - Mix B: 2,000 g/palm (Agro 1/2026)
@@ -875,17 +934,21 @@ Field:
   - Palm census Table 4 (group): P20R: 18,988 palms over 128.3 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P20R2 (42.5 ha, planted 2020, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): 2,000 g/palm programmed; done on 42.50 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 2,000 g/palm programmed; done on 42.50 ha (full block) (PA 2/2026)
-  - RP, round 3 (Apr): 2,000 g/palm programmed; done on 42.50 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Sep): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 42.50 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 42.50 ha · full block (PA 2/2026)
+  - RP · round 3 (Apr): 100% — 42.50 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Sep): 0% — due Sep · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 82% — 209.20 of 256.60 ha · P20 R1-3 (PA 2/2026)
+  - Selective spraying: 100% — 256.60 of 256.60 ha · P20 R1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P20R). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P20R). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P20 R1-3 (128.30 ha): programme 256.60 ha, done 209.20 ha (82%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P20 R1-3 (128.30 ha): programme 256.60 ha, done 256.60 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - Localized dense weeds (Agro 6.4.4): localized dense growth of undesirable weeds still occasionally seen. (Agro 1/2026)
   - Over-spraying / incomplete kills (Agro): localized blanket over-spraying (photos 146-147) and incomplete weed kills (photos 144-145); should not be routine; follow up with selective weeding to keep soft cover. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -929,18 +992,23 @@ Field:
   - Palm census Table 4 (group): P20R: 18,988 palms over 128.3 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P20R3 (47.4 ha, planted 2020, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 47.40 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 47.40 ha · full block (PA 2/2026)
+  - RP · round 3 (Apr): 100% — 47.40 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Sep): 0% — due Sep · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 82% — 209.20 of 256.60 ha · P20 R1-3 (PA 2/2026)
+  - Selective spraying: 100% — 256.60 of 256.60 ha · P20 R1-3 (PA 2/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): 2,000 g/palm programmed; done on 47.40 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 2,000 g/palm programmed; done on 47.40 ha (full block) (PA 2/2026)
-  - RP, round 3 (Apr): 2,000 g/palm programmed; done on 47.40 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Sep): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - Fertiliser application (PA photo 16): Manuring photographed here; PA overall found half-circle application in places. (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P20R). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 0%, 3rd 0% (P20R). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P20 R1-3 (128.30 ha): programme 256.60 ha, done 209.20 ha (82%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P20 R1-3 (128.30 ha): programme 256.60 ha, done 256.60 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - Circles and inter-rows (PA photos): clean circles and clean inter-rows photographed. (PA 2/2026)
   - Ground cover (Agro photos 136-139): ground predominantly covered by soft grasses. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -986,17 +1054,21 @@ Field:
   - Palm census Table 4 (group): P20R: 18,988 palms over 128.3 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P21S1 (41.2 ha, planted 2021, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): 1,750 g/palm programmed; done on 41.20 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 1,750 g/palm programmed; done on 41.20 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 41.20 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,250 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 41.20 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 41.20 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 41.20 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 301.20 of 301.20 ha · P21 S1-3 (PA 2/2026)
+  - Selective spraying: 100% — 301.20 of 301.20 ha · P21 S1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P21S). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P21S). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P21 S1-3 (150.60 ha): programme 301.20 ha, done 301.20 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P21 S1-3 (150.60 ha): programme 301.20 ha, done 301.20 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - P21 inter-rows (PA): generally free of woodies except remaining Giant Paspalum, VOPs and spots of woodies at block P21, to be eradicated. (PA 2/2026)
   - Localized dense weeds (Agro 6.4.4): localized dense growth of undesirable weeds still occasionally seen. (Agro 1/2026)
   - Narrow-path spraying (Agro photos 148-149): narrow path spraying in dense grassy inter-rows is acceptable if confined to designated paths; keep a clean circle of about 3-4 ft radius. (Agro 1/2026)
@@ -1041,17 +1113,21 @@ Field:
   - Palm census Table 4 (group): P21S: 22,289 palms over 150.6 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P21S2 (51.4 ha, planted 2021, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): 1,750 g/palm programmed; done on 51.40 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 1,750 g/palm programmed; done on 51.40 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 51.40 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,250 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 51.40 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 51.40 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 51.40 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 301.20 of 301.20 ha · P21 S1-3 (PA 2/2026)
+  - Selective spraying: 100% — 301.20 of 301.20 ha · P21 S1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P21S). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P21S). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P21 S1-3 (150.60 ha): programme 301.20 ha, done 301.20 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P21 S1-3 (150.60 ha): programme 301.20 ha, done 301.20 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - Circles and inter-rows (PA photos): clean circles and clean inter-rows photographed. Giant Paspalum and VOPs also photographed in inter-rows (photos 11-12). (PA 2/2026)
   - P21 inter-rows (PA): generally free of woodies except remaining Giant Paspalum, VOPs and spots of woodies at block P21, to be eradicated. (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -1096,17 +1172,21 @@ Field:
   - Palm census Table 4 (group): P21S: 22,289 palms over 150.6 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P21S3 (58.0 ha, planted 2021, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): 1,750 g/palm programmed; done on 58.00 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 1,750 g/palm programmed; done on 58.00 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 58.00 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 1,250 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 1,500 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 58.00 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 58.00 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 58.00 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 301.20 of 301.20 ha · P21 S1-3 (PA 2/2026)
+  - Selective spraying: 100% — 301.20 of 301.20 ha · P21 S1-3 (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P21S). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0% (P21S). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P21 S1-3 (150.60 ha): programme 301.20 ha, done 301.20 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P21 S1-3 (150.60 ha): programme 301.20 ha, done 301.20 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - P21 inter-rows (PA): generally free of woodies except remaining Giant Paspalum, VOPs and spots of woodies at block P21, to be eradicated. (PA 2/2026)
   - Localized dense weeds (Agro 6.4.4): localized dense growth of undesirable weeds still occasionally seen. (Agro 1/2026)
   - Narrow-path spraying (Agro photos 148-149): narrow path spraying in dense grassy inter-rows is acceptable if confined to designated paths; keep a clean circle of about 3-4 ft radius. (Agro 1/2026)
@@ -1152,18 +1232,23 @@ Field:
   - Palm census Table 4 (group): P21S: 22,289 palms over 150.6 ha; 148 SPH. (Agro 1/2026)
 
 BLOCK P22T3 (40.4 ha, planted 2022, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · round 1 (Jan): 100% — 40.40 ha · full block (PA 2/2026)
+  - Mix B · round 2 (Apr): 100% — 40.40 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 40.40 ha · full block (PA 2/2026)
+  - Mix B · round 4 (Jul): 0% — due Jul · none done (PA 2/2026)
+  - Mix B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 2 (to May): 100% — to May 2026 (Agro 1/2026)
+  - Inter-row rd 3 (to May): 0% — not started (Agro 1/2026)
+  - Inter-row rd 4 (to May): 0% — not started (Agro 1/2026)
+  - Circle spraying: 100% — 80.80 of 80.80 ha · P22 T3 (PA 2/2026)
+  - Selective spraying: 150% — 121.20 of 80.80 ha · P22 T3 (PA 2/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): 1,500 g/palm programmed; done on 40.40 ha (full block) (PA 2/2026)
-  - Mix B, round 2 (Apr): 1,500 g/palm programmed; done on 40.40 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 40.40 ha (full block) (PA 2/2026)
-  - Mix B, round 4 (Jul): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Mix B, round 5 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints 2,000 g for the Jul and Oct rounds; Agro amended programme has 1,500 g. (PA 2/2026)
 Spraying & weeding:
-  - Inter-row rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P22T3). (Agro 1/2026)
   - Circle rounds to May 2026: 1st 100%, 2nd 100%, 3rd 0%, 4th 0% (P22T3). (Agro 1/2026)
-  - Circle spraying Jan-Jun 2026: P22 T3 (40.40 ha): programme 80.80 ha, done 80.80 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: P22 T3 (40.40 ha): programme 80.80 ha, done 121.20 ha (150%) (RM39/ha/round; PA table). (PA 2/2026)
   - Circles and inter-rows (PA photos): clean circles and clean inter-rows photographed. (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Jan - Mix B: 1,500 g/palm (Agro 1/2026)
@@ -1205,16 +1290,18 @@ Field:
   - Maturity: Declared mature in January 2026 (PA). (PA 2/2026)
 
 BLOCK PR23U1 (39.05 ha, planted 2023, Immature)
+Manuring progress (to Jun 2026):
+  - Compound B · round 1 (Jan): 100% — 39.05 ha · full block (PA 2/2026)
+  - Compound B · round 2 (Apr): 100% — 39.05 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 39.05 ha · full block (PA 2/2026)
+  - Compound B · round 4 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - Compound B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 380.50 of 380.50 ha · PR23 U1-4 (PA 2/2026)
+  - Selective spraying: 42% — 239.45 of 570.75 ha · PR23 U1-4 (PA 2/2026)
 Manuring progress:
-  - Compound B, round 1 (Jan): 1,200 g/palm programmed; done on 39.05 ha (full block) (PA 2/2026)
-  - Compound B, round 2 (Apr): 2,000 g/palm programmed; done on 39.05 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 39.05 ha (full block) (PA 2/2026)
-  - Compound B, round 4 (Aug): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Compound B, round 5 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints Compound B 2,000 g for Apr, Aug, Oct rounds; Agro amended programme has 1,200 g in Jan, Apr, Jul, Oct (RP 2,000 g May). (PA 2/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 380.50 ha (2 rounds), done 380.50 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 570.75 ha (3 rounds), done 239.45 ha (1.2 rounds, 42%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR23 U1-4 circles and inter-rows (PA): Circles seen were due for spraying in August (photo U3). Inter-rows generally free of woodies; giant Sorghum plants and VOPs seen (photo U3) and need eradication in the next selective round. (PA 2/2026)
   - Dense weeds in P23U (Agro 7.1): Localized patches of wild bitter gourd, Chloris inflata, Asystasia intrusa, Borreria laevicaulis and Clidemia spp. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -1250,17 +1337,19 @@ Field:
   - Mucuna cover (Agro 7.1): Mucuna establishment unsatisfactory (photos 174-175). P23U generally unsatisfactory: sparse, low density, poor cover although canopy not yet closed. (Agro 1/2026)
 
 BLOCK PR23U2 (67.9 ha, planted 2023, Immature)
+Manuring progress (to Jun 2026):
+  - Compound B · round 1 (Jan): 100% — 67.90 ha · full block (PA 2/2026)
+  - Compound B · round 2 (Apr): 100% — 67.90 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 67.90 ha · full block (PA 2/2026)
+  - Compound B · round 4 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - Compound B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 380.50 of 380.50 ha · PR23 U1-4 (PA 2/2026)
+  - Selective spraying: 42% — 239.45 of 570.75 ha · PR23 U1-4 (PA 2/2026)
 Manuring progress:
-  - Compound B, round 1 (Jan): 1,200 g/palm programmed; done on 67.90 ha (full block) (PA 2/2026)
-  - Compound B, round 2 (Apr): 2,000 g/palm programmed; done on 67.90 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 67.90 ha (full block) (PA 2/2026)
-  - Compound B, round 4 (Aug): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Compound B, round 5 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints Compound B 2,000 g for Apr, Aug, Oct rounds; Agro amended programme has 1,200 g in Jan, Apr, Jul, Oct (RP 2,000 g May). (PA 2/2026)
   - EFB placement: EFB occasionally placed inside the weeded circle, hindering loose fruit collection (photos 27-28). (Agro 1/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 380.50 ha (2 rounds), done 380.50 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 570.75 ha (3 rounds), done 239.45 ha (1.2 rounds, 42%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR23 U1-4 circles and inter-rows (PA): Circles seen were due for spraying in August (photo U3). Inter-rows generally free of woodies; giant Sorghum plants and VOPs seen (photo U3) and need eradication in the next selective round. (PA 2/2026)
   - Dense weeds in P23U (Agro 7.1): Localized patches of wild bitter gourd, Chloris inflata, Asystasia intrusa, Borreria laevicaulis and Clidemia spp. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -1295,17 +1384,19 @@ Field:
   - Mucuna cover (Agro 7.1): Mucuna establishment moderately acceptable (photos 176-177). P23U generally unsatisfactory: sparse, low density, poor cover although canopy not yet closed. (Agro 1/2026)
 
 BLOCK PR23U3 (34.1 ha, planted 2023, Immature)
+Manuring progress (to Jun 2026):
+  - Compound B · round 1 (Jan): 100% — 34.10 ha · full block (PA 2/2026)
+  - Compound B · round 2 (Apr): 100% — 34.10 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 34.10 ha · full block (PA 2/2026)
+  - Compound B · round 4 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - Compound B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 380.50 of 380.50 ha · PR23 U1-4 (PA 2/2026)
+  - Selective spraying: 42% — 239.45 of 570.75 ha · PR23 U1-4 (PA 2/2026)
 Manuring progress:
-  - Compound B, round 1 (Jan): 1,200 g/palm programmed; done on 34.10 ha (full block) (PA 2/2026)
-  - Compound B, round 2 (Apr): 2,000 g/palm programmed; done on 34.10 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 34.10 ha (full block) (PA 2/2026)
-  - Compound B, round 4 (Aug): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Compound B, round 5 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints Compound B 2,000 g for Apr, Aug, Oct rounds; Agro amended programme has 1,200 g in Jan, Apr, Jul, Oct (RP 2,000 g May). (PA 2/2026)
   - EFB placement: EFB applied too close to palms (photo 25). (Agro 1/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 380.50 ha (2 rounds), done 380.50 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 570.75 ha (3 rounds), done 239.45 ha (1.2 rounds, 42%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR23 U1-4 circles and inter-rows (PA): Circles seen were due for spraying in August (photo U3). Inter-rows generally free of woodies; giant Sorghum plants and VOPs seen (photo U3) and need eradication in the next selective round. (PA 2/2026)
   - Dense weeds in P23U (Agro 7.1): Localized patches of wild bitter gourd, Chloris inflata, Asystasia intrusa, Borreria laevicaulis and Clidemia spp. (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -1341,16 +1432,18 @@ Field:
   - Mucuna cover (Agro 7.1): Mucuna not individually rated in Agro 7.1 (P23U generally unsatisfactory). P23U generally unsatisfactory: sparse, low density, poor cover although canopy not yet closed. (Agro 1/2026)
 
 BLOCK PR23U4 (49.2 ha, planted 2023, Immature)
+Manuring progress (to Jun 2026):
+  - Compound B · round 1 (Jan): 100% — 49.20 ha · full block (PA 2/2026)
+  - Compound B · round 2 (Apr): 100% — 49.20 ha · full block (PA 2/2026)
+  - RP · round 3 (May): 100% — 49.20 ha · full block (PA 2/2026)
+  - Compound B · round 4 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - Compound B · round 5 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 380.50 of 380.50 ha · PR23 U1-4 (PA 2/2026)
+  - Selective spraying: 42% — 239.45 of 570.75 ha · PR23 U1-4 (PA 2/2026)
 Manuring progress:
-  - Compound B, round 1 (Jan): 1,200 g/palm programmed; done on 49.20 ha (full block) (PA 2/2026)
-  - Compound B, round 2 (Apr): 2,000 g/palm programmed; done on 49.20 ha (full block) (PA 2/2026)
-  - RP, round 3 (May): 2,000 g/palm programmed; done on 49.20 ha (full block) (PA 2/2026)
-  - Compound B, round 4 (Aug): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - Compound B, round 5 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints Compound B 2,000 g for Apr, Aug, Oct rounds; Agro amended programme has 1,200 g in Jan, Apr, Jul, Oct (RP 2,000 g May). (PA 2/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 380.50 ha (2 rounds), done 380.50 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR23 U1-4 (190.25 ha): programme 570.75 ha (3 rounds), done 239.45 ha (1.2 rounds, 42%) (RM39/ha/round; PA table). (PA 2/2026)
   - Localized dense weeds (Agro 6.4.4): localized dense growth of undesirable weeds still occasionally seen. Photographed in P23U4 (photos 140-141). (Agro 1/2026)
   - PR23 U1-4 circles and inter-rows (PA): Circles seen were due for spraying in August (photo U3). Inter-rows generally free of woodies; giant Sorghum plants and VOPs seen (photo U3) and need eradication in the next selective round. (PA 2/2026)
   - Dense weeds in P23U (Agro 7.1): Localized patches of wild bitter gourd, Chloris inflata, Asystasia intrusa, Borreria laevicaulis and Clidemia spp. (Agro 1/2026)
@@ -1387,15 +1480,17 @@ Field:
   - Mucuna cover (Agro 7.1): Mucuna establishment unsatisfactory (photos 178-179). P23U generally unsatisfactory: sparse, low density, poor cover although canopy not yet closed. (Agro 1/2026)
 
 BLOCK PN24V1 (69.1 ha, planted 2024, Immature)
+Manuring progress (to Jun 2026):
+  - Compound A · round 1 (Feb): 100% — 69.10 ha · full block (PA 2/2026)
+  - Compound A · round 2 (May): 100% — 69.10 ha · full block (PA 2/2026)
+  - Compound A · round 3 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - RP · round 4 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 67% — 227.40 of 341.10 ha · PR24 V1-2 (PA 2/2026)
+  - Selective spraying: 67% — 227.40 of 341.10 ha · PR24 V1-2 (PA 2/2026)
 Manuring progress:
-  - Compound A, round 1 (Feb): 2,000 g/palm programmed; done on 69.10 ha (full block) (PA 2/2026)
-  - Compound A, round 2 (May): 2,000 g/palm programmed; done on 69.10 ha (full block) (PA 2/2026)
-  - Compound A, round 3 (Aug): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - RP, round 4 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints Compound A 2,000 g and RP 2,000 g; Agro amended programme has Compound A 1,000 g (Feb, May, Aug) and RP 1,750 g (Oct). (PA 2/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR24 V1-2 (113.70 ha): programme 341.10 ha (3 rounds), done 227.40 ha (2 rounds, 67%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR24 V1-2 (113.70 ha): programme 341.10 ha (3 rounds), done 227.40 ha (2 rounds, 67%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR24 V inter-rows (PA 10.2.2): Circles clean and acceptable; inter-rows NOT satisfactory: woodies, VOPs, Hedyotis, Clidemia and Asystasia (photos V2). More effort needed as soon as possible. (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Feb - Compound A: 1,000 g/palm (Agro 1/2026)
@@ -1419,16 +1514,18 @@ Field:
   - Mucuna cover (Agro 7.1): Moderately acceptable establishment in V1 (photos 182-183). (Agro 1/2026)
 
 BLOCK PN24V2 (44.6 ha, planted 2024, Immature)
+Manuring progress (to Jun 2026):
+  - Compound A · round 1 (Feb): 100% — 44.60 ha · full block (PA 2/2026)
+  - Compound A · round 2 (May): 100% — 44.60 ha · full block (PA 2/2026)
+  - Compound A · round 3 (Aug): 0% — due Aug · none done (PA 2/2026)
+  - RP · round 4 (Oct): 0% — due Oct · none done (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 67% — 227.40 of 341.10 ha · PR24 V1-2 (PA 2/2026)
+  - Selective spraying: 67% — 227.40 of 341.10 ha · PR24 V1-2 (PA 2/2026)
 Manuring progress:
-  - Compound A, round 1 (Feb): 2,000 g/palm programmed; done on 44.60 ha (full block) (PA 2/2026)
-  - Compound A, round 2 (May): 2,000 g/palm programmed; done on 44.60 ha (full block) (PA 2/2026)
-  - Compound A, round 3 (Aug): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
-  - RP, round 4 (Oct): 2,000 g/palm programmed; no area recorded as done in the PA table (to Jun 2026) (PA 2/2026)
   - PA vs Agro dose: PA prints Compound A 2,000 g and RP 2,000 g; Agro amended programme has Compound A 1,000 g (Feb, May, Aug) and RP 1,750 g (Oct). (PA 2/2026)
   - EFB 2026 (to May): 2,059 MT over 51.48 ha in P93D4 and P24V2 combined; block split not printed (Agro 4.16). (Agro 1/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR24 V1-2 (113.70 ha): programme 341.10 ha (3 rounds), done 227.40 ha (2 rounds, 67%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR24 V1-2 (113.70 ha): programme 341.10 ha (3 rounds), done 227.40 ha (2 rounds, 67%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR24 V inter-rows (PA 10.2.2): Circles clean and acceptable; inter-rows NOT satisfactory: woodies, VOPs, Hedyotis, Clidemia and Asystasia (photos V2). More effort needed as soon as possible. (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - Programme - Compound A / RP: Row not filled in the appendix for V2 (V1 row 69.1 ha, V2 44.6 ha listed beneath it); V1 schedule: Compound A 1,000 g/palm Feb, May, Aug; RP 1,750 g/palm Oct (Agro 1/2026)
@@ -1450,12 +1547,16 @@ Field:
   - Mucuna cover (Agro 7.1): Moderately acceptable establishment in V2 (photos 180-181). (Agro 1/2026)
 
 BLOCK PR25W1 (48.65 ha, planted 2025, Immature)
+Manuring progress (to Jun 2026):
+  - Compound (Aug): 0% — not due before Aug (PA 2/2026)
+  - RP (Sep): 0% — not due before Aug (PA 2/2026)
+  - Compound (Nov): 0% — not due before Aug (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 472.65 of 472.65 ha · PR25 W1-3 (PA 2/2026)
+  - Selective spraying: 100% — 472.65 of 472.65 ha · PR25 W1-3 (PA 2/2026)
 Manuring progress:
-  - Round 1 Compound (Aug), RP (Sep), Compound (Nov): 0.80 / 1.50 / 0.90 kg per palm in the PA table (800 g / 1,500 g / 900 g); none due before Aug; 0 ha done (PA to Jun 2026) (PA 2/2026)
   - EFB rings (PA, W1 photo): EFB at palm circles not consistent: some 1 ring, some 2 rings; recommended 3 rings per palm. Manuring only due in August. (PA 2/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR25 W1-3 (157.55 ha): programme 472.65 ha (3 rounds), done 472.65 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR25 W1-3 (157.55 ha): programme 472.65 ha (3 rounds), done 472.65 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR25 W circles and inter-rows (PA): Circles generally clean; inter-rows generally clean with spots of regenerated woodies (photo W1). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - At planting - CRF + RP: CRF 600 g + RP 500 g in the planting hole during transplanting (Agro 1/2026)
@@ -1475,13 +1576,17 @@ Field:
   - PR25 planting (PA 10.3.6): Planting completed Feb 2026; palm appearance satisfactory; all palms advanced planting material (APM). Cover planting still in progress. (PA 2/2026)
 
 BLOCK PR25W2 (46.2 ha, planted 2025, Immature)
+Manuring progress (to Jun 2026):
+  - Compound (Aug): 0% — not due before Aug (PA 2/2026)
+  - RP (Sep): 0% — not due before Aug (PA 2/2026)
+  - Compound (Nov): 0% — not due before Aug (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 472.65 of 472.65 ha · PR25 W1-3 (PA 2/2026)
+  - Selective spraying: 100% — 472.65 of 472.65 ha · PR25 W1-3 (PA 2/2026)
 Manuring progress:
-  - Round 1 Compound (Aug), RP (Sep), Compound (Nov): 0.80 / 1.50 / 0.90 kg per palm in the PA table (800 g / 1,500 g / 900 g); none due before Aug; 0 ha done (PA to Jun 2026) (PA 2/2026)
   - EFB placement: EFB applied too close to palms (photos 23-24). (Agro 1/2026)
   - EFB rings (PA, W1 photo): EFB at palm circles not consistent: some 1 ring, some 2 rings; recommended 3 rings per palm. Manuring only due in August. (PA 2/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR25 W1-3 (157.55 ha): programme 472.65 ha (3 rounds), done 472.65 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR25 W1-3 (157.55 ha): programme 472.65 ha (3 rounds), done 472.65 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR25 W circles and inter-rows (PA): Circles generally clean; inter-rows generally clean with spots of regenerated woodies (photo W1). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - At planting - CRF + RP: CRF 600 g + RP 500 g in the planting hole during transplanting (Agro 1/2026)
@@ -1502,12 +1607,16 @@ Field:
   - Mucuna cover (Agro 7.2): High mortality of the planted Mucuna (photos 186-187). (Agro 1/2026)
 
 BLOCK PR25W3 (62.7 ha, planted 2025, Immature)
+Manuring progress (to Jun 2026):
+  - Compound (Aug): 0% — not due before Aug (PA 2/2026)
+  - RP (Sep): 0% — not due before Aug (PA 2/2026)
+  - Compound (Nov): 0% — not due before Aug (PA 2/2026)
+Spraying progress (Jan–Jun 2026):
+  - Circle spraying: 100% — 472.65 of 472.65 ha · PR25 W1-3 (PA 2/2026)
+  - Selective spraying: 100% — 472.65 of 472.65 ha · PR25 W1-3 (PA 2/2026)
 Manuring progress:
-  - Round 1 Compound (Aug), RP (Sep), Compound (Nov): 0.80 / 1.50 / 0.90 kg per palm in the PA table (800 g / 1,500 g / 900 g); none due before Aug; 0 ha done (PA to Jun 2026) (PA 2/2026)
   - EFB rings (PA, W1 photo): EFB at palm circles not consistent: some 1 ring, some 2 rings; recommended 3 rings per palm. Manuring only due in August. (PA 2/2026)
 Spraying & weeding:
-  - Circle spraying Jan-Jun 2026: PR25 W1-3 (157.55 ha): programme 472.65 ha (3 rounds), done 472.65 ha (100%) (RM36/ha/round for mature; PA table to 30 Jun 2026). (PA 2/2026)
-  - Selective spraying Jan-Jun 2026: PR25 W1-3 (157.55 ha): programme 472.65 ha (3 rounds), done 472.65 ha (100%) (RM39/ha/round; PA table). (PA 2/2026)
   - PR25 W circles and inter-rows (PA): Circles generally clean; inter-rows generally clean with spots of regenerated woodies (photo W1). (PA 2/2026)
 Fertiliser programme (this year) 2026:
   - At planting - CRF + RP: CRF 600 g + RP 500 g in the planting hole during transplanting (Agro 1/2026)

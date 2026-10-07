@@ -109,13 +109,23 @@ ESTATE-WIDE FIELD NOTES
 [other] Contractors (31 May 2026): Desmond Agro (P04 B1, B3; 113.06 ha) 8 required, 7 actual; Chua Chee Tiong (P04 B5, B6; 109.15 ha) 8/6; Zian-Zian Plantation (C4-C6, D3-D5; 279.26 ha) 20/14; Malaiqa Bina (P99 A1-A3, P04 B2, B4; 270.36 ha) 21/23; Suhanizan Bin Ishak (C1-C3, D1, D2; 202.99 ha) 15/12; estate 5/5. Total 72 required, 67 actual. (PA 1/2026)
 
 BLOCK P99A (182.26 ha, planted 1999, Mature)
+Manuring progress (to Jun 2026):
+  - Ammonium sulphate: 100% — complete by Jun (Agro 2/2026)
+  - EFB 2026: 10% — 896.44 MT · 17.93 ha (Agro 2/2026)
+  - Mix A (May–Jun): 0% — not yet applied (Agro 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle weeding rd 1: 100% —  (PA 1/2026)
+  - Circle weeding rd 2: 100% —  (PA 1/2026)
+  - Circle weeding rd 3: 0% — not started (PA 1/2026)
+  - Inter-row weeding rd 1: 100% —  (Agro 2/2026)
+  - Inter-row weeding rd 2: 100% —  (Agro 2/2026)
+  - Inter-row weeding rd 3: 0% — not started (Agro 2/2026)
 Manuring progress:
   - AS 2026, all sub-blocks: Ammonium sulphate 1,500 g/palm applied from Jan 2026 (60.15 MT applied to P99A and P04B by 26 Jan 2026); AS programme 100% complete by June 2026. (Agro 2/2026)
   - EFB 2026 (to June): 896.44 MT over 17.93 ha at 50 t/ha = 10% of the 182.26 ha. Only 10% done, progress limited; quality satisfactory (placement and levelling). (Agro 2/2026)
   - EFB 2025: 9,112.00 MT over 182.24 ha at 49.99 t/ha = 100% of the area. (Agro 1/2026)
   - NK1 and Mix A 2026: NK1 (estate 63% applied to June); Mixture A scheduled May-June not yet applied at June 2026. (Agro 2/2026)
 Spraying & weeding:
-  - Circle weeding 2026: 1 round completed over 182.26 ha to 31 May (546.78 ha = 3 rounds programmed). To June: circle rounds 1 and 2 100%, round 3 0%. (PA 1/2026)
   - Inter-row 2026: Selective: 421.78 ha completed = 2 rounds (on 210.89 ha basis, programme 632.67 ha). To June: inter-row rounds 1 and 2 100%, round 3 0%. Acceptable inter-row conditions photographed in A1-A3. (Agro 2/2026)
   - Weeds, Jan 2026: Significant Ageratum conyzoides and grasses in palm circles in A2 and A3; weedy circles photographed in P99A. First inter-row round of Jan 2026 started in A1. 2025: 3 inter-row and 3 circle rounds fully completed. (Agro 1/2026)
 Fertiliser programme (next year) 2027:
@@ -156,12 +166,19 @@ Field:
   - Drains and flooding: Desilt drains in P99A (low-lying) before monsoon. (PA 1/2026)
 
 BLOCK P04B (310.31 ha, planted 2004, Mature)
+Manuring progress (to Jun 2026):
+  - Ammonium sulphate: 100% — complete by Jun (Agro 1/2026)
+  - EFB 2026: 0% — none applied (Agro 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle weeding rd 1: 100% —  (PA 1/2026)
+  - Circle weeding rd 2: 100% —  (PA 1/2026)
+  - Circle weeding rd 3: 0% — not started (PA 1/2026)
+  - Inter-row weeding rd 1: 100% —  (PA 1/2026)
+  - Inter-row weeding rd 2: 100% —  (PA 1/2026)
 Manuring progress:
   - AS 2026: 1,500 g/palm applied; AS assessed in B5 and B6 on 26 Jan 2026: acceptable, about 25 bags per applicator, semi-mechanical method seen (photo). 60.15 MT applied to P99A and P04B at that date; AS 100% by June. (Agro 1/2026)
-  - EFB: None applied in P04B in 2025 or 2026 (0%). (Agro 2/2026)
   - Ecofert 2024: 2 rounds completed in B1-B6 (round 1 Mar-Apr 2024, round 2 Oct 2024; 1.36 MT/ha); discontinued from 2025. (Agro 1/2025)
 Spraying & weeding:
-  - Circle weeding 2026: 1 round completed over 310.31 ha to 31 May (930.93 ha = 3 rounds programmed). To June: rounds 1 and 2 100%, round 3 0%. (PA 1/2026)
   - Selective 2026: 776.60 ha todate programme, 694.61 ha completed, 2 rounds in progress (old 388.30 ha basis, 1,164.90 ha = 3 rounds). To June: inter-row rounds 1 and 2 100%. (PA 1/2026)
   - Weeds: Clidemia hirta and Momordica patches in B3 (Jan 2026); Ageratum conyzoides and grasses in circles of B5; weedy circles photographed in P04B. 2025: inter-row 3 rounds and circle fully done. Good eradication of Stenochlaena palustris and Clidemia in B (Feb 2025). (Agro 1/2026)
 Fertiliser programme (next year) 2027:
@@ -216,13 +233,20 @@ Field:
   - Culverts: Exposed culverts in P04B need repair (PA photo). (PA 1/2026)
 
 BLOCK P05C (234.68 ha, planted 2005, Mature)
+Manuring progress (to Jun 2026):
+  - Ammonium sulphate: 100% — complete by Jun (Agro 1/2026)
+  - EFB 2026: 0% — none applied (Agro 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle weeding rd 1: 100% —  (Agro 2/2026)
+  - Circle weeding rd 2: 0% — not started (Agro 2/2026)
+  - Circle weeding rd 3: 0% — not started (Agro 2/2026)
+  - Inter-row weeding rd 1: 100% —  (PA 1/2026)
+  - Inter-row weeding rd 2: 100% —  (PA 1/2026)
 Manuring progress:
   - AS 2026: 1,500 g/palm AS carried forward from 2025 (AS 100% complete by June 2026). (Agro 1/2026)
   - Deviations 2025: C1-C6 Mixture B 3rd round (2,000 g/palm) 3 months late; C1-C5 MOP 1st round (2,250 g/palm) 4 months late. (Agro 1/2026)
-  - EFB: None applied in P05C in 2025 or 2026 (0%). (Agro 2/2026)
   - Ecofert 2024: 2 rounds completed in C1-C6; discontinued from 2025. (Agro 1/2025)
 Spraying & weeding:
-  - Circle weeding 2026: 1 round completed over 234.68 ha to 31 May (704.04 ha = 3 rounds). To June: circle round 1 100%, round 2 0% (behind P99A/P04B), round 3 0%. (Agro 2/2026)
   - Selective 2026: Programme todate 279.93 ha, completed 381.62 ha, 2 rounds in progress (old basis; 839.79 ha = 3 rounds). To June: inter-row rounds 1 and 2 100%. (PA 1/2026)
   - 2025 rounds: Inter-row 3 rounds completed; circle only 2 rounds completed (Agro 1/2026). Jan 2026: weedy palm circles photographed in P05C. (Agro 1/2026)
 Fertiliser programme (next year) 2027:
@@ -277,6 +301,14 @@ Field:
   - Contractors: C1-C3 Suhanizan Bin Ishak (15 required, 12 actual); C4-C6 Zian-Zian Plantation (20 required, 14 actual). (PA 1/2026)
 
 BLOCK P06D (247.57 ha, planted 2006, Mature)
+Manuring progress (to Jun 2026):
+  - EFB 2026: 42% — 5,209 MT · 104.18 ha (Agro 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle weeding rd 1: 100% —  (PA 1/2026)
+  - Circle weeding rd 2: 0% — not started (PA 1/2026)
+  - Circle weeding rd 3: 0% — not started (PA 1/2026)
+  - Inter-row weeding rd 1: 100% —  (PA 1/2026)
+  - Inter-row weeding rd 2: 100% —  (PA 1/2026)
 Manuring progress:
   - Deviations 2025: D1-D5 Mixture B 3rd round (2,250 g/palm) 3 months late and 4th round (2,250 g/palm) 3 months late. (Agro 1/2026)
   - AS 2026: No AS in D1-D5 in the 2026 programme (AS only for P99A, P04B, P05C). (Agro 1/2026)

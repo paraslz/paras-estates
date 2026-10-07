@@ -158,32 +158,12 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "EFB 2025 (to Sept 2025)",
       "v": "608.7 t EFB; 15.01 ha done; ratio printed as 20.75 t/ha; 51% of area covered. Recommended maximum 50 t/ha.",
       "src": "Agro 2/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "29.34 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "29.34 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds - broadleaf",
       "v": "Agronomist: monitor broadleaf weed control in block P09 and do follow-up/corrective spraying as necessary. 2025: Ageratum conyzoides proliferating in circles (Sept 2025).",
@@ -312,6 +292,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 29.34 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 29.34 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -377,32 +400,12 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "EFB 2025 (to Sept 2025)",
       "v": "549.81 t EFB; 14.52 ha done; ratio printed as 30.8 t/ha; 81% of area covered. Recommended maximum 50 t/ha.",
       "src": "Agro 2/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "17.85 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "17.85 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds - broadleaf",
       "v": "Agronomist: monitor broadleaf weed control in block P09 and do follow-up/corrective spraying as necessary. Photo: palm circles due for spraying (Feb-Mar 2026).",
@@ -526,6 +529,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 17.85 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 17.85 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -596,32 +642,12 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "EFB 2025 (to Sept 2025)",
       "v": "465.78 t EFB; 19.91 ha done; ratio printed as 15.37 t/ha; 66% of area covered. Recommended maximum 50 t/ha.",
       "src": "Agro 2/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "30.31 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "30.31 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds - broadleaf",
       "v": "Agronomist: monitor broadleaf weed control in block P09 and do follow-up/corrective spraying. Photo: circles due for spraying. Ageratum in circles in Sept 2025.",
@@ -745,6 +771,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 30.31 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 30.31 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -815,32 +884,12 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "EFB 2025 (to Sept 2025)",
       "v": "777.41 t EFB; 34.22 ha done; ratio printed as 17.15 t/ha; 76% of area covered. Recommended maximum 50 t/ha.",
       "src": "Agro 2/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "45.32 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "45.32 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 100%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds - broadleaf",
       "v": "Agronomist: monitor broadleaf weed control in block P09 and do follow-up/corrective spraying as necessary.",
@@ -964,6 +1013,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 45.32 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 45.32 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1034,32 +1126,12 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "EFB 2025 (to Sept 2025)",
       "v": "113.3 t EFB; 0.41 ha done; ratio printed as 79.79 t/ha; 29% of area covered. Recommended maximum 50 t/ha. Agronomist: P06C ratio is excessive (risk of Ganoderma); divert surplus EFB to other fields.",
       "src": "Agro 2/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "1.42 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "1.42 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Quality",
       "v": "PA photo: circle spraying and selective spraying generally satisfactory.",
@@ -1168,6 +1240,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 1.42 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 1.42 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1233,11 +1348,6 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "NK1 Feb 2026",
       "v": "Feb 2026 NK1 round (programme 2,500 g/palm) is part of the 6.40 t NK1 applied at 100% for the estate (NK1 is used only on P98D1 and P98D3 in the programme). Stock note: NK1 delivery was delayed (small quantity).",
       "src": "PA 1/2026"
@@ -1254,21 +1364,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "11.74 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "11.74 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 100%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds - VOPs",
       "v": "Patches of small volunteer oil palms (VOPs) in the field; EFB area has volunteer palm patches.",
@@ -1380,6 +1475,63 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "NK1 · round (Feb)",
+       "pct": 100,
+       "note": "2,500 g/palm",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "EFB 2026 (area covered)",
+       "pct": 25,
+       "note": "100.97 t · 2.88 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 11.74 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 11.74 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1460,11 +1612,6 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "NK1 Feb 2026",
       "v": "Feb 2026 NK1 round (programme 2,500 g/palm) is part of the 6.40 t NK1 applied at 100% for the estate (NK1 is used only on P98D1 and P98D3 in the programme). Withdraw if replanting in 2026/2027.",
       "src": "PA 1/2026"
@@ -1475,23 +1622,7 @@
       "src": "Agro 2/2025"
      }
     ],
-    "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "7.93 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "7.93 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 100%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     }
-    ],
+    "spraying": [],
     "pests": [
      {
       "k": "Ganoderma census Sept 2025",
@@ -1599,6 +1730,56 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "NK1 · round (Feb)",
+       "pct": 100,
+       "note": "2,500 g/palm",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 7.93 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 7.93 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1668,11 +1849,6 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "2025 RP delay",
       "v": "2025 RP delayed 2 months, completed in December 2025.",
       "src": "Agro 1/2026"
@@ -1683,23 +1859,7 @@
       "src": "Agro 2/2025"
      }
     ],
-    "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "21.53 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "21.53 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 100%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     }
-    ],
+    "spraying": [],
     "pests": [
      {
       "k": "Mounding and de-boling",
@@ -1822,6 +1982,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 21.53 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 21.53 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1897,11 +2100,6 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "2025 RP delay",
       "v": "2025 RP delayed 2 months, completed in December 2025.",
       "src": "Agro 1/2026"
@@ -1913,21 +2111,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "3.8 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "3.8 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds",
       "v": "Photo: palm circles due for spraying (Feb-Mar 2026). Ageratum in circles in Sept 2025.",
@@ -2046,6 +2229,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 3.8 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 3.8 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -2121,32 +2347,12 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "EFB 2025 (to Sept 2025)",
       "v": "No EFB applied (0 t).",
       "src": "Agro 2/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "33.75 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "33.75 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds",
       "v": "Photo: palm circles due for spraying. Sept 2025: patches of wild bitter gourd (Momordica charantia) and Ageratum in circles. PA photos: circle and selective spraying generally satisfactory.",
@@ -2275,6 +2481,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 33.75 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 33.75 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -2349,11 +2598,6 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "2025 RP delay",
       "v": "2025 RP delayed 2 months, completed in August 2025.",
       "src": "Agro 1/2026"
@@ -2365,21 +2609,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "4.69 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "4.69 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 100%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Weeds",
       "v": "Agro: effective control of Clidemia hirta, wild brinjal and Ageratum (visible wilting). Circles weedy - weed infestation localised in P05J and P05L; keep eradicating. PA: cut frond butts and debris in circles, needs a round of circle raking.",
@@ -2505,6 +2734,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 4.69 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 4.69 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -2579,11 +2851,6 @@
     ],
     "manuring": [
      {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "2025 RP delay",
       "v": "2025 RP delayed 2 months, completed in August 2025.",
       "src": "Agro 1/2026"
@@ -2595,21 +2862,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "9.6 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "9.6 ha = 1 round done of 4 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding as at Feb 2026",
-      "v": "Inter-row weeding round 1 (of 3 budgeted): 0%. Circle weeding round 1: 0%. (Circle weeding was scheduled to start in Feb; the PA of 28 Apr 2026 shows 1 circle round completed in all fields by Mar 2026.)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Inter-row round 1 not done",
       "v": "Only block where the first inter-row weeding round had not been done by Feb 2026.",
@@ -2755,6 +3007,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 9.6 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 25,
+       "note": "1 of 4 rounds · 9.6 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 0,
+       "note": "not done by Feb",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done by Mar (PA 28 Apr)",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -2821,16 +3116,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "32.52 ha = 1 round done of 5 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "65.04 ha = 2 rounds done of 5 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Weeding Mar 2026",
       "v": "Inter-row and circle weeding both completed; acceptable, mostly soft grasses.",
@@ -2959,6 +3244,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan–Feb)",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 20,
+       "note": "1 of 5 rounds · 32.52 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 40,
+       "note": "2 of 5 rounds · 65.04 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -3020,16 +3348,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "1.95 ha = 1 round done of 6 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "3.90 ha = 2 rounds done of 6 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Weeds",
       "v": "Inter-row weeding done. Circles slightly weedy with Ageratum - targeted spray needed to ease harvesting and loose-fruit collection; circle weeding overdue (photo).",
@@ -3148,6 +3466,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compound · Jan",
+       "pct": 0,
+       "note": "0 of 0.35 t",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 17,
+       "note": "1 of 6 rounds · 1.95 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "2 of 6 rounds · 3.90 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -3230,24 +3577,8 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "31.92 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "31.92 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Weeding Feb-Mar 2026",
       "v": "Inter-row round 1 and circle round 1 completed; broadleaf control acceptable, grasses dominant; circle width maintained at 4 feet from trunk; new weeds suppressed.",
@@ -3408,6 +3739,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 31.92 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 31.92 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -3467,24 +3841,8 @@
       "src": "Agro 2/2025"
      }
     ],
-    "manuring": [
-     {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "7.02 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "7.02 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Weeds",
       "v": "Inter-row first round eradicated Hedyotis, Clidemia and Ageratum; soft grasses dominant. Sept 2025: patches of undesirable weeds attributed to poor herbicide wetting.",
@@ -3598,6 +3956,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 7.02 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 7.02 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -3657,24 +4044,8 @@
       "src": "Agro 2/2025"
      }
     ],
-    "manuring": [
-     {
-      "k": "Q1 2026 progress",
-      "v": "All scheduled Q1 2026 fertiliser rounds for the mature area applied on schedule per PA (estate totals: Jan Mix B 62.55 t, Feb NK1 6.40 t and Mix B 26.75 t, Mar AS 6.95 t, all 100% applied). No block-by-block tonnage printed.",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "3.96 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "3.96 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Weeds",
       "v": "Inter-row first round eradicated Hedyotis, Clidemia and Ageratum; soft grasses dominant. Sept 2025: patches of undesirable weeds attributed to poor herbicide wetting.",
@@ -3788,6 +4159,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Q1 rounds (all)",
+       "pct": 100,
+       "note": "all scheduled applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 3.96 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 3.96 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -3864,16 +4264,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "3.96 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "3.96 ha = 1 round done of 3 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Weeds",
       "v": "Inter-row first round eradicated Hedyotis, Clidemia and Ageratum; soft grasses dominant.",
       "src": "Agro 1/2026"
@@ -3933,6 +4323,35 @@
        "src": "Agro 1/2026"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "EFB 2026 (area covered)",
+       "pct": 15,
+       "note": "20.54 t · 0.59 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 3.96 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "1 of 3 rounds · 3.96 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -3994,16 +4413,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Mar 2026",
-      "v": "9.72 ha sprayed on a 4.86 ha block = 2 rounds done of 5 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Selective spray Jan-Mar 2026",
-      "v": "4.86 ha = 1 round done of 5 programmed for the year (to Mar 2026).",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Weeding Mar 2026",
       "v": "Inter-row and circle weeding both completed; acceptable, mostly soft grasses.",
@@ -4127,6 +4536,49 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan–Feb)",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 40,
+       "note": "2 of 5 rounds · 9.72 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 20,
+       "note": "1 of 5 rounds · 4.86 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Inter-row weeding",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -4247,6 +4699,18 @@
        "src": "Agro 1/2026"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "EFB 2026 (area covered)",
+       "pct": 8,
+       "note": "17.05 t · 0.49 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026"
     }
    }
   },
@@ -4407,6 +4871,18 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compound · Jan",
+       "pct": 0,
+       "note": "delayed, not applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026"
     }
    }
   },
@@ -4515,6 +4991,18 @@
        "src": "Agro 1/2026"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "EFB 2026 (area covered)",
+       "pct": 10,
+       "note": "14.23 t · 0.41 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026"
     }
    }
   }

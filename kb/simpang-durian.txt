@@ -70,6 +70,11 @@ ESTATE-WIDE FIELD NOTES
 [other] Drone palm census: PARAS GIS drone count Sep 2025: 31,285 palms in mature blocks; average density 101 palms/ha across 309.82 ha (includes replant). (Agro 1/2026)
 
 BLOCK P15A (70.13 ha, planted 2015, Mature)
+Manuring progress (to Apr 2026):
+  - Mix B · Feb: 100% — 21.45 t, done by Apr (PA 1/2026)
+Spraying progress (Jan–Apr 2026):
+  - Circle spraying (of year): 33% (worked out) — 70.13 of 210.39 ha (PA 1/2026)
+  - Selective spraying: 100% — 70.13 ha (PA 1/2026)
 Manuring progress:
   - Mix B Feb 2026 (2,250 g/palm): Fully applied by April: 21.45 t required/received/applied (100%) (PA Table 8; Mix B Feb line is P15A in the programme). Agro visit 25 Feb 2026: no application yet in 2026; Feb round started afterwards. (PA 1/2026)
   - Rock phosphate (Jun 2,000 g), Mix B May and Aug/Nov 2,250 g: Not yet due at Apr 2026. May Mix B requirement 21.45 t; RP 2026 estate requirement 34.05 t (June). (PA 1/2026)
@@ -118,6 +123,11 @@ Field:
   - Water conservation: Estate in Jelebu (driest region): 740 mm over 93 rain days in 10 months. Soft grasses, frond stacking, EFB mulch, bunds; no EFB budget in 2026. (PA 1/2026)
 
 BLOCK P99C (98.78 ha, planted 1999, Mature)
+Manuring progress (to Apr 2026):
+  - Mix A · Jan: 21% — 5.51 of 26.85 t (PA 1/2026)
+  - Mix A · Apr: 0% — 0 of 23.50 t applied (PA 1/2026)
+Spraying progress (Jan–Apr 2026):
+  - Selective spraying: 200% (worked out) — 197.56 of 98.78 ha (PA 1/2026)
 Manuring progress:
   - Mix A Jan 2026 (2,000 g/palm): Delivered late; only 5.51 t applied of 26.85 t (21%) by April (PA Table 8). No application at 25 Feb (Agro), January programme delayed because Mixture A had not been delivered. (PA 1/2026)
   - Mix A Apr 2026 (1,750 g): 23.50 t required, 8.66 t received, 0 applied by 20 Apr 2026. (PA 1/2026)
@@ -161,9 +171,11 @@ Field:
   - Census and stand: Drone count: P99C1 57.34 ha 7,441 palms 130 SPH; P99C2 41.44 ha 4,934 palms 119 SPH (lowest in estate). PA SPH 124. Planted 1999 (Chemara), over 24-26 years; replanting programme not finalised. Boundary and road: scupper drains needed. (Agro 1/2026)
 
 BLOCK P02D (73.17 ha, planted 2002, Mature)
+Manuring progress (to Apr 2026):
+  - Mix B · Jan: 100% — 19.90 t (PA 1/2026)
+  - Mix B · Apr: 100% — 17.40 t (PA 1/2026)
 Manuring progress:
   - Mix B Jan 2026 (2,000 g/palm): Not applied at 25 Feb because circles were weedy and covered with debris (Agro). By April 19.90 t required/received/applied (100%) (PA Table 8, Jan Mix B line). (Agro 1/2026)
-  - Mix B Apr 2026 (1,750 g): 17.40 t required/received/applied: 100%. (PA 1/2026)
   - Later rounds: RP 1,500 g (Jun), Mix B 2,000 g (Jul), 1,750 g (Oct). (Agro 1/2026)
   - 2025 rounds: Mix B May 2025 24.87 t 100%; RP Jun 2025: 12.35 of 14.92 t applied (79%, 2.57 t balance in stock) at Aug 2025. (Agro 2025)
 Spraying & weeding:

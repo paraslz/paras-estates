@@ -93,6 +93,11 @@ ESTATE-WIDE FIELD NOTES
 [other] Staff and labour: Total workers 60 vs 61 required; ratio 1:20 ha vs ideal 1:15. (PA 1/2026)
 
 BLOCK P97I (53.76 ha, planted 1997, Mature)
+Manuring progress (to May 2026):
+  - NK2 · round 1 (Feb): 100% — I1, I2 done, ~2 months late (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 100% — 53.76 ha (PA 1/2026)
+  - Selective / inter-row: 47% — 25.35 of 53.76 ha (PA 1/2026)
 Manuring progress:
   - NK2, round 1 (planned Feb, 2,000 g/palm): Applied late: I1 (28.41 ha) 3 Apr; I2 (25.35 ha) 4 Apr, about 2 months behind the Feb schedule. (PA 1/2026)
   - NK2, round 2 (PA planned Aug, 2,000 g): Not yet due at May. Agro revised programme withdrew one round in old mature areas, so the PA Aug round may not apply. (PA 1/2026)
@@ -132,8 +137,13 @@ Field:
   - Stand and field condition: Census 7,150 palms, SPH 133 (previous 7,526; SPH 130). Rated acceptable; two sub-blocks I1 28.41 ha, I2 25.35 ha (PA also lists 46.18 + 7.58 ha 'FE'). Replanting scheduled for 2028 (deferred from 2025); PA: no replanting in 2026/27. (Agro 1/2026)
 
 BLOCK P18A (89.43 ha, planted 2018, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — A1, A2 done, on time (PA 1/2026)
+  - Kieserite (Mar): 0% — none recorded; no stock (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 100% — 89.43 ha (PA 1/2026)
+  - Selective / inter-row: 100% — 178.86 ha (PA 1/2026)
 Manuring progress:
-  - Mix B round 1 (planned Jan, 2,250 g/palm): Applied: A1 (40.87 ha) 28-29 Jan; A2 (48.56 ha) 29-30 Jan. On time. (PA 1/2026)
   - Mix B round 2 (planned Apr, 2,000 g per PA; Agro revised 2,250 g): A2 applied 28-29 Apr; A1 not applied by May. (PA 1/2026)
   - Kieserite (planned Mar, 750 g): No application recorded to May (no stock; delivered in stages in June). (PA 1/2026)
   - Later rounds: RP 2,000 g (Jun); Mix B round 3 2,250 g (Jul); round 4 2,000 g (Sep), per PA table. (PA 1/2026)
@@ -182,9 +192,14 @@ Field:
   - Stand and field condition: Census 11,644 palms, SPH 130 (previous 12,520; 140; -8%). Stenochlaena in low-lying A1 (photos). Area 89.43 ha (A1 40.87, A2 48.56). (Agro 1/2026)
 
 BLOCK P20B (182.92 ha, planted 2020, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Feb): 100% — B1-B3 done, on time (PA 1/2026)
+  - Mix B · round 2 (May): 100% — B1-B3 done, on time (PA 1/2026)
+  - Kieserite (Mar): 0% — none recorded; stock shortage (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 200% — 365.84 of 182.92 ha (PA 1/2026)
+  - Selective / inter-row: 68% — 249.29 of 365.84 ha (PA 1/2026)
 Manuring progress:
-  - Mix B round 1 (planned Feb, 2,000 g/palm): Applied: B1 (54.23 ha) 20-23 Feb; B2 (66.37 ha) 14-16 Feb; B3 (62.32 ha) 10-12 Feb. On time. (PA 1/2026)
-  - Mix B round 2 (planned May, 2,000 g): Applied: B1 13-14 May; B2 15-19 May; B3 22-25 May. On time. (PA 1/2026)
   - Kieserite (planned Mar, PA 500 g; Agro 750 g): No application recorded to May (stock shortage). (PA 1/2026)
   - Later rounds: RP 1,750 g (Jun, PA); Mix B 2,000 g (Aug); Mix B 2,000 g (Oct), per PA. Agro revised: RP 2,000 g, Mix B 1,500 g Aug and Nov. (PA 1/2026)
 Spraying & weeding:
@@ -232,6 +247,13 @@ Field:
   - Stand and field condition: Census 23,882 palms, SPH 131 (previous 24,877; 136; -4%). Area 182.92 ha (B1 54.23, B2 66.37, B3 62.32). Jun 2025 phytotoxicity in B2 (addressed). (Agro 1/2026)
 
 BLOCK P21C (171.39 ha, planted 2021, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — C1-C4 done; C4 took 2 months (PA 1/2026)
+  - Mix B · round 2 (Apr): 100% — C1-C4 done, ~1 month late (PA 1/2026)
+  - Kieserite (Mar): 0% — none recorded to May (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 154% — 264.10 of 171.39 ha (PA 1/2026)
+  - Selective / inter-row: 114% — 196.00 of 171.39 ha (PA 1/2026)
 Manuring progress:
   - Mix B round 1 (planned Jan, 1,500 g/palm): Applied: C1 (24.61 ha) 28-29 Jan; C2 (54.07 ha) 27-28 Jan; C3 (46.29 ha) 30 Jan-1 Feb; C4 (46.42 ha) 2 Feb-2 Apr (took 2 months). (PA 1/2026)
   - Mix B round 2 (planned Apr, 1,750 g): Applied: C1 12 May; C2 2-4 May; C3 6-7 May; C4 9-11 May. About 1 month late. (PA 1/2026)
@@ -282,8 +304,14 @@ Field:
   - Stand and field condition: Census 20,978 palms, SPH 122 (previous 23,309; 144; -18%), the biggest SPH fall in the estate. Area 171.39 ha (C1 24.61, C2 54.07, C3 46.29, C4 46.42). Peat soil at C1. (Agro 1/2026)
 
 BLOCK P22D (197.42 ha, planted 2022, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — D1-D3 all done (PA 1/2026)
+  - Mix B · round 2 (Apr): 100% — done early, in Mar (PA 1/2026)
+  - Kieserite (Mar): 0% — none recorded to May (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 170% — 336.44 of 197.42 ha (PA 1/2026)
+  - Selective / inter-row: 50% — 197.42 of 394.84 ha (PA 1/2026)
 Manuring progress:
-  - Mix B round 1 (planned Jan, 1,500 g/palm): Applied: D1 (78.11 ha) 20-24 Jan; D2 (58.40 ha) 24-29 Jan; D3 (60.91 ha) 24-26 Jan. (PA 1/2026)
   - Mix B round 2 (planned Apr, 1,500 g): Applied early in Mar: D1 11-13 Mar; D2 13-16 Mar; D3 18-24 Mar. (PA 1/2026)
   - Kieserite (planned Mar, 500 g): No application recorded to May. (PA 1/2026)
   - Later rounds: RP 2,000 g (Jun); Mix B 1,750 g (Jul, Sep) per PA; Agro revised 1,500 g. (PA 1/2026)
@@ -331,6 +359,11 @@ Field:
   - Stand and field condition: Declared mature in 2026 (197.42 ha: D1 78.11, D2 58.40, D3 60.91). Census 26,810 palms, SPH 136 (previous 27,639; 144; -6%). Circles must be well kept for scout/mature harvesting. (Agro 1/2026)
 
 BLOCK PR23E (229.7 ha, planted 2023, Immature)
+Manuring progress (to May 2026):
+  - Budgeted rounds applied: 100% (worked out) — 2 of 2 rounds (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 178% — 409.40 of 229.70 ha (PA 1/2026)
+  - Selective / inter-row: 80% — 367.80 of 459.44 ha (PA 1/2026)
 Manuring progress:
   - Rounds applied to May 2026: 2 of 2 rounds budgeted were applied; palm appearance satisfactory (PA 12.1.5). Manuring cost RM116,219 vs RM219,280 budget to date (RM508.17/ha vs 958.81). (PA 1/2026)
   - Compound B to Mar 2026: Estate Compound B 49.6 t applied vs 49.6 t programme (100%), Compound A 0 of 60 t (start Apr). (Agro 1/2026)
@@ -372,6 +405,11 @@ Field:
   - Upkeep cost to May 2026: RM186,610 vs RM288,265 budget to date (RM815.96/ha); annual budget RM691,828; weeding RM27,551; manuring RM116,219; pest and disease RM11,366 (over budget RM8,465); drains RM2,202; roads RM12,937; bridges RM2,955; ablation RM4,486; pruning RM8,894. From start RM1,122,378 (RM4,907.64/ha). (PA 1/2026)
 
 BLOCK PR24F (229.7 ha, planted 2024, Immature)
+Manuring progress (to May 2026):
+  - Budgeted rounds applied: 50% (worked out) — 1 of 2 rounds; late delivery (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 93% — 425.08 of 459.4 ha (PA 1/2026)
+  - Selective / inter-row: 50% — 229.70 of 459.4 ha (PA 1/2026)
 Manuring progress:
   - Rounds applied to May 2026: 1 of 2 rounds budgeted applied; delay from late fertiliser delivery. Palm appearance satisfactory (PA 12.2.4). Manuring cost RM81,647 vs RM169,910 budget to date (RM355.45/ha vs 739.70). (PA 1/2026)
 Spraying & weeding:
@@ -404,6 +442,11 @@ Field:
   - Condition: Palms appearance satisfactory (photo 52); Nov 2025 low-lying F2 less vigorous, drains desilted and improved. (PA 1/2026)
 
 BLOCK PR25G (82.7 ha, planted 2025, Replant)
+Manuring progress (to May 2026):
+  - Budgeted rounds applied: 50% (worked out) — 1 of 2 rounds (PA 1/2026)
+Spraying progress (Jan–May 2026):
+  - Circle spraying: 76% — 125.10 of 165.40 ha (PA 1/2026)
+  - Selective / inter-row: 67% — 165.40 of 248.10 ha (PA 1/2026)
 Manuring progress:
   - Rounds applied to May 2026: 1 of 2 rounds budgeted applied (PA 12.3.4). (PA 1/2026)
   - EFB application: EFB at palm circle base ongoing and within standard; continue consistently (Agro 6.11). (Agro 1/2026)

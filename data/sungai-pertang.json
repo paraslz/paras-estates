@@ -174,11 +174,6 @@
     ],
     "manuring": [
      {
-      "k": "Mar 2026 NK1 round",
-      "v": "PA table: NK1 59.30 t required for Mar, nothing delivered or applied by the Mar 2026 progress report. PM98 and PM99 are the only blocks with NK1 in Mar (matched by programme)",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "No corrective fertiliser",
       "v": "No corrective fertiliser deemed necessary for P98 and P99 (oldest, weak vigour) as scheduled replanting is 2028; NK1 2,000 g programme still printed",
       "src": "Agro 1/2026"
@@ -225,16 +220,6 @@
      ]
     },
     "spraying": [
-     {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "0 ha done vs 122.00 ha programmed to date (annual programme 366.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "122.00 ha done vs 122.00 ha programmed to date (annual programme 366.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Circle weeding quality (Jan 2026)",
       "v": "Circle weeding recently completed in P98 was inconsistent: weeded radius smaller than required (under 6 ft), some palm circles not properly sprayed, excessive spraying between circles (\"strip\" spraying) (photos 72-75). Only block with circle weeding done by Jan 2026",
@@ -305,7 +290,36 @@
       "v": "Harvest rate RM56.00/t, earnings RM57.12/day (lowest productivity)",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK1 · round (Mar)",
+       "pct": 0,
+       "note": "0 of 59.30 t (shared)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 0,
+       "note": " of 122 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "122 of 122 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -390,11 +404,6 @@
     ],
     "manuring": [
      {
-      "k": "Mar 2026 NK1 round",
-      "v": "PA table: NK1 59.30 t required for Mar (shared with PM98), nothing delivered or applied by the Mar 2026 report",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "No corrective fertiliser",
       "v": "As PM98: no corrective fertiliser deemed necessary; replanting 2028",
       "src": "Agro 1/2026"
@@ -441,16 +450,6 @@
      ]
     },
     "spraying": [
-     {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "94.00 ha done vs 94.00 ha programmed to date (annual programme 282.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "94.00 ha done vs 94.00 ha programmed to date (annual programme 282.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Over-spraying",
       "v": "Over-spraying seen Aug 2025 (first inter-row round recently completed, photos 38-39); did not recur by Jan 2026; incomplete eradication of broadleaf weeds in sections of P99 (photos 40-41, 56-57); palm circles weedy (photo 64) with VOPs (photos 68-71)",
@@ -502,7 +501,36 @@
       "v": "Replanting postponed (PA 2.3, 10.39 t/ha over 9 months); Agro: tentatively 2028",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK1 · round (Mar)",
+       "pct": 0,
+       "note": "0 of 59.30 t (shared)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "94 of 94 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "94 of 94 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -582,11 +610,6 @@
     ],
     "manuring": [
      {
-      "k": "Feb 2026 NK1 round",
-      "v": "PA table: NK1 49.15 t required (Feb), 49.15 t delivered, 49.15 t applied, Completed. PM00 is the only block with NK1 programmed in Feb, so this round is PM00 (matched by programme)",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "AS allocation (Jan 2026)",
       "v": "Agro 3.13: AS stock to be allocated to P00 and P05 in January 2026",
       "src": "Agro 1/2026"
@@ -644,16 +667,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "156.00 ha done vs 156.00 ha programmed to date (annual programme 468.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "156.00 ha done vs 156.00 ha programmed to date (annual programme 468.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Circles (Jan 2026)",
       "v": "Slight overgrowth in palm circles (mainly Ageratum conyzoides), weedy circle (photo 64); VOPs significant in circles of P99, P00, P01, P02 (photos 68-71)",
       "src": "Agro 1/2026"
@@ -697,7 +710,36 @@
       "v": "154 ha of P00 plantings have passed 25 years of age this year (descending yield stage); slightly more than half the planted area is over 20 years old",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK1 · round (Feb)",
+       "pct": 100,
+       "note": "49.15 t",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "156 of 156 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "156 of 156 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -775,13 +817,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Feb 2026 Mix A round",
-      "v": "PA table: Mix A 70.85 t required (Feb), 20.85 t delivered, 20.00 t applied, In progress (shared by PM01, PM02, PM04, PM05, the only blocks with Mix A in Feb). Next: Mix A 70.85 t May",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -844,16 +880,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "85.00 ha done vs 85.00 ha programmed to date (annual programme 255.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "85.00 ha done vs 85.00 ha programmed to date (annual programme 255.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Circles (Jan 2026)",
       "v": "Palm circles acceptable (photos 62-63) but VOPs significant in older plantings of P99, P00, P01 and P02 circles (photos 68-71)",
       "src": "Agro 1/2026"
@@ -892,7 +918,36 @@
       "v": "11,730 palms, 138 SPH on 85 ha; Agro says census data likely outdated (PA SPH differs for several blocks)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · round (Feb)",
+       "pct": 28,
+       "note": "20.0 of 70.85 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "85 of 85 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "85 of 85 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -970,13 +1025,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Feb 2026 Mix A round",
-      "v": "PA table: Mix A 70.85 t required (Feb), 20.85 t delivered, 20.00 t applied, In progress (shared by PM01, PM02, PM04, PM05, the only blocks with Mix A in Feb). Next: Mix A 70.85 t May",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1039,16 +1088,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "0 ha done vs 23.00 ha programmed to date (annual programme 69.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "23.00 ha done vs 23.00 ha programmed to date (annual programme 69.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Circles (Jan 2026)",
       "v": "Palm circles acceptable (photos 62-63) though VOPs significant in the old plantings; PA: circle raking needed to remove debris and recover uncollected loose fruit (photo 6); patches of broadleaf weeds effectively eradicated (photos 58-59)",
       "src": "Agro 1/2026"
@@ -1087,7 +1126,36 @@
       "v": "3,174 palms, 138 SPH on 23 ha; Agro says census data likely outdated (PA SPH differs for several blocks)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · round (Feb)",
+       "pct": 28,
+       "note": "20.0 of 70.85 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 0,
+       "note": " of 23 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "23 of 23 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -1165,13 +1233,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Feb 2026 Mix A round",
-      "v": "PA table: Mix A 70.85 t required (Feb), 20.85 t delivered, 20.00 t applied, In progress (shared by PM01, PM02, PM04, PM05, the only blocks with Mix A in Feb). Next: Mix A 70.85 t May",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1234,16 +1296,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "0 ha done vs 87.00 ha programmed to date (annual programme 261.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "87.00 ha done vs 87.00 ha programmed to date (annual programme 261.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Weeds (Jan 2026)",
       "v": "Incomplete eradication of broadleaf weeds in sections of P04 (photo 57); jungle woodies and large VOPs (photos 60-61); circles acceptable; PA photos 3-4: circles mainly clean; circle raking needed (photo 5)",
       "src": "Agro 1/2026"
@@ -1294,7 +1346,36 @@
       "v": "12,006 palms, 138 SPH on 87 ha; Agro says census data likely outdated (PA SPH differs for several blocks)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · round (Feb)",
+       "pct": 28,
+       "note": "20.0 of 70.85 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 0,
+       "note": " of 87 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "87 of 87 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -1368,11 +1449,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Feb 2026 Mix A round",
-      "v": "PA table: Mix A 70.85 t required (Feb), 20.85 t delivered, 20.00 t applied, In progress (shared by PM01, PM02, PM04, PM05, the only blocks with Mix A in Feb). Next: Mix A 70.85 t May",
-      "src": "PA 1/2026"
-     },
      {
       "k": "AS application (Jan 2026)",
       "v": "Ammonium sulphate being applied by 7 workers at 20 bags each, below expectation; workers carried fertiliser in empty bags; containers of varying sizes used (non-standard), risk of uneven dosage; advice: standard pre-measured containers, wheelbarrows or mechanical badang / mini crawlers",
@@ -1451,16 +1527,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "58.00 ha done vs 58.00 ha programmed to date (annual programme 174.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "58.00 ha done vs 58.00 ha programmed to date (annual programme 174.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Circles and ground cover",
       "v": "Slight overgrowth in palm circles (soft weeds such as Ageratum conyzoides, photo 66); first inter-row round completed in P05 by Jan 2026; bare ground in P05 in Aug 2025 (photos 42-43); PA photo 2: inter-row satisfactory",
       "src": "Agro 1/2026"
@@ -1506,7 +1572,36 @@
       "v": "8,004 palms, 138 SPH on 58 ha; Agro says census data likely outdated (PA SPH differs for several blocks)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · round (Feb)",
+       "pct": 28,
+       "note": "20.0 of 70.85 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "58 of 58 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "58 of 58 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -1574,13 +1669,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1648,16 +1737,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "39.00 ha done vs 39.00 ha programmed to date (annual programme 117.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "0 ha done vs 39.00 ha programmed to date (annual programme 117.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Weeds",
       "v": "Incomplete eradication of broadleaf weeds in sections of P09; jungle woodies and large VOPs (photos 60-61); circle weeding: 1 round (39 ha) completed in 2025; inter-row second round done in 2025; circles acceptable",
       "src": "Agro 1/2026"
@@ -1708,7 +1787,36 @@
       "v": "Considerable grading done in P09 and P15 to improve road cambering (Agro 4.1.7)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "39 of 39 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": " of 39 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -1786,13 +1894,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1855,16 +1957,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "95.00 ha done vs 95.00 ha programmed to date (annual programme 285.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "0 ha done vs 95.00 ha programmed to date (annual programme 285.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Ground cover",
       "v": "First inter-row round completed Jan 2026; PA photo 3: circles mainly clean; Mucuna bracteata climbing onto fronds in terraced sections (Aug 2025, photos 44-45)",
       "src": "Agro 1/2026"
@@ -1920,7 +2012,36 @@
       "v": "288 palms removed in PM15 and PM16 combined (sterile and close planting)",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "95 of 95 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": " of 95 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -1998,13 +2119,7 @@
       "src": "Agro 1/2025"
      }
     ],
-    "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -2067,16 +2182,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "78.00 ha done vs 78.00 ha programmed to date (annual programme 234.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "0 ha done vs 78.00 ha programmed to date (annual programme 234.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Ground cover",
       "v": "Slight overgrowth in palm circles (Ageratum, photo 66-67); sparse vegetation / bare sections in P16 in Aug 2025 prone to erosion; 1 circle round completed 2025",
       "src": "Agro 1/2026"
@@ -2127,7 +2232,36 @@
       "v": "288 palms removed in PM15 and PM16 combined",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "78 of 78 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": " of 78 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -2200,13 +2334,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -2269,16 +2397,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "42.00 ha done vs 42.00 ha programmed to date (annual programme 126.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "42.00 ha done vs 42.00 ha programmed to date (annual programme 126.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Weeds (Jan 2026)",
       "v": "Inter-row weeding round 1 complete; circle weeding completed in P19A (Jan 2026); patches of wild brinjal and Clidemia hirta remain in P19 (photos 81-82); Mucuna bracteata effective in suppressing weeds in hilly sections (inter-row may be skipped there); circle encroachment by MB improved. Inter-row may also be deferred where Nephrolepis biserrata dominates",
       "src": "Agro 1/2026"
@@ -2338,7 +2456,36 @@
       "v": "RM65.00/t for steep terrain; productivity 1.22 t/man-day; RM79.30/day",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "42 of 42 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "42 of 42 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -2406,13 +2553,7 @@
       "src": "Agro 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -2475,16 +2616,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "20.00 ha done vs 20.00 ha programmed to date (annual programme 60.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "20.00 ha done vs 20.00 ha programmed to date (annual programme 60.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Weeds (Jan 2026)",
       "v": "Inter-row weeding round 1 complete; undesirable weeds (wild brinjal, Clidemia hirta) remain in P19; 2025: only one inter-row round, no circle weeding in young mature areas",
       "src": "Agro 1/2026"
@@ -2537,7 +2668,36 @@
       "v": "Topography mainly rolling to hilly; P19 terraces with close-planted etiolated palms; laterite sections restrict growth",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "20 of 20 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "20 of 20 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -2615,13 +2775,7 @@
       "src": "PA 1/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -2684,11 +2838,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "65.00 ha done vs 65.00 ha programmed to date (annual programme 195.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Circle spraying to Mar 2026",
       "v": "65.00 ha done vs 0 ha programmed to date (annual programme 195.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
       "src": "PA 1/2026"
@@ -2734,7 +2883,29 @@
       "v": "9,165 palms, 141 SPH on 65 ha; Agro says census data likely outdated (PA SPH differs for several blocks)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "65 of 65 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {
@@ -2808,11 +2979,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Jan 2026 Mix B round",
-      "v": "PA table: Mix B 141.35 t required (Jan), 109.40 t delivered, 101.55 t applied, In progress (shared by all Jan Mix B blocks: PM09, PM15, PM16, PM19, PM20, PM21 and PR23 per programme). Next: Mix B 140.00 t Apr",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Borate",
       "v": "Surplus borate (22 bags) recommended for P21 at 100 g/palm (Aug 2025)",
@@ -2891,16 +3057,6 @@
     },
     "spraying": [
      {
-      "k": "Inter-row spraying to Mar 2026",
-      "v": "66.00 ha done vs 66.00 ha programmed to date (annual programme 264.00 ha, mist blower, triclopyr-butotyl). Estate 798.00 of 1,030.00 ha",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Circle spraying to Mar 2026",
-      "v": "66.00 ha done vs 66.00 ha programmed to date (annual programme 198.00 ha). Estate 818.00 ha vs 965.00 ha programmed",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Weeds (Jan 2026)",
       "v": "Patches of wild bitter gourd in sections of P21 (photos 83-84); inter-row acceptable (photo 86); inter-row round 1 complete",
       "src": "Agro 1/2026"
@@ -2941,7 +3097,36 @@
       "v": "9,306 palms, 141 SPH on 66 ha; Agro says census data likely outdated (PA SPH differs for several blocks)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round (Jan)",
+       "pct": 72,
+       "note": "101.55 of 141.35 t (shared)",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row spraying",
+       "pct": 100,
+       "note": "66 of 66 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "66 of 66 ha to date",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
+    }
    }
   },
   {

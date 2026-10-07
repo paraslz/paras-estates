@@ -110,6 +110,9 @@ ESTATE-WIDE FIELD NOTES
 [other] Estate performance (PA 11.12): 'Fair'. Improve weeding, keep harvesting interval below 15 days, raise worker productivity. (PA 1/2026)
 
 BLOCK P89+P07+P13 (25.01 ha, planted None, Mature)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 0% — no work recorded (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Mix B 2025 round, programmed Jan: Programmed 4.00 t in Jan 2025; applied 4.00 t in Jan 2025; remark: completed. (PA 1/2026)
   - Mix B 2025 round, programmed Apr: Programmed 4.00 t in Apr 2025; applied 4.00 t in May 2025; remark: completed. (PA 1/2026)
@@ -120,7 +123,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 75.03 ha (3.00 rounds); done 75.03 ha (3 rounds) = 100% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 75.03 ha (3.00 rounds); done 75.03 ha (3.00 rounds) = 100% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: no work recorded. Selective: no work recorded. (PA 1/2026)
   - Condition (Jul 2026): Nephrolepis biserrata encroaching into harvesting paths and palm circles, particularly P89/P07; repeatedly highlighted, no tangible action taken. Control by targeted herbicide; widen harvesting paths to about 6 ft where Nephrolepis dominates (4.4.2c, 4.4.4; photos 19-22). Significant debris and obstructive weeds in circles (4.1.4). Nephrolepis dominant cover (photos 11-14). (Agro 2/2026)
   - Condition (Feb 2026): Acceptable inter-row conditions in P89/P07/P13 (photos 11-16); Nephrolepis encroaching into palm circles in P89/P07 (photos 23-24). (Agro 1/2026)
 Fertiliser programme (this year) 2027:
@@ -165,6 +167,9 @@ Field:
   - Replanting: Part of P89+P07+P13 was felled with part of P98 for replanting (PA: about 315 acres (127 ha) in 2.2 and 10.1; 351 acres/142 ha in 5.7.2; 217 ha in 11.1). Mature area to fall from 287.21 ha to 160.21 ha (PA 2.3). Replanted area (332 acres incl. ex-P89 and P98) to be redesignated PR26 (Agro 2.1). Area statement not yet updated. (PA 1/2026 / Agro 2/2026)
 
 BLOCK P98 (144.47 ha, planted None, Replant)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 0% — no work recorded (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Mix B 2025 round, programmed Feb: Programmed 10.20 t in Feb 2025; applied 10.20 t in Feb 2025; remark: completed. (PA 1/2026)
   - Mix B 2025 round, programmed May: Programmed 10.20 t in May 2025; applied 10.20 t in May 2025; remark: completed. (PA 1/2026)
@@ -174,7 +179,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 433.41 ha (3.00 rounds); done 433.41 ha (3 rounds) = 100% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 433.41 ha (3.00 rounds); done 144.47 ha (1.00 rounds) = 33% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: no work recorded. Selective: no work recorded. (PA 1/2026)
   - 2025 circle/selective note: PA text 5.1.3.3 says P05 and P06 completed 3.0 selective rounds while 'P89+P07+P13 only completed 1.0 round'; the PA table shows P98 and P04 at 1.00 round and P89+P07+P13 at 3.00 (see _gaps). (PA 1/2026)
   - Field condition: Circles in the old/prime areas generally free of weeds (PA 5.1.2.11). Remaining part of P98 (not replanted) was overdue for circle spraying in Aug 2025 with jungle woodies and banana trees in old plantings (Agro 2/2025). (PA 1/2026 / Agro 2/2025)
 Fertiliser programme (this year) 2027:
@@ -212,6 +216,9 @@ Field:
   - Replanting and development: Part of P98 replanted with part of P89 (332 acres in total, to be redesignated PR26) (Agro 2.1). Parts of P04, P06 and P98 covering about 117 acres proposed for a future housing project (Agro 2/2026 2.3; 105 acres in P04 and P98 in Agro 1/2026). Maintenance to continue until further notice (Agro 1/2026 2.2). Agro 2/2025: replanting of a portion of P98 (46 acres = 18.61 ha) not yet finalised. Agro 1/2026 2.3: after replanting of P98 more than 30% of palms are over 20 years old and only 6.6% in prime. PA decision table: delay of P98 replanting recommended. (Agro 2/2026 / Agro 1/2026 / Agro 2/2025 / PA 1/2026)
 
 BLOCK P04 (26.71 ha, planted None, Mature)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 0% — no work recorded (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Mix B 2025 round, programmed Jan: Programmed 7.50 t in Jan 2025; applied 7.50 t in Feb 2025; remark: completed. (PA 1/2026)
   - Mix B 2025 round, programmed Apr: Programmed 6.70 t in Apr 2025; applied 6.70 t in May 2025; remark: completed. (PA 1/2026)
@@ -222,7 +229,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 80.13 ha (3.00 rounds); done 53.42 ha (2 rounds) = 67% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 80.13 ha (3.00 rounds); done 26.71 ha (1.00 rounds) = 33% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: no work recorded. Selective: no work recorded. (PA 1/2026)
   - Condition (Jul 2026): Overgrown VOPs sporadic; Nephrolepis dominant; circle conditions acceptable (4.4.2a, photos 17, 23-26). Large VOPs to be trunk-injected with glyphosate at 60 ml per palm (4.4.3). (Agro 2/2026)
   - Condition (Feb 2026): Significant spots of Ageratum conyzoides, Asystasia intrusa, jungle woodies and large VOPs; undesirable weeds within palm circles; Nephrolepis in harvesting paths. In 2025 only one inter-row round was completed; estate told to prioritise inter-row weeding in P04 (4.4.1-4.4.5). (Agro 1/2026)
 Fertiliser programme (this year) 2027:
@@ -265,6 +271,9 @@ Field:
   - Development: Part of P04 proposed for future housing project (about 117 acres across P04, P06 and P98); pruning on hold there (Agro 2/2026 2.3, 4.3.2). (Agro 2/2026)
 
 BLOCK P05 (38.41 ha, planted None, Mature)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 0% — no work recorded (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Mix B 2025 round, programmed Jan: Programmed 10.70 t in Jan 2025; applied 10.70 t in Jan 2025; remark: completed. (PA 1/2026)
   - Mix B 2025 round, programmed Apr: Programmed 9.65 t in Apr 2025; applied 9.65 t in May 2025; remark: completed. (PA 1/2026)
@@ -275,7 +284,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 115.23 ha (3.00 rounds); done 115.23 ha (3 rounds) = 100% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 115.23 ha (3.00 rounds); done 115.23 ha (3.00 rounds) = 100% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: no work recorded. Selective: no work recorded. (PA 1/2026)
   - Condition (Jul 2026): Bare ground conditions recurring (photo 15); large epiphytes on trunks; circles acceptable (4.4.2d, 4.4.5). Bare ground had earlier reduced (Agro 1/2026 4.4.6). (Agro 2/2026)
   - Condition (Feb 2026): Palm circles generally acceptable; inter-row acceptable (photos 11-16, 25-28). (Agro 1/2026)
 Fertiliser programme (this year) 2027:
@@ -315,6 +323,9 @@ Field:
   - Palm census (PA Table 13, 2023 / 2024): Total palms 4,311 (2023) and 4,305 (2024); palms per ha 113 and 112; variance 6 palms. (PA 1/2026)
 
 BLOCK P06 (32.38 ha, planted None, Mature)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 0% — no work recorded (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Mix B 2025 round, programmed Jan: Programmed 9.90 t in Jan 2025; applied 9.90 t in Jan 2025; remark: completed. (PA 1/2026)
   - Mix B 2025 round, programmed Apr: Programmed 8.95 t in Apr 2025; applied 8.95 t in May 2025; remark: completed. (PA 1/2026)
@@ -325,7 +336,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 97.14 ha (3.00 rounds); done 97.14 ha (3 rounds) = 100% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 97.14 ha (3.00 rounds); done 97.14 ha (3.00 rounds) = 100% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: no work recorded. Selective: no work recorded. (PA 1/2026)
   - Condition (Jul 2026): Overgrown VOPs; over-spraying with bare ground; large epiphytes on trunks (photos 17, 16, 27-28); circles acceptable (4.4.2). Nephrolepis covering circles (PA photo 4, field 2006). (Agro 2/2026 / PA 1/2026)
   - Condition (Feb 2026): Palm circles generally acceptable; large epiphytes yet to be removed (photos 29-30). (Agro 1/2026)
 Fertiliser programme (this year) 2027:
@@ -365,6 +375,9 @@ Field:
   - Development: Part of P06 included in the roughly 117-acre housing-project proposal (Agro 2/2026 2.3). (Agro 2/2026)
 
 BLOCK P21 (20.23 ha, planted None, Young mature)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 0% — no work recorded (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Mix B 2025 round, programmed Jan: Programmed 3.30 t in Jan 2025; applied 3.30 t in Jan 2025; remark: completed. (Agro 1/2026)
   - Mix B 2025 round, programmed Apr: Programmed 4.10 t in Apr 2025; applied 4.10 t in Apr 2025; remark: completed. (Agro 1/2026)
@@ -375,7 +388,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 101.15 ha (5.00 rounds); done 60.69 ha (3 rounds) = 60% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 101.15 ha (5.00 rounds); done 20.23 ha (1.00 rounds) = 20% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: no work recorded. Selective: no work recorded. (PA 1/2026)
   - Condition (Jul 2026): Quality of weeding below satisfactory standards: bare ground from over-spraying (photos 43-44); weeded circles shown in photos 45-46. Keep soft grasses as ground cover (5.1.3-5.1.4). (Agro 2/2026)
   - Condition (Mar 2026 PA): Circle spraying due (PA photo 3) - labour shortage caused 60% completion; inter-row dominated by broadleaf weeds mainly Asystasia intrusa, wild bitter gourd, wild banana, Hedyotis, Clidemia hirta and Melastoma, plus small and overgrown VOP and Stenochlaena (5.1.3.6). PA decision: circle spraying to be expedited. (PA 1/2026)
   - Condition (Feb 2026): Some sections bare from over-spraying; Ischaemum muticum and wild bitter gourds sporadic (5.4). (Agro 1/2026)
@@ -420,6 +432,9 @@ Other:
   - Harvest rate: Rate RM90.00/t is for young mature P21; total harvest and collection cost RM114.00/t 'acceptable' (PA 6.8, 6.10). (PA 1/2026)
 
 BLOCK PR23 (18.29 ha, planted 2023, Immature)
+Spraying progress (Jan–Feb 2026):
+  - Circle spraying: 20% — 18.29 ha, 1.0 round (PA 1/2026)
+  - Selective / inter-row: 0% — no work recorded (PA 1/2026)
 Manuring progress:
   - Compound 2025 round, programmed Jan: Programmed 2.75 t in Jan 2025; applied 2.75 t in Jan 2025; remark: completed. (Agro 1/2026)
   - Compound 2025 round, programmed Apr: Programmed 2.75 t in Apr 2025; applied 2.75 t in Dec 2025; remark: completed. (Agro 1/2026)
@@ -430,7 +445,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle and path spraying 2025 (Jan-Dec): Programme 91.45 ha (5.00 rounds); done 73.16 ha (4 rounds) = 80% (Table 5). (PA 1/2026)
   - Selective (inter-row) spraying 2025 (Jan-Dec): Programme 91.45 ha (5.00 rounds); done 54.87 ha (3.00 rounds) = 60% (Table 7). (PA 1/2026)
-  - Jan-Feb 2026 progress (Tables 6 and 8): Circle: 18.29 ha, 1.0 round, 20% of programme. Selective: no work recorded. (PA 1/2026)
   - Condition (Jul 2026): Over-spraying noticeably reduced but significant sporadic patches of undesirable broadleaf weeds in inter-rows need immediate eradication (5.2.4; photos 55-58). (Agro 2/2026)
   - Condition (Mar 2026 PA): Banana grower completed their circle and removed all banana trees; wild banana regeneration cut and sprayed with Triclopyr (effective). Estate took over weeding; first circle round done, selective not started; inter-row dominated by noxious broadleaf weeds, Nephrolepis and soft grasses. Advised mist blower with Triclopyr + Ally 20DF (no glyphosate); spot-spray VOP and Stenochlaena with sodium chlorate herbicide. Bare ground from glyphosate overspray and Ischaemum muticum sprayed (PA photos 1-2). PA decision: remove banana regrowth repeatedly; promote soft grasses in inter-row. (PA 1/2026)
   - Condition (Feb 2026): First circle round recently completed but with excessive grass kill from over-spraying (photos 51-54); circle spraying to be confined to 6 ft radius from palm base (6.4). (Agro 1/2026)

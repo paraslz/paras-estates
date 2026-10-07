@@ -73,6 +73,8 @@ ESTATE-WIDE FIELD NOTES
 [other] Rainfall: 2025: 2,436 mm on 124 rain days (low in Jan 80 mm, Jun 84 mm, Jul 49 mm; over 250 mm in Apr 451 mm and Nov 448 mm). Jan-Mar 2026: Jan 17.0 mm (3 days), Feb 208.0 mm (6), Mar 107.0 mm (7) = 332.0 mm on 16 days. Drought in Jun-Jul 2025 expected to have hurt palm growth. (Agro 1/2026)
 
 BLOCK P90 (36.99 ha, planted 1990, Mature)
+Spraying progress (to May 2026):
+  - Blanket spraying: 100% — done as recommended (PA 1/2026)
 Manuring progress:
   - No manuring: Manuring has ceased in P90 since 2022 and none is required (Agro 1/2025, 2/2025, 1/2026). (Agro 1/2026)
 Spraying & weeding:
@@ -100,6 +102,10 @@ Field:
   - Condition: Poor palm appearance (Oct 2025 photos), weedy and inaccessible before blanket spraying; PA May 2026: field conditions much better. (Agro 2/2025)
 
 BLOCK P02 (12.58 ha, planted 2002, Mature)
+Manuring progress (to Apr 2026):
+  - 2026 rounds (all): 0% — not commenced, Apr 2026 (Agro 1/2026)
+Spraying progress (to Apr 2026):
+  - Circle weeding: 0% — not commenced at Mar 2026 (Agro 1/2026)
 Manuring progress:
   - 2025 NK1 rounds: NK1 2.00 kg/palm broadcast on 12.58 ha: Feb round completed Jan 2025, May round May 2025, Aug round Aug 2025, Nov round Nov 2025 (Agro 1/2026 Table 4: all completed without delay; applicators came from Perhentian Tinggi). PA table shows the Feb round applied in March and the May round in June, Aug and Nov on time. (Agro 1/2026)
   - 2026 progress (Apr 2026): Not commenced as of Mar 2026 / at the Apr 2026 visit, partly because of uncertainty over the solar project; applicators were at sub-soil work in Perhentian Tinggi. Agro 1/2026 Table 5 lists the 2026 plan for 12.58 ha as Mix A 2.25 kg Feb, NK1 2.00 kg May, Mix A 2.25 kg Aug, NK1 2.00 kg Nov (broadcast), before the revised programme. (Agro 1/2026)
@@ -147,6 +153,11 @@ Field:
   - Age: Planted 2002 (20-25 years: 69% of planted area together with P03). (Agro 1/2026)
 
 BLOCK P03 (72.4 ha, planted 2003, Mature)
+Manuring progress (to Apr 2026):
+  - 2026 rounds (all): 0% — not commenced, Apr 2026 (Agro 1/2026)
+Spraying progress (to Apr 2026):
+  - Circle weeding: 0% — not commenced at Mar 2026 (Agro 1/2026)
+  - Inter-row weeding: 0% — not commenced at Mar 2026 (Agro 1/2026)
 Manuring progress:
   - 2025 NK1 rounds: NK1 2.00 kg/palm broadcast on 72.40 ha: Feb round completed Jan 2025, May round May 2025, Aug round Aug 2025, Nov round Nov 2025 (Agro 1/2026 Table 4). PA table shows the Feb round applied in March and the May round in June. (Agro 1/2026)
   - 2026 progress (Apr 2026): Not commenced as of Mar 2026 / at the Apr 2026 visit, partly because of uncertainty over the solar project; applicators were at sub-soil work in Perhentian Tinggi. Agro 1/2026 Table 5 lists the 2026 plan for 72.40 ha as Mix A 2.25 kg Feb, NK1 2.00 kg May, Mix A 2.25 kg Aug, NK1 2.00 kg Nov (broadcast), before the revised programme. (Agro 1/2026)

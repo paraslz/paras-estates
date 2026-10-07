@@ -386,6 +386,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -629,6 +655,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -877,6 +929,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -1155,6 +1233,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -1423,6 +1527,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -1701,6 +1831,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -1937,6 +2093,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -2148,6 +2330,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -2350,6 +2558,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -2648,6 +2882,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -2922,6 +3182,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -3210,6 +3496,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -3494,6 +3806,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -3767,6 +4105,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -4060,6 +4424,32 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Later weeding rounds",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   }

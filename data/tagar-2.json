@@ -225,11 +225,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "160.63 ha area; 1.00 round (done Apr/May); Completed 1st Round; 3 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "321.26 ha; 2.00 rounds (Jan, May); completed 2nd round",
       "src": "PA 2/2026"
@@ -241,11 +236,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "NK2 Jan, 2,000 g",
-      "v": "Applied 22.01.26-14.02.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "NK2 May, 2,000 g",
       "v": "Scheduled, no date",
@@ -329,7 +319,29 @@
       "v": "321 chains; none done to Jun",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · Jan",
+       "pct": 100,
+       "note": "22 Jan–14 Feb",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 33,
+       "note": "1 of 3 rds · 160.63 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -394,11 +406,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "68.00 ha area; 1.00 round (Mar); 3 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "136.00 ha; 2.00 (Feb, May)",
       "src": "PA 2/2026"
@@ -410,11 +417,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix A Jan, 1,750 g",
-      "v": "Applied 16.01.26-19.01.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "NK1 Apr, 1,750 g",
       "v": "Applied 09.04.26-24.04.26; 4 workers, 20 bags per man-day, dosage 1,750 g, quality acceptable; ravine and platform difficulty, small buckets (Agro)",
@@ -498,7 +500,36 @@
       "v": "136 chains; none done to Jun",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Jan",
+       "pct": 100,
+       "note": "16–19 Jan",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "NK1 · Apr",
+       "pct": 100,
+       "note": "9–24 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 33,
+       "note": "1 of 3 rds · 68.00 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -563,11 +594,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "31.80 ha area; 1.00 round (Apr); 3 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "63.60 ha; 2.00 (Feb, Jun)",
       "src": "PA 2/2026"
@@ -578,18 +604,7 @@
       "src": "PA 2/2026"
      }
     ],
-    "manuring": [
-     {
-      "k": "Mix A Jan, 1,750 g",
-      "v": "Applied 29.01.26-30.01.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "NK1 Apr, 1,750 g",
-      "v": "Applied 22.04.26-23.04.26",
-      "src": "PA 2/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -655,7 +670,36 @@
       "v": "Outlying block",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Jan",
+       "pct": 100,
+       "note": "29–30 Jan",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "NK1 · Apr",
+       "pct": 100,
+       "note": "22–23 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 33,
+       "note": "1 of 3 rds · 31.80 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -720,11 +764,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "145.00 ha area; 1.00 round (Apr); 3 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "145.00 ha; 1.00 (Mar)",
       "src": "PA 2/2026"
@@ -736,16 +775,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B Feb, 2,250 g",
-      "v": "Applied 11.02.26-27.02.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B R2 May, 2,250 g",
-      "v": "Applied 14.04.26-20.05.26 (as printed)",
-      "src": "PA 2/2026"
-     },
      {
       "k": "RP Jun, 1,500 g",
       "v": "Dated 29.06.26, in progress",
@@ -834,7 +863,36 @@
       "v": "435 chains; none done to Jun",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Feb",
+       "pct": 100,
+       "note": "11–27 Feb",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B rd 2",
+       "pct": 100,
+       "note": "14 Apr–20 May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 33,
+       "note": "1 of 3 rds · 145.00 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -898,11 +956,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "84.12 ha area; 2.00 rounds (Mar, Jun); Completed 2nd Round; 3 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "126.18 ha; 3.00 (Feb, Apr, Jun)",
       "src": "PA 2/2026"
@@ -914,21 +967,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B Jan, 2,250 g",
-      "v": "Applied 20.01.26-26.01.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Kieserite Feb, 750 g",
-      "v": "Applied 22.02.26-24.02.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B Apr, 2,250 g",
-      "v": "Applied 16.05.26-26.05.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "RP May, 2,000 g",
       "v": "No date printed",
@@ -1022,7 +1060,43 @@
       "v": "168 chains; none done to Jun",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Jan",
+       "pct": 100,
+       "note": "20–26 Jan",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite · Feb",
+       "pct": 100,
+       "note": "22–24 Feb",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · Apr",
+       "pct": 100,
+       "note": "16–26 May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 67,
+       "note": "2 of 3 rds · 84.12 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1077,11 +1151,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "170.08 ha area; 2.00 rounds (Feb, May/Jun); 3 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "170.08 ha; 2.00 (Jan, Apr/Jun)",
       "src": "PA 2/2026"
@@ -1094,18 +1163,8 @@
     ],
     "manuring": [
      {
-      "k": "Mix B Feb, 2,250 g",
-      "v": "Applied 24.02.26-24.04.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Kieserite Mar, 750 g",
       "v": "Dates printed 19.06.26-17.06.26 (as printed)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B May, 2,000 g",
-      "v": "Applied 02.06.26-26.06.26",
       "src": "PA 2/2026"
      },
      {
@@ -1216,7 +1275,36 @@
       "v": "F1 damaged roads (Agro)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Feb",
+       "pct": 100,
+       "note": "24 Feb–24 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 100,
+       "note": "2–26 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 67,
+       "note": "2 of 3 rds · 170.08 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1271,11 +1359,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "105.82 ha area; 1.00 round (Mar); 4 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "234.64 ha; 2.22 (Jan, Mar/May, Jun); incompleted 3rd round",
       "src": "PA 2/2026"
@@ -1287,21 +1370,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B Feb, 2,000 g",
-      "v": "Applied 04.03.26-13.04.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Kieserite Mar, 500 g",
-      "v": "Applied 22.06.26-27.06.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B May, 2,000 g",
-      "v": "Applied 26.05.26-12.06.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Outstanding at Mar 2026",
       "v": "Mix B (Feb) outstanding in this block; kieserite (Mar) outstanding",
@@ -1390,7 +1458,43 @@
       "v": "423 chains; none done to Jun",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Feb",
+       "pct": 100,
+       "note": "4 Mar–13 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite · Mar",
+       "pct": 100,
+       "note": "22–27 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 100,
+       "note": "26 May–12 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 25,
+       "note": "1 of 4 rds · 105.82 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1454,11 +1558,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle spray to Jun 2026",
-      "v": "142.87 ha area; 1.49 rounds (Apr, May/Jun); Incompleted 2nd Round; 5 rounds budgeted",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Selective spray to Jun 2026",
       "v": "192.00 ha; 2.00 (Jan, Mar)",
       "src": "PA 2/2026"
@@ -1470,21 +1569,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B Feb, 1,500 g",
-      "v": "Applied 11.03.26-13.04.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B May, 1,750 g (52 ha)",
-      "v": "Applied 21.05.26-23.05.26",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B May, 1,500 g (44 ha)",
-      "v": "Applied 23.05.26-26.05.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Outstanding at Mar 2026",
       "v": "Mix B (Feb) outstanding in this block",
@@ -1588,7 +1672,43 @@
       "v": "P22B retarded palms in laterite gravelly soil; spot next to TNB rentis neglected (see spraying)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Feb",
+       "pct": 100,
+       "note": "11 Mar–13 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May (52 ha)",
+       "pct": 100,
+       "note": "21–23 May",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May (44 ha)",
+       "pct": 100,
+       "note": "23–26 May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 30,
+       "note": "1.49 of 5 rds · 142.87 ha",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   }
  ],

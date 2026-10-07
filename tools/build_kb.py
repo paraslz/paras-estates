@@ -50,6 +50,11 @@ def block_text(d):
         det = b.get("detail")
         if not det: continue
         out.append(f"\nBLOCK {b['id']} ({b.get('ha')} ha, planted {b.get('planted')}, {b.get('status')})")
+        pr = det.get("progress") or {}
+        for k in ("manuring", "spraying"):
+            if pr.get(k):
+                out.append(f"{k.capitalize()} progress ({pr.get(k + 'Period') or 'latest'}):")
+                for b in pr[k]: out.append(f"  - {b.get('k')}: {b.get('pct')}%{' (worked out)' if b.get('calc') else ''} — {b.get('note') or ''} ({b.get('src')})")
         for k, t in SEC:
             v = det.get(k)
             if not v or not rows(v): continue

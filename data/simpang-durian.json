@@ -313,6 +313,35 @@
        "src": "Agro 2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Feb",
+       "pct": 100,
+       "note": "21.45 t, done by Apr",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Apr 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (of year)",
+       "pct": 33,
+       "note": "70.13 of 210.39 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "70.13 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Apr 2026"
     }
    }
   },
@@ -517,6 +546,35 @@
        "src": "Agro 2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Jan",
+       "pct": 21,
+       "note": "5.51 of 26.85 t",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix A · Apr",
+       "pct": 0,
+       "note": "0 of 23.50 t applied",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Apr 2026",
+     "spraying": [
+      {
+       "k": "Selective spraying",
+       "pct": 200,
+       "note": "197.56 of 98.78 ha",
+       "src": "PA 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Apr 2026"
     }
    }
   },
@@ -578,11 +636,6 @@
       "k": "Mix B Jan 2026 (2,000 g/palm)",
       "v": "Not applied at 25 Feb because circles were weedy and covered with debris (Agro). By April 19.90 t required/received/applied (100%) (PA Table 8, Jan Mix B line).",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Mix B Apr 2026 (1,750 g)",
-      "v": "17.40 t required/received/applied: 100%.",
-      "src": "PA 1/2026"
      },
      {
       "k": "Later rounds",
@@ -721,6 +774,25 @@
        "src": "Agro 2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · Jan",
+       "pct": 100,
+       "note": "19.90 t",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · Apr",
+       "pct": 100,
+       "note": "17.40 t",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Apr 2026"
     }
    }
   },

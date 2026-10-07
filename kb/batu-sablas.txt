@@ -106,6 +106,10 @@ ESTATE-WIDE FIELD NOTES
 [other] Age profile and replanting: 68% of area prime age; 32% older (16% aged 20-25 years, 16% over 26 years). Replanting: P98 2028, P02 2029; no replanting in 2025-2027. (Agro 1/2026)
 
 BLOCK P98 (74 ha, planted 1998, Mature)
+Manuring progress (to Mar 2026):
+  - NK1 · round 1 (old palms): 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
 Manuring progress:
   - 2025 Mix A R1: Scheduled Jan, applied Jan 2025. (PA 1/2026)
   - 2025 Mix A R2: Scheduled May, applied Jul 2025. (PA 1/2026)
@@ -160,6 +164,10 @@ Field:
   - Replanting: Tentative replanting 2028 (74 ha, 15.95% of estate per table; text says about 1%); fertiliser to cease in 2027. Old palms over 26 years (16% of estate area). (Agro 1/2026)
 
 BLOCK P02 (74 ha, planted 2002, Mature)
+Manuring progress (to Mar 2026):
+  - NK1 · round 1 (old palms): 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
 Manuring progress:
   - 2025 Mix A R1: Scheduled Feb, applied Feb 2025. (PA 1/2026)
   - 2025 Mix A R2: Scheduled May, applied Jul 2025. (PA 1/2026)
@@ -214,6 +222,9 @@ Field:
   - Replanting: Tentative replanting 2029 (74 ha, 15.95% of estate). 20-25 year palms (16% of estate area). (Agro 1/2026)
 
 BLOCK P11A (47 ha, planted 2011, Mature)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding rd 1: 0% — not yet recorded (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: Scheduled Nov '24, applied Jan '25. (PA 1/2026)
   - 2025 Mix B round 2: Scheduled Apr, applied Jun. (PA 1/2026)
@@ -225,7 +236,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle spray 2025: Apr, Aug 2025 (third round month not legible; estate total 2.7 rounds covers 100% of budget); all completed as programmed (47 ha). (PA 1/2026)
   - Selective spray 2025: Feb, May, Sep 2025 (3 rounds, RM40.00/ha); all completed as programmed (47 ha). (PA 1/2026)
-  - Weeding Mar 2026: Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first). (Agro 1/2026)
   - Condition: PA photos: clean circles and clean inter-rows (some remaining spots of soft woodies and VOPs in the estate overall). (PA 1/2026)
   - Inter-row rounds Oct 2025: All three budgeted inter-row rounds completed; circle weeding 2 of 3 rounds done. (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -277,6 +287,9 @@ Field:
   - Terrace/hilly: Terraced and hilly areas in prime blocks: sporadic orange fronds; PA: broken terraces to be repaired with a mini-excavator if the quantity is sufficient; roads in hilly sections need backhoe spot repairs. (PA 1/2026)
 
 BLOCK P11B (64 ha, planted 2011, Mature)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding rd 1: 0% — not yet recorded (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: Scheduled Nov '24, applied Jan '25. (PA 1/2026)
   - 2025 Mix B round 2: Scheduled Apr, applied Jun. (PA 1/2026)
@@ -288,7 +301,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle spray 2025: Apr, Aug, Nov 2025 (3 rounds; RM35.00, 35.00 and 64.00 per ha as printed); all completed as programmed (64 ha). (PA 1/2026)
   - Selective spray 2025: Feb, May, Oct 2025 (3 rounds, RM40.00/ha); all completed as programmed (64 ha). (PA 1/2026)
-  - Weeding Mar 2026: Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first). (Agro 1/2026)
   - Condition: PA photos: clean circles and clean inter-rows (some remaining spots of soft woodies and VOPs in the estate overall). (PA 1/2026)
   - Inter-row rounds Oct 2025: Third inter-row round in progress in P11B (Sept-Oct 2025); circle weeding 2 of 3 rounds done (estate prime blocks). (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -343,6 +355,11 @@ Field:
   - Terrace/hilly: Terraced and hilly areas in prime blocks: sporadic orange fronds; PA: broken terraces to be repaired with a mini-excavator if the quantity is sufficient; roads in hilly sections need backhoe spot repairs. (PA 1/2026)
 
 BLOCK P12A (44 ha, planted 2012, Mature)
+Manuring progress (to Mar 2026):
+  - Mix B · round 1 (2026): 100% — 2 months behind (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding rd 1: 0% — not yet recorded (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: Scheduled Nov '24, applied Jan '25. (PA 1/2026)
   - 2025 Mix B round 2: Scheduled Apr, applied Jul. (PA 1/2026)
@@ -354,7 +371,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle spray 2025: Mar, Aug, Dec 2025 (3 rounds, RM35.00/ha); all completed as programmed (44 ha). (PA 1/2026)
   - Selective spray 2025: Feb, May, Oct 2025 (3 rounds; RM40.00, 44.00, 44.00 per ha as printed); all completed as programmed (44 ha). (PA 1/2026)
-  - Weeding Mar 2026: Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first). (Agro 1/2026)
   - Condition: PA photos: clean circles and clean inter-rows (some remaining spots of soft woodies and VOPs in the estate overall). (PA 1/2026)
   - Inter-row rounds Oct 2025: Third inter-row round in progress in P12A; circle weeding 2 of 3 rounds done. (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -407,6 +423,11 @@ Field:
   - Terrace/hilly: Terraced and hilly areas in prime blocks: sporadic orange fronds; PA: broken terraces to be repaired with a mini-excavator if the quantity is sufficient; roads in hilly sections need backhoe spot repairs. (PA 1/2026)
 
 BLOCK P12B (64 ha, planted 2012, Mature)
+Manuring progress (to Mar 2026):
+  - Mix B · round 1 (2026): 100% — 2 months behind (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding rd 1: 0% — not yet recorded (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: Scheduled Nov '24, applied Jan '25. (PA 1/2026)
   - 2025 Mix B round 2: Scheduled Apr, applied Jul. (PA 1/2026)
@@ -418,7 +439,6 @@ Manuring progress:
 Spraying & weeding:
   - Circle spray 2025: Mar, Aug, Dec 2025 (3 rounds, RM35.00/ha); all completed as programmed (64 ha). (PA 1/2026)
   - Selective spray 2025: Mar, Jun, Oct 2025 (3 rounds, RM40.00/ha); all completed as programmed (64 ha). (PA 1/2026)
-  - Weeding Mar 2026: Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first). (Agro 1/2026)
   - Condition: PA photos: clean circles and clean inter-rows (some remaining spots of soft woodies and VOPs in the estate overall). (PA 1/2026)
   - Inter-row rounds Oct 2025: Third inter-row round in progress in P12B; circle weeding 2 of 3 rounds done. (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -471,6 +491,11 @@ Field:
   - Terrace/hilly: Terraced and hilly areas in prime blocks: sporadic orange fronds; PA: broken terraces to be repaired with a mini-excavator if the quantity is sufficient; roads in hilly sections need backhoe spot repairs. (PA 1/2026)
 
 BLOCK P13A (51 ha, planted 2013, Mature)
+Manuring progress (to Mar 2026):
+  - Kieserite 2026: 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding rd 1: 100% — done (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: Scheduled May, applied Jun 2025. (PA 1/2026)
   - 2025 Mix B round 2: Scheduled Aug, applied Aug 2025. (PA 1/2026)
@@ -537,13 +562,17 @@ Field:
   - Terrace/hilly: Terraced and hilly areas in prime blocks: sporadic orange fronds; PA: broken terraces to be repaired with a mini-excavator if the quantity is sufficient; roads in hilly sections need backhoe spot repairs. (PA 1/2026)
 
 BLOCK P13B (46 ha, planted 2013, Mature)
+Manuring progress (to Mar 2026):
+  - Kieserite 2026: 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — done (Agro 1/2026)
+  - Circle weeding rd 1: 100% — done (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: Scheduled May, applied Jun 2025. (PA 1/2026)
   - 2025 Mix B round 2: Scheduled Aug, applied Aug 2025. (PA 1/2026)
   - 2025 Mix B round 3: Scheduled Nov, applied Oct 2025. (PA 1/2026)
   - 2025 RP (column headed 'CIRP'): Scheduled Jun, applied Jul 2025. (PA 1/2026)
   - 2025 Kieserite: Scheduled March, applied March 2025. (PA 1/2026)
-  - Kieserite 2026: Kieserite completed by March 2026 for P13 (Agro 3.3b). (Agro 1/2026)
 Spraying & weeding:
   - Circle spray 2025: Apr, Aug, Dec 2025 (3 rounds, RM35.00/ha); all completed as programmed (46 ha). (PA 1/2026)
   - Selective spray 2025: Mar, Jun, Aug 2025 (3 rounds, RM40.00/ha); all completed as programmed (46 ha). (PA 1/2026)

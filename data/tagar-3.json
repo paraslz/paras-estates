@@ -438,7 +438,29 @@
       "v": "Over 25 years old, 16% of planted area; replanting before 2030 should be considered (rising palm height, no proper terracing); P00B fertiliser to be withdrawn if replanted 2026/2027",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (2026)",
+       "pct": 100,
+       "note": "79.65 MT · 3 mths late",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Weeding rd 1 (2026)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -1007,7 +1029,19 @@
       "v": "Close planting in localised sections; thinning pending",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite (Mar)",
+       "pct": 0,
+       "note": "not applied at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -1544,7 +1578,26 @@
       "v": "P11E1 (129 ha) exceeds recommended block size; re-blocking pending",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "2 mths late",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2",
+       "pct": 0,
+       "note": "overdue at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -1864,7 +1917,36 @@
       "v": "Close planting in localised sections; thinning pending",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "2 mths late",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Mar)",
+       "pct": 0,
+       "note": "not applied at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "completed Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -2174,7 +2256,19 @@
       "v": "Close planting in localised sections; thinning pending",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite (Mar)",
+       "pct": 0,
+       "note": "not applied at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -2477,7 +2571,19 @@
       "v": "Budget 93.75 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite (Mar)",
+       "pct": 0,
+       "note": "not applied at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -2794,7 +2900,19 @@
       "v": "Census SPH 120 (was 132), considerably lower than expected; verify large vacant areas and consider supplying; PARAS Drone Unit can produce palm point map",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite (Mar)",
+       "pct": 0,
+       "note": "not applied at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -3102,7 +3220,19 @@
       "v": "Census SPH 132 (was 140); reduction after Garmin GPS census",
       "src": "Agro 2/2025"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite (Mar)",
+       "pct": 0,
+       "note": "not applied at May",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   }
  ],

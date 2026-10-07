@@ -414,7 +414,36 @@
       "v": "B3-B8 no manuring: to be replanted in 2027; GMD: deboling in 2027 replant area unnecessary",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · 2026 round",
+       "pct": 100,
+       "note": "B1, B2 · Feb",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding 2026",
+       "pct": 100,
+       "note": "complete",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding 2026",
+       "pct": 100,
+       "note": "done Jan–Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -633,7 +662,29 @@
       "v": "369.68 ha base: 1,047.12 MT, 20.94 ha at 50 MT/ha = 6% of area",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · 2026 round",
+       "pct": 100,
+       "note": "single round",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding 2026",
+       "pct": 100,
+       "note": "completed to Apr",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -851,7 +902,19 @@
       "v": "288.10 ha base: 28,956.00 MT, 579.12 ha at 50 MT/ha = 201% of area (twice the area base)",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK1 · round 1",
+       "pct": 100,
+       "note": "Feb · complete",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to May 2026"
+    }
    }
   },
   {
@@ -1767,7 +1830,26 @@
       "v": "Mucuna bracteata dominant in inter-rows; eradicate with Ally where it covers palms",
       "src": "Agro 2/2025"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–May 2026"
+    }
    }
   },
   {
@@ -1909,7 +1991,26 @@
       "v": "Cost of upkeep RM519,181 vs RM551,462 budget (RM2,335/ha vs RM2,480); from start RM1,028,683 (RM4,626/ha); felling and clearing from start RM2,462,895 (RM11,075/ha); total from start RM3,491,578 (RM15,701/ha); manuring RM268,121 vs RM250,877; pest and disease RM94,779 vs RM89,934; supplying RM33,700 vs RM31,300; weeding RM97,605 vs RM99,404; ablation RM260 vs RM11,120",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding",
+       "pct": 50,
+       "note": "2 of 4 rounds",
+       "src": "Agro 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle weeding",
+       "pct": 25,
+       "note": "1 of 4 rounds",
+       "src": "Agro 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -2050,7 +2151,26 @@
       "v": "Cost of upkeep RM467,493 vs RM503,949 budget (RM979.04/ha vs RM1,055.39); from start RM344,013 (RM720.45/ha); felling and clearing from start RM2,843,531 (RM11,146/ha); total from start RM3,187,544 (RM11,866/ha); manuring RM214,738 vs RM159,475 (over); planting materials RM314,555 this year vs nil budget; weeding RM123,977 vs RM133,173; pest and disease RM66,532 vs RM102,900; supplying RM31,800 vs RM46,950",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding",
+       "pct": 17,
+       "note": "1 of 6 rounds",
+       "src": "Agro 1/2026",
+       "calc": true
+      },
+      {
+       "k": "Circle weeding",
+       "pct": 33,
+       "note": "2 of 6 rounds",
+       "src": "Agro 1/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {

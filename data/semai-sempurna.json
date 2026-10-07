@@ -259,11 +259,6 @@
       "src": "PA 2/2026"
      },
      {
-      "k": "Mix B round, 2.00 kg/palm (2,000 g)",
-      "v": "Scheduled May; applied Apr, completed May 2026",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Rock phosphate (RP) 1,500 g/palm",
       "v": "Scheduled Jun 2026; no apply/complete dates printed at PA. Agro: slight delay in P06A and P09B, completion expected Jul 2026",
       "src": "PA 2/2026"
@@ -275,26 +270,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Jun 2026",
-      "v": "173.90 of 173.90 ha (1 round, 100%); Completed Apr 2026 (Agro 4.4.5)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Selective spray Jan-Jun 2026",
-      "v": "347.80 of 347.80 ha (2 rounds, 100%)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Inter-row round 1",
-      "v": "Feb 2026 (on schedule)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Round 2 inter-row",
-      "v": "Completed on schedule (Agro 4.4.3)",
-      "src": "Agro 2/2026"
-     },
      {
       "k": "Broadleaf weeds in vacant areas",
       "v": "Spots of broadleaf weed in vacant areas left by Ganoderma-fallen palms; weed these to prevent Clidemia hirta spreading. Photos 35-38 show broadleaf eradication effective",
@@ -473,7 +448,43 @@
       "v": "Mg out of desired range in P06A; P marginally low in P06A1. Appendix 2 table is an image and not readable",
       "src": "Agro 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Feb",
+       "pct": 100,
+       "note": "completed Mar",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 100,
+       "note": "completed May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 100,
+       "note": "174 of 174 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray",
+       "pct": 100,
+       "note": "348 of 348 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -571,16 +582,6 @@
     ],
     "manuring": [
      {
-      "k": "Mix A, 2.25 kg/palm (2,250 g)",
-      "v": "Scheduled Feb; applied and completed Feb 2026",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B round, 2.25 kg/palm (2,250 g)",
-      "v": "Scheduled May; applied and completed Apr 2026",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Rock phosphate (RP) 1,500 g/palm",
       "v": "Scheduled Jun 2026; no apply/complete dates printed. Agro: slight delay in P09B, completion expected Jul 2026",
       "src": "PA 2/2026"
@@ -592,21 +593,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Jun 2026",
-      "v": "202.40 of 202.40 ha (1 round, 100%); Completed Apr 2026 (Agro 4.4.5)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Selective spray Jan-Jun 2026",
-      "v": "336.00 of 404.80 ha (83%): round 2 only 133.60 of 202.40 ha at June",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Inter-row round 1",
-      "v": "Feb 2026 (on schedule)",
-      "src": "Agro 2/2026"
-     },
      {
       "k": "Round 2 inter-row, expected finish",
       "v": "83% at June; expected complete in Jul 2026 (Agro 4.4.3). Photos 39-42 show areas recently selectively weeded",
@@ -780,7 +766,43 @@
       "v": "N and K declined in P09B (Agro 1/2026 4.3.2); re-sampled Apr 2026 with no P09B exception listed",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Feb",
+       "pct": 100,
+       "note": "completed Feb",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · May",
+       "pct": 100,
+       "note": "completed Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 100,
+       "note": "202 of 202 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray",
+       "pct": 83,
+       "note": "336 of 405 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -878,37 +900,12 @@
     ],
     "manuring": [
      {
-      "k": "Mix B round 1, 2.25 kg/palm (2,250 g)",
-      "v": "Scheduled Jan; applied Feb, completed Feb 2026",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B round 2, 2.25 kg/palm (2,250 g)",
-      "v": "Scheduled Apr; applied Mar, completed Apr 2026",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Rock phosphate (RP) 1,500 g/palm",
-      "v": "Scheduled Jun; applied and completed Jun 2026",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Next round printed",
       "v": "PA shows 1.50 for Jul on the round 3 line (layout unclear; Mix B round 3 programme is 2,250 g in Jul)",
       "src": "PA 2/2026"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Jun 2026",
-      "v": "139.20 of 139.20 ha (1 round, 100%); Completed Mar 2026 (Agro 4.4.5)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Selective spray Jan-Jun 2026",
-      "v": "278.40 of 278.40 ha (100%)",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Inter-row round 1",
       "v": "Scheduled Jan, completed Feb 2026 (slight delay)",
@@ -1062,7 +1059,50 @@
       "v": "No P10C exception listed (N marginally low to high, P normal or high, K acceptable, B normal estate-wide)",
       "src": "Agro 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2",
+       "pct": 100,
+       "note": "completed Mar–Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Rock phosphate",
+       "pct": 100,
+       "note": "completed Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 100,
+       "note": "139 of 139 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray",
+       "pct": 100,
+       "note": "278 of 278 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1156,18 +1196,8 @@
     ],
     "manuring": [
      {
-      "k": "Mix B round 1, 2.50 kg/palm (2,500 g)",
-      "v": "Scheduled Jan; applied Jan, completed Feb 2026",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Mix B round 2, 2.50 kg/palm (2,500 g) as printed",
       "v": "Scheduled Apr; applied and completed Mar 2026. 2026 programme printed 2,500 g in Apr (2027 programme lowers Apr to 2,250 g).",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Rock phosphate (RP) 1,500 g/palm",
-      "v": "Scheduled, applied and completed Jun 2026",
       "src": "PA 2/2026"
      },
      {
@@ -1177,21 +1207,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Jun 2026",
-      "v": "72.80 of 72.80 ha (1 round, 100%); Completed Mar 2026 (Agro 4.4.5)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Selective spray Jan-Jun 2026",
-      "v": "145.60 of 145.60 ha (100%)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Inter-row round 1",
-      "v": "Jan 2026 (on schedule)",
-      "src": "Agro 2/2026"
-     },
      {
       "k": "Condition Jul 2026",
       "v": "Acceptable inter-row and circle conditions (Agro photos 43-46, 55-58)",
@@ -1325,7 +1340,50 @@
       "v": "No P11D exception listed",
       "src": "Agro 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2",
+       "pct": 100,
+       "note": "completed Mar–Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Rock phosphate",
+       "pct": 100,
+       "note": "completed Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 100,
+       "note": "73 of 73 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray",
+       "pct": 100,
+       "note": "146 of 146 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1409,18 +1467,8 @@
     ],
     "manuring": [
      {
-      "k": "Mix B round 1, 2.50 kg/palm (2,500 g)",
-      "v": "Scheduled, applied and completed Jan 2026",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Mix B round 2, 2.50 kg/palm (2,500 g) as printed",
       "v": "Scheduled Apr; applied and completed Mar 2026",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Rock phosphate (RP) 1,750 g/palm",
-      "v": "Scheduled, applied and completed Jun 2026",
       "src": "PA 2/2026"
      },
      {
@@ -1430,21 +1478,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spray Jan-Jun 2026",
-      "v": "80.10 of 80.10 ha (1 round, 100%); Completed Mar 2026 (Agro 4.4.5)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Selective spray Jan-Jun 2026",
-      "v": "160.20 of 160.20 ha (100%)",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Inter-row round 1",
-      "v": "Jan 2026 (on schedule)",
-      "src": "Agro 2/2026"
-     },
      {
       "k": "Condition Jul 2026",
       "v": "Acceptable inter-row and circle conditions (Agro photos 43-46, 55-58)",
@@ -1598,7 +1631,50 @@
       "v": "N and K declined in P11E (Agro 1/2026 4.3.2). 2027 programme adds kieserite 750 g in Jan for P11E",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2",
+       "pct": 100,
+       "note": "completed Mar–Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Rock phosphate",
+       "pct": 100,
+       "note": "completed Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spray",
+       "pct": 100,
+       "note": "80 of 80 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray",
+       "pct": 100,
+       "note": "160 of 160 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   }
  ],

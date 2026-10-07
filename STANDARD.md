@@ -60,8 +60,10 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
   yield with period) and the full report detail for that block (`blocks[].detail`) as simple two-column
   tables (item | finding), one fold per topic: Manuring progress, Spraying & weeding, Fertiliser
   programme (Month | Fertiliser | g/palm), Pests & diseases (these four open), then Yield & crop,
-  Harvesting, Pruning, Leaf & soil nutrients, Field condition, Other (closed). Sources shown once per
-  topic, not per line. Earlier-year records and the previous year's fertiliser programme sit in a
+  Harvesting, Pruning, Leaf & soil nutrients, Field condition, Other (closed). Manuring and spraying
+  show progress BARS (label · bar · %, green ≥90, amber ≥75, red below; "not due" grey for rounds
+  after the report period; * when % is worked out from done ÷ programme), with leftover remarks under
+  a closed "Notes" drop-down. Sources shown once per topic, not per line. Earlier-year records and the previous year's fertiliser programme sit in a
   "Earlier records" / "Previous year" drop-down, opened only on tap. Keep it decluttered.
   "Estate-wide field notes" fold below, then the "All blocks" yield table (collapsed).
 - **Money:**

@@ -161,13 +161,15 @@ Other:
   - GMD comment: Replanting for P93E2 to proceed as planned; PA records it as postponed to 2027 (Agro 1/2026)
 
 BLOCK P95F (50 ha, planted 1995, Mature)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
 Manuring progress:
   - Manuring status 2026: No 2026 programme; to be replanted 2027 (Agro 2/2025: no manuring required for P95F) (Agro 1/2026)
 Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 2 rounds budgeted, programmed/completed Feb and Sep 2025 at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective (inter-row) 2025: 2 rounds budgeted, programmed Jan and Jul 2025 at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (4 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round 100%; later rounds not yet due (Table 8, as at March 2026) (Agro 1/2026)
   - Circle/VOPs 2026: Circle weeding 1st round 2026 done to standard (weed-free 6-8 ft from trunk); significant volunteer oil palms (VOPs) in palm circles (Apr 2026); circles clean at PA visit 14 May 2026 (Agro 1/2026)
   - Weeding 2025 progress Sep: Inter-row and circle 2 rounds 100% (old planting programme complete), Sep 2025 (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -209,6 +211,9 @@ Other:
   - Fertiliser note: Agro 2/2025: no manuring for P95F as replanting set for 2027 (Agro 2/2025)
 
 BLOCK P01G (193 ha, planted 2001, Mature)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 0% — none recorded (Agro 1/2026)
 Manuring progress:
   - Subsurface Mix A 2025: Completed four months behind schedule; completed May 2025 per PA (0.8 ha/man-day, 15 bags/man-day, RM3.50/bag, earnings RM52.50 vs basic RM65.38/man-day) (Agro 1/2026)
   - Subsurface Mix A 2026 (observed Apr 2026): Subsurface Mix A seen in progress at visit 13 Apr 2026; quality acceptable; 4 equidistant holes per palm; six workers (four dug holes, three applied per report text); productivity 15 bags per worker (Agro 1/2026)
@@ -217,7 +222,6 @@ Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 2 rounds budgeted, programmed/completed Mar and Sep 2025 at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective 2025: 2 rounds budgeted, programmed Jan-Feb and Jul 2025 at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (4 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026) (Agro 1/2026)
   - Circle condition at visit: Circles due for spraying at PA visit (14 May 2026); PA asks to expedite circle spraying at P01G; inter rows clean (PA 1/2026)
   - Weed note Apr 2025: Schismatoglottis wallichii found in P01 and requires immediate eradication (Apr 2025 visit) (Agro 1/2025)
 Fertiliser programme (this year) 2026:
@@ -259,11 +263,13 @@ Field:
   - Palm census: Estate palm census outdated, no progress despite advice (Apr 2026) (Agro 1/2026)
 
 BLOCK P05H (95 ha, planted 2005, Mature)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 0% — none recorded (Agro 1/2026)
 Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 2 rounds budgeted, Feb and Aug 2025 at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective 2025: 3 rounds budgeted, Jan, Jun and Dec 2025 at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (4 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026) (Agro 1/2026)
   - Condition at PA visit: Clean circles and clean inter-rows; VOPs and spots of woodies seen (photos 14-15); remaining VOPs to be eradicated (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - Feb, Mix A: 2,000 g per palm (Agro 1/2026)
@@ -310,13 +316,15 @@ Field:
   - Cover/ground: Soft grasses predominant in inter-rows (Apr 2026) (Agro 1/2026)
 
 BLOCK P13A1 (43 ha, planted 2013, Mature)
-Manuring progress:
-  - Mix B 1st round 2026: Completed by Mar 2026 (fields P13A and P18B) (Agro 1/2026)
+Manuring progress (to Mar 2026):
+  - Mix B · round 1: 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
 Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 3 rounds budgeted, Feb, Jun and Dec 2025 at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective 2025: 3 rounds budgeted, Jan, May and Oct 2025 at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (6 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round 100% (Table 8, as at March 2026) (Agro 1/2026)
   - Condition at PA visit: Clean circles; clean inter rows with spots of woodies; remaining VOPs to be eradicated (PA 1/2026)
   - Weeding Sep 2025: Inter-row 2 of 3 rounds and circle 2 of 3 rounds complete (3rd 0%) (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -366,13 +374,15 @@ Field:
   - Planting density: Close planting in P13; selective thinning advised (2025) (Agro 2/2025)
 
 BLOCK P13A2 (42 ha, planted 2014, Mature)
-Manuring progress:
-  - Mix B 1st round 2026: Completed by Mar 2026 (fields P13A and P18B) (Agro 1/2026)
+Manuring progress (to Mar 2026):
+  - Mix B · round 1: 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 0% — none recorded (Agro 1/2026)
 Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 3 rounds budgeted, Feb, Jun and Dec 2025 at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective 2025: 3 rounds budgeted; Jan, May, Oct and Nov 2025 printed at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (6 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026) (Agro 1/2026)
   - Weeding Sep 2025: Inter-row 2 of 3 rounds and circle 2 of 3 rounds complete (3rd 0%) (Agro 2/2025)
 Fertiliser programme (this year) 2026:
   - Jan, Mix B: 2,250 g per palm (Agro 1/2026)
@@ -419,14 +429,17 @@ Nutrients:
   - Deficiency symptoms: Mild potassium deficiency (confluent orange spotting) in localised areas, P13A2 (photos 13-14, Apr 2026); K symptoms in P13 to be monitored (Agro 1/2026)
 
 BLOCK P13A3 (60 ha, planted 2013, Mature)
+Manuring progress (to Mar 2026):
+  - Mix B · round 1: 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 0% — none recorded (Agro 1/2026)
 Manuring progress:
-  - Mix B 1st round 2026: Completed by Mar 2026 (fields P13A and P18B) (Agro 1/2026)
   - Compact B 2025 quality check: Assessed in P13A3 (Sep/Oct 2025): 3 workers, 81 bags at 2,250 g per palm, 27 bags per worker, no palms omitted, evenly broadcast; satisfactory (Agro 2/2025)
 Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 3 rounds budgeted, Apr, Aug and Dec 2025 at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective 2025: 3 rounds budgeted, Mar, Jul and Nov 2025 at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (6 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026) (Agro 1/2026)
   - Condition at PA visit: Clean circles and clean inter rows (photos 7, 12) (PA 1/2026)
   - Weeding Sep 2025: Inter-row 2 of 3 rounds and circle 2 of 3 rounds complete (3rd 0%) (Agro 2/2025)
 Fertiliser programme (this year) 2026:
@@ -476,13 +489,15 @@ Nutrients:
   - Deficiency symptoms: Mild Mg deficiency in a few palms (Sep 2025); leaf N marginally low and declining; localised K/Mg symptoms in P13A (Apr 2026) (Agro 1/2026)
 
 BLOCK P18B (94 ha, planted 2018, Young mature)
-Manuring progress:
-  - Mix B 1st round 2026: Completed by Mar 2026 (fields P13A and P18B) (Agro 1/2026)
+Manuring progress (to Mar 2026):
+  - Mix B · round 1: 100% — done by Mar 2026 (Agro 1/2026)
+Spraying progress (to Mar 2026):
+  - Inter-row weeding rd 1: 100% — Mar 2026 (Agro 1/2026)
+  - Circle weeding rd 1: 0% — none recorded (Agro 1/2026)
 Spraying & weeding:
   - Circle spray programme 2025: Circle 2025: 3 rounds budgeted; Apr, Jul, Nov and Dec 2025 printed at RM35.00/ha (PA 1/2026)
   - Inter-row/selective programme 2025: Selective 2025: 3 rounds budgeted, Mar, Jun and Oct 2025 at RM40.00/ha (PA 1/2026)
   - Weeding rounds 2025 completion: All printed rounds recorded 100% (7 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds (Agro 1/2026)
-  - Weeding progress Mar 2026: inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026) (Agro 1/2026)
   - Condition at PA visit: Clean circles and clean inter rows (photos 11, 19) (PA 1/2026)
   - Weeding Sep 2025: Budgeted 4 rounds each for circle and inter-row; 2 completed each (3rd and 4th 0%) at Sep 2025; inter-row quality satisfactory with soft grasses dominant (Agro 2/2025)
   - Weed note Sep 2025: Localised Ageratum conyzoides in some palm circles; eradicate to avoid obstructing loose-fruit collection (Agro 2/2025)
@@ -540,6 +555,10 @@ Field:
   - Roads: Estate roads generally satisfactory for crop evacuation (Apr 2026); damaged roads in hilly sections (PA) (Agro 1/2026)
 
 BLOCK PR24C (43 ha, planted 2024, Immature)
+Manuring progress (to Apr 2026):
+  - Compound 25 · round 1: 100% — completed (Agro 1/2026)
+Spraying progress (to Apr 2026):
+  - Circle weeding rd 1: 100% — completed (Agro 1/2026)
 Manuring progress:
   - Comp 25 2026: First round of Compound 25 completed close to schedule; no manuring delays; no deficiency symptoms (Apr 2026) (Agro 1/2026)
   - Fertilised 2025: 215 ha (5 rounds) = 100% of 215 ha budgeted (PA 1/2026)
@@ -576,9 +595,11 @@ Field:
   - Upkeep cost Jan-Dec 2025: RM99,425 actual vs RM128,797 budget (RM2,312/ha vs RM2,995/ha); cost from start RM202,296 (RM4,705/ha); manuring RM63,605 vs RM71,245; weeding RM17,370 vs RM19,350; pest and disease RM10,400 vs RM19,608; boundary/survey/fences RM7,633 vs nil; cost of felling and clearing from start RM121,183 (RM2,818/ha) (PA 1/2026)
 
 BLOCK PR25D (60 ha, planted 2025, Replant)
+Manuring progress (to Mar 2026):
+  - CRF (replanting): 42% — 2.04 MT c/f of 2.78 MT (Agro 1/2026)
+  - RP (replanting): 0% — 0% applied (Agro 1/2026)
 Manuring progress:
   - At planting: Controlled-release fertiliser (CRF) plus rock phosphate (RP) put into planting holes at transplanting: text says CRF 500 g + RP 600 g; Appendix 1b says CRF 600 g + RP 500 g (Agro 1/2026)
-  - Replanting fertiliser stock Mar 2026: CRF (replanting) 2.78 MT required for 2026, 2.04 MT carried forward, 42% done; RP (replanting) 2.30 MT required, 0% applied (Agro 1/2026)
 Spraying & weeding:
   - Blanket spraying 2025: 1st round June 2025; 2nd round September 2025; a lot of remaining VOPs seen, to be eradicated as soon as possible (photos 49-50) (PA 1/2026)
   - Circle condition: Clean circles at PA visit 14 May 2026 (PA 1/2026)

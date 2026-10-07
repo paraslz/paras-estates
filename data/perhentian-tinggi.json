@@ -489,11 +489,6 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round 100%; later rounds not yet due (Table 8, as at March 2026)",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle/VOPs 2026",
       "v": "Circle weeding 1st round 2026 done to standard (weed-free 6-8 ft from trunk); significant volunteer oil palms (VOPs) in palm circles (Apr 2026); circles clean at PA visit 14 May 2026",
       "src": "Agro 1/2026"
@@ -603,7 +598,26 @@
       "v": "Agro 2/2025: no manuring for P95F as replanting set for 2027",
       "src": "Agro 2/2025"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -719,11 +733,6 @@
      {
       "k": "Weeding rounds 2025 completion",
       "v": "All printed rounds recorded 100% (4 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026)",
       "src": "Agro 1/2026"
      },
      {
@@ -846,7 +855,26 @@
       "v": "Estate palm census outdated, no progress despite advice (Apr 2026)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "none recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -967,11 +995,6 @@
      {
       "k": "Weeding rounds 2025 completion",
       "v": "All printed rounds recorded 100% (4 round-cells, Table 7: inter-row and circle, as at Dec 2025); weeding programme for 2025 completed in all fields per budgeted rounds",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026)",
       "src": "Agro 1/2026"
      },
      {
@@ -1097,7 +1120,26 @@
       "v": "Soft grasses predominant in inter-rows (Apr 2026)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "none recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -1211,11 +1253,6 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round 100% (Table 8, as at March 2026)",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Condition at PA visit",
       "v": "Clean circles; clean inter rows with spots of woodies; remaining VOPs to be eradicated",
       "src": "PA 1/2026"
@@ -1226,13 +1263,7 @@
       "src": "Agro 2/2025"
      }
     ],
-    "manuring": [
-     {
-      "k": "Mix B 1st round 2026",
-      "v": "Completed by Mar 2026 (fields P13A and P18B)",
-      "src": "Agro 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1370,7 +1401,36 @@
       "v": "Close planting in P13; selective thinning advised (2025)",
       "src": "Agro 2/2025"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -1480,23 +1540,12 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026)",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Weeding Sep 2025",
       "v": "Inter-row 2 of 3 rounds and circle 2 of 3 rounds complete (3rd 0%)",
       "src": "Agro 2/2025"
      }
     ],
-    "manuring": [
-     {
-      "k": "Mix B 1st round 2026",
-      "v": "Completed by Mar 2026 (fields P13A and P18B)",
-      "src": "Agro 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1627,7 +1676,36 @@
       "v": "Mild potassium deficiency (confluent orange spotting) in localised areas, P13A2 (photos 13-14, Apr 2026); K symptoms in P13 to be monitored",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "none recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -1746,11 +1824,6 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026)",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Condition at PA visit",
       "v": "Clean circles and clean inter rows (photos 7, 12)",
       "src": "PA 1/2026"
@@ -1762,11 +1835,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B 1st round 2026",
-      "v": "Completed by Mar 2026 (fields P13A and P18B)",
-      "src": "Agro 1/2026"
-     },
      {
       "k": "Compact B 2025 quality check",
       "v": "Assessed in P13A3 (Sep/Oct 2025): 3 workers, 81 bags at 2,250 g per palm, 27 bags per worker, no palms omitted, evenly broadcast; satisfactory",
@@ -1908,7 +1976,36 @@
       "v": "Mild Mg deficiency in a few palms (Sep 2025); leaf N marginally low and declining; localised K/Mg symptoms in P13A (Apr 2026)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "none recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -2032,11 +2129,6 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Weeding progress Mar 2026",
-      "v": "inter-row 1st round 100%; circle 1st round: no round recorded (Table 8, as at March 2026)",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Condition at PA visit",
       "v": "Clean circles and clean inter rows (photos 11, 19)",
       "src": "PA 1/2026"
@@ -2052,13 +2144,7 @@
       "src": "Agro 2/2025"
      }
     ],
-    "manuring": [
-     {
-      "k": "Mix B 1st round 2026",
-      "v": "Completed by Mar 2026 (fields P13A and P18B)",
-      "src": "Agro 1/2026"
-     }
-    ],
+    "manuring": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -2221,7 +2307,36 @@
       "v": "Estate roads generally satisfactory for crop evacuation (Apr 2026); damaged roads in hilly sections (PA)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "none recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
+    }
    }
   },
   {
@@ -2399,7 +2514,29 @@
       "v": "RM99,425 actual vs RM128,797 budget (RM2,312/ha vs RM2,995/ha); cost from start RM202,296 (RM4,705/ha); manuring RM63,605 vs RM71,245; weeding RM17,370 vs RM19,350; pest and disease RM10,400 vs RM19,608; boundary/survey/fences RM7,633 vs nil; cost of felling and clearing from start RM121,183 (RM2,818/ha)",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compound 25 · round 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Apr 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "completed",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -2448,11 +2585,6 @@
      {
       "k": "At planting",
       "v": "Controlled-release fertiliser (CRF) plus rock phosphate (RP) put into planting holes at transplanting: text says CRF 500 g + RP 600 g; Appendix 1b says CRF 600 g + RP 500 g",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Replanting fertiliser stock Mar 2026",
-      "v": "CRF (replanting) 2.78 MT required for 2026, 2.04 MT carried forward, 42% done; RP (replanting) 2.30 MT required, 0% applied",
       "src": "Agro 1/2026"
      }
     ],
@@ -2549,7 +2681,26 @@
       "v": "PA heading prints \"PR25/D (94 ha)\" but the area statement and Agro Table 1 give 60.0 ha",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "CRF (replanting)",
+       "pct": 42,
+       "note": "2.04 MT c/f of 2.78 MT",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (replanting)",
+       "pct": 0,
+       "note": "0% applied",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026"
+    }
    }
   }
  ],

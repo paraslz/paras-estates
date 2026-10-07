@@ -201,6 +201,9 @@ Field:
   - Palm census 2026 (drone, PARAS GIS Unit): Drone area 28.56 (C1 16.87 ha 1,873 palms 111 SPH; C2 11.69 ha 1,183 palms 101 SPH) ha; 3,056 palms; 106 SPH. (Agro 1/2026)
 
 BLOCK P04D (46.94 ha, planted 2004, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Apr: 0% — outstanding (Agro 1/2026)
+  - RP · May: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: 14.05 MT; programmed Jan, applied Feb/Mar; completed March 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Mix B round 2: 12.50 MT; programmed Apr, applied May; completed May 2025 (PA 1/2026 Table). (PA 1/2026)
@@ -249,6 +252,9 @@ Field:
   - Palm census 2026 (drone, PARAS GIS Unit): Drone area 50.13 ha; 6,328 palms; 126 SPH. (Agro 1/2026)
 
 BLOCK P05E (32.02 ha, planted 2005, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B sub-surface · Feb: 0% — outstanding (Agro 1/2026)
+  - RP · May: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025 RP: 6.50 MT; programmed May, applied Jul; completed July 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Mix B sub-surface: 34.60 MT (8 kg/palm, 4 holes); programmed Feb, applied Mar-May; completed (PA 1/2026 Table). (PA 1/2026)
@@ -293,6 +299,11 @@ Field:
   - Sub-block E2: E2 has only 93 SPH (below 100). (Agro 1/2026)
 
 BLOCK P13F (14.42 ha, planted 2013, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Jan: 0% — outstanding (Agro 1/2026)
+  - Mix B · Apr: 0% — outstanding (Agro 1/2026)
+  - Kieserite · Feb: 0% — outstanding (Agro 1/2026)
+  - RP · May: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: 3.25 MT; programmed Jan, applied Jan; completed January 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Kieserite: 1.65 MT; programmed Feb, applied Mar; completed March 2025 (PA 1/2026 Table). (PA 1/2026)
@@ -301,7 +312,6 @@ Manuring progress:
   - 2025 Mix B round 3: 3.25 MT; programmed Jul, applied Nov; completed November 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Mix B round 4: 3.25 MT; programmed Oct, applied Dec; completed December 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 deviation: Mix B 2nd, 3rd and 4th rounds and RP completed 2 or more months late (Agro 2/2025). (Agro 2/2025)
-  - 2026 outstanding (Jun 2026): All rounds to June outstanding: Mix B Jan and Apr, Kieserite Feb, RP May. (Agro 1/2026)
 Spraying & weeding:
   - Neglected plot: One plot at P13/F to be rehabilitated; neglected for a long time (no road access); new road opened (Photo 13). (PA 1/2026)
   - Weeding 2026 (Jun 2026): One circle round done. Inter-rows acceptable (Mucuna bracteata and Nephrolepis biserrata dominant); deferment acceptable. Mucuna encroaching on harvesting paths and palm circles in terraced sections; timely weeding needed. (Agro 1/2026)
@@ -347,6 +357,9 @@ Field:
   - Rehabilitation: Recent rehabilitation of neglected areas in H1 2026 (Photos 33-34, 41-46) has improved crop recovery significantly; some sections still inaccessible and not attended (Photos 11-12, 39-40). (Agro 1/2026)
 
 BLOCK P18G1 (17.52 ha, planted 2018, Young mature)
+Manuring progress (to Jun 2026):
+  - Kieserite · Mar: 0% — outstanding (Agro 1/2026)
+  - Mix B · May: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: 4.75 MT; programmed Feb, applied Jan; completed January 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Kieserite: 1.80 MT; programmed Mar, applied May; completed May 2025 (PA 1/2026 Table). (PA 1/2026)
@@ -402,6 +415,9 @@ Field:
   - Low-lying sections: A small portion of palms in low-lying areas show pale green canopies from waterlogging (Photos 61-62); inspect and improve drainage. Agro refers to the young mature planting as P18A (ex P86A1-3, 182 ac); blocks G1, G2, G3. (Agro 1/2026)
 
 BLOCK P18G2 (27.31 ha, planted 2018, Young mature)
+Manuring progress (to Jun 2026):
+  - Kieserite · Mar: 0% — outstanding (Agro 1/2026)
+  - Mix B · May: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: 7.45 MT; programmed Feb, applied Mar; completed March 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Kieserite: 2.80 MT; programmed Mar, applied May; completed May 2025 (PA 1/2026 Table). (PA 1/2026)
@@ -455,6 +471,9 @@ Field:
   - Young mature P18A: Young mature planting P18A (ex P86A1-3), prime yielding stage; see P18G1 for the low-lying waterlogging remark that applies to P18 low-lying sections. (Agro 1/2026)
 
 BLOCK P18G3 (27.72 ha, planted 2018, Young mature)
+Manuring progress (to Jun 2026):
+  - Kieserite · Mar: 0% — outstanding (Agro 1/2026)
+  - Mix B · May: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025 Mix B round 1: 7.55 MT; programmed Feb, applied Mar; completed March 2025 (PA 1/2026 Table). (PA 1/2026)
   - 2025 Kieserite: 2.85 MT; programmed Mar, applied May; completed May 2025 (PA 1/2026 Table). (PA 1/2026)
@@ -508,8 +527,12 @@ Field:
   - Young mature P18A: Young mature planting P18A (ex P86A1-3), prime yielding stage; see P18G1 for the low-lying waterlogging remark that applies to P18 low-lying sections. (Agro 1/2026)
 
 BLOCK PR21H (26.83 ha, planted 2021, Young mature)
+Manuring progress (to Jun 2026):
+  - Kieserite · Mar: 0% — outstanding (Agro 1/2026)
+  - Mix B · May: 0% — outstanding (Agro 1/2026)
+Spraying progress (to Jun 2026):
+  - Circle weeding: 0% — outstanding (Agro 1/2026)
 Manuring progress:
-  - 2026 outstanding (Jun 2026): Kieserite (Mar, the additional Mg round) and Mix B (May) outstanding. Agro: the March kieserite had not been done by June 2026. (Agro 1/2026)
   - 2025: 5 of 5 rounds applied (PA). (PA 1/2026)
 Spraying & weeding:
   - Circle and selective 2025: Circle 160.98 of 160.98 ha (6 of 6 rounds, 100%); selective 160.98 of 160.98 ha (6 of 6, 100%); circles clean (Photo 55); VOPs and regenerated woodies remain (Photo 56). Dec 2025: 6 rounds of inter-row and circle weeding completed; wild banana, jungle woodies, wild brinjal, wild bitter gourd remain in terraced sections. (PA 1/2026)
@@ -589,8 +612,9 @@ Field:
   - Rhinoceros beetle: Group MD (PA 2/2025 round) asked the estate to stay vigilant against Oryctes rhinoceros beetle in the immature area; PA 1/2026 reports no beetle problem noted for PR23. (PA 1/2026)
 
 BLOCK R06 (33.15 ha, planted 2006, Mature)
+Manuring progress (to Jun 2026):
+  - AARM compound · Mar: 0% — outstanding (Agro 1/2026)
 Manuring progress:
-  - 2026 outstanding (Jun 2026): AARM compound March round outstanding. (Agro 1/2026)
   - 2025 deviation: 2nd round delayed 2 or more months (Agro 2/2025). (Agro 2/2025)
   - 2025 rubber programme: 6 of 6 rounds applied in 2025 to Dec; compound 14-13-9-2.5 9.20 MT and 10-12-13-2 44.10 MT applied (100%). Wheelbarrows 20 bags/man-day (low; target 25), RM2.40/bag, RM48/man-day. (PA 1/2026)
 Spraying & weeding:
@@ -621,8 +645,9 @@ Field:
   - Block profile: Rubber, 33.15 ha per area statement (Dec 2025), planted 2006. (PA 1/2026)
 
 BLOCK R07 (17.6 ha, planted 2007, Mature)
+Manuring progress (to Jun 2026):
+  - AARM compound · Feb: 0% — outstanding (Agro 1/2026)
 Manuring progress:
-  - 2026 outstanding (Jun 2026): AARM compound February round outstanding. (Agro 1/2026)
   - 2025 deviation: 2nd round delayed 2 or more months (Agro 2/2025). (Agro 2/2025)
   - 2025 rubber programme: 6 of 6 rounds applied in 2025 to Dec; compound 14-13-9-2.5 9.20 MT and 10-12-13-2 44.10 MT applied (100%). Wheelbarrows 20 bags/man-day (low; target 25), RM2.40/bag, RM48/man-day. (PA 1/2026)
 Spraying & weeding:
@@ -652,8 +677,11 @@ Field:
   - Block profile: Rubber, 17.60 ha per area statement (Dec 2025), planted 2007. (PA 1/2026)
 
 BLOCK R14 (32.98 ha, planted 2014, Mature)
+Manuring progress (to Jun 2026):
+  - AARM compound · Jan: 0% — outstanding (Agro 1/2026)
+Spraying progress (to Jun 2026):
+  - Strip weeding: 0% — none carried out (Agro 1/2026)
 Manuring progress:
-  - 2026 outstanding (Jun 2026): AARM compound January round outstanding. (Agro 1/2026)
   - 2025 deviation: 1st and 2nd rounds delayed 2 or more months (Agro 2/2025). (Agro 2/2025)
   - 2025 rubber programme: 6 of 6 rounds applied in 2025 to Dec; compound 14-13-9-2.5 9.20 MT and 10-12-13-2 44.10 MT applied (100%). Wheelbarrows 20 bags/man-day (low; target 25), RM2.40/bag, RM48/man-day. (PA 1/2026)
 Spraying & weeding:
@@ -682,9 +710,11 @@ Field:
   - Block profile: Rubber, 32.98 ha per area statement (Dec 2025), planted 2014. (PA 1/2026)
 
 BLOCK R21 (20.42 ha, planted 2021, Immature)
+Manuring progress (to Jun 2026):
+  - AARM compound · Jan: 0% — outstanding (Agro 1/2026)
+  - AARM compound · Apr: 0% — outstanding (Agro 1/2026)
 Manuring progress:
   - 2025: 4 of 4 rounds applied (PA). Agro 2/2025: 1st and 2nd AARM rounds were delayed. (PA 1/2026)
-  - 2026 outstanding (Jun 2026): AARM compound outstanding: January and April rounds. (Agro 1/2026)
 Spraying & weeding:
   - Strip and selective 2025: Strip 61.26 of 122.52 ha (3 of 6 rounds, 50%); selective 61.26 of 122.52 ha (3 of 6, 50%). Strips clean (Photos 41-42); wild bananas under control; patches of bamboo-like noxious growth (Photo 43): treat with sodium chlorate 1 kg/patch or glyphosate 200 cc in 16 l water. (PA 1/2026)
   - Weeding 2026 (Jun 2026): 2 inter-row rounds and 1 strip round done in H1 2026. Significant undesirable weeds where Mucuna bracteata absent; circles overgrown or encroached by MB (Photos 115-118). Dec 2025: weeding up to date, MB dominant. (Agro 1/2026)

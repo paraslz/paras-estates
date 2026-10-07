@@ -107,11 +107,12 @@ ESTATE-WIDE FIELD NOTES
 [field] Palms over 25 years: 21% of palms (PA 1/2026)
 
 BLOCK PM95E (191.32 ha, planted 1995, Mature)
-Manuring progress:
-  - NK mix, Feb programme: E1 applied 11-12 Mar; E3 12-13 Mar; E5 14-19 Mar; E6 23-24 Mar (2,000 g for E1/E3, 2,250 g for E5/E6) (PA 1/2026)
+Manuring progress (to May 2026):
+  - NK mix · Feb: 100% — applied 11–19 Mar (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 100% — 382.64 ha · yr prog 573.96 (PA 1/2026)
+  - Selective spray: 64% — 243.53 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: completed to date 382.64 ha = 100%; year programme 573.96 ha (3 rounds) (PA 1/2026)
-  - Selective spray to May 2026: 243.53 ha done = 64% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - E1, E3: Feb: NK2 2,000 g (only application listed) (Agro 1/2026)
@@ -146,11 +147,12 @@ Field:
   - Replanting plan: P95 E5 and E6 in 2028; E1 and E3 in 2029 (Agro Table 4). PA cover sheet notes the Group MD's decision to defer replanting to 2029. E2 and E4 were replanted in 2025 (now PR25E) (Agro 1/2026)
 
 BLOCK PM96F (146.09 ha, planted 1996, Mature)
-Manuring progress:
-  - NK mix, Mar programme (2,500 g): F1 applied 28 Mar-27 Apr; F2 29 Apr-2 May; F3 2-26 May (PA 1/2026)
+Manuring progress (to May 2026):
+  - NK mix · Mar: 100% — applied 28 Mar–26 May (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 100% — 146.09 ha · yr prog 438.27 (PA 1/2026)
+  - Selective spray: 100% — 292.18 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: completed to date 146.09 ha = 100%; year programme 438.27 ha (PA 1/2026)
-  - Selective spray to May 2026: 292.18 ha = 100% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - F1, F2, F3: Mar: NK2 2,500 g (only application listed) (Agro 1/2026)
@@ -178,12 +180,13 @@ Field:
   - Replanting plan: F1-F3 in 2030 (Agro Table 4) (Agro 1/2026)
 
 BLOCK PM97G (74.46 ha, planted 1997, Mature)
-Manuring progress:
-  - NK mix, 1st round (2,250 g): Applied 26-29 May (PA 1/2026)
-  - NK mix, 2nd round (2,250 g): Scheduled Jun, not yet applied (PA 1/2026)
+Manuring progress (to May 2026):
+  - NK mix · round 1: 100% — applied 26–29 May (PA 1/2026)
+  - NK mix · round 2: 0% — scheduled Jun, not applied (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 100% — 74.46 ha · yr prog 223.38 (PA 1/2026)
+  - Selective spray: 100% — 148.92 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: completed to date 74.46 ha = 100%; year programme 223.38 ha (PA 1/2026)
-  - Selective spray to May 2026: 148.92 ha = 100% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - G1: Feb: NK2 2,250 g; Jun: NK2 2,250 g (Agro 1/2026)
@@ -210,12 +213,14 @@ Field:
   - Replanting plan: 2030 (Agro Table 4) (Agro 1/2026)
 
 BLOCK PM05H (59.49 ha, planted 2005, Mature)
-Manuring progress:
-  - Mix B, round 1 (Jan, 2,000 g): H1 applied 3-4 Mar (PA 1/2026)
-  - Mix B, round 2 (Apr): Not yet applied at May 2026 (PA 1/2026)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — applied 3–4 Mar (PA 1/2026)
+  - Mix B · round 2 (Apr): 0% — not yet applied (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 100% — 59.49 ha · yr prog 178.47 (PA 1/2026)
+  - Selective spray: 50% — 59.49 ha (PA 1/2026)
 Spraying & weeding:
   - Circle spray to May 2026: completed to date 59.49 ha = 100%; year programme 178.47 ha; circles due (PA 1/2026)
-  - Selective spray to May 2026: 59.49 ha = 50% (PA 1/2026)
   - Woodies: Spots of woodies at P05/H1 (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -244,9 +249,15 @@ Field:
   - Area, SPH, palms, Mar 2026: 59.49 ha; 143 SPH; 8,507 palms. No recent census; a full census is recommended (Agro 1/2026)
 
 BLOCK PM15A (214.28 ha, planted 2015, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — applied 28 Jan–3 Feb (PA 1/2026)
+  - Mix B · round 2 (Apr): 0% — not yet applied (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray · main: 100% — printed; 158 of 194 ha (PA 1/2026)
+  - Selective · main: 50% — 193.58 ha (PA 1/2026)
+  - Circle spray · terrace: 100% — 20.70 ha (PA 1/2026)
+  - Selective · terrace: 50% — 20.70 ha (PA 1/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): A1 applied 28-29 Jan; A2 29-31 Jan; A3 2 Feb; A4 3 Feb (PA 1/2026)
-  - Mix B, round 2 (Apr): Not yet applied at May 2026 (A1-A4) (PA 1/2026)
   - AS (Feb, 1,000 g): A1 applied 20 May; A2 26-28 May; A3 and A4 pending (PA 1/2026)
 Spraying & weeding:
   - Circle spray to May 2026: main area: programmed 193.58 ha, completed 158.08 ha, printed 100% (figures do not agree, check); year programme 580.74 ha. Terrace part (PM15A TR) 20.70 ha: 100%; year programme 62.10 ha (PA 1/2026)
@@ -289,12 +300,13 @@ Field:
   - Palm condition: Palms with no bunches at A1 (PA) (PA 1/2026)
 
 BLOCK PM18I (129.1 ha, planted 2018, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): I1 applied 7-9 Mar; I2 9 Mar; I3 8-9 Apr (PA 1/2026)
-  - Mix B, round 2 (Apr): Not yet applied at May 2026 (I1-I3) (PA 1/2026)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — applied 7 Mar–9 Apr (PA 1/2026)
+  - Mix B · round 2 (Apr): 0% — not yet applied (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 100% — 129.10 ha · yr prog 387.30 (PA 1/2026)
+  - Selective spray: 100% — 258.20 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: completed to date 129.10 ha = 100%; year programme 387.30 ha (PA 1/2026)
-  - Selective spray to May 2026: 258.20 ha = 100% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - I1: Jan: Mix B 2,250 g ; Apr: Mix B 2,250 g; Jul: Mix B 1,500 g; Aug: RP 1,500 g; Oct: Mix B 1,500 g (no AS) (Agro 1/2026)
@@ -328,10 +340,15 @@ Field:
   - Area, SPH, palms, Mar 2026: 129.10 ha; 138 SPH; 17,816 palms. No recent census; a full census is recommended (Agro 1/2026)
 
 BLOCK PM19J (225.41 ha, planted 2019, Young mature)
-Manuring progress:
-  - Mix B, round 1 (Jan): J1 applied 14-15 Jan; J2 15-18 Jan; J3 22-23 Jan; J4 20-21 Jan (PA 1/2026)
-  - Mix B, round 2 (Apr): J1 applied 24-25 Apr; J2 18-22 Apr; J3 10-11 Apr; J4 16-18 Apr (PA 1/2026)
-  - AS (Feb, 1,000 g): J1 applied 28-29 May; J2 29-30 May; J3 2 Jun (J4 has no AS in the programme) (PA 1/2026)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — applied 14–23 Jan (PA 1/2026)
+  - Mix B · round 2 (Apr): 100% — applied 10–25 Apr (PA 1/2026)
+  - AS · Feb: 100% — applied 28 May–2 Jun (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray · main: 152% — 338.94 of 223.61 ha (PA 1/2026)
+  - Selective · main: 50% — 223.61 ha (PA 1/2026)
+  - Circle spray · terrace: 100% — 1.80 ha (PA 1/2026)
+  - Selective · terrace: 50% — 1.80 ha (PA 1/2026)
 Spraying & weeding:
   - Circle spray to May 2026: main area: programmed 223.61 ha, completed 338.94 ha = 152%; year programme 670.83 ha. Terrace part (PM19J TR) 1.80 ha: 100%; year programme 5.40 ha (PA 1/2026)
   - Selective spray to May 2026: main 223.61 ha = 50%; terrace part 1.80 ha = 50% (PA 1/2026)
@@ -374,13 +391,16 @@ Other:
   - Mix B check, P19J-2: Agro check: Mix B 2,000 g, 30 bags per man-day, acceptable (Agro 1/2026)
 
 BLOCK PM20K (101.58 ha, planted 2020, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — applied 31 Jan–12 Feb (PA 1/2026)
+  - Mix B · round 2 (Apr): 100% — applied 4–8 May (PA 1/2026)
+  - Kieserite · Mar: 0% — not delivered (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 50% — 101.58 of 203.16 ha (PA 1/2026)
+  - Selective spray: 100% — 203.16 ha (PA 1/2026)
 Manuring progress:
-  - Mix B, round 1 (Jan): K1 applied 31 Jan-3 Feb; K2 3-12 Feb (PA 1/2026)
-  - Mix B, round 2 (Apr): K1 applied 7-8 May; K2 4-6 May (PA 1/2026)
   - Kieserite (Mar): K1/K2 scheduled Mar at 500 g per PA, no dates; kieserite out of stock, delivery only from June (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: programmed 203.16 ha, completed 101.58 ha = 50%; year programme 304.74 ha (4 rounds printed) (PA 1/2026)
-  - Selective spray to May 2026: 203.16 ha = 100% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - K1, K2: Jan: Mix B 1,750 g; Mar: kieserite 750 g (PA lists 500 g); Apr: Mix B 2,000 g; Jul: Mix B 1,500 g; Aug: RP 1,500 g; Oct: Mix B 1,500 g (Agro 1/2026)
@@ -414,13 +434,17 @@ Field:
   - Fruit set: Good fruit set at K2 (PA photos) (PA 1/2026)
 
 BLOCK PM21D (144.48 ha, planted 2021, Young mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1 (Jan): 100% — applied 13 Feb–2 Mar (PA 1/2026)
+  - Mix B · round 2 (Apr): 100% — applied 9–22 May (PA 1/2026)
+  - Kieserite · Feb: 0% — not delivered (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 50% — 144.48 of 288.96 ha (PA 1/2026)
+  - Selective spray: 100% — 288.96 ha (PA 1/2026)
 Manuring progress:
   - Mix B, round 1 (Jan): D1 applied 13-27 Feb; D2 13 Feb; D3 29 Feb-2 Mar (date printed as 29/2; 2026 has no 29 Feb, check) (PA 1/2026)
-  - Mix B, round 2 (Apr): D1 applied 9-13 May; D2 13-14 May; D3 14-22 May (PA 1/2026)
   - Kieserite (Feb): 500 g per PA, no dates, not delivered until June (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: programmed 288.96 ha, completed 144.48 ha = 50%; year programme 433.44 ha (PA 1/2026)
-  - Selective spray to May 2026: 288.96 ha = 100% (PA 1/2026)
   - Woodies: Spots of woodies at P21/D3 (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -453,13 +477,17 @@ Field:
   - Fruit set: Good fruit set at D3 (PA photos) (PA 1/2026)
 
 BLOCK PM22L (183.32 ha, planted 2022, Young mature)
+Manuring progress (to May 2026):
+  - Round 1 (Jan): 100% — applied 4 Feb–6 Apr (PA 1/2026)
+  - Round 2 (Apr): 0% — not yet applied (PA 1/2026)
+  - Kieserite · Feb: 0% — not delivered (PA 1/2026)
+Spraying progress (to May 2026):
+  - Circle spray: 50% — 183.32 of 366.64 ha (PA 1/2026)
+  - Selective spray: 84% — 306.75 ha (PA 1/2026)
 Manuring progress:
   - Round 1 as printed in PA: Compound 1,750 g in Jan: L1 applied 4-6 Feb; L2 6-25 Feb; L3 25 Feb-6 Apr. Agro programme for this block is Mix B 1,500 g in Jan, so the PA entry does not match (PA 1/2026)
-  - Round 2 (Apr): Not yet applied at May 2026 (PA 1/2026)
   - Kieserite (Feb): 500 g, no dates, not delivered until June (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: programmed 366.64 ha, completed 183.32 ha = 50%; year programme 733.28 ha (PA 1/2026)
-  - Selective spray to May 2026: 306.75 ha = 84% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - L1-L3: Jan: Mix B 1,500 g; Feb: kieserite 500 g; Apr: Mix B 1,500 g; Jun: RP 2,000 g; Jul: Mix B 1,500 g; Oct: Mix B 1,500 g (Agro 1/2026)
@@ -490,6 +518,9 @@ Field:
   - Fruit set: Good fruit set at L1 and L2 (PA photos); declared mature 2026 (PA 1/2026)
 
 BLOCK PR23B (232.71 ha, planted 2023, Immature)
+Spraying progress (to May 2026):
+  - Circle spray: 50% — 232.71 of 465.42 ha (PA 1/2026)
+  - Selective spray: 100% — 465.42 ha (PA 1/2026)
 Spraying & weeding:
   - Circle, Mar 2026: 232.71 of 232.71 ha = 100% (Agro 1/2026)
   - Inter-row, Mar 2026: 232.71 of 232.71 ha = 100% (Agro 1/2026)
@@ -521,6 +552,9 @@ Other:
   - Upkeep cost to May 2026: RM158,312 against budget RM288,545 (PA 1/2026)
 
 BLOCK PR24C (196.69 ha, planted 2024, Immature)
+Spraying progress (to May 2026):
+  - Circle spray: 66% — 259.02 of 393.38 ha (PA 1/2026)
+  - Selective spray: 75% — 296.12 of 393.38 ha (PA 1/2026)
 Spraying & weeding:
   - Circle, Mar 2026: 141.65 of 196.69 ha = 72% (Agro 1/2026)
   - Inter-row, Mar 2026: 117.37 of 393.38 ha = 30% (Agro 1/2026)
@@ -542,6 +576,9 @@ Other:
   - Upkeep cost to May 2026: RM177,776 against budget RM244,395 (PA 1/2026)
 
 BLOCK PR25E (66.07 ha, planted 2025, Immature)
+Spraying progress (to May 2026):
+  - Circle spray: 100% — 132.14 of 132.14 ha (PA 1/2026)
+  - Selective spray: 67% — 132.14 of 198.21 ha (PA 1/2026)
 Spraying & weeding:
   - Circle, Mar 2026: 66.07 of 66.07 ha = 100% (Agro 1/2026)
   - Inter-row, Mar 2026: 66.07 of 132.14 ha = 50% (Agro 1/2026)

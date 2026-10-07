@@ -228,11 +228,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 100%; palm circle 1st round 0%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle condition",
       "v": "Circles overgrown and first circle round pending as of April 2026; Ageratum conyzoides and volunteer oil palm seedlings competitive and obstructive to loose-fruit collection (4.4.8-4.4.9). Nephrolepis encroaching into circles (photo 55-56). PA photo 8: circles due for spraying.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -317,7 +312,33 @@
       "v": "P97 is the oldest block (29 years); tentatively scheduled for replanting in 2027 per management; programme not finalised, estate to prepare ahead if confirmed (2.2). Met replanting criteria in Apr 2025: palms over 28 years, yields averaging below 15 mt/ha for several years, palm height above 50 ft (Agro 1/2025 2.3). PA: no decision on replanting.",
       "src": "Agro 1/2026 / Agro 1/2025"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -457,11 +478,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 0%; palm circle 1st round 100%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle condition",
       "v": "One circle round done; circles acceptable (4.4.3, photos 49-54). PA photo 5: clean circles; PA photo 6: circle raking required.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -551,7 +567,33 @@
       "v": "Circle raking required (PA 5.1.3; photo 6).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -681,11 +723,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 0%; palm circle 1st round 100%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle condition",
       "v": "One circle round done, but part of the block has soft weeds in circles and circles proliferated by Ageratum (4.4.10; photos 47-48). PA photo 2: clean circles.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -763,7 +800,33 @@
       "v": "Existing 155 ac; GPS-surveyed (Garmin eTrex) 138.7 ac; variance -10.5%; SPA column 54 (column header 'SPA').",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -908,11 +971,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 0%; palm circle 1st round 100%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle condition",
       "v": "One circle round done; circles acceptable (photos 49-54). PA photo 3: circle raking required; photo 4: clean circles.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -997,7 +1055,33 @@
       "v": "Circle raking required at the old plantings (PA 5.1.3; photo 3).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -1142,11 +1226,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 100%; palm circle 1st round 0%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle condition",
       "v": "First circle round still pending as of April 2026: overgrown; Ageratum and volunteer oil palm seedlings competitive (4.4.8-4.4.9; photos 43-46). PA photo 1: circles due for spraying.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -1241,7 +1320,33 @@
       "v": "Existing 255 ac; GPS-surveyed (Garmin eTrex) 226.1 ac; variance -11.3%; SPA column 51 (column header 'SPA').",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -1396,11 +1501,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 0%; palm circle 1st round 100%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Weeding policy",
       "v": "One circle round done; circles acceptable. Continue deferring inter-row weeding: regrowth of undesirable weeds is suppressed by periodic high water table (4.4.7, 4.4.18).",
       "src": "Agro 1/2026"
@@ -1480,7 +1580,33 @@
       "v": "Palms mounded to at least 75 cm height and 1 m radius with desilting recommended (Agro 1/2025 4.3.8); mounding recorded as done in 2025.",
       "src": "Agro 1/2025"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -1650,11 +1776,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 0%; palm circle 1st round 100%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Weeding policy",
       "v": "One circle round done; circles acceptable. Continue deferring inter-row weeding: minimal regrowth of undesirable weeds because of high water table (4.4.7, 4.4.18). PA photos 7 and 21: clean circles and clean inter rows.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -1734,7 +1855,33 @@
       "v": "Peat soil with low bulk density: palms lean/topple (Agro 1/2025 4.3.8).",
       "src": "Agro 1/2025"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   },
   {
@@ -1904,11 +2051,6 @@
     },
     "spraying": [
      {
-      "k": "Weeding status as of Apr 2026 (Table 5)",
-      "v": "Inter-row (selective) 1st round 100%; palm circle 1st round 0%; 2nd and 3rd rounds not started.",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Circle condition",
       "v": "Circle round not done as of April 2026, but circles remain acceptable so deferment is acceptable (4.4.11). PA photo 9: clean circles.",
       "src": "Agro 1/2026 / PA 1/2026"
@@ -1988,7 +2130,33 @@
       "v": "PA photos 9, 23, 33: clean circles, clean inter rows, pruned palms.",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying · round 1",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row · round 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Rounds 2 and 3 (both)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
+    }
    }
   }
  ],

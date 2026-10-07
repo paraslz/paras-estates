@@ -114,6 +114,10 @@ ESTATE-WIDE FIELD NOTES
 [other] Area and labour: Mature 1,548.20 ha; immature 80.00 ha (vacant PN25K); total planted 1,628.20 ha; workers 115 vs 125 required (-10) (PA 1/2026)
 
 BLOCK P00A (246 ha, planted 2000, Mature)
+Manuring progress (to May 2026):
+  - NK2 · round 1 (2026): 100% — 79.65 MT · 3 mths late (Agro 1/2026)
+Spraying progress (to May 2026):
+  - Weeding rd 1 (2026): 100% — to May 2026 (Agro 1/2026)
 Manuring progress:
   - NK1 1st round (programmed Jan 2025): Sub-block 136 ha: 2.00 kg/palm (2,000 g), 36.45 MT, 729 bags, 1.2.25-14.2.25; sub-block 110 ha: 2,000 g, 27.30 MT, 546 bags, 14.2.25-16.4.25 (PA 1/2026)
   - NK1 2nd round (programmed May 2025): 136 ha: 2,000 g, 36.45 MT, 729 bags, 25.6.25-2.7.25; 110 ha: 2,000 g, 27.30 MT, 546 bags, 4.7.25-18.8.25 (PA 1/2026)
@@ -220,6 +224,8 @@ Other:
   - Close planting: Close planting in localised sections; selective thinning (census then thinning) pending since previous visit (Agro 1/2026)
 
 BLOCK P09C (278 ha, planted 2009, Mature)
+Manuring progress (to May 2026):
+  - Kieserite (Mar): 0% — not applied at May (Agro 1/2026)
 Manuring progress:
   - Mix A 1st round (programmed Jan 2025): Area 248 ha: 2.25 kg/palm (2,250 g), 74.75 MT, 1,495 bags, 13.3.25-2.5.25 (PA 1/2026)
   - Mix B round (programmed Apr 2025): 248 ha: 2.00 kg/palm (2,000 g), 66.45 MT, 1,329 bags, 15.5.25-6.6.25 (PA 1/2026)
@@ -337,6 +343,9 @@ Field:
   - Drain desilting 2025: Budget 51.15 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported (PA 1/2026)
 
 BLOCK P11E (217 ha, planted 2011, Mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1: 100% — 2 mths late (Agro 1/2026)
+  - Mix B · round 2: 0% — overdue at May (Agro 1/2026)
 Manuring progress:
   - Mix B 1st: 2,250 g, 60.20 MT, 1,204 bags, 21.3.25-26.4.25 (PA 1/2026)
   - Kieserite: 750 g, 20.05 MT, 401 bags, 24.4.25-7.5.25 (PA 1/2026)
@@ -395,6 +404,11 @@ Field:
   - Re-blocking: P11E1 (129 ha) exceeds recommended block size; re-blocking pending (Agro 1/2026)
 
 BLOCK P12F (137.3 ha, planted 2012, Mature)
+Manuring progress (to May 2026):
+  - Mix B · round 1: 100% — 2 mths late (Agro 1/2026)
+  - Kieserite (Mar): 0% — not applied at May (Agro 1/2026)
+Spraying progress (to Apr 2026):
+  - Inter-row weeding rd 1: 100% — completed Apr (Agro 1/2026)
 Manuring progress:
   - Mix B 1st: 2,250 g, 39.00 MT, 780 bags, 2.4.25-8.4.25 (PA 1/2026)
   - Kieserite: 750 g, 13.00 MT, 260 bags, 23.4.25-8.5.25 (PA 1/2026)
@@ -461,6 +475,8 @@ Other:
   - Close planting: Close planting in localised sections; thinning pending (Agro 1/2026)
 
 BLOCK P16G (134.9 ha, planted 2016, Mature)
+Manuring progress (to May 2026):
+  - Kieserite (Mar): 0% — not applied at May (Agro 1/2026)
 Manuring progress:
   - Mix B 1st: 2,250 g, 39.70 MT, 794 bags, 1.4.25-10.4.25 (PA 1/2026)
   - Kieserite: 750 g, 13.25 MT, 265 bags, 28.4.25-8.5.25 (PA 1/2026)
@@ -525,6 +541,8 @@ Other:
   - Close planting: Close planting in localised sections; thinning pending (Agro 1/2026)
 
 BLOCK P17H (93 ha, planted 2017, Mature)
+Manuring progress (to May 2026):
+  - Kieserite (Mar): 0% — not applied at May (Agro 1/2026)
 Manuring progress:
   - Mix B 1st: 2,250 g, 31.20 MT, 624 bags, 12.4.25-26.4.25 (PA 1/2026)
   - Kieserite: 750 g, 10.40 MT, 208 bags, 9.5.25-14.5.25 (PA 1/2026)
@@ -587,6 +605,8 @@ Field:
   - Drain desilting 2025: Budget 93.75 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported (PA 1/2026)
 
 BLOCK P18I (114 ha, planted 2018, Young mature)
+Manuring progress (to May 2026):
+  - Kieserite (Mar): 0% — not applied at May (Agro 1/2026)
 Manuring progress:
   - Mix B 1st: 2,250 g, 33.85 MT, 677 bags, 11.4.25-17.4.25 (PA 1/2026)
   - Kieserite: 750 g, 11.30 MT, 226 bags, 8.5.25-13.5.25 (PA 1/2026)
@@ -651,6 +671,8 @@ Field:
   - Vacant/SPH: Census SPH 120 (was 132), considerably lower than expected; verify large vacant areas and consider supplying; PARAS Drone Unit can produce palm point map (Agro 1/2026)
 
 BLOCK P19J (102 ha, planted 2019, Young mature)
+Manuring progress (to May 2026):
+  - Kieserite (Mar): 0% — not applied at May (Agro 1/2026)
 Manuring progress:
   - Mix B 1st: 2,000 g, 28.55 MT, 571 bags, 17.4.25-22.4.25 (PA 1/2026)
   - Kieserite: 500 g, 7.15 MT, 143 bags, 10.5.25-13.5.25 (PA 1/2026)

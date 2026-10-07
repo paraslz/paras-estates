@@ -158,8 +158,9 @@ Pruning:
   - Condition 2025: Little progress in P01A2/A3/A4; under-pruned (Agro) (Agro 1/2026)
 
 BLOCK PM04B (148 ha, planted 2004, Mature)
+Manuring progress (to Jun 2026):
+  - Mix A · Feb: 100% — 972 bags · 9 Mar–29 Apr (PA 2/2026)
 Manuring progress:
-  - Mix A, Feb, 2,250 g (972 bags): Applied 9.3.26-29.4.26 (PA 2/2026)
   - NK1, May, 2,250 g (972 bags): Scheduled May (PA 2/2026)
   - Agro check 2025: Narrowband reduced in P04 with semi-mechanised NK (power-wheel barrow) (Agro 1/2026)
   - Carry-forward from 2025: Mix A 2,000 g (Oct) incomplete at end 2025 (Agro 1/2026)
@@ -188,8 +189,9 @@ Pruning:
   - Condition 2025: Under-pruned (Agro) (Agro 1/2026)
 
 BLOCK PM05C (76 ha, planted 2005, Mature)
+Manuring progress (to Jun 2026):
+  - Mix A · Feb: 100% — 420 bags · 5–9 Mar (PA 2/2026)
 Manuring progress:
-  - Mix A, Feb, 2,000 g (420 bags): Applied 5.3.26-9.3.26 (PA 2/2026)
   - NK1, May, 2,000 g (420 bags): Scheduled May (PA 2/2026)
   - Carry-forward from 2025: Mix A 2,000 g (Oct) incomplete at end 2025 (Agro 1/2026)
 Spraying & weeding:
@@ -220,8 +222,9 @@ Field:
   - Spacing: Close spacing (Agro) (Agro 1/2026)
 
 BLOCK PM07D (173 ha, planted 2007, Mature)
+Manuring progress (to Jun 2026):
+  - Mix A · Feb: 100% — 1,074 bags · 6–14 May (PA 2/2026)
 Manuring progress:
-  - Mix A, Feb, 2,250 g (1,074 bags): Applied 6.5.26-14.5.26 (PA 2/2026)
   - Round 2, Jun, 2,000 g (955 bags): Scheduled Jun (PA 2/2026)
 Spraying & weeding:
   - Circle spray 2026 (PA Jun 2026): programmed Feb/Mar/Jun/Jul/Oct/Nov; completed Apr, May, Jun. Rate RM37/ha (PA 2/2026)
@@ -247,8 +250,9 @@ Pruning:
   - Condition 2025: Little progress in P07D1; under-pruned (Agro) (Agro 1/2026)
 
 BLOCK PM11E (140 ha, planted 2011, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1 · Feb: 100% — 857 bags · 11–18 Apr (PA 2/2026)
 Manuring progress:
-  - Mix B R1, Feb, 2,250 g (857 bags): Applied 11.4.26-18.4.26 (PA 2/2026)
   - Mix B R2, May, 2,250 g (857 bags): Scheduled May; no date (PA 2/2026)
   - Carry-forward from 2025: Mix B 2,250 g (Oct) incomplete at end 2025 (Agro 1/2026)
 Spraying & weeding:
@@ -280,10 +284,11 @@ Field:
   - Soil: Sandy patches (Agro 1/2026)
 
 BLOCK PM16F (24 ha, planted 2016, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1: 100% — 147 bags · 2 Mar (PA 2/2026)
+  - Mix B rd 2 · Apr: 100% — 147 bags · 25–26 Jun (PA 2/2026)
 Manuring progress:
-  - Mix B R1, 2,250 g (147 bags): Applied 2.3.26 (PA 2/2026)
   - Kieserite, Feb, 750 g (49 bags): No date (PA 2/2026)
-  - Mix B R2, Apr, 2,250 g (147 bags): Applied 25.6.26-26.6.26 (PA 2/2026)
   - RP, Aug, 1,500 g (98 bags): Scheduled Aug (Agro programme says 1,750 g) (PA 2/2026)
   - Carry-forward from 2025: Mix B 2,250 g (Oct) was incomplete at end 2025 (Agro Table 4) (Agro 1/2026)
 Spraying & weeding:
@@ -312,10 +317,11 @@ Nutrients:
   - Leaf analysis Jun 2025: Mg suboptimal, especially in short palm areas; orange fronds due to low soil Mg/CEC; no analysis table printed (Agro 1/2026)
 
 BLOCK PM17G (36 ha, planted 2017, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1: 100% — 220 bags · 3–5 Mar (PA 2/2026)
+  - Mix B rd 2 · Apr: 100% — 220 bags · 24 Jun (PA 2/2026)
 Manuring progress:
-  - Mix B R1, 2,250 g (220 bags): Applied 3.3.26-5.3.26 (PA 2/2026)
   - Kieserite, Feb, 750 g (73 bags): No date (PA 2/2026)
-  - Mix B R2, Apr, 2,250 g (220 bags): Applied 24.6.26 (PA 2/2026)
   - RP, Aug, 1,500 g (147 bags): Scheduled Aug (Agro programme says 1,750 g) (PA 2/2026)
 Spraying & weeding:
   - Circle spray 2026 (PA Jun 2026): programmed Feb/Jun/Oct; completed Mar; circles due for spraying (photo). Rate RM37/ha (PA 2/2026)
@@ -344,8 +350,10 @@ Nutrients:
   - Leaf analysis Jun 2025: Mg suboptimal, especially in short palm areas; orange fronds due to low soil Mg/CEC; no analysis table printed (Agro 1/2026)
 
 BLOCK PM19H (193 ha, planted 2019, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1: 100% — 1,181 bags · 24 Mar–11 Apr (PA 2/2026)
+  - Mix B rd 2 · Apr: 100% — 1,181 bags · to 24 Jun (PA 2/2026)
 Manuring progress:
-  - Mix B R1, 2,250 g (1,181 bags): Applied 24.3.26-11.4.26 (PA 2/2026)
   - Kieserite, Mar, 750 g (394 bags): No date (PA 2/2026)
   - Mix B R2, Apr, 2,250 g (1,181 bags): Applied 12.6.12 (as printed, typo)-24.6.26 (PA 2/2026)
   - RP, Jun, 2,000 g (1,050 bags): Scheduled Jun (PA 2/2026)
@@ -377,8 +385,9 @@ Nutrients:
   - Leaf analysis Jun 2025: Leaf Mg below range in P19, P20 and P21; no analysis table printed (Agro 1/2026)
 
 BLOCK PM20I (220 ha, planted 2020, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1: 100% — 1,197 bags · 15–30 May (PA 2/2026)
 Manuring progress:
-  - Mix B R1, 2,000 g (1,197 bags): Applied 15.5.26-30.5.26 (PA 2/2026)
   - Kieserite, Feb, 500 g (299 bags): No date (PA 2/2026)
   - Mix B R2, Apr, 2,000 g (1,197 bags): No date (PA 2/2026)
   - RP, May, 2,000 g (1,197 bags): Scheduled May (PA 2/2026)
@@ -411,8 +420,9 @@ Nutrients:
   - Mg deficiency: In terraces (Agro 2025) (Agro 1/2026)
 
 BLOCK PM21J (243 ha, planted 2021, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1: 100% — 1,157 bags · 22 Apr–6 May (PA 2/2026)
 Manuring progress:
-  - Mix B R1, 1,750 g (1,157 bags): Applied 22.4.26-6.5.26 (PA 2/2026)
   - Kieserite, Feb, 500 g (330 bags): No date (PA 2/2026)
   - Mix B R2, Apr, 2,000 g (1,322 bags): No date (PA 2/2026)
   - RP, May, 2,000 g (1,322 bags): Dates 31.3.26-21.4.26 appear in this row, likely misaligned (PA 2/2026)
@@ -444,8 +454,9 @@ Nutrients:
   - Leaf analysis Jun 2025: Leaf Mg below range in P19, P20 and P21; no analysis table printed (Agro 1/2026)
 
 BLOCK PR22K (180 ha, planted 2022, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B rd 1: 100% — 734 bags · 2–30 Jun (PA 2/2026)
 Manuring progress:
-  - Mix B R1, 1,500 g (734 bags): Applied 2.6.26-30.6.26 (PA 2/2026)
   - Kieserite, Mar, 500 g (245 bags): No date (PA 2/2026)
   - Mix B R2, May, 1,500 g (734 bags): Scheduled May (PA 2/2026)
   - RP, Jun, 2,000 g (979 bags): Scheduled Jun (PA 2/2026)
@@ -474,6 +485,9 @@ Field:
   - Vacancies: 458 vacant points in K1 (2025); vacancies on terraces (Agro). Declared mature in 2026; thinning of runts and basal pruning required (PA ED comment) (PA 2/2026)
 
 BLOCK PR23L (176 ha, planted 2023, Immature)
+Spraying progress (to Jun 2026):
+  - Circle spray (immature): 65% — 342 of 528 ha (PA 2/2026)
+  - Selective spray (immature): 65% — 341 of 528 ha (PA 2/2026)
 Spraying & weeding:
   - Circle spray 2026 (PA Jun 2026): 6 rounds budgeted; completed Jan, Mar, Apr, May, Jun, Jul (as printed). Rate RM41/ha (PA 2/2026)
   - Selective spray 2026 (PA Jun 2026): 6 rounds budgeted; completed Jan, Mar, Jun (PA 2/2026)
@@ -494,6 +508,9 @@ Other:
   - Cost to Jun 2026: Upkeep RM99,800 vs budget to date RM188,136 (RM567.05/ha vs RM1,068.95/ha); expenditure from start RM1,800,374 (RM10,269.51/ha incl. felling RM1,204,545) (PA 2/2026)
 
 BLOCK PR25M (108 ha, planted 2024/25, Immature)
+Spraying progress (to Jun 2026):
+  - Circle spray (immature): 70% — 228 of 324 ha (PA 2/2026)
+  - Selective spray (immature): 72% — 233 of 324 ha (PA 2/2026)
 Manuring progress:
   - Quality 2026: Acceptable (Agro Jan 2026) (Agro 1/2026)
 Spraying & weeding:

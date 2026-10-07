@@ -423,6 +423,28 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK1 · round 1 (old palms)",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -690,6 +712,28 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK1 · round 1 (old palms)",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -829,11 +873,6 @@
       "k": "Selective spray 2025",
       "v": "Feb, May, Sep 2025 (3 rounds, RM40.00/ha); all completed as programmed (47 ha).",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding Mar 2026",
-      "v": "Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first).",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Condition",
@@ -998,6 +1037,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "not yet recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -1147,11 +1205,6 @@
       "k": "Selective spray 2025",
       "v": "Feb, May, Oct 2025 (3 rounds, RM40.00/ha); all completed as programmed (64 ha).",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding Mar 2026",
-      "v": "Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first).",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Condition",
@@ -1321,6 +1374,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "not yet recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -1461,11 +1533,6 @@
       "k": "Selective spray 2025",
       "v": "Feb, May, Oct 2025 (3 rounds; RM40.00, 44.00, 44.00 per ha as printed); all completed as programmed (44 ha).",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding Mar 2026",
-      "v": "Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first).",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Condition",
@@ -1630,6 +1697,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (2026)",
+       "pct": 100,
+       "note": "2 months behind",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "not yet recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -1774,11 +1870,6 @@
       "k": "Selective spray 2025",
       "v": "Mar, Jun, Oct 2025 (3 rounds, RM40.00/ha); all completed as programmed (64 ha).",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Weeding Mar 2026",
-      "v": "Inter-row round 1: 100% done (Agro Table 7). Circle round 1: not yet recorded as done (circle weeding starts with prime palms, P13 first).",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Condition",
@@ -1943,6 +2034,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (2026)",
+       "pct": 100,
+       "note": "2 months behind",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 0,
+       "note": "not yet recorded",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -2266,6 +2386,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite 2026",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   },
@@ -2384,11 +2533,6 @@
       "k": "2025 Kieserite",
       "v": "Scheduled March, applied March 2025.",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Kieserite 2026",
-      "v": "Kieserite completed by March 2026 for P13 (Agro 3.3b).",
-      "src": "Agro 1/2026"
      }
     ],
     "spraying": [
@@ -2575,6 +2719,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Kieserite 2026",
+       "pct": 100,
+       "note": "done by Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Mar 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Mar 2026"
     }
    }
   }

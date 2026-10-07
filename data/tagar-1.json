@@ -402,11 +402,6 @@
     ],
     "manuring": [
      {
-      "k": "Mix A, Feb, 2,250 g (972 bags)",
-      "v": "Applied 9.3.26-29.4.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "NK1, May, 2,250 g (972 bags)",
       "v": "Scheduled May",
       "src": "PA 2/2026"
@@ -470,7 +465,19 @@
       "v": "Theft on 12 Oct 2024, not recurred (Agro 1/2025)",
       "src": "Agro 1/2025"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Feb",
+       "pct": 100,
+       "note": "972 bags · 9 Mar–29 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -547,11 +554,6 @@
     ],
     "manuring": [
      {
-      "k": "Mix A, Feb, 2,000 g (420 bags)",
-      "v": "Applied 5.3.26-9.3.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "NK1, May, 2,000 g (420 bags)",
       "v": "Scheduled May",
       "src": "PA 2/2026"
@@ -619,7 +621,19 @@
       "v": "Close spacing (Agro)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Feb",
+       "pct": 100,
+       "note": "420 bags · 5–9 Mar",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -696,11 +710,6 @@
     ],
     "manuring": [
      {
-      "k": "Mix A, Feb, 2,250 g (1,074 bags)",
-      "v": "Applied 6.5.26-14.5.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Round 2, Jun, 2,000 g (955 bags)",
       "v": "Scheduled Jun",
       "src": "PA 2/2026"
@@ -749,7 +758,19 @@
       "v": "NIL",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix A · Feb",
+       "pct": 100,
+       "note": "1,074 bags · 6–14 May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -826,11 +847,6 @@
     ],
     "manuring": [
      {
-      "k": "Mix B R1, Feb, 2,250 g (857 bags)",
-      "v": "Applied 11.4.26-18.4.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Mix B R2, May, 2,250 g (857 bags)",
       "v": "Scheduled May; no date",
       "src": "PA 2/2026"
@@ -903,7 +919,19 @@
       "v": "Sandy patches",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1 · Feb",
+       "pct": 100,
+       "note": "857 bags · 11–18 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -979,18 +1007,8 @@
     ],
     "manuring": [
      {
-      "k": "Mix B R1, 2,250 g (147 bags)",
-      "v": "Applied 2.3.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Kieserite, Feb, 750 g (49 bags)",
       "v": "No date",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B R2, Apr, 2,250 g (147 bags)",
-      "v": "Applied 25.6.26-26.6.26",
       "src": "PA 2/2026"
      },
      {
@@ -1059,7 +1077,26 @@
       "v": "Mg suboptimal, especially in short palm areas; orange fronds due to low soil Mg/CEC; no analysis table printed",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1",
+       "pct": 100,
+       "note": "147 bags · 2 Mar",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B rd 2 · Apr",
+       "pct": 100,
+       "note": "147 bags · 25–26 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1131,18 +1168,8 @@
     ],
     "manuring": [
      {
-      "k": "Mix B R1, 2,250 g (220 bags)",
-      "v": "Applied 3.3.26-5.3.26",
-      "src": "PA 2/2026"
-     },
-     {
       "k": "Kieserite, Feb, 750 g (73 bags)",
       "v": "No date",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Mix B R2, Apr, 2,250 g (220 bags)",
-      "v": "Applied 24.6.26",
       "src": "PA 2/2026"
      },
      {
@@ -1211,7 +1238,26 @@
       "v": "Mg suboptimal, especially in short palm areas; orange fronds due to low soil Mg/CEC; no analysis table printed",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1",
+       "pct": 100,
+       "note": "220 bags · 3–5 Mar",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B rd 2 · Apr",
+       "pct": 100,
+       "note": "220 bags · 24 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1277,11 +1323,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B R1, 2,250 g (1,181 bags)",
-      "v": "Applied 24.3.26-11.4.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Kieserite, Mar, 750 g (394 bags)",
       "v": "No date",
@@ -1368,7 +1409,26 @@
       "v": "Leaf Mg below range in P19, P20 and P21; no analysis table printed",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1",
+       "pct": 100,
+       "note": "1,181 bags · 24 Mar–11 Apr",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B rd 2 · Apr",
+       "pct": 100,
+       "note": "1,181 bags · to 24 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1439,11 +1499,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B R1, 2,000 g (1,197 bags)",
-      "v": "Applied 15.5.26-30.5.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Kieserite, Feb, 500 g (299 bags)",
       "v": "No date",
@@ -1530,7 +1585,19 @@
       "v": "In terraces (Agro 2025)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1",
+       "pct": 100,
+       "note": "1,197 bags · 15–30 May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1591,11 +1658,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B R1, 1,750 g (1,157 bags)",
-      "v": "Applied 22.4.26-6.5.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Kieserite, Feb, 500 g (330 bags)",
       "v": "No date",
@@ -1687,7 +1749,19 @@
       "v": "Leaf Mg below range in P19, P20 and P21; no analysis table printed",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1",
+       "pct": 100,
+       "note": "1,157 bags · 22 Apr–6 May",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1743,11 +1817,6 @@
      }
     ],
     "manuring": [
-     {
-      "k": "Mix B R1, 1,500 g (734 bags)",
-      "v": "Applied 2.6.26-30.6.26",
-      "src": "PA 2/2026"
-     },
      {
       "k": "Kieserite, Mar, 500 g (245 bags)",
       "v": "No date",
@@ -1826,7 +1895,19 @@
       "v": "458 vacant points in K1 (2025); vacancies on terraces (Agro). Declared mature in 2026; thinning of runts and basal pruning required (PA ED comment)",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B rd 1",
+       "pct": 100,
+       "note": "734 bags · 2–30 Jun",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1927,7 +2008,26 @@
       "v": "Upkeep RM99,800 vs budget to date RM188,136 (RM567.05/ha vs RM1,068.95/ha); expenditure from start RM1,800,374 (RM10,269.51/ha incl. felling RM1,204,545)",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spray (immature)",
+       "pct": 65,
+       "note": "342 of 528 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray (immature)",
+       "pct": 65,
+       "note": "341 of 528 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -2043,7 +2143,26 @@
       "v": "Upkeep RM61,874 vs RM133,542 budget (RM572.91/ha); felling and clearing RM51,796; total RM113,670 (RM1,052.50/ha); expenditure from start RM884,887 (RM8,193.40/ha)",
       "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spray (immature)",
+       "pct": 70,
+       "note": "228 of 324 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spray (immature)",
+       "pct": 72,
+       "note": "233 of 324 ha",
+       "src": "PA 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   }
  ],

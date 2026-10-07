@@ -252,11 +252,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Mar 2026",
-      "v": "Circle (Mar 2026, PA): 55.00 ha, 1 round (33%). Selective (Mar 2026, PA): 55.00 ha, 1 round (33%).",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Notes",
       "v": "Circle and inter-row only 2.0 circle rounds in 2025; Agro: three inter-row rounds completed only in P03C. Delayed 2025 programme in P03C and P05E completed by Mar 2026 (PA).",
       "src": "PA 1/2026"
@@ -332,6 +327,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "55.00 ha, 1 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 33,
+       "note": "55.00 ha, 1 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -443,11 +457,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Mar 2026",
-      "v": "Circle (Mar 2026, PA): 118.00 ha, 1 round (33%). Selective (Mar 2026, PA): 118.00 ha, 1 round (33%).",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Jan 2026 (Agro)",
       "v": "Only block where 2026 inter-row weeding had started (100% of round 1) because the 4th round from 2025 was incomplete; no circle progress anywhere.",
       "src": "Agro 1/2026"
@@ -543,6 +552,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "118.00 ha, 1 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 33,
+       "note": "118.00 ha, 1 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -656,11 +684,6 @@
      {
       "k": "Inter-row (selective) 2025 (Jan-Dec)",
       "v": "328 ha done of 492 ha programmed (3 rounds) = 2 rounds, 67% (PA). Agro round 1/2/3 (%): 100/100/-.",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Jan-Mar 2026",
-      "v": "Circle (Mar 2026, PA): not started. Selective (Mar 2026, PA): 164.00 ha, 1 round (33%).",
       "src": "PA 1/2026"
      },
      {
@@ -811,6 +834,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 33,
+       "note": "164.00 ha, 1 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -929,11 +971,6 @@
      {
       "k": "Inter-row (selective) 2025 (Jan-Dec)",
       "v": "292 ha done of 438 ha programmed (3 rounds) = 2 rounds, 67% (PA). Agro round 1/2/3 (%): 100/100/-.",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Jan-Mar 2026",
-      "v": "Circle (Mar 2026, PA): not started. Selective (Mar 2026, PA): 146.00 ha, 1 round (33%).",
       "src": "PA 1/2026"
      },
      {
@@ -1079,6 +1116,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 33,
+       "note": "146.00 ha, 1 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   }

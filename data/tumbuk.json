@@ -248,11 +248,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: no work recorded. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Condition (Jul 2026)",
       "v": "Nephrolepis biserrata encroaching into harvesting paths and palm circles, particularly P89/P07; repeatedly highlighted, no tangible action taken. Control by targeted herbicide; widen harvesting paths to about 6 ft where Nephrolepis dominates (4.4.2c, 4.4.4; photos 19-22). Significant debris and obstructive weeds in circles (4.1.4). Nephrolepis dominant cover (photos 11-14).",
       "src": "Agro 2/2026"
@@ -352,7 +347,26 @@
       "v": "Part of P89+P07+P13 was felled with part of P98 for replanting (PA: about 315 acres (127 ha) in 2.2 and 10.1; 351 acres/142 ha in 5.7.2; 217 ha in 11.1). Mature area to fall from 287.21 ha to 160.21 ha (PA 2.3). Replanted area (332 acres incl. ex-P89 and P98) to be redesignated PR26 (Agro 2.1). Area statement not yet updated.",
       "src": "PA 1/2026 / Agro 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {
@@ -491,11 +505,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: no work recorded. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "2025 circle/selective note",
       "v": "PA text 5.1.3.3 says P05 and P06 completed 3.0 selective rounds while 'P89+P07+P13 only completed 1.0 round'; the PA table shows P98 and P04 at 1.00 round and P89+P07+P13 at 3.00 (see _gaps).",
       "src": "PA 1/2026"
@@ -580,7 +589,26 @@
       "v": "Part of P98 replanted with part of P89 (332 acres in total, to be redesignated PR26) (Agro 2.1). Parts of P04, P06 and P98 covering about 117 acres proposed for a future housing project (Agro 2/2026 2.3; 105 acres in P04 and P98 in Agro 1/2026). Maintenance to continue until further notice (Agro 1/2026 2.2). Agro 2/2025: replanting of a portion of P98 (46 acres = 18.61 ha) not yet finalised. Agro 1/2026 2.3: after replanting of P98 more than 30% of palms are over 20 years old and only 6.6% in prime. PA decision table: delay of P98 replanting recommended.",
       "src": "Agro 2/2026 / Agro 1/2026 / Agro 2/2025 / PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {
@@ -740,11 +768,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: no work recorded. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Condition (Jul 2026)",
       "v": "Overgrown VOPs sporadic; Nephrolepis dominant; circle conditions acceptable (4.4.2a, photos 17, 23-26). Large VOPs to be trunk-injected with glyphosate at 60 ml per palm (4.4.3).",
       "src": "Agro 2/2026"
@@ -834,7 +857,26 @@
       "v": "Part of P04 proposed for future housing project (about 117 acres across P04, P06 and P98); pruning on hold there (Agro 2/2026 2.3, 4.3.2).",
       "src": "Agro 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {
@@ -994,11 +1036,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: no work recorded. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Condition (Jul 2026)",
       "v": "Bare ground conditions recurring (photo 15); large epiphytes on trunks; circles acceptable (4.4.2d, 4.4.5). Bare ground had earlier reduced (Agro 1/2026 4.4.6).",
       "src": "Agro 2/2026"
@@ -1076,7 +1113,26 @@
       "v": "Total palms 4,311 (2023) and 4,305 (2024); palms per ha 113 and 112; variance 6 palms.",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {
@@ -1236,11 +1292,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: no work recorded. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Condition (Jul 2026)",
       "v": "Overgrown VOPs; over-spraying with bare ground; large epiphytes on trunks (photos 17, 16, 27-28); circles acceptable (4.4.2). Nephrolepis covering circles (PA photo 4, field 2006).",
       "src": "Agro 2/2026 / PA 1/2026"
@@ -1318,7 +1369,26 @@
       "v": "Part of P06 included in the roughly 117-acre housing-project proposal (Agro 2/2026 2.3).",
       "src": "Agro 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {
@@ -1487,11 +1557,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: no work recorded. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Condition (Jul 2026)",
       "v": "Quality of weeding below satisfactory standards: bare ground from over-spraying (photos 43-44); weeded circles shown in photos 45-46. Keep soft grasses as ground cover (5.1.3-5.1.4).",
       "src": "Agro 2/2026"
@@ -1583,7 +1648,26 @@
       "v": "Rate RM90.00/t is for young mature P21; total harvest and collection cost RM114.00/t 'acceptable' (PA 6.8, 6.10).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {
@@ -1726,11 +1810,6 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Jan-Feb 2026 progress (Tables 6 and 8)",
-      "v": "Circle: 18.29 ha, 1.0 round, 20% of programme. Selective: no work recorded.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Condition (Jul 2026)",
       "v": "Over-spraying noticeably reduced but significant sporadic patches of undesirable broadleaf weeds in inter-rows need immediate eradication (5.2.4; photos 55-58).",
       "src": "Agro 2/2026"
@@ -1802,7 +1881,26 @@
       "v": "Group MD: be prepared for immature harvesting and commence basal sanitation pruning; eradicate banana trees repeatedly until satisfactory. Immature harvesting (began Jan 2026) 'satisfactory' (9.7).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 20,
+       "note": "18.29 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective / inter-row",
+       "pct": 0,
+       "note": "no work recorded",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Feb 2026"
+    }
    }
   },
   {

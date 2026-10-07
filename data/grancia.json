@@ -286,7 +286,29 @@
       "v": "No replanting approved for 2026 and 2027; programme not finalised. Earlier: GMD said consider in 2027 (Sep 2025); Agro suggested 2027/2028 because palm height exceeds 50 ft, depleting productive stands and few skilled tall-palm harvesters (Mar 2025). PA: no plans yet.",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Feb)",
+       "pct": 0,
+       "note": "outstanding 27 Feb",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Feb 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding 2026",
+       "pct": 0,
+       "note": "not yet started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Feb 2026"
+    }
    }
   },
   {
@@ -503,7 +525,26 @@
       "v": "2,871 palms, 134/ha. Terraced sections present.",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Feb 2026"
+    }
    }
   },
   {
@@ -720,7 +761,26 @@
       "v": "Palm etiolation in sections: selective thinning recommended (census then thin severely etiolated palms; remove abnormal palms first); no progress made to date as at Feb 2026.",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "done",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Feb 2026"
+    }
    }
   },
   {
@@ -927,7 +987,19 @@
       "v": "Several abnormal / runtish palms: identify and remove by poisoning as soon as possible.",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Feb)",
+       "pct": 0,
+       "note": "outstanding 27 Feb",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Feb 2026"
+    }
    }
   },
   {
@@ -1137,7 +1209,36 @@
       "v": "Started recently but some inflorescences not completely removed. Minimum 3 rounds at 4-6 week intervals, final round no later than June 2026. (Sep 2025 advice: start about 14 months of age.)",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compound · round 1 (Jan)",
+       "pct": 0,
+       "note": "outstanding 27 Feb",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Feb 2026",
+     "spraying": [
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "on schedule",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "on schedule",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Feb 2026"
+    }
    }
   }
  ],

@@ -120,11 +120,13 @@ ESTATE-WIDE FIELD NOTES
 [field] Housing: Labour Department housing issue: no progress reported (PA 2/2026)
 
 BLOCK PM00A (160.63 ha, planted 2000, Mature)
+Manuring progress (to Jun 2026):
+  - NK2 · Jan: 100% — 22 Jan–14 Feb (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 33% (worked out) — 1 of 3 rds · 160.63 ha (PA 2/2026)
 Manuring progress:
-  - NK2 Jan, 2,000 g: Applied 22.01.26-14.02.26 (PA 2/2026)
   - NK2 May, 2,000 g: Scheduled, no date (PA 2/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 160.63 ha area; 1.00 round (done Apr/May); Completed 1st Round; 3 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 321.26 ha; 2.00 rounds (Jan, May); completed 2nd round (PA 2/2026)
   - Weeds and condition: Circles clean (PA photo); overgrown VOPs in ravines need poisoning; circles overgrown, first round incomplete in March (Agro) (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -156,11 +158,14 @@ Field:
   - Road grading budget 2026: 321 chains; none done to Jun (PA 2/2026)
 
 BLOCK PM01B (68.0 ha, planted 2001, Mature)
+Manuring progress (to Jun 2026):
+  - Mix A · Jan: 100% — 16–19 Jan (PA 2/2026)
+  - NK1 · Apr: 100% — 9–24 Apr (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 33% (worked out) — 1 of 3 rds · 68.00 ha (PA 2/2026)
 Manuring progress:
-  - Mix A Jan, 1,750 g: Applied 16.01.26-19.01.26 (PA 2/2026)
   - NK1 Apr, 1,750 g: Applied 09.04.26-24.04.26; 4 workers, 20 bags per man-day, dosage 1,750 g, quality acceptable; ravine and platform difficulty, small buckets (Agro) (PA 2/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 68.00 ha area; 1.00 round (Mar); 3 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 136.00 ha; 2.00 (Feb, May) (PA 2/2026)
   - Weeds and condition: Circles clean (PA); overgrown VOPs and ravine VOPs need poisoning; bracken and Stenochlaena (Agro); circles acceptable (Agro) (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -192,11 +197,12 @@ Field:
   - Road grading budget 2026: 136 chains; none done to Jun (PA 2/2026)
 
 BLOCK PM02C (31.8 ha, planted 2002, Mature)
-Manuring progress:
-  - Mix A Jan, 1,750 g: Applied 29.01.26-30.01.26 (PA 2/2026)
-  - NK1 Apr, 1,750 g: Applied 22.04.26-23.04.26 (PA 2/2026)
+Manuring progress (to Jun 2026):
+  - Mix A · Jan: 100% — 29–30 Jan (PA 2/2026)
+  - NK1 · Apr: 100% — 22–23 Apr (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 33% (worked out) — 1 of 3 rds · 31.80 ha (PA 2/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 31.80 ha area; 1.00 round (Apr); 3 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 63.60 ha; 2.00 (Feb, Jun) (PA 2/2026)
   - Weeds and condition: Circles due (PA photo) and some clean; outlying block woodies and VOPs not satisfactory; Clidemia in inter-rows; circles overgrown (Agro) (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -225,12 +231,14 @@ Field:
   - Location: Outlying block (PA 2/2026)
 
 BLOCK PM12D (145.0 ha, planted 2012, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Feb: 100% — 11–27 Feb (PA 2/2026)
+  - Mix B rd 2: 100% — 14 Apr–20 May (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 33% (worked out) — 1 of 3 rds · 145.00 ha (PA 2/2026)
 Manuring progress:
-  - Mix B Feb, 2,250 g: Applied 11.02.26-27.02.26 (PA 2/2026)
-  - Mix B R2 May, 2,250 g: Applied 14.04.26-20.05.26 (as printed) (PA 2/2026)
   - RP Jun, 1,500 g: Dated 29.06.26, in progress (PA 2/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 145.00 ha area; 1.00 round (Apr); 3 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 145.00 ha; 1.00 (Mar) (PA 2/2026)
   - Weeds and condition: Overgrown VOPs in ravines need poisoning; Clidemia in inter-rows; Nephrolepis encroaching; circles overgrown (Agro) (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -263,13 +271,15 @@ Field:
   - Road grading budget 2026: 435 chains; none done to Jun (PA 2/2026)
 
 BLOCK PM16E (42.06 ha, planted 2016, Mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Jan: 100% — 20–26 Jan (PA 2/2026)
+  - Kieserite · Feb: 100% — 22–24 Feb (PA 2/2026)
+  - Mix B · Apr: 100% — 16–26 May (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 67% (worked out) — 2 of 3 rds · 84.12 ha (PA 2/2026)
 Manuring progress:
-  - Mix B Jan, 2,250 g: Applied 20.01.26-26.01.26 (PA 2/2026)
-  - Kieserite Feb, 750 g: Applied 22.02.26-24.02.26 (PA 2/2026)
-  - Mix B Apr, 2,250 g: Applied 16.05.26-26.05.26 (PA 2/2026)
   - RP May, 2,000 g: No date printed (PA 2/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 84.12 ha area; 2.00 rounds (Mar, Jun); Completed 2nd Round; 3 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 126.18 ha; 3.00 (Feb, Apr, Jun) (PA 2/2026)
   - Weeds and condition: Circles clean (PA); VOPs (Agro); circles acceptable (Agro) (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -302,14 +312,16 @@ Field:
   - Road grading budget 2026: 168 chains; none done to Jun (PA 2/2026)
 
 BLOCK PM18F (85.04 ha, planted 2018, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Feb: 100% — 24 Feb–24 Apr (PA 2/2026)
+  - Mix B · May: 100% — 2–26 Jun (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 67% (worked out) — 2 of 3 rds · 170.08 ha (PA 2/2026)
 Manuring progress:
-  - Mix B Feb, 2,250 g: Applied 24.02.26-24.04.26 (PA 2/2026)
   - Kieserite Mar, 750 g: Dates printed 19.06.26-17.06.26 (as printed) (PA 2/2026)
-  - Mix B May, 2,000 g: Applied 02.06.26-26.06.26 (PA 2/2026)
   - RP Jun, 2,000 g: No date (PA 2/2026)
   - Outstanding at Mar 2026: Mix B (Feb) outstanding in this block; kieserite (Mar) outstanding (Agro 1/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 170.08 ha area; 2.00 rounds (Feb, May/Jun); 3 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 170.08 ha; 2.00 (Jan, Apr/Jun) (PA 2/2026)
   - Weeds and condition: Circles due (PA photo); VOPs and woodies spots; terrace weeds Clidemia and wild brinjal; Mucuna into canopy; Ageratum in circles (Agro); 2025 weeding nearly complete (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -343,13 +355,15 @@ Field:
   - Roads: F1 damaged roads (Agro) (Agro 1/2026)
 
 BLOCK PM20G (105.82 ha, planted 2020, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Feb: 100% — 4 Mar–13 Apr (PA 2/2026)
+  - Kieserite · Mar: 100% — 22–27 Jun (PA 2/2026)
+  - Mix B · May: 100% — 26 May–12 Jun (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 25% (worked out) — 1 of 4 rds · 105.82 ha (PA 2/2026)
 Manuring progress:
-  - Mix B Feb, 2,000 g: Applied 04.03.26-13.04.26 (PA 2/2026)
-  - Kieserite Mar, 500 g: Applied 22.06.26-27.06.26 (PA 2/2026)
-  - Mix B May, 2,000 g: Applied 26.05.26-12.06.26 (PA 2/2026)
   - Outstanding at Mar 2026: Mix B (Feb) outstanding in this block; kieserite (Mar) outstanding (Agro 1/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 105.82 ha area; 1.00 round (Mar); 4 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 234.64 ha; 2.22 (Jan, Mar/May, Jun); incompleted 3rd round (PA 2/2026)
   - Weeds and condition: Circles clean (PA); woodies; wild brinjal (Agro); 2025 weeding 79% (PA 2/2026)
 Fertiliser programme (this year) 2026:
@@ -380,13 +394,15 @@ Field:
   - Road grading budget 2026: 423 chains; none done to Jun (PA 2/2026)
 
 BLOCK PM22H (96.0 ha, planted 2022, Young mature)
+Manuring progress (to Jun 2026):
+  - Mix B · Feb: 100% — 11 Mar–13 Apr (PA 2/2026)
+  - Mix B · May (52 ha): 100% — 21–23 May (PA 2/2026)
+  - Mix B · May (44 ha): 100% — 23–26 May (PA 2/2026)
+Spraying progress (to Jun 2026):
+  - Circle spray: 30% (worked out) — 1.49 of 5 rds · 142.87 ha (PA 2/2026)
 Manuring progress:
-  - Mix B Feb, 1,500 g: Applied 11.03.26-13.04.26 (PA 2/2026)
-  - Mix B May, 1,750 g (52 ha): Applied 21.05.26-23.05.26 (PA 2/2026)
-  - Mix B May, 1,500 g (44 ha): Applied 23.05.26-26.05.26 (PA 2/2026)
   - Outstanding at Mar 2026: Mix B (Feb) outstanding in this block (Agro 1/2026)
 Spraying & weeding:
-  - Circle spray to Jun 2026: 142.87 ha area; 1.49 rounds (Apr, May/Jun); Incompleted 2nd Round; 5 rounds budgeted (PA 2/2026)
   - Selective spray to Jun 2026: 192.00 ha; 2.00 (Jan, Mar) (PA 2/2026)
   - Weeds and condition: Circles due (PA photo); spot next to TNB rentis totally neglected, woodies overgrown; 2025 weeding 65% (circles 50%); only 52 ha (about 54%) first-round inter-row by Mar 2026; grassy circles; Mucuna encroachment (Agro) (PA 2/2026)
 Fertiliser programme (this year) 2026:

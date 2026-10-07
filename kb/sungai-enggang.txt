@@ -123,6 +123,11 @@ ESTATE-WIDE FIELD NOTES
 [other] Replanting plan: No replanting 2026; 2027: 125.17 ha (4.5%); 2028: 107.30 ha (3.8%) of P96B (Agro 1/2026)
 
 BLOCK P96B (232.47 ha, planted 1996, Mature)
+Manuring progress (to May 2026):
+  - NK2 · 2026 round: 100% — B1, B2 · Feb (Agro 1/2026)
+Spraying progress (to Apr 2026):
+  - Circle weeding 2026: 100% — complete (Agro 1/2026)
+  - Inter-row weeding 2026: 100% — done Jan–Apr (Agro 1/2026)
 Manuring progress:
   - NK2 2.25 kg/palm (2,250 g), B1: Round 1 (programmed Feb) completed May; round 2 (programmed Aug) completed Aug (PA 1/2026)
   - NK2 2,250 g, B2: Round 1 completed May; round 2 completed Sep (programmed Aug) (PA 1/2026)
@@ -172,6 +177,10 @@ Field:
   - Manuring withdrawn: B3-B8 no manuring: to be replanted in 2027; GMD: deboling in 2027 replant area unnecessary (Agro 1/2026)
 
 BLOCK P96C (528.12 ha, planted 1996, Mature)
+Manuring progress (to May 2026):
+  - NK2 · 2026 round: 100% — single round (Agro 1/2026)
+Spraying progress (to Apr 2026):
+  - Circle weeding 2026: 100% — completed to Apr (Agro 1/2026)
 Manuring progress:
   - NK2 2.50 kg/palm (2,500 g), 2025 rounds: Programme: round 1 Jan/Feb, round 2 Jul/Aug; completed months (round 1 / round 2): C1 Jan / Jul; C2 Feb / Jul; C3 Feb / Aug; C4 Feb / Sep; C5 May / Aug; C6 Feb / Jul; C7 May / Aug; C8 May / Jul; C9 Feb / Jul; C10 Feb / Jul (all marked completed 2nd round) (PA 1/2026)
   - Deviations 2025: C5 round 1 programmed Feb, applied May; C7 programmed Feb, applied May; C8 programmed Jan, applied May (delay >3 months) (Agro 1/2026)
@@ -218,6 +227,8 @@ Field:
   - EFB 2025 (PA): 369.68 ha base: 1,047.12 MT, 20.94 ha at 50 MT/ha = 6% of area (PA 1/2026)
 
 BLOCK P96D (411.56 ha, planted 1996, Mature)
+Manuring progress (to May 2026):
+  - NK1 · round 1: 100% — Feb · complete (Agro 1/2026)
 Manuring progress:
   - NK2 2025 rounds (programme: round 1 Feb/Mar 2,000 g; round 2 Jun/Jul 2,000 g; round 3 Oct/Nov, PA heading says 1,000 g, Agro appendix 1,500 g): Completed months (round 1 / 2 / 3): D1 Apr / Jun / Oct; D2 Apr / Jun / Oct; D3 Apr / May / Oct; D4 Apr / May / Sep; D5 Apr / May / Sep; D6 Apr / Jun / Sep; D7 Apr / May / Sep; D8 Apr / Jun / Sep; D9 Apr / Jun / Sep (all completed 3rd round; round 1 about 1-2 months behind programme) (PA 1/2026)
   - 2026: NK1 programme: Feb 2,000 g then 1,500 g or 2,000 g; first round complete (NK1 50% estate-wide, 194.50 of 385.99 MT, May 2026) (Agro 1/2026)
@@ -404,6 +415,9 @@ Field:
   - EFB 2025 (PA): 85.84 ha base: 4,081.40 MT, 81.63 ha at 50 MT/ha = 95% of area; Agro 1/2026 Table 8 shows 3,758.24 MT, 75.19 ha, 88% (period conflicts; see gaps) (PA 1/2026)
 
 BLOCK P20H (50.59 ha, planted 2020, Young mature)
+Spraying progress (Jan–May 2026):
+  - Circle weeding rd 1: 100% — completed (Agro 1/2026)
+  - Inter-row weeding rd 1: 100% — completed (Agro 1/2026)
 Manuring progress:
   - Mix B / RP 2025 rounds: H1: 2,000 g first round (programmed Feb); further rounds printed: programme rounds Apr (Mix B 1,500 g / RP 2,000 g), May Mix B 1,750 g, Aug Mix B 1,750 g, Nov Mix B 2,000 g; completion months printed Feb, Mar, Jul, Nov, Dec (PA 1/2026)
   - Deviation 2025: Mix B round 4 programmed Aug, applied Nov; RP first round 2024 delayed to Jul (2025 Agro 1/2025) (Agro 1/2026)
@@ -455,6 +469,9 @@ Field:
   - Ground cover: Mucuna bracteata dominant in inter-rows; eradicate with Ally where it covers palms (Agro 2/2025)
 
 BLOCK PR23I (222.38 ha, planted 2023, Immature)
+Spraying progress (to Apr 2026):
+  - Inter-row weeding: 50% (worked out) — 2 of 4 rounds (Agro 1/2026)
+  - Circle weeding: 25% (worked out) — 1 of 4 rounds (Agro 1/2026)
 Manuring progress:
   - Fertilised 2025: 5 of 5 rounds applied (100%); palms satisfactory; good fruit sets (PA 1/2026)
   - Manuring 2025/26: Fertiliser programme implemented effectively without significant delays (Dec 2025 and May 2026) (Agro 1/2026)
@@ -483,6 +500,9 @@ Field:
   - Cost 2025: Cost of upkeep RM519,181 vs RM551,462 budget (RM2,335/ha vs RM2,480); from start RM1,028,683 (RM4,626/ha); felling and clearing from start RM2,462,895 (RM11,075/ha); total from start RM3,491,578 (RM15,701/ha); manuring RM268,121 vs RM250,877; pest and disease RM94,779 vs RM89,934; supplying RM33,700 vs RM31,300; weeding RM97,605 vs RM99,404; ablation RM260 vs RM11,120 (PA 1/2026)
 
 BLOCK PR24J (255.12 ha, planted 2024, Immature)
+Spraying progress (to Apr 2026):
+  - Inter-row weeding: 17% (worked out) — 1 of 6 rounds (Agro 1/2026)
+  - Circle weeding: 33% (worked out) — 2 of 6 rounds (Agro 1/2026)
 Manuring progress:
   - Fertilised 2025: 3 of 3 rounds applied (100%); palms satisfactory (PA 1/2026)
   - CIRP delay 2025: CIRP (rock phosphate) scheduled for Sep 2025 completed in December; delayed manuring noted (Dec 2025: further delays must be avoided) (Agro 1/2026)

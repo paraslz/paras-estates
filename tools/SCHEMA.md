@@ -78,3 +78,7 @@ row = {"k": "short label", "v": "finding with figures and the period", "src": "P
 ```
 Be exhaustive: everything the latest PA and Agronomy reports say about the block. Programmes for year N
 sit in the Agronomy report of the visit before (e.g. 2025 programme in Agro 1/2025; Agro 2/YYYY holds next year's).
+
+`detail.progress` = {"manuring": [bar], "manuringPeriod": "to Jun 2026", "spraying": [bar], "sprayingPeriod": "Jan–Jun 2026"}
+bar = {"k": "Mix B · round 1 (Feb)", "pct": 100, "note": "103.3 t · 380 ha", "src": "PA 2/2026", "calc": false}
+Latest year only; pct as printed, or done ÷ programme with calc true; rows fully shown by bars are removed from detail.manuring/spraying.

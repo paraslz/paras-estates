@@ -194,32 +194,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 NK2, Feb",
-      "v": "Programme 2,000 g/palm. Applied on 50.6 ha (whole sub-block) per PA table. Only round in the 2026 programme (done).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "EFB 2025",
       "v": "2,024.0 MT over 50.60 ha at 40 mt/ha (100% of area), 2025",
       "src": "Agro 1/2026 Table 8"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM93F, Jan–Jun 2026",
-      "v": "172.12 ha done of 403.2 ha programme to date = 43% (previously 172.12 ha + 0 ha in June). Block area in table 201.6 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM93F, Jan–Jun 2026",
-      "v": "232 ha done of 403.2 ha programme to date = 58% (previously 201.6 ha + 30.4 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM93F)",
-      "v": "Inter-row 1st round 100%; circle 1st round 85% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly covered by soft grasses",
@@ -306,7 +286,50 @@
       "v": "Census Jun-25: 24,146 palms on 201.6 ha; stand/ha 120 previously, 113 current (diff -7). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "50.6 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 43,
+       "note": "172.12 of 403.2 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 58,
+       "note": "232 of 403.2 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 85,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -340,32 +363,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 NK2, Feb",
-      "v": "Programme 2,000 g/palm. Applied on 58.8 ha (whole sub-block) per PA table. Only round in the 2026 programme (done).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "EFB 2025",
       "v": "2,352.0 MT over 58.80 ha at 40 mt/ha (100% of area), 2025",
       "src": "Agro 1/2026 Table 8"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM93F, Jan–Jun 2026",
-      "v": "172.12 ha done of 403.2 ha programme to date = 43% (previously 172.12 ha + 0 ha in June). Block area in table 201.6 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM93F, Jan–Jun 2026",
-      "v": "232 ha done of 403.2 ha programme to date = 58% (previously 201.6 ha + 30.4 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM93F)",
-      "v": "Inter-row 1st round 100%; circle 1st round 85% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly covered by soft grasses",
@@ -452,7 +455,50 @@
       "v": "Census Jun-25: 24,146 palms on 201.6 ha; stand/ha 120 previously, 113 current (diff -7). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "58.8 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 43,
+       "note": "172.12 of 403.2 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 58,
+       "note": "232 of 403.2 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 85,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -479,29 +525,8 @@
       "src": "PA 2/2026 8.4-8.5"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 NK2, Feb",
-      "v": "Programme 2,000 g/palm. Applied on 54.2 ha (whole sub-block) per PA table. Only round in the 2026 programme (done).",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spraying PM93F, Jan–Jun 2026",
-      "v": "172.12 ha done of 403.2 ha programme to date = 43% (previously 172.12 ha + 0 ha in June). Block area in table 201.6 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM93F, Jan–Jun 2026",
-      "v": "232 ha done of 403.2 ha programme to date = 58% (previously 201.6 ha + 30.4 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM93F)",
-      "v": "Inter-row 1st round 100%; circle 1st round 85% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weeds",
       "v": "Pocket of dense undesirable weeds in inter-row (photo); predominantly soft grasses otherwise",
@@ -588,7 +613,50 @@
       "v": "Census Jun-25: 24,146 palms on 201.6 ha; stand/ha 120 previously, 113 current (diff -7). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "54.2 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 43,
+       "note": "172.12 of 403.2 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 58,
+       "note": "232 of 403.2 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 85,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -615,29 +683,8 @@
       "src": "PA 2/2026 8.4-8.5"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 NK2, Feb",
-      "v": "Programme 2,000 g/palm. Applied on 38 ha (whole sub-block) per PA table. Only round in the 2026 programme (done).",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spraying PM93F, Jan–Jun 2026",
-      "v": "172.12 ha done of 403.2 ha programme to date = 43% (previously 172.12 ha + 0 ha in June). Block area in table 201.6 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM93F, Jan–Jun 2026",
-      "v": "232 ha done of 403.2 ha programme to date = 58% (previously 201.6 ha + 30.4 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM93F)",
-      "v": "Inter-row 1st round 100%; circle 1st round 85% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly covered by soft grasses (report prints the block as \"P03F5\")",
@@ -724,7 +771,50 @@
       "v": "Census Jun-25: 24,146 palms on 201.6 ha; stand/ha 120 previously, 113 current (diff -7). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "38 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 43,
+       "note": "172.12 of 403.2 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 58,
+       "note": "232 of 403.2 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 85,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -768,11 +858,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Weeding rounds to May 2026 (PM97H)",
-      "v": "Inter-row 1st round 37%; circle 1st round 100% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Excluded from spraying as it is scheduled for replanting in 2026",
@@ -856,7 +941,26 @@
       "v": "PR26/X5–X6 with H3, 60.00 ha: replanting agreed (scheduled Apr 2026); felling and chipping started June and was in progress at PA visit; Agro: felling/chipping completed July 2026; land preparation from mid-Aug 2026",
       "src": "PA 2/2026 item 1, 2.3 / Agro 1/2026 7.11"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -899,13 +1003,7 @@
       "src": "PA 2/2026 6.5"
      }
     ],
-    "spraying": [
-     {
-      "k": "Weeding rounds to May 2026 (PM97H)",
-      "v": "Inter-row 1st round 37%; circle 1st round 100% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     }
-    ],
+    "spraying": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -983,7 +1081,26 @@
       "v": "PR26/X5–X6 with H2, 60.00 ha: replanting agreed; felling and chipping started June; Agro: completed July 2026; land preparation from mid-Aug 2026. H3 is 84% flood-prone",
       "src": "PA 2/2026 item 1, 2.3 / Agro 1/2026 7.11"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1020,30 +1137,8 @@
       "src": "Agro 1/2026 Table 6"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 NK2, Feb",
-      "v": "Programme 2,000 g/palm. Applied on 35.90 ha (whole sub-block). Only round in the 2026 programme (done).",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
-    "spraying": [
-     {
-      "k": "Circle spraying PM97H, Jan–Jun 2026",
-      "v": "35.9 ha done of 191.8 ha programme to date = 19% (previously 35.9 ha + 0 ha in June). Block area in table 35.9 ha. PA table row PM97H (35.90 ha = H4 only). Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM97H, Jan–Jun 2026",
-      "v": "35.9 ha done of 191.8 ha programme to date = 19% (previously 35.9 ha + 0 ha in June). PA table row PM97H (35.90 ha = H4 only). Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM97H)",
-      "v": "Inter-row 1st round 37%; circle 1st round 100% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     }
-    ],
+    "manuring": [],
+    "spraying": [],
     "fertNow": {
      "year": 2026,
      "rows": [
@@ -1136,7 +1231,50 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "35.90 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 19,
+       "note": "35.9 of 191.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 19,
+       "note": "35.9 of 191.8 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1185,21 +1323,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover / weeds",
       "v": "Predominantly soft grasses (Agro). PA: clean circles and clean inter-rows (photos 5, 15) but VOPs seen in inter-row (photo 14)",
@@ -1318,7 +1441,57 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "62.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 100,
+       "note": "62.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1372,21 +1545,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly soft grasses",
@@ -1500,7 +1658,57 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "58.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 100,
+       "note": "58.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1549,21 +1757,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: spraying carried out only on higher ground; this sub-block excluded from the spraying programme",
@@ -1692,7 +1885,57 @@
       "v": "93% flood-prone; among the worst-flooded sub-blocks",
       "src": "Agro 1/2026 App.3b"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "49.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 100,
+       "note": "49.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1737,21 +1980,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly soft grasses",
@@ -1870,7 +2098,57 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "37.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 100,
+       "note": "37.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -1919,21 +2197,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: excluded from the spraying programme",
@@ -2064,7 +2327,57 @@
       "v": "Agro 9.1: no manuring is required for blocks scheduled for 2026 and 2027 replanting, but Appendix 1b still lists NK3 2,000 g x2 for I5-I8 (see fertNow)",
       "src": "Agro 1/2026 9.1, App.1b"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "32.2 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -2109,21 +2422,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: excluded from the spraying programme",
@@ -2232,7 +2530,57 @@
       "v": "Scheduled 2027 (Agro Table 6: P99I5-I8, 188.8 ha; PA 2.4: P99I6/I7/I8, 188 ha)",
       "src": "Agro 1/2026 Table 6 / PA 2/2026 2.4"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "58.7 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -2277,21 +2625,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: excluded from the spraying programme",
@@ -2400,7 +2733,57 @@
       "v": "Scheduled 2027 (Agro Table 6: P99I5-I8, 188.8 ha; PA 2.4: P99I6/I7/I8, 188 ha)",
       "src": "Agro 1/2026 Table 6 / PA 2/2026 2.4"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "49.2 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -2449,21 +2832,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM99I, Jan–Jun 2026",
-      "v": "347.98 ha done of 395.8 ha programme to date = 88% (previously 266.83 ha + 81.15 ha in June). Block area in table 395.8 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM99I, Jan–Jun 2026",
-      "v": "266.83 ha done of 791.6 ha programme to date = 34% (previously 266.83 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM99I)",
-      "v": "Inter-row 1st round 67%; circle 1st round 67% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: excluded from the spraying programme",
@@ -2592,7 +2960,57 @@
       "v": "Scheduled 2027 (Agro Table 6: P99I5-I8, 188.8 ha; PA 2.4: P99I6/I7/I8, 188 ha)",
       "src": "Agro 1/2026 Table 6 / PA 2/2026 2.4"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "48.7 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Round 2 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 88,
+       "note": "347.98 of 395.8 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 34,
+       "note": "266.83 of 791.6 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 67,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -2630,42 +3048,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 Mix B (Feb)",
-      "v": "Programme 2,000 g/palm. Applied on 34.4 ha (whole sub-block) per PA table.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (May)",
-      "v": "Programme 1,750 g/palm. Applied on 34.4 ha (whole sub-block) per PA table.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 1,500 g/palm. Applied on 34.4 ha (whole sub-block).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B (Aug)",
       "v": "PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.)",
       "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM00J, Jan–Jun 2026",
-      "v": "66.96 ha done of 91.7 ha programme to date = 73% (previously 66.96 ha + 0 ha in June). Block area in table 91.7 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM00J, Jan–Jun 2026",
-      "v": "75.1 ha done of 183.4 ha programme to date = 41% (previously 66.96 ha + 8.14 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM00J)",
-      "v": "Inter-row 1st round 73%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: excluded from the spraying programme",
@@ -2794,7 +3182,64 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Feb)",
+       "pct": 100,
+       "note": "34.4 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (May)",
+       "pct": 100,
+       "note": "34.4 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "34.4 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Aug)",
+       "pct": 0,
+       "note": "0 ha done · due Aug",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 73,
+       "note": "66.96 of 91.7 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 41,
+       "note": "75.1 of 183.4 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 73,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -2828,42 +3273,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 Mix B (Feb)",
-      "v": "Programme 2,000 g/palm. Applied on 16.6 ha (whole sub-block) per PA table.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (May)",
-      "v": "Programme 1,750 g/palm. Applied on 16.6 ha (whole sub-block) per PA table.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 1,500 g/palm. Applied on 16.6 ha (whole sub-block).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B (Aug)",
       "v": "PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.)",
       "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM00J, Jan–Jun 2026",
-      "v": "66.96 ha done of 91.7 ha programme to date = 73% (previously 66.96 ha + 0 ha in June). Block area in table 91.7 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM00J, Jan–Jun 2026",
-      "v": "75.1 ha done of 183.4 ha programme to date = 41% (previously 66.96 ha + 8.14 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM00J)",
-      "v": "Inter-row 1st round 73%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: excluded from the spraying programme",
@@ -2992,7 +3407,64 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Feb)",
+       "pct": 100,
+       "note": "16.6 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (May)",
+       "pct": 100,
+       "note": "16.6 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "16.6 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Aug)",
+       "pct": 0,
+       "note": "0 ha done · due Aug",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 73,
+       "note": "66.96 of 91.7 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 41,
+       "note": "75.1 of 183.4 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 73,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -3026,42 +3498,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 Mix B (Feb)",
-      "v": "Programme 2,000 g/palm. Applied on 40.7 ha (whole sub-block) per PA table.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (May)",
-      "v": "Programme 1,750 g/palm. Applied on 40.7 ha (whole sub-block) per PA table.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 1,500 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows RP done on J1+J2 only (51.00 ha of 91.70 ha).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B (Aug)",
       "v": "PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.)",
       "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM00J, Jan–Jun 2026",
-      "v": "66.96 ha done of 91.7 ha programme to date = 73% (previously 66.96 ha + 0 ha in June). Block area in table 91.7 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM00J, Jan–Jun 2026",
-      "v": "75.1 ha done of 183.4 ha programme to date = 41% (previously 66.96 ha + 8.14 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM00J)",
-      "v": "Inter-row 1st round 73%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weeds (PA photos)",
       "v": "Clean circles and clean inter-rows in places (photos 4, 6, 13); also overgrown VOPs (photo 17) and spots of woodies (photo 16)",
@@ -3185,7 +3627,64 @@
       "v": "Tentatively 2028 (Agro Table 6: P99I1-I4, P97H4, P00J1-J3, 139.8 ha)",
       "src": "Agro 1/2026 Table 6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Feb)",
+       "pct": 100,
+       "note": "40.7 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (May)",
+       "pct": 100,
+       "note": "40.7 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Aug)",
+       "pct": 0,
+       "note": "0 ha done · due Aug",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 73,
+       "note": "66.96 of 91.7 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 41,
+       "note": "75.1 of 183.4 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 73,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -3227,21 +3726,6 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 Mix B (Feb)",
-      "v": "Programme 2,000 g/palm. Applied on 40.30 ha (whole sub-block).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (May)",
-      "v": "Programme 1,750 g/palm. Applied on 40.30 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 1,750 g/palm. Applied on 40.30 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B",
       "v": "PA table plans 1,750 g/palm in Aug (Agro programme shows Oct); 0.00 ha done at cut-off.",
       "src": "PA 2/2026 6.5"
@@ -3249,29 +3733,9 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying PM04L, Jan–Jun 2026",
-      "v": "0 ha done of 40.3 ha programme to date = 0% (previously 0 ha + 0 ha in June). Block area in table 40.3 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM04L, Jan–Jun 2026",
-      "v": "0 ha done of 80.6 ha programme to date = 0% (previously 0 ha + 0 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM04L)",
-      "v": "Inter-row 1st round 0%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
-     {
       "k": "Ground cover",
       "v": "Lindernia has colonised the peat area. PA: clean circles and clean inter-rows (photos 9, 19)",
       "src": "Agro 1/2026 6.4.12 / PA 2/2026 6.3-6.4"
-     },
-     {
-      "k": "PA spraying progress",
-      "v": "0% done on both circle and selective spraying to June (0 of 40.30 ha)",
-      "src": "PA 2/2026 6.3-6.4"
      }
     ],
     "fertNow": {
@@ -3418,7 +3882,64 @@
       "v": "Culvert lowered 10–11 July 2026 (commended; photos 43-44). Main drains in satisfactory flow (photos 31-32). Peat area with Lindernia cover",
       "src": "Agro 1/2026 5.4, 5.15"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Feb)",
+       "pct": 100,
+       "note": "40.30 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (May)",
+       "pct": 100,
+       "note": "40.30 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "40.30 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4",
+       "pct": 0,
+       "note": "0 ha done · due later",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -3473,29 +3994,9 @@
       "k": "Round 3 RP (Jun)",
       "v": "Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1.",
       "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Sep)",
-      "v": "Programme 2,000 g/palm; not yet due at PA cut-off.",
-      "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 207.4 ha programme to date = 67% (previously 77.4 ha + 60.7 ha in June). Block area in table 207.4 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 414.8 ha programme to date = 33% (previously 77.4 ha + 60.7 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM15N)",
-      "v": "Inter-row 1st round 37%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: the N field excluded from the spraying programme",
@@ -3646,7 +4147,64 @@
       "v": "Census Jun-25: 25,418 palms on 207.4 ha; stand/ha 123 previously, 111 current (diff -12). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "60.7 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Sep)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "138.1 of 207.4 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "138.1 of 414.8 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -3693,29 +4251,9 @@
       "k": "Round 3 RP (Jun)",
       "v": "Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1.",
       "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Sep)",
-      "v": "Programme 2,000 g/palm; not yet due at PA cut-off.",
-      "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 207.4 ha programme to date = 67% (previously 77.4 ha + 60.7 ha in June). Block area in table 207.4 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 414.8 ha programme to date = 33% (previously 77.4 ha + 60.7 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM15N)",
-      "v": "Inter-row 1st round 37%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: the N field excluded from the spraying programme",
@@ -3856,7 +4394,64 @@
       "v": "Census Jun-25: 25,418 palms on 207.4 ha; stand/ha 123 previously, 111 current (diff -12). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "37.5 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Sep)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "138.1 of 207.4 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "138.1 of 414.8 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -3903,29 +4498,9 @@
       "k": "Round 3 RP (Jun)",
       "v": "Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1.",
       "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Sep)",
-      "v": "Programme 2,000 g/palm; not yet due at PA cut-off.",
-      "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 207.4 ha programme to date = 67% (previously 77.4 ha + 60.7 ha in June). Block area in table 207.4 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 414.8 ha programme to date = 33% (previously 77.4 ha + 60.7 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM15N)",
-      "v": "Inter-row 1st round 37%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: the N field excluded from the spraying programme",
@@ -4061,7 +4636,64 @@
       "v": "Census Jun-25: 25,418 palms on 207.4 ha; stand/ha 123 previously, 111 current (diff -12). Per-sub-block counts not printed.",
       "src": "Agro 1/2026 Table 5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "48.5 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Sep)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "138.1 of 207.4 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "138.1 of 414.8 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -4108,29 +4740,9 @@
       "k": "Round 3 RP (Jun)",
       "v": "Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1.",
       "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Sep)",
-      "v": "Programme 2,000 g/palm; not yet due at PA cut-off.",
-      "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 207.4 ha programme to date = 67% (previously 77.4 ha + 60.7 ha in June). Block area in table 207.4 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM15N, Jan–Jun 2026",
-      "v": "138.1 ha done of 414.8 ha programme to date = 33% (previously 77.4 ha + 60.7 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM15N)",
-      "v": "Inter-row 1st round 37%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Spraying exclusion",
       "v": "Low-lying flood-prone: the N field excluded from the spraying programme",
@@ -4271,7 +4883,64 @@
       "v": "High water level seen in the field (photos 37-38)",
       "src": "Agro 1/2026 5.9"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Round 1 (Feb)",
+       "pct": 100,
+       "note": "60.7 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 0,
+       "note": "not applied by Jun · late delivery",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Sep)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "138.1 of 207.4 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 33,
+       "note": "138.1 of 414.8 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 37,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -4318,42 +4987,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 NK2 (Feb)",
-      "v": "Programme 2,250 g/palm. Applied on 36.9 ha (whole sub-block).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 2,000 g/palm. Applied on 36.9 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 36.9 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B (Jul)",
       "v": "Programme 2,000 g/palm; 0.00 ha done at PA table cut-off. (PA table does not list the Oct round of 1,500 g/palm that is in the Agro programme.)",
       "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM16P, Jan–Jun 2026",
-      "v": "61.58 ha done of 132.2 ha programme to date = 47% (previously 61.58 ha + 0 ha in June). Block area in table 66.2 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM16P, Jan–Jun 2026",
-      "v": "127.78 ha done of 132.4 ha programme to date = 97% (previously 61.58 ha + 66.2 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM16P)",
-      "v": "Inter-row 1st round 93%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly soft grasses. PA: clean circles (photo 8)",
@@ -4514,7 +5153,64 @@
       "v": "Palms in low-lying peat areas show smaller canopies, weaker growth and shorter stature for their age (general statement; sub-blocks not named)",
       "src": "Agro 1/2026 6.3.2"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "36.9 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "36.9 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "36.9 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 47,
+       "note": "61.58 of 132.2 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 97,
+       "note": "127.78 of 132.4 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 93,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -4552,21 +5248,6 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 NK2 (Feb)",
-      "v": "Programme 2,250 g/palm. Applied on 29.3 ha (whole sub-block).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 2,000 g/palm. Applied on 29.3 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 29.3 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B (Jul)",
       "v": "Programme 2,000 g/palm; 0.00 ha done at PA table cut-off. (PA table does not list the Oct round of 1,500 g/palm that is in the Agro programme.)",
       "src": "PA 2/2026 6.5"
@@ -4578,21 +5259,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM16P, Jan–Jun 2026",
-      "v": "61.58 ha done of 132.2 ha programme to date = 47% (previously 61.58 ha + 0 ha in June). Block area in table 66.2 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM16P, Jan–Jun 2026",
-      "v": "127.78 ha done of 132.4 ha programme to date = 97% (previously 61.58 ha + 66.2 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM16P)",
-      "v": "Inter-row 1st round 93%; circle 1st round not printed (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weed kill / ground cover",
       "v": "Incomplete weed kills seen (photos 168-169); Lindernia colonised the peat area",
@@ -4743,7 +5409,64 @@
       "v": "Culvert realigned and lowered 10–11 July 2026 (commended; date as printed, after the 24–25 Jun visit)",
       "src": "Agro 1/2026 5.15"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "NK2 · round 1 (Feb)",
+       "pct": 100,
+       "note": "29.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "29.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "29.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 47,
+       "note": "61.58 of 132.2 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 97,
+       "note": "127.78 of 132.4 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 93,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -4786,47 +5509,12 @@
     ],
     "manuring": [
      {
-      "k": "Round 1 Mix B (Jan)",
-      "v": "Programme 2,000 g/palm. Applied on 38.20 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 2,000 g/palm. Applied on 38.20 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 38.20 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 4 Mix B (Jul)",
       "v": "PA table plans 2,000 g/palm (Agro programme: 1,500 g/palm); 0.00 ha done at cut-off.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 5 Mix B (Oct)",
-      "v": "Programme 1,500 g/palm; not yet due.",
       "src": "PA 2/2026 6.5"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying PM20R, Jan–Jun 2026",
-      "v": "38.2 ha done of 76.4 ha programme to date = 50% (previously 38.2 ha + 0 ha in June). Block area in table 38.2 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM20R, Jan–Jun 2026",
-      "v": "76.4 ha done of 76.4 ha programme to date = 100% (previously 38.2 ha + 38.2 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM20R)",
-      "v": "Inter-row 1st round 100%; circle 1st round 100% (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weeds",
       "v": "Predominantly soft grasses but pockets of dense undesirable weeds; sizeable VOPs that should be eradicated promptly; over-spraying (blanket) seen (photo 170). PA photos: clean circles and inter-rows (3, 11) and VOPs (12)",
@@ -4984,7 +5672,78 @@
       "v": "Clean circles (photo 3) and inter-rows (photo 11), VOPs (photo 12), pruned palms (photo 26), good fruit sets (photo 41)",
       "src": "PA 2/2026 6.3-8.6"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan)",
+       "pct": 100,
+       "note": "38.20 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "38.20 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "38.20 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 5 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 50,
+       "note": "38.2 of 76.4 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "76.4 of 76.4 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -5021,49 +5780,8 @@
       "src": "PA 2/2026 item 15"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 Mix B (Jan)",
-      "v": "Programme 1,500 g/palm. Applied on 21.63 ha (whole sub-block; PA lists it under sub-block no. 1).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 1,500 g/palm. Applied on 21.63 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 21.63 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Jul)",
-      "v": "Programme 1,250 g/palm; 0.00 ha done at cut-off.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 5 Mix B (Oct)",
-      "v": "Programme 1,250 g/palm; not yet due.",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spraying PM22T, Jan–Jun 2026",
-      "v": "387.26 ha done of 683.79 ha programme to date = 57% (previously 359.76 ha + 27.5 ha in June). Block area in table 227.93 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM22T, Jan–Jun 2026",
-      "v": "432.06 ha done of 683.79 ha programme to date = 63% (previously 359.76 ha + 72.3 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM22T)",
-      "v": "Inter-row 1st round 100% (round 2: 59%); circle 1st round 97% (round 2: 88%) (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Ground cover",
       "v": "Predominantly soft grasses. PA: young mature P22 still has VOPs, woodies and Giant Paspalum; eradicate at next selective round",
@@ -5209,7 +5927,92 @@
       "v": "Mature area rose from 1,137.10 ha to 1,305.03 ha as P22 was declared mature in 2026 (PA 2.1)",
       "src": "PA 2/2026 2.1"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan)",
+       "pct": 100,
+       "note": "21.63 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "21.63 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "21.63 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 5 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 57,
+       "note": "387.26 of 683.79 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 63,
+       "note": "432.06 of 683.79 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 97,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 2 (to May)",
+       "pct": 59,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 2 (to May)",
+       "pct": 88,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -5241,49 +6044,8 @@
       "src": "PA 2/2026 item 15"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 Mix B (Jan)",
-      "v": "Programme 1,500 g/palm. Applied on 75.9 ha (whole sub-block; PA lists it under sub-block no. 2).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 1,500 g/palm. Applied on 75.9 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 75.9 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Jul)",
-      "v": "Programme 1,250 g/palm; 0.00 ha done at cut-off.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 5 Mix B (Oct)",
-      "v": "Programme 1,250 g/palm; not yet due.",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spraying PM22T, Jan–Jun 2026",
-      "v": "387.26 ha done of 683.79 ha programme to date = 57% (previously 359.76 ha + 27.5 ha in June). Block area in table 227.93 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM22T, Jan–Jun 2026",
-      "v": "432.06 ha done of 683.79 ha programme to date = 63% (previously 359.76 ha + 72.3 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM22T)",
-      "v": "Inter-row 1st round 100% (round 2: 59%); circle 1st round 97% (round 2: 88%) (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weeds",
       "v": "Pocket of dense undesirable weeds in inter-row (photo 162). PA: P22 has VOPs, woodies, Giant Paspalum",
@@ -5417,7 +6179,92 @@
       "v": "Agro advises assessing infilling in P22T (and P20R) toward 148 SPH (current 130 SPH for P22T)",
       "src": "Agro 1/2026 2.5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan)",
+       "pct": 100,
+       "note": "75.9 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "75.9 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "75.9 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 5 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 57,
+       "note": "387.26 of 683.79 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 63,
+       "note": "432.06 of 683.79 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 97,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 2 (to May)",
+       "pct": 59,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 2 (to May)",
+       "pct": 88,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -5459,49 +6306,8 @@
       "src": "PA 2/2026 item 15"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 Mix B (Jan)",
-      "v": "Programme 1,500 g/palm. Applied on 58.1 ha (whole sub-block; PA lists it under sub-block no. 4).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 1,500 g/palm. Applied on 58.1 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 58.1 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Jul)",
-      "v": "Programme 1,250 g/palm; 0.00 ha done at cut-off.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 5 Mix B (Oct)",
-      "v": "Programme 1,250 g/palm; not yet due.",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spraying PM22T, Jan–Jun 2026",
-      "v": "387.26 ha done of 683.79 ha programme to date = 57% (previously 359.76 ha + 27.5 ha in June). Block area in table 227.93 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM22T, Jan–Jun 2026",
-      "v": "432.06 ha done of 683.79 ha programme to date = 63% (previously 359.76 ha + 72.3 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM22T)",
-      "v": "Inter-row 1st round 100% (round 2: 59%); circle 1st round 97% (round 2: 88%) (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weeds (PA photos)",
       "v": "Clean circles (photo 10); VOPs (photos 20-21), Giant Paspalum (photo 22), woodies / VOPs (photos 23-24); P22 needs more effort on these noxious growths at next selective round",
@@ -5640,7 +6446,92 @@
       "v": "Agro advises assessing infilling in P22T (and P20R) toward 148 SPH (current 130 SPH for P22T)",
       "src": "Agro 1/2026 2.5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan)",
+       "pct": 100,
+       "note": "58.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "58.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "58.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 5 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 57,
+       "note": "387.26 of 683.79 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 63,
+       "note": "432.06 of 683.79 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 97,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 2 (to May)",
+       "pct": 59,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 2 (to May)",
+       "pct": 88,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -5677,49 +6568,8 @@
       "src": "PA 2/2026 item 15"
      }
     ],
-    "manuring": [
-     {
-      "k": "Round 1 Mix B (Jan)",
-      "v": "Programme 1,500 g/palm. Applied on 72.3 ha (whole sub-block; PA lists it under sub-block no. 5).",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 2 Mix B (Apr)",
-      "v": "Programme 1,500 g/palm. Applied on 72.3 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 RP (Jun)",
-      "v": "Programme 2,000 g/palm. Applied on 72.3 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 Mix B (Jul)",
-      "v": "Programme 1,250 g/palm; 0.00 ha done at cut-off.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 5 Mix B (Oct)",
-      "v": "Programme 1,250 g/palm; not yet due.",
-      "src": "PA 2/2026 6.5"
-     }
-    ],
+    "manuring": [],
     "spraying": [
-     {
-      "k": "Circle spraying PM22T, Jan–Jun 2026",
-      "v": "387.26 ha done of 683.79 ha programme to date = 57% (previously 359.76 ha + 27.5 ha in June). Block area in table 227.93 ha. PA table row is for the whole main block. Budget rate RM36.00/ha/round.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective (inter-row) spraying PM22T, Jan–Jun 2026",
-      "v": "432.06 ha done of 683.79 ha programme to date = 63% (previously 359.76 ha + 72.3 ha in June). PA table row is for the whole main block. Budget rate RM39.00/ha/round.",
-      "src": "PA 2/2026 6.4"
-     },
-     {
-      "k": "Weeding rounds to May 2026 (PM22T)",
-      "v": "Inter-row 1st round 100% (round 2: 59%); circle 1st round 97% (round 2: 88%) (main-block figures; Agro Table 12 prints '-' where a round is not shown).",
-      "src": "Agro 1/2026 Table 12"
-     },
      {
       "k": "Weeds",
       "v": "Pocket of dense undesirable weeds and over-spraying (photo 171)",
@@ -5858,7 +6708,92 @@
       "v": "Agro advises assessing infilling in P22T (and P20R) toward 148 SPH (current 130 SPH for P22T)",
       "src": "Agro 1/2026 2.5"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B · round 1 (Jan)",
+       "pct": 100,
+       "note": "72.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 2 (Apr)",
+       "pct": 100,
+       "note": "72.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 3 (Jun)",
+       "pct": 100,
+       "note": "72.3 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 4 (Jul)",
+       "pct": 0,
+       "note": "0 ha done · due Jul",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Mix B · round 5 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 57,
+       "note": "387.26 of 683.79 ha",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 63,
+       "note": "432.06 of 683.79 ha",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 1 (to May)",
+       "pct": 100,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 1 (to May)",
+       "pct": 97,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Inter-row rd 2 (to May)",
+       "pct": 59,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      },
+      {
+       "k": "Circle rd 2 (to May)",
+       "pct": 88,
+       "note": "to May 2026",
+       "src": "Agro 1/2026 Table 12",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -5884,23 +6819,8 @@
    "detail": {
     "manuring": [
      {
-      "k": "Round 1 Comp A (Feb)",
-      "v": "Programme 1,000 g/palm. Applied on 62.1 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 2 Comp A (May)",
       "v": "Programme 1,000 g/palm. PA row shows 62.1 ha applied; PA text says 2 of 2 budgeted rounds completed to June. (PA total row prints 64.60 ha for round 2, which does not match the two rows.)",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 Comp A (Aug)",
-      "v": "Programme 1,000 g/palm; not yet due.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 RP (Oct)",
-      "v": "Programme 1,750 g/palm; not yet due.",
       "src": "PA 2/2026 6.5"
      },
      {
@@ -6034,7 +6954,57 @@
       "v": "Upkeep RM116,863 actual (RM922/ha) vs RM142,644 budget to date (RM1,126/ha); annual budget RM285,270 (RM2,252/ha). From start: RM1,185,731 incl. felling/clearing etc. (RM9,359/ha). Lines actual vs budget to date: circle spraying/woodies RM28,508 vs RM28,512; manuring RM41,256 vs RM54,474; pest & disease RM18,815 vs RM29,166; drains RM2,581 vs RM1,248; roads RM13,983 vs RM6,966; supplying RM7,066 vs RM16,002; ablation nil vs RM5,388; pruning RM4,654 vs nil",
       "src": "PA 2/2026 10.1"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Comp A · round 1 (Feb)",
+       "pct": 100,
+       "note": "62.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Comp A · round 2 (May)",
+       "pct": 100,
+       "note": "62.1 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Comp A · round 3 (Aug)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 4 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "380.10 of 380.10 ha · V3+V4",
+       "src": "PA 2/2026 6.3, 10.1.1",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "380.10 of 380.10 ha · V3+V4",
+       "src": "PA 2/2026 6.4, 10.1.2, 13.6",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -6060,23 +7030,8 @@
    "detail": {
     "manuring": [
      {
-      "k": "Round 1 Comp A (Feb)",
-      "v": "Programme 1,000 g/palm. Applied on 64.6 ha.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
       "k": "Round 2 Comp A (May)",
       "v": "Programme 1,000 g/palm. PA row shows 64.6 ha applied; PA text says 2 of 2 budgeted rounds completed to June. (PA total row prints 64.60 ha for round 2, which does not match the two rows.)",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 3 Comp A (Aug)",
-      "v": "Programme 1,000 g/palm; not yet due.",
-      "src": "PA 2/2026 6.5"
-     },
-     {
-      "k": "Round 4 RP (Oct)",
-      "v": "Programme 1,750 g/palm; not yet due.",
       "src": "PA 2/2026 6.5"
      },
      {
@@ -6210,7 +7165,57 @@
       "v": "PR24 V3+V4 126.7 ha: 18,752 palms as \"new replanting\". About 5 ha of V4 vacant from flood mortality, about 75 palms resupplied",
       "src": "Agro 1/2026 Table 5, 5.16"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Comp A · round 1 (Feb)",
+       "pct": 100,
+       "note": "64.6 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Comp A · round 2 (May)",
+       "pct": 100,
+       "note": "64.6 ha done",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "Comp A · round 3 (Aug)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      },
+      {
+       "k": "RP · round 4 (Oct)",
+       "pct": 0,
+       "note": "not yet due",
+       "src": "PA 2/2026 6.5",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 100,
+       "note": "380.10 of 380.10 ha · V3+V4",
+       "src": "PA 2/2026 6.3, 10.1.1",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "380.10 of 380.10 ha · V3+V4",
+       "src": "PA 2/2026 6.4, 10.1.2, 13.6",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {
@@ -6242,16 +7247,6 @@
      }
     ],
     "spraying": [
-     {
-      "k": "Circle spraying, Jan–Jun 2026",
-      "v": "0.00 ha done of 121.41 ha programme (3 rounds) = 0%. Block area in table 40.47 ha.",
-      "src": "PA 2/2026 6.3"
-     },
-     {
-      "k": "Selective spraying, Jan–Jun 2026",
-      "v": "0.00 ha done of 80.94 ha programme (2 rounds) = 0%.",
-      "src": "PA 2/2026 6.4"
-     },
      {
       "k": "Reason",
       "v": "PA 2.5: block redeclared PR22/TB and vacant after palms died; no upkeep spraying recorded",
@@ -6356,7 +7351,26 @@
       "v": "Continue to monitor actual causes of palm death; prolonged root submergence of newly supplied palms and mud accumulation on shoots can kill palms",
       "src": "Agro 1/2026 5.20"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 2/2026 6.3",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 2/2026 6.4",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Jun 2026"
+    }
    }
   },
   {

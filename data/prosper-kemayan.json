@@ -230,11 +230,6 @@
     ],
     "spraying": [
      {
-      "k": "Circle weeding 2026",
-      "v": "1 round completed over 182.26 ha to 31 May (546.78 ha = 3 rounds programmed). To June: circle rounds 1 and 2 100%, round 3 0%.",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Inter-row 2026",
       "v": "Selective: 421.78 ha completed = 2 rounds (on 210.89 ha basis, programme 632.67 ha). To June: inter-row rounds 1 and 2 100%, round 3 0%. Acceptable inter-row conditions photographed in A1-A3.",
       "src": "Agro 2/2026"
@@ -379,7 +374,78 @@
       "v": "Desilt drains in P99A (low-lying) before monsoon.",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Ammonium sulphate",
+       "pct": 100,
+       "note": "complete by Jun",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "EFB 2026",
+       "pct": 10,
+       "note": "896.44 MT · 17.93 ha",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix A (May–Jun)",
+       "pct": 0,
+       "note": "not yet applied",
+       "src": "Agro 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 3",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 2/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -436,22 +502,12 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "EFB",
-      "v": "None applied in P04B in 2025 or 2026 (0%).",
-      "src": "Agro 2/2026"
-     },
-     {
       "k": "Ecofert 2024",
       "v": "2 rounds completed in B1-B6 (round 1 Mar-Apr 2024, round 2 Oct 2024; 1.36 MT/ha); discontinued from 2025.",
       "src": "Agro 1/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle weeding 2026",
-      "v": "1 round completed over 310.31 ha to 31 May (930.93 ha = 3 rounds programmed). To June: rounds 1 and 2 100%, round 3 0%.",
-      "src": "PA 1/2026"
-     },
      {
       "k": "Selective 2026",
       "v": "776.60 ha todate programme, 694.61 ha completed, 2 rounds in progress (old 388.30 ha basis, 1,164.90 ha = 3 rounds). To June: inter-row rounds 1 and 2 100%.",
@@ -672,7 +728,64 @@
       "v": "Exposed culverts in P04B need repair (PA photo).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Ammonium sulphate",
+       "pct": 100,
+       "note": "complete by Jun",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "EFB 2026",
+       "pct": 0,
+       "note": "none applied",
+       "src": "Agro 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -734,22 +847,12 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "EFB",
-      "v": "None applied in P05C in 2025 or 2026 (0%).",
-      "src": "Agro 2/2026"
-     },
-     {
       "k": "Ecofert 2024",
       "v": "2 rounds completed in C1-C6; discontinued from 2025.",
       "src": "Agro 1/2025"
      }
     ],
     "spraying": [
-     {
-      "k": "Circle weeding 2026",
-      "v": "1 round completed over 234.68 ha to 31 May (704.04 ha = 3 rounds). To June: circle round 1 100%, round 2 0% (behind P99A/P04B), round 3 0%.",
-      "src": "Agro 2/2026"
-     },
      {
       "k": "Selective 2026",
       "v": "Programme todate 279.93 ha, completed 381.62 ha, 2 rounds in progress (old basis; 839.79 ha = 3 rounds). To June: inter-row rounds 1 and 2 100%.",
@@ -970,7 +1073,64 @@
       "v": "C1-C3 Suhanizan Bin Ishak (15 required, 12 actual); C4-C6 Zian-Zian Plantation (20 required, 14 actual).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Ammonium sulphate",
+       "pct": 100,
+       "note": "complete by Jun",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "EFB 2026",
+       "pct": 0,
+       "note": "none applied",
+       "src": "Agro 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 0,
+       "note": "not started",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   },
   {
@@ -1263,7 +1423,57 @@
       "v": "D1, D2 Suhanizan Bin Ishak; D3-D5 Zian-Zian Plantation (279.26 ha with C4-C6, 14 of 20 workers).",
       "src": "PA 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "EFB 2026",
+       "pct": 42,
+       "note": "5,209 MT · 104.18 ha",
+       "src": "Agro 2/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Jun 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 0,
+       "note": "not started",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Jun 2026"
+    }
    }
   }
  ],

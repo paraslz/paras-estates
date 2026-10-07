@@ -431,6 +431,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "344.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row spraying",
+       "pct": 33,
+       "note": "344.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -662,6 +681,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "410.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row spraying",
+       "pct": 33,
+       "note": "410.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -908,6 +946,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "443.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row spraying",
+       "pct": 33,
+       "note": "443.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1159,6 +1216,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 0,
+       "note": "none done",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row spraying",
+       "pct": 11,
+       "note": "139.00 ha, 0.3 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   },
@@ -1306,6 +1382,25 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "20.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row spraying",
+       "pct": 33,
+       "note": "20.00 ha, 1.0 round",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "Jan–Mar 2026"
     }
    }
   }

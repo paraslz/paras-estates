@@ -214,6 +214,18 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Blanket spraying",
+       "pct": 100,
+       "note": "done as recommended",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to May 2026"
     }
    }
   },
@@ -442,6 +454,28 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "2026 rounds (all)",
+       "pct": 0,
+       "note": "not commenced, Apr 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Apr 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding",
+       "pct": 0,
+       "note": "not commenced at Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   },
@@ -670,6 +704,35 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "2026 rounds (all)",
+       "pct": 0,
+       "note": "not commenced, Apr 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "to Apr 2026",
+     "spraying": [
+      {
+       "k": "Circle weeding",
+       "pct": 0,
+       "note": "not commenced at Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding",
+       "pct": 0,
+       "note": "not commenced at Mar 2026",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "to Apr 2026"
     }
    }
   }
