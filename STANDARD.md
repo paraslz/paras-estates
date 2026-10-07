@@ -40,7 +40,7 @@ Data rules are in tools/SCHEMA.md (estate JSON) and tools/COST.md (cost per tonn
 ## 4. Estate page
 
 Header: big "‹ All estates" button and a "Jump to estate" A–Z dropdown (top right), estate name,
-meta line, "Open report folder ↗" (the estate's Drive folder) and "Download for offline ↓".
+meta line and "Download for offline ↓". The Drive report folder link lives only in the Reports tab.
 
 **Ask box above the tabs.** Opens the viewer's own Claude: `https://claude.ai/new?q=<question + link to
 /kb/<slug>.txt>`. Button "Ask in Claude ↗", note "Opens in your own Claude account." Claude only — no

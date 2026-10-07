@@ -261,7 +261,6 @@ details.older[open]>summary{margin-bottom:4px}
   <h1 id="nm">Loading…</h1>
   <div class="meta" id="mt"></div>
   <div class="latest" id="lt"></div>
-  <a class="fld" id="fld" href="#" target="_blank" rel="noopener" hidden>Open report folder ↗</a>
   
  </div>
 </header>
@@ -627,7 +626,6 @@ function render(){
    try{const v=localStorage.getItem("paras.ffbPrice");if(v)fp.value=v}catch(e){}
    fp.addEventListener("input",upd);upd()}}
  // reports + folder
- if(D.folder){const f=$("fld");f.href=D.folder;f.hidden=false}
  {const o=$("offl");if(o&&!window.__DATA__){o.href=`/offline/${slug}.html`;o.setAttribute("download",`${D.name.replace(/^Ladang /,"")} dashboard.html`);o.hidden=false}}
  $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.pa2,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
  // ask chips
