@@ -101,6 +101,9 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
 
 ## 7. Extraction workflow
 
+- Block detail: helper agents follow tools/EXTRACT_BLOCKS.md (one or a few estates each), then
+  tools/EXTRACT_PROGRESS.md turns manuring/spraying text into progress bars. Merge into blocks[].detail.
+
 - Reports live in Google Drive (one folder per estate, often year subfolders) and arrive by Gmail.
 - Use parallel helper agents (one or two estates each) to extract; then verify planted area, FFB,
   yield, cost per tonne and harvesters against the report yourself.
