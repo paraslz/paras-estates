@@ -117,3 +117,5 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
 
 Playwright at 390px wide: every estate page and group page load with no JS errors and
 `scrollWidth ≤ 390`; charts render; offline file opens without network.
+
+- Overview also has a Palm age profile doughnut (ha by age class from block planting years; Immature 0–3, Young mature 4–8, Prime 9–18, Old 19–25, Over-aged >25, Replanting; rubber excluded).

@@ -79,6 +79,22 @@ window.blockDetailHTML=function(d){
  return out.join("");
 };
 const EW={manuring:"Manuring",spraying:"Spraying & weeding",pests:"Pests & diseases",yield:"Yield & crop",harvesting:"Harvesting",pruning:"Pruning",nutrients:"Nutrients",field:"Field",labour:"Labour",staff:"Staff",costs:"Costs",other:"Other"};
+/* palm age profile: hectares by age class, from each block's planting year */
+window.ageProfile=function(blocks,yearNow){
+ const C=[["Immature","0–3 yrs"],["Young mature","4–8 yrs"],["Prime","9–18 yrs"],["Old","19–25 yrs"],["Over-aged","over 25 yrs"],["Replanting / no palms yet",""],["Year not stated",""]];
+ const ha=C.map(()=>0),notes=[];let rubber=0,fromCode=false;
+ (blocks||[]).forEach(b=>{const h=+b.ha;if(!h)return;
+  if(/^R\d/.test(b.id)){rubber+=h;return}
+  let y=(String(b.planted||"").match(/(19|20)\d\d/)||[])[0];
+  if(!y&&/replant/i.test(b.status||"")){ha[5]+=h;return}
+  if(!y){const m=String(b.id).match(/^PR?(\d\d)[A-Z]?\d?$/);if(m){y=(+m[1]>50?"19":"20")+m[1];fromCode=true}}
+  if(!y){ha[/replant/i.test(b.status||"")?5:6]+=h;return}
+  const a=yearNow-+y;ha[a<=3?0:a<=8?1:a<=18?2:a<=25?3:4]+=h});
+ const tot=ha.reduce((x,y)=>x+y,0);
+ if(rubber)notes.push(`Rubber blocks (${Math.round(rubber)} ha) left out.`);
+ if(fromCode)notes.push("Where a block's planting year isn't printed, it is read from the block code (e.g. P04 = 2004).");
+ return {rows:C.map((c,i)=>({k:c[0],r:c[1],ha:ha[i]})).filter(r=>r.ha>0),tot,notes};
+};
 window.estateWideHTML=function(w){
  if(!w)return "";
  const ks=Object.keys(w).filter(k=>rows(w[k]).length);if(!ks.length)return "";

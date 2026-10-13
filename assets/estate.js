@@ -29,6 +29,9 @@ function FP(){const f=D.ffbProd;if(!f)return null;const ys=(f.years||[]).filter(
  let c=null;if(!f.combinedWith){const m=(f.monthly||{})["2026"]||[];let n=0,t=0;for(const v of m){if(v==null)break;n++;t+=v}
   if(n)c={year:2026,to:n,t,src:f.monthlySrc};const y=f.ytd;if(y&&y.from===1&&(!c||y.to>=c.to))c={year:y.year,to:y.to,t:y.t,src:y.src}}
  return {ys,c,f}}
+const AGEY=2026;
+const AGEC={"Immature":"#9cc5a1","Young mature":"#5b9a68","Prime":"#2f6b45","Old":"#c08a2e","Over-aged":"#b04a3a","Replanting / no palms yet":"#b9b9b0","Year not stated":"#dcdcd4"};
+function AGE(){const A=window.ageProfile?ageProfile(D.blocks,AGEY):null;return A&&A.tot>0?A:null}
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -46,6 +49,7 @@ const DEF={
   {const P=FP();if(P&&P.ys.length+(P.c?1:0)>0){const L=P.ys.map(y=>String(y.year)),V=P.ys.map(y=>y.t),col=P.ys.map(()=>t.accent);
    if(P.c){L.push(`${P.c.year} (Jan–${MON[P.c.to-1]})`);V.push(P.c.t);col.push(t.fruit)}
    out.push(new Chart($("ch5"),{type:"bar",data:{labels:L,datasets:[{label:"FFB tonnes",data:V,backgroundColor:col}]},options:{plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${fmt(x.raw,0)} t`}}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"tonnes FFB"}}}}}))}}
+  {const A=AGE();if(A)out.push(new Chart($("chAge"),{type:"doughnut",data:{labels:A.rows.map(r=>r.k),datasets:[{data:A.rows.map(r=>r.ha),backgroundColor:A.rows.map(r=>AGEC[r.k]),borderColor:css("--panel"),borderWidth:2}]},options:{cutout:"55%",plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${x.label}: ${fmt(x.raw,0)} ha (${(x.raw/A.tot*100).toFixed(0)}%)`}}}}}))}
   return out},
  money(t){return[]},
  field(t){const out=[];const lb=(D.labour||[]).filter(l=>l.actual!=null);
@@ -93,6 +97,10 @@ function render(){
   if(P.f.combinedWith||slug==="juasa-b")n.push(`2026 to date is reported only for Juasa A and B combined: ${fmt(((D.kpi||{}).ffb),0)} t, ${bare((D.kpi||{}).ffbPeriod)}.`);
   const yrs=P.ys.map(y=>y.year);if(yrs.length>1){const miss=[];for(let y=yrs[0];y<=yrs[yrs.length-1];y++)if(!yrs.includes(y))miss.push(y);if(miss.length)n.push(`No full-year tonnage printed for ${miss.join(", ")}.`)}
   n.push("Tonnes as printed in the PARAS reports.");$("ch5n").textContent=n.join(" ")}}
+ {const A=AGE();if(!A)$("cB6").hidden=true;else{
+  $("ch6s").textContent=`Share of ${fmt(A.tot,0)} ha by palm age in ${AGEY}, from each block's planting year`;
+  $("ageT").innerHTML=A.rows.map(r=>`<tr><th scope="row"><span class="sw" style="background:${AGEC[r.k]}"></span>${esc(r.k)}${r.r?`<small>${r.r}</small>`:""}</th><td class="n">${fmt(r.ha,0)} ha</td><td class="n"><b>${(r.ha/A.tot*100).toFixed(0)}%</b></td></tr>`).join("");
+  $("ageN").textContent=A.notes.join(" ")}}
 
  // blocks
  const B=D.blocks||[];
