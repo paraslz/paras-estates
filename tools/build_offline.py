@@ -3,10 +3,11 @@ so it can be downloaded and opened without internet. Run from the repo root afte
     python3 tools/build_offline.py"""
 import json, glob, os, re
 
-SITE = "https://prosper-paras.netlify.app"
+SITE = json.load(open("site.json"))["url"]
 read = lambda p: open(p, encoding="utf-8").read()
-CSS, CHART, COST, EST, BYO, NAV, BLK = (read(p) for p in ("assets/style.css", "assets/vendor/chart.umd.min.js",
-                                                  "assets/cost.js", "assets/estate.js", "assets/byoai.js", "assets/nav.js", "assets/blockdetail.js"))
+CSS, CHART, COST, EST, BYO, NAV, BLK, SITEJS = (read(p) for p in ("assets/style.css", "assets/vendor/chart.umd.min.js",
+                                                  "assets/cost.js", "assets/estate.js", "assets/byoai.js", "assets/nav.js", "assets/blockdetail.js", "assets/site.js"))
+BRAND = read("assets/brand.js")
 safe = lambda js: js.replace("</script", "<\\/script")
 tag = lambda js: f"<script>{safe(js)}</script>"
 
@@ -16,6 +17,8 @@ def common(h):
     h = h.replace('<script src="/assets/cost.js"></script>', tag(COST))
     h = h.replace('<script src="/assets/byoai.js"></script>', tag(BYO))
     h = h.replace('<script src="/assets/nav.js"></script>', tag(NAV))
+    h = h.replace('<script src="/assets/site.js"></script>', tag(SITEJS))
+    h = h.replace('<script src="/assets/brand.js"></script>', tag(BRAND))
     h = h.replace('<script src="/assets/blockdetail.js"></script>', tag(BLK))
     h = re.sub(r'<a class="fld" id="offl"[^>]*>.*?</a>', "", h, flags=re.S)
     h = h.replace('href="/"', f'href="{SITE}/"').replace('href="/group.html"', f'href="{SITE}/group.html"')

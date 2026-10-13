@@ -119,3 +119,15 @@ Playwright at 390px wide: every estate page and group page load with no JS error
 `scrollWidth ≤ 390`; charts render; offline file opens without network.
 
 - Overview also has a Palm age profile doughnut (ha by age class from block planting years; Immature 0–3, Young mature 4–8, Prime 9–18, Old 19–25, Over-aged >25, Replanting; rubber excluded).
+
+## 9. One design, three sites (hourly sync)
+The Prosper repo (paraslz/paras-estates) is the MASTER DESIGN. Make every design or feature change here.
+UMB (paraslz/paraslz-umb-paras) and Far East (paraslz/parasIz-fareast-paras) run a GitHub Action every hour
+(.github/workflows/sync-design.yml) that copies the shared files from this repo, rebuilds index/kb/offline and pushes.
+- Shared (synced, edit only in the master): index.html, estate.html, group.html, netlify.toml, STANDARD.md,
+  assets/*.js (except site.js), assets/style.css, assets/vendor/, tools/.
+- Site-only (never synced): site.json, assets/site.js, data/, kb/, offline/, e/, LOCAL.md, README.md, .github/.
+- Group-specific wording comes from site.js (group name, search example, financial year). Never hard-code a group,
+  estate or URL in shared files; make it a site.js setting or a data field instead.
+- A new feature that needs new data fields shows nothing on a site until that site's data has the field: hide cards
+  gracefully when data is missing, and add the extraction step to tools/ so each site's chat or weekly task can fill it.

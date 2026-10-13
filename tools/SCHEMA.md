@@ -57,7 +57,8 @@ Every yield figure must have its period. Every period must be exactly what the r
   "monthly": {"2025": [Jan..Dec or null], "2026": [Jan..Dec or null]},             // printed monthly tonnes
   "monthlySrc": "...",
   "ytd": {"year": 2026, "from": 1, "to": 5, "t": 7375.22, "src": "..."},           // latest printed cumulative tonnage this year
-  "combinedWith": "juasa-b",   // only when the ytd figure covers two estates (Juasa A+B); put it on one estate only
+  "combinedWith": "other-slug",   // only when the ytd figure covers two estates/divisions (e.g. Juasa A+B); put it on one estate only
+  "combinedNote": "plain sentence shown under the FFB chart on BOTH estates, e.g. 2026 to date is printed only for X and Y combined: 1,234 t, Jan–Jun 2026.",
   "notes": "conflicts, partial years (not shown to clients)"
 }
 ```
@@ -83,4 +84,15 @@ sit in the Agronomy report of the visit before (e.g. 2025 programme in Agro 1/20
 bar = {"k": "Mix B · round 1 (Feb)", "pct": 100, "note": "103.3 t · 380 ha", "src": "PA 2/2026", "calc": false}
 Latest year only; pct as printed, or done ÷ programme with calc true; rows fully shown by bars are removed from detail.manuring/spraying.
 
-`blocks[].yhist` = {"years": {"2021": 15.11, ...}, "src": "Agro 1/2026"} — full calendar-year block t/ha as printed (latest report wins); only when ≥2 years.
+`blocks[].yhist` = {"years": {"2021": 15.11, ...}, "src": "Agro 1/2026"} — block t/ha by FULL year as printed (latest report wins; on financial-year sites the keys are FY end years); only when ≥2 years. Shown first on the Blocks tab.
+
+## Site settings and financial-year sites
+Each group site has its own site.json and assets/site.js (never synced): group, url, fyStart (1 = Jan; 5 = May for a May–Apr
+financial year), cur (the year the group summary sums, named by the year it ends in), partial (true = add part-year tonnages,
+marked *, to the group's current-year total), searchHint (front-page search example).
+On a financial-year site (e.g. UMB, fyStart 5) charts label years "FY2025/26" and months run May → Apr:
+ "yieldHistory": [{"year": 2026, "label": "FY2025/26", "period": "May 2025–Apr 2026", "yph": 0}]   // year = the FY's END year
+ "ytdCurrent":  {"year": 2027, "label": "FY2026/27", "period": "May–Jun 2026", "yph": 0, "prevSame": 0, "src": "..."}
+ "ffbProd": {"years": [{"year": 2026, "label": "FY2025/26", "t": 0, "src": "..."}],   // FULL financial years only
+             "monthly": {"2026": [May..Apr]}, "ytd": {"year": 2027, "from": 1, "to": 2, "t": 0}}   // FY month numbers: 1 = May … 12 = Apr
+ An 11-month FY total is NOT a full year: put it in ytd (if no newer figure) or notes. Calendar-year data (rainfall) keeps plain "year".

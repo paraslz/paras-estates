@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>PARAS Estate Dashboards</title>
+<title>Estate Dashboards · PARAS</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="/assets/style.css">
@@ -23,13 +23,13 @@
 <body>
 <header class="band">
  <div class="in hero">
-  <div class="eyebrow">PARAS Sdn Bhd · Plantation advisory</div>
+  <div class="eyebrow">PARAS Sdn Bhd · <span data-site="group">Prosper</span></div>
   <h1>Estate Dashboards</h1>
   <div class="meta">Each estate's latest Planting Advisory and Agronomy reports, as charts and figures.</div>
   <a class="glink" href="/group.html">Group summary, league table &amp; actions →</a>
   <div class="search">
    <label for="q" class="sr">Search estates</label>
-   <input id="q" type="search" placeholder="Search an estate, e.g. Tagar or Juasa" autocomplete="off">
+   <input id="q" type="search" placeholder="Search an estate, e.g. Tagar or Juasa" data-site-ph="search" autocomplete="off">
   </div>
  </div>
 </header>
@@ -38,6 +38,8 @@
  <div class="grid" id="grid"></div>
 </div></main>
 <footer class="foot"><div class="in">Figures are as written in PARAS reports. Each dashboard lists known discrepancies under Integrity.</div></footer>
+<script src="/assets/site.js"></script>
+<script src="/assets/brand.js"></script>
 <script>
 (function(){
 const $=id=>document.getElementById(id);
