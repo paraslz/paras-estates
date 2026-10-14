@@ -11,7 +11,7 @@ HOW TO USE THIS FILE (instructions for the AI assistant)
 - If the extracts do not contain the answer, say so plainly. Do not guess. Money in RM; fertiliser in grams per palm.
 
 GROUP TOTALS
-Area (ha): planted 28,335, mature 23,960, immature 3,608, replant 765
+Area (ha): planted 28,335, mature 23,960, immature 3,528, replant 845
 Palm age profile in 2026 (ha, from block planting years; rubber excluded): Prime (9-18 yrs) 5,016, Old (19-25 yrs) 8,416, Over-aged (>25 yrs) 5,914, Immature (0-3 yrs) 3,872, Young mature (4-8 yrs) 4,943, Replanting / no palms yet 144, Year not stated 25
 FFB by full year (sum of estates that print that year): 2018: 29,791 t from 2 estates; 2019: 49,812 t from 3 estates; 2020: 152,473 t from 9 estates; 2021: 246,738 t from 18 estates; 2022: 309,510 t from 22 estates; 2023: 330,198 t from 22 estates; 2024: 358,308 t from 22 estates; 2025: 340,027 t from 22 estates
 
@@ -375,18 +375,18 @@ New open actions (6): Get ED decision on road grading/compaction and excavator d
 Full estate pack: https://prosper-paras.netlify.app/kb/tagar-2.txt
 
 === Ladang Tagar 3 ===
-Latest reports: PA Report 1/2026 (visit 2026-04-08); Agronomy Report 1/2026 (visit 2026-06-17)
-Area (ha): planted 1,628.2, mature 1,548.2, immature 80.0, replant N/A
-FFB Jan–Dec 2025: 28,187.68 t (budget 31,235.00 t)
-Yield Jan–Dec 2025: 18.21 t/ha (budget 20.18; same period last year 18.89)
-Cost of production Jan–Dec 2025: RM279.52/t FFB (budget RM263.61)
-Harvesters: 72 of 76 required; workers 115 of 125
+Latest reports: PA Report 2/2026 (visit 2026-09-15); Agronomy Report 1/2026 (visit 2026-06-17)
+Area (ha): planted 1,628.2, mature 1,548.2, immature N/A, replant 80.0
+FFB Jan–Jul 2026: 12,621.25 t (budget 18,405.00 t)
+Yield Jan–Jul 2026: 8.15 t/ha (budget 11.89; same period last year 11.09)
+Cost of production Jan–Jul 2026: RM298.92/t FFB (budget RM253.05)
+Harvesters: 68 of 76 required; workers 111 of 125
 Yield history (t/ha): 2024 18.89, 2025 18.21
-FFB by full year (t): 2022 20,868, 2023 26,907, 2024 29,248, 2025 28,188; 2026 months 1-5: 7,375 t
+FFB by full year (t): 2022 20,868, 2023 26,907, 2024 29,248, 2025 28,188; 2026 months 1-7: 12,621 t
 Palm age profile (ha): Young mature (4-8 yrs) 216, Prime (9-18 yrs) 882, Old (19-25 yrs) 204, Over-aged (>25 yrs) 246
-Key takeaways: Jan–May 2026 yield 4.76 t/ha vs 7.87 t/ha last year (-39%); monthly crop below 1,600 t (Agro). | Main cause is a 47% drop in bunch number after the May–Jul 2025 dry spell, made worse by harvester shortage, late manuring and bagworm. | Harvesters down to 61, 17 short (Jun 2026); productivity 0.70–1.22 t/man-day. | 2025: 28,188 t FFB, 18.21 t/ha vs 20.18 t/ha budget (-10%); COP RM279.52/t vs RM263.61/t budget. | 2026 manuring behind (Mix A 35%, Mix B 44% to May); Ganoderma census, VOP eradication and pruning backlog still not done.
-Actions raised before and still not done (8): Recruit harvesters (short 17 as of Jun 2026) and lift productivity | Eradicate overgrown VOPs in P18 immediately, then other blocks | Ganoderma census and deboling of fallen palms (1.5 m cube); map infected points | Clear 95.8 ha pruning backlog in P00A, P09C, P12F; correct under-pruning in P18 | Proper frond stacking and full loose fruit collection | Quarterly rat damage census in all fields | Re-block P06B2, P09C1, P11E1, P16G by end-2026 | Selective palm thinning in P06, P09, P12, P16
-New open actions (14): Recruit 6 manuring workers; replace sprayers diverted to harvesting | Expedite overdue 2026 manuring (March kieserite; P11E Mix B round 2) | Fix narrow-band kieserite application; stop applying in rain | EFB in P09B at 40–50 mt/ha, one heap per four palms | Desilt drains and fix waterlogging in low-lying P12E | Verify reported weeding in P12F and do corrective spraying | Explain no bagworm follow-up in P12F and P16G since Feb 2026 | Replace strip spraying with 6–8 ft circle weeding | Yearly circle raking after pruning in tall palm areas | Supply vacant points (low SPH, especially P18); PARAS drone mapping if needed | Repair 2 of 3 Badang units (battery RM3,000 each); consult Plantation Controller | Plant 80 ha PN25K when resumed, with EFB rings and Mucuna | Consider replanting P00 before 2030 | Resolve cattle intrusion (court case in September)
+Key takeaways: Jan–Jul 2026: 12,621 t FFB, 8.15 t/ha vs 11.89 t/ha budget (-31%) and 11.09 t/ha last year (-27%) (PA 2/2026). | Crop is picking up: many blocks hit 2.5 t/ha/month in August, harvester output rose from 1.6 to 2 t/man-day, and harvesters reached 78 (adequate) by September. | Cost RM298.92/t vs RM253.05/t budget (Jan–Jul 2026), high on low crop; spending itself is under budget (general charges -4%, upkeep -23%). | Manuring 85% of programme to July (late Kieserite and Mixture B); circle spraying 91%, selective 87%. | Roads are poor after the grading contractor quit (1,449 of 3,837 chains); new bagworm attack in P16G; Ganoderma census still not done.
+Actions raised before and still not done (13): Retain harvesters by raising earnings through higher productivity; address high turnover | Use wheelbarrows for manuring (30 bags/man-day; 40 if semi-mechanised) | Engage another road grading contractor at the offered rate; 2,388 chains left; buy budgeted crusher run (645 MT) | Eradicate overgrown VOPs in stages (P18 poisoning in progress) | Circle raking at P10/D; yearly circle raking after pruning in tall palm areas | Ganoderma census and deboling at all fallen palms; map infected points | Quarterly rat damage census in all fields; bait above 10% | Correct under-pruned palms (97 ha by mid-Oct); stop over-pruning tall palms | Prepare land (from Nov) and plant 50.1 ha oil palm and 2.9 ha bananas on the ex-excavation area, with EFB rings and Mucuna | Resolve cattle intrusion (court hearing 21–23 Sep 2026) | Proper frond stacking and full loose fruit collection | Re-block P06B2, P09C1, P11E1, P16G by end-2026 | Selective palm thinning in P06, P09, P12, P16
+New open actions (15): Phase out the 2 small harvesting contractors (4–5 harvesters each) and keep 3 | Monitor harvester productivity in the current high-crop period | Raise sprayer output to 7 pumps/man-day; monitor sprayers' working hours | Census and treat the fresh bagworm attack at P16/G | Put EFB disposal transport cost in the 2027 budget | Budget the running account for HiLux TDF 1981 in 2027 | Expedite overdue 2026 manuring (March kieserite; P11E Mix B round 2) | Fix narrow-band kieserite application; stop applying in rain | EFB in P09B at 40–50 mt/ha, one heap per four palms | Desilt drains and fix waterlogging in low-lying P12E | Verify reported weeding in P12F and do corrective spraying | Explain no bagworm follow-up in P12F and P16G since Feb 2026 | Replace strip spraying with 6–8 ft circle weeding | Supply vacant points (low SPH, especially P18); PARAS drone mapping if needed | Consider replanting P00 before 2030
 Full estate pack: https://prosper-paras.netlify.app/kb/tagar-3.txt
 
 === Ladang Tanjung Tualang ===

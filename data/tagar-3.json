@@ -10,11 +10,11 @@
  },
  "reports": {
   "pa": {
-   "title": "PA Report 1/2026",
-   "visit": "2026-04-08",
-   "period": "Jan–Dec 2025",
-   "costTo": "Dec 2025",
-   "url": "https://drive.google.com/file/d/1-p0emaQ-qEBQUTd8ssO2Id5MqnJVmhJj/view"
+   "title": "PA Report 2/2026",
+   "visit": "2026-09-15",
+   "period": "Jan–Jul 2026",
+   "costTo": "Jul 2026",
+   "url": "https://drive.google.com/file/d/1svDmBu5A8zpj22OtZSSKB9GXxI8nT_gc/view"
   },
   "agro": {
    "title": "Agronomy Report 1/2026",
@@ -26,105 +26,110 @@
   "title": 1685.62,
   "planted": 1628.2,
   "mature": 1548.2,
-  "immature": 80.0,
-  "replant": null,
+  "immature": null,
+  "replant": 80.0,
   "nursery": null
  },
  "kpi": {
-  "ffb": 28187.68,
-  "ffbBudget": 31235,
-  "ffbPeriod": "Jan–Dec 2025",
-  "yph": 18.21,
-  "yphBudget": 20.18,
-  "yphPrevSame": 18.89,
-  "cop": 279.52,
-  "copBudget": 263.61,
-  "copPeriod": "Jan–Dec 2025",
-  "gcHa": 1445.48,
-  "gcHaBudget": 1566.98,
-  "ucHa": 2238.51,
-  "ucHaBudget": 2210.82,
-  "hcT": 77.18,
-  "hcTBudget": 76.36,
-  "workers": 115,
+  "ffb": 12621.25,
+  "ffbBudget": 18405,
+  "ffbPeriod": "Jan–Jul 2026",
+  "yph": 8.15,
+  "yphBudget": 11.89,
+  "yphPrevSame": 11.09,
+  "cop": 298.92,
+  "copBudget": 253.05,
+  "copPeriod": "Jan–Jul 2026",
+  "gcHa": 916.24,
+  "gcHaBudget": 951.26,
+  "ucHa": 911.34,
+  "ucHaBudget": 1178.89,
+  "hcT": 74.75,
+  "hcTBudget": 73.87,
+  "workers": 111,
   "workersReq": 125,
-  "harvesters": 72,
+  "harvesters": 68,
   "harvestersReq": 76,
-  "harvestInterval": "13 days (PA, Apr 2026); 14–21 days Jan–Apr, 11–15 days May 2026 (Agro)",
-  "manuringPct": 100,
-  "manuringNote": "6,192.8 of 6,192.8 ha (PA, 2025); 2026 to May: Mix A 35%, Mix B 44% (Agro)",
-  "circlePct": 93,
-  "selectivePct": 96,
+  "harvestInterval": "17 days (PA, Jul 2026); 11.8 of 14 budgeted rounds Jan–Jul",
+  "manuringPct": 85,
+  "manuringNote": "2,948.60 of 3,461.60 ha (PA, to Jul 2026); late Kieserite and Mixture B deliveries",
+  "circlePct": 91,
+  "selectivePct": 87,
   "pruningPct": null
  },
  "costParts": [
   {
    "name": "General charges",
-   "actual": 79.39,
-   "budget": 77.66
+   "actual": 112.38,
+   "budget": 80.01
   },
   {
    "name": "Upkeep & cultivation",
-   "actual": 122.95,
-   "budget": 109.58
+   "actual": 111.79,
+   "budget": 99.17
   },
   {
    "name": "Harvest & collection",
-   "actual": 77.18,
-   "budget": 76.37
+   "actual": 74.75,
+   "budget": 73.87
   }
  ],
  "upkeep": [
   {
    "item": "Weeding",
-   "actual": 214.27,
-   "budget": 220.84
+   "actual": 111.16,
+   "budget": 133.26
   },
   {
    "item": "Manuring",
-   "actual": 1650.84,
-   "budget": 1602.66
+   "actual": 650.72,
+   "budget": 870.12
   },
   {
    "item": "Pest & diseases",
-   "actual": 152.79,
-   "budget": 74.02
+   "actual": 26.43,
+   "budget": 33.31
   },
   {
    "item": "Census & thinning out",
-   "actual": 8.31,
-   "budget": 4.96
+   "actual": 2.72,
+   "budget": 0.5
   },
   {
    "item": "Drains",
-   "actual": 1.12,
-   "budget": 25.8
+   "actual": 4.15,
+   "budget": 13.77
   },
   {
    "item": "Roads & bridges",
-   "actual": 97.49,
-   "budget": 138.34
+   "actual": 40.6,
+   "budget": 73.68
   },
   {
    "item": "Boundaries/survey/fences",
-   "actual": 0.23,
-   "budget": 3.38
+   "actual": 0.16,
+   "budget": 1.05
   },
   {
    "item": "Soil/water conservation",
-   "actual": 0.87,
-   "budget": 23.35
+   "actual": 9.17,
+   "budget": 0.0
+  },
+  {
+   "item": "Tools",
+   "actual": 0.01,
+   "budget": 0.0
   },
   {
    "item": "Pruning",
-   "actual": 112.59,
-   "budget": 117.47
+   "actual": 66.22,
+   "budget": 53.2
   }
  ],
  "labour": [
   {
    "cat": "Harvester",
-   "actual": 72,
+   "actual": 68,
    "req": 76
   },
   {
@@ -203,8 +208,12 @@
      "text": "Ravine crop losses and under-pruning persist; pruning backlog with P09C and P12F totals 95.8 ha."
     },
     {
-     "src": "PA 1/2026",
-     "text": "SPH 124 from PA pruning table; Agro census for P00 still in progress."
+     "src": "PA 2/2026",
+     "text": "Circle spraying 260.00 of 246.00 ha and selective 361.20 of 492.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 22.5 kg vs 21.1 kg July 2025."
     }
    ],
    "detail": {
@@ -235,21 +244,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2000)",
-      "v": "Dec 2024 23.0 kg; Dec 2025 22.1 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Yield of old plantings P00 and P06 acceptable given terrain and palm height; yield gradually improving since 2022; replanting before 2030 should be considered",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2000)",
+      "v": "July 2025 21.1 kg; July 2026 22.5 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM52.00/tonne; output 1.60 MT per man-day; average earning RM83/man-day vs basic wage RM65.38/man-day",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM52.00/tonne; output 1.60 MT per man-day; average earning RM83/man-day vs basic wage RM65.38; in-field collection by Badang",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -270,45 +279,40 @@
       "k": "Over-ripe bunches Dec 2025",
       "v": "Over 20% over-ripe bunches in P00A at Dec 2025 visit; harvesting intervals reported above 20 days then",
       "src": "Agro 2/2025"
-     },
-     {
-      "k": "Harvesting 2025 note",
-      "v": "Harvest rounds for the estate 21.4 of 24 target in 2025",
-      "src": "PA 1/2026"
      }
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 738.00 ha (3 rounds); done 602.00 ha (82%): 492.00 ha previously + 110.00 ha in Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 246.00 ha (field 246.00 ha; year programme 3 rounds, 738.00 ha); completed 260.00 ha, round 2; 2nd round in progress",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 738.00 ha (3 rounds); done 738.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 492.00 ha (year programme 3 rounds, 738.00 ha); completed 361.20 ha, round 2; 2nd round in progress",
+      "src": "PA 2/2026"
      },
      {
       "k": "Weeding 2025 and 2026",
       "v": "Final circle round of 2025 only partly completed in P00 and P06; 1st round 2026 complete (all fields except P09C by May 2026); VOPs in circles on terraces and ravines of P00",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeding rd 1 (2026) (Agro)",
+      "v": "100% · to May 2026",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Inter-row condition",
+      "v": "Only spots of woodies due for spraying seen (Sep 2026 visit)",
+      "src": "PA 2/2026"
      }
     ],
     "manuring": [
      {
-      "k": "NK1 1st round (programmed Jan 2025)",
-      "v": "Sub-block 136 ha: 2.00 kg/palm (2,000 g), 36.45 MT, 729 bags, 1.2.25-14.2.25; sub-block 110 ha: 2,000 g, 27.30 MT, 546 bags, 14.2.25-16.4.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "NK1 2nd round (programmed May 2025)",
-      "v": "136 ha: 2,000 g, 36.45 MT, 729 bags, 25.6.25-2.7.25; 110 ha: 2,000 g, 27.30 MT, 546 bags, 4.7.25-18.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "NK1 3rd round (programmed Sep 2025)",
-      "v": "136 ha: 2,000 g, 36.45 MT, 729 bags, 11.9.25-27.9.25; 110 ha: 2,000 g, 27.30 MT, 546 bags, 29.9.25-15.10.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "No Jul–Sep 2026 applications listed for P00A in the PA manuring table",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delay 2025",
@@ -363,24 +367,19 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 5% / 5% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 6%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Jun 2026: 14% before baiting, 8% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "No bagworm census figures printed Jan–Sep 2026",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
       "v": "No rat census done in 2026 to Jun 2026; Oct 2025 census insignificant (Agro 2/2025)",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 2025 printed 8%; Jul-Dec 30% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55 (monocrotophos) 10 ml/palm: 61.29 ha completed treated (246 ha block); Impact 75 20 ml/palm on 110 ha: 36.08 ha this month, 49.20 ha to date, in progress; fogging Alosa 30 ml + Lambda 270 ml + cypermethrin 52 ml per pump: 50 ha this month, 640.8 ha to date, 1 round; bagworm still significant Oct-Nov 2025, treatment in progress (Agro 2/2025)",
-      "src": "PA 1/2026"
      },
      {
       "k": "Ganoderma",
@@ -390,9 +389,9 @@
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "246.00 ha, SPH 124 (PA table), 31,864 palms; 3rd round (every 3 months); rate RM1.20/palm/year (RM129.53/ha printed beside it); contractor(s): CK Permai and Rajandran; 211 ha completed, 35 ha not completed (85%)",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 129, 31,864 palms; rate RM0.93/palm (RM120.00/ha); contractor CK Permai & Rajandran; whole field completed 206.75 ha, not completed 37.25 ha; 84.04% completed, 15.14% not completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Backlog May 2026",
@@ -424,19 +423,19 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 984 chains; done 687.90 (579.15 previously + 108.75 Dec) chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget not printed chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Replanting outlook",
       "v": "Over 25 years old, 16% of planted area; replanting before 2030 should be considered (rising palm height, no proper terracing); P00B fertiliser to be withdrawn if replanted 2026/2027",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 450 chains (RM8,550.00); graded to Jul 2026: none; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 120 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
      }
     ],
     "progress": {
@@ -452,14 +451,21 @@
      "manuringPeriod": "to May 2026",
      "spraying": [
       {
-       "k": "Weeding rd 1 (2026)",
-       "pct": 100,
-       "note": "to May 2026",
-       "src": "Agro 1/2026",
-       "calc": false
+       "k": "Circle spraying (to date)",
+       "pct": 106,
+       "note": "260.00 of 246.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 73,
+       "note": "361.20 of 492.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
       }
      ],
-     "sprayingPeriod": "to May 2026"
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -490,8 +496,12 @@
      "text": "Over-ripe bunches above 5% in freshly harvested bunches at visit."
     },
     {
-     "src": "PA 1/2026",
-     "text": "Subsurface manuring output 13 bags/man-day, earnings RM45/day; 2026 subsurface programme cancelled."
+     "src": "PA 2/2026",
+     "text": "Circle spraying 408.00 of 408.00 ha and selective 204.00 of 204.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 22.4 kg vs 22.4 kg July 2025."
     }
    ],
    "detail": {
@@ -522,21 +532,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2006)",
-      "v": "Dec 2024 22.0 kg; Dec 2025 22.3 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Old planting; yield acceptable considering terrain and palm height",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2006)",
+      "v": "July 2025 22.4 kg; July 2026 22.4 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM37.00/tonne; output 1.80 MT per man-day; average earning RM67/man-day vs basic wage RM65.38/man-day",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM37.00/tonne; output 1.80 MT per man-day; average earning RM67/man-day vs basic wage RM65.38; in-field collection by Badang",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -561,14 +571,14 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 612.00 ha (3 rounds); done 495.11 ha (81%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 408.00 ha (field 204.00 ha; year programme 3 rounds, 612.00 ha); completed 408.00 ha, round 1; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 612.00 ha (3 rounds); done 612.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 204.00 ha (year programme 3 rounds, 612.00 ha); completed 204.00 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Weeding 2025 and 2026",
@@ -578,29 +588,19 @@
     ],
     "manuring": [
      {
-      "k": "Mix A subsurface (programmed Jan/Feb 2025)",
-      "v": "Sub-block 120 ha: 8.00 kg/palm (8,000 g) in 4 holes, 127.70 MT, 2,554 bags, 21.1.25-5.3.25; sub-block 84 ha: 8,000 g, 92.05 MT, 1,841 bags, 5/6.3.25-20.3.25 (both printed)",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Jul 2026 Mix B (3rd application) and Aug 2026 Mix NK (2nd application) for the 120 ha sub-block marked 'programme revised'",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rock phosphate (programmed Sep 2025)",
-      "v": "Whole block: 1.50 kg/palm (1,500 g), 41.20 MT, 824 bags, 7.8.25-14.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Subsurface labour 2025",
-      "v": "Sub-surface at P06/B: 13 bags/man-day (target 20), 0.5 ha/man-day, RM90/ha piece rate, RM45/man-day vs basic RM65.38",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026 (cont.)",
+      "v": "Aug 2026 Mix A (6th application), 84 ha sub-block: 2.00 kg/palm (2,000 g), 22.60 MT, 452 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delay",
       "v": "Subsurface Mix A finished 2 months behind schedule (2025)",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "2026 programme",
-      "v": "PA says the 2026 sub-surface programme was cancelled for lack of workers, yet Agro 1/2026 Appendix 1a still lists Mix A 8.00 kg subsurface for P06A/P06B; Agro 3.7b says first Mix B round \"completed two months late in P06\" although no Mix B is programmed for P06 in the appendix",
-      "src": "PA 1/2026"
      }
     ],
     "fertNow": {
@@ -650,9 +650,14 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 6% / 5% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 5%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Jun 2026: 10% before, 4% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Feb 2026: 1 (before treatment)",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
@@ -660,21 +665,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 17% / 20%; Jul-Dec 10% / 6% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Bagworm 2026",
       "v": "Census value 1 (Table 12, as printed)",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Ganoderma",
+      "v": "Ganoderma-infected palm photographed; deboling done (photos 15–16, Sep 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "204.00 ha, SPH 135 (PA table), 27,468 palms; 3rd round (every 3 months); rate RM1.00/palm/year (RM134.65/ha printed beside it); contractor(s): Rajandran; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 135, 27,468 palms; rate RM0.74/palm (RM100.00/ha); contractor Rajandran; whole field completed 204.00 ha; 100.00% completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Quality",
@@ -701,19 +706,24 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 816 chains; done 41.00 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 101.2 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Re-blocking",
       "v": "P06B2 (120 ha) exceeds recommended block size; re-blocking into ~60 ha blocks not done; to be completed by end 2026 for leaf sampling",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 320 chains (RM6,080.00); graded to Jul 2026: none; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 80 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 84.39 chains (RM3,881.94) of 8 ft x 6 ft x 4 ft at RM46/chain; none done to Jul 2026",
+      "src": "PA 2/2026"
      }
     ],
     "other": [
@@ -722,7 +732,26 @@
       "v": "Close planting in localised sections; selective thinning (census then thinning) pending since previous visit",
       "src": "Agro 1/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 100,
+       "note": "408.00 of 408.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "204.00 of 204.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
+    }
    },
    "yhist": {
     "years": {
@@ -756,8 +785,12 @@
      "text": "Marginal soil in P09B (topsoil removed); EFB applied at excessive rate."
     },
     {
-     "src": "PA 1/2026",
-     "text": "Ganoderma with fruiting bodies seen; uncollected loose fruits."
+     "src": "PA 2/2026",
+     "text": "Circle spraying 278.00 of 556.00 ha and selective 363.00 of 556.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 21.4 kg vs 21.5 kg July 2025."
     }
    ],
    "detail": {
@@ -788,21 +821,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2009)",
-      "v": "Dec 2024 21.0 kg; Dec 2025 21.5 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Significant 2025 decline; well below potential; prime planting; Ganoderma loss at P09 limited to a few blocks (P09 and P10)",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2009)",
+      "v": "July 2025 21.5 kg; July 2026 21.4 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM34.00/tonne; output 1.50 MT per man-day; average earning RM51/man-day vs basic wage RM65.38/man-day - below basic wage",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM34.00/tonne; output 1.50 MT per man-day; average earning RM51/man-day vs basic wage RM65.38; in-field collection by Badang",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -822,51 +855,36 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 834.00 ha (3 rounds); done 834.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 556.00 ha (field 278.00 ha; year programme 3 rounds, 834.00 ha); completed 278.00 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 834.00 ha (3 rounds); done 834.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 556.00 ha (year programme 3 rounds, 834.00 ha); completed 363.00 ha, round 2; 2nd round in progress",
+      "src": "PA 2/2026"
      },
      {
       "k": "Weeding 2026",
       "v": "1st round of 2026 weeding not complete in P09C at May 2026 (only field behind); patches of broadleaf weeds, particularly Clidemia hirta, in parts of P09; VOPs in circles on terraces and ravines of P09",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "VOPs",
+      "v": "VOPs seen alongside clean inter-rows (photos 8–9, Sep 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "manuring": [
      {
-      "k": "Mix A 1st round (programmed Jan 2025)",
-      "v": "Area 248 ha: 2.25 kg/palm (2,250 g), 74.75 MT, 1,495 bags, 13.3.25-2.5.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix A (6th application), 248 ha sub-block: 2.25 kg/palm (2,250 g), 74.85 MT, 1,497 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Mix B round (programmed Apr 2025)",
-      "v": "248 ha: 2.00 kg/palm (2,000 g), 66.45 MT, 1,329 bags, 15.5.25-6.6.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix A 2nd round (programmed Jul 2025)",
-      "v": "248 ha: 2,250 g, 74.75 MT, 1,495 bags, 2.7.25-19.7.25 (printed against the P06B line in the extract; MT matches 09C palm count)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate (programmed Aug 2025)",
-      "v": "248 ha: 1.50 kg/palm (1,500 g), 49.80 MT, 996 bags, 11.8.25-30.10.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B round (programmed Oct 2025)",
-      "v": "248 ha: 2,000 g, 66.45 MT, 1,329 bags, 4.11.25-15.12.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Separate 30 ha sub-area",
-      "v": "30 ha listed under 09C: Mix B 2,250 g, 9.30 MT, 186 bags, 2.5.25-5.5.25; kieserite 750 g, 3.10 MT, 62 bags, 14.5.25; Mix B 2,250 g, 9.30 MT, 186 bags, 23.6.25-24.6.25; Mix B 2,250 g 29.7.25-30.7.25; rock phosphate 1,750 g, 7.25 MT, 145 bags, 30.10.25-31.10.25; Mix B 2,250 g, 9.30 MT, 186 bags, 15.12.25-16.12.25 (programme for this area not printed in the appendix)",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026 (cont.)",
+      "v": "Aug 2026 Mix B (3rd application), 30 ha sub-block: 2.25 kg/palm (2,250 g), 9.05 MT, 181 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -887,6 +905,11 @@
       "k": "EFB 2026",
       "v": "EFB mulch applied to poor-growth areas of P09B at an excessive rate in inter-rows; recommended 40-50 MT/ha = one heap of 1.2-1.6 MT per four palms in the inter-row beside the frond heap",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Field check",
+      "v": "Manuring in progress and applied fertiliser seen at visit (photos 10–11)",
+      "src": "PA 2/2026"
      }
     ],
     "fertNow": {
@@ -951,24 +974,14 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 10% / 4% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 6%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Jun 2026: 16% before, 7% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rat baiting 2025",
-      "v": "Storm 1 bait/palm: 278 ha, 1 round (to Dec 2025); Oct 2025 census insignificant; no 2026 census",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 33% / 46%; Jul-Dec 9% / 8% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55 10 ml/palm: 278 ha completed, 1 round",
-      "src": "PA 1/2026"
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Feb 2026: 200 (before)",
+      "src": "PA 2/2026"
      },
      {
       "k": "Bagworm 2026",
@@ -983,9 +996,9 @@
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "278.00 ha, SPH 134 (PA table), 37,353 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM120.49/ha printed beside it); contractor(s): CK Permai Enterprise; 233 ha completed, 45 ha not completed (printed 94%; 233/278 = 84%)",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 134, 37,353 palms; rate RM0.75/palm (RM100.00/ha); contractor CK Permai Enter / YM Super Ser; whole field completed 241.13 ha, not completed 36.87 ha; 86.74% completed, 13.26% not completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Backlog May 2026",
@@ -1017,16 +1030,6 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 1,112 chains; done 1,100.30 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 104.08 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Re-blocking",
       "v": "P09C1 (148 ha) exceeds block size; re-blocking pending",
       "src": "Agro 1/2026"
@@ -1035,6 +1038,21 @@
       "k": "P09B soil",
       "v": "P09B: topsoil previously removed; poor growth; EFB allocated but over-applied",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 736 chains (RM13,984.00); graded to Jul 2026: none; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 80 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 153.08 chains (RM7,041.68) of 8 ft x 6 ft x 4 ft at RM46/chain; none done to Jul 2026",
+      "src": "PA 2/2026"
      }
     ],
     "other": [
@@ -1054,7 +1072,24 @@
        "calc": false
       }
      ],
-     "manuringPeriod": "to May 2026"
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 50,
+       "note": "278.00 of 556.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 65,
+       "note": "363.00 of 556.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -1083,6 +1118,14 @@
     {
      "src": "Agro 1/2026",
      "text": "Ganoderma toppled palms with fruiting bodies observed."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Circle spraying 44.00 of 44.00 ha and selective 22.00 of 44.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 21.3 kg vs 20.8 kg July 2025."
     }
    ],
    "detail": {
@@ -1113,21 +1156,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2010)",
-      "v": "Dec 2024 21.0 kg; Dec 2025 20.8 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Within expectations in 2025 (best yield on the estate); Jan-May 2026 monthly yields 2.91 t/ha in May 2026 vs 1.33 in May 2025",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2010)",
+      "v": "July 2025 20.8 kg; July 2026 21.3 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM34.00/tonne; output 2.00 MT per man-day; average earning RM68/man-day vs basic wage RM65.38/man-day",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM34.00/tonne; output 2.00 MT per man-day; average earning RM68/man-day vs basic wage RM65.38; in-field collection by Badang",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -1142,41 +1185,26 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 66.00 ha (3 rounds); done 66.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 44.00 ha (field 22.00 ha; year programme 3 rounds, 66.00 ha); completed 44.00 ha, round 2; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 66.00 ha; done 66.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 44.00 ha (year programme 3 rounds, 66.00 ha); completed 22.00 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Circles",
+      "v": "Clean circles but circle raking required (photos 2–3, Sep 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "manuring": [
      {
-      "k": "Mix B 1st (programmed Jan 2025)",
-      "v": "2,250 g, 6.60 MT, 132 bags, 16.4.25 (one day)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "2,250 g, 6.60 MT, 132 bags, 20.6.25-2.7.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,250 g, 6.60 MT, 132 bags, 19.8.25-20.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "1,500 g, 4.40 MT, 88 bags, 14.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,250 g, 6.60 MT, 132 bags, 3.11.25-4.11.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 2.25 kg/palm (2,250 g), 6.60 MT, 132 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delay 2025",
@@ -1246,24 +1274,19 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 4% / 5% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: not printed. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Jun 2026: 11% before, 7% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "No bagworm census figures printed Jan–Sep 2026",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
       "v": "No rat census done in 2026",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 28% / 12%; Jul-Dec 8% / 5% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55 10 ml/palm: 22 ha completed, 1 round",
-      "src": "PA 1/2026"
      },
      {
       "k": "Bagworm 2026",
@@ -1274,13 +1297,23 @@
       "k": "Ganoderma",
       "v": "Infection detected in P10; yield losses from Ganoderma limited mainly to P09 and P10; toppled palms with fruiting bodies seen",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Ganoderma",
+      "v": "Ganoderma fruiting bodies seen (photo 17)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Cattle",
+      "v": "Cattle in the field (photo 18); court proceedings on cattle intrusion set for 21–23 Sep 2026",
+      "src": "PA 2/2026"
      }
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "22.00 ha, SPH 134 (PA table), 2,944 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM107.05/ha printed beside it); contractor(s): CK Permai Enterprise; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 134, 2,944 palms; rate RM0.75/palm (RM100.00/ha); contractor CK Permai Enter; whole field completed 22.00 ha; 100.00% completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Quality",
@@ -1307,16 +1340,40 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 88 chains; done 88.00 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
+      "k": "Road grading 2026",
+      "v": "Budget 30 chains (RM570.00); graded to Jul 2026: none; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Drain desilting 2025",
-      "v": "Budget 51.15 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
+      "k": "Crusher run 2026",
+      "v": "Budget 10 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 0 chains (RM0.00) of 8 ft x 6 ft x 4 ft at RM46/chain; none done to Jul 2026",
+      "src": "PA 2/2026"
      }
-    ]
+    ],
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 100,
+       "note": "44.00 of 44.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 50,
+       "note": "22.00 of 44.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
+    }
    },
    "yhist": {
     "years": {
@@ -1348,6 +1405,14 @@
     {
      "src": "Agro 1/2026",
      "text": "Harvested bunches left overnight in P11A."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Circle spraying 434.00 of 434.00 ha and selective 434.00 of 434.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 21.0 kg vs 20.6 kg July 2025."
     }
    ],
    "detail": {
@@ -1378,21 +1443,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2011)",
-      "v": "Dec 2024 20.0 kg; Dec 2025 20.5 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Well below potential in 2025 though +1.5% vs 2024",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2011)",
+      "v": "July 2025 20.6 kg; July 2026 21.0 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM34.00/tonne; output 1.50 MT per man-day; average earning RM51/man-day vs basic wage RM65.38/man-day - below basic wage",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM34.00/tonne; output 1.50 MT per man-day; average earning RM51/man-day vs basic wage RM65.38; in-field collection by Mini dumper",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -1412,14 +1477,14 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 651.00 ha (3 rounds); done 651.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 434.00 ha (field 217.00 ha; year programme 3 rounds, 651.00 ha); completed 434.00 ha, round 2; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 651.00 ha; done 651.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 434.00 ha (year programme 3 rounds, 651.00 ha); completed 434.00 ha, round 2; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "VOPs",
@@ -1429,34 +1494,9 @@
     ],
     "manuring": [
      {
-      "k": "Mix B 1st",
-      "v": "2,250 g, 60.20 MT, 1,204 bags, 21.3.25-26.4.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Kieserite",
-      "v": "750 g, 20.05 MT, 401 bags, 24.4.25-7.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "2,250 g, 60.20 MT, 1,204 bags, 15.5.25-29.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,250 g, 60.20 MT, 1,204 bags, 24.7.25-20.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "1,500 g, 40.10 MT, 802 bags, 5.9.25-1.10.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,250 g, 60.20 MT, 1,204 bags, 11.10.25-4.12.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 2.25 kg/palm (2,250 g), 60.20 MT, 1,204 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -1536,9 +1576,24 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 7% / 8% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: not printed. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Feb 2026: 13% before, 9% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Rat baiting 2026",
+      "v": "Storm, 1 round, 217 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Jan 480 (before); May 760 (before); Jul 1,891 before, 150 after",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Trunk injection 2026",
+      "v": "Impact 75 at 20 ml/palm, 53.30 ha to date",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
@@ -1546,26 +1601,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 32% / 16% / 10%; Jul-Dec 7% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55 10 ml/palm: 217 ha completed, 1 round",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Bagworm 2026",
       "v": "Census Jan-Jun 2026 values 12 and 19 (before/after not resolved); significant in Feb and May 2026; trunk injection Monocrotophos 55% 10 ml/palm in Jan-Feb 2026; Table 13: 40 palms sampled, live 165, dead 492; post-treatment reduction; random check in Jun 2026: no fresh attack on young fronds",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bagworm treatment",
+      "v": "Trunk injection done at P11 (PA 6.5.2.3)",
+      "src": "PA 2/2026"
      }
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "217.00 ha, SPH 123 (PA table), 26,746 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM98.60/ha printed beside it); contractor(s): CK Permai, Raja, KT and Dhaanika Enterprise; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 123, 26,746 palms; rate RM0.69/palm (RM85.00/ha); contractor CK Permai & Raja & KT; whole field completed 214.85 ha, not completed 2.15 ha; 99.01% completed, 0.99% not completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Quality",
@@ -1592,19 +1642,24 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 868 chains; done 686.35 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 162.82 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Re-blocking",
       "v": "P11E1 (129 ha) exceeds recommended block size; re-blocking pending",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 664 chains (RM12,616.00); graded to Jul 2026: 594.20 chains, RM7,427.50; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 90 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 60.17 chains (RM2,767.82) of 8 ft x 6 ft x 4 ft at RM46/chain; none done to Jul 2026",
+      "src": "PA 2/2026"
      }
     ],
     "progress": {
@@ -1624,7 +1679,24 @@
        "calc": false
       }
      ],
-     "manuringPeriod": "to May 2026"
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 100,
+       "note": "434.00 of 434.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "434.00 of 434.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -1657,6 +1729,14 @@
     {
      "src": "Agro 1/2026",
      "text": "Reported weeding completion doubtful; no bagworm follow-up since Feb 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Circle spraying 274.60 of 274.60 ha and selective 137.30 of 137.30 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 19.1 kg vs 21.2 kg July 2025."
     }
    ],
    "detail": {
@@ -1687,21 +1767,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2012)",
-      "v": "Dec 2024 21.0 kg; Dec 2025 20.3 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Significant 2025 decline (-18.5%) and well below potential",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2012)",
+      "v": "July 2025 21.2 kg; July 2026 19.1 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM33.00/tonne; output 1.50 MT per man-day; average earning RM50/man-day vs basic wage RM65.38/man-day - below basic wage",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM33.00/tonne; output 1.50 MT per man-day; average earning RM50/man-day vs basic wage RM65.38; in-field collection by Mini dumper",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -1726,51 +1806,31 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 411.90 ha (3 rounds); done 411.90 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 274.60 ha (field 137.30 ha; year programme 3 rounds, 411.90 ha); completed 274.60 ha, round 2; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 411.90 ha; done 411.90 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 137.30 ha (year programme 3 rounds, 411.90 ha); completed 137.30 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Weeding 2026 concern",
       "v": "1st inter-row round completed Apr 2026 yet parts overgrown (areas possibly missed); patches of Clidemia hirta; two circle rounds reported done but circles in low-lying P12E covered with grasses - estate to verify and consider corrective spraying; VOPs in circles on terraces/ravines of P12",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Inter-row weeding rd 1 (Agro)",
+      "v": "100% · completed Apr",
+      "src": "Agro 1/2026"
      }
     ],
     "manuring": [
      {
-      "k": "Mix B 1st",
-      "v": "2,250 g, 39.00 MT, 780 bags, 2.4.25-8.4.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Kieserite",
-      "v": "750 g, 13.00 MT, 260 bags, 23.4.25-8.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "2,250 g, 39.00 MT, 780 bags, 7.6.25-19.6.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,250 g, 39.00 MT, 780 bags, 20.8.25-28.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "1,500 g, 26.00 MT, 520 bags, 1.10.25-11.10.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,250 g, 39.00 MT, 780 bags, 12.11.25-15.11.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 2.25 kg/palm (2,250 g), 39.00 MT, 780 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -1855,29 +1915,24 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 6% / 5% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 8%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Feb 2026: 18% before, 3% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rat baiting 2025",
-      "v": "Storm 1 bait/palm: 152.70 ha, 1 round (to Dec 2025)",
-      "src": "PA 1/2026"
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Feb 2026: 1,200 before, 120 after",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Trunk injection 2026",
+      "v": "Bullet 55 at 10 ml/palm, 7.88 ha to date",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
       "v": "Census Feb 2026 3% (under control)",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 22% / 17% / 10%; Jul-Dec 9% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55 10 ml/palm: 146.82 ha completed, 1 round",
-      "src": "PA 1/2026"
      },
      {
       "k": "Bagworm 2026",
@@ -1892,9 +1947,9 @@
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "137.30 ha, SPH 126 (PA table), 17,337 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM101.02/ha printed beside it); contractor(s): Raja and KT Palm; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 126, 17,337 palms; rate RM0.67/palm (RM85.00/ha); contractor Raja & KT Palm; whole field completed 133.24 ha, not completed 4.06 ha; 97.04% completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Backlog May 2026",
@@ -1931,19 +1986,24 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 549.2 chains; done 437.55 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 101.09 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Drainage",
       "v": "Low-lying P12E: drains silted, water discharge impeded, waterlogging; inspect and desilt immediately; poor palm appearance",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 322 chains (RM6,118.00); graded to Jul 2026: 248.25 chains, RM3,103.10; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 40 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 65.0 chains (RM2,990.00) of 8 ft x 6 ft x 4 ft at RM46/chain; none done to Jul 2026",
+      "src": "PA 2/2026"
      }
     ],
     "other": [
@@ -1973,14 +2033,21 @@
      "manuringPeriod": "to May 2026",
      "spraying": [
       {
-       "k": "Inter-row weeding rd 1",
+       "k": "Circle spraying (to date)",
        "pct": 100,
-       "note": "completed Apr",
-       "src": "Agro 1/2026",
-       "calc": false
+       "note": "274.60 of 274.60 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "137.30 of 137.30 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
       }
      ],
-     "sprayingPeriod": "to Apr 2026"
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -2011,8 +2078,12 @@
      "text": "Kieserite applied in narrow band and in rain at visit; oversized block to be re-blocked."
     },
     {
-     "src": "PA 1/2026",
-     "text": "Harvester productivity satisfactory (2.25 t/man-day in PA table)."
+     "src": "PA 2/2026",
+     "text": "Circle spraying 134.90 of 269.80 ha and selective 269.80 of 269.80 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 13.9 kg vs 13.6 kg July 2025."
     }
    ],
    "detail": {
@@ -2043,21 +2114,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2016)",
-      "v": "Dec 2024 13.0 kg; Dec 2025 13.6 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "2025 yield within expectations; Jan-May 2026 TBN halved (-50.3%)",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight (planting year 2016)",
+      "v": "July 2025 13.6 kg; July 2026 13.9 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM30.00/tonne; output 2.25 MT per man-day; average earning RM68/man-day vs basic wage RM65.38/man-day",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM30.00/tonne; output 2.25 MT per man-day; average earning RM68/man-day vs basic wage RM65.38; in-field collection by Mini dumper",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -2077,51 +2148,36 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 404.70 ha (3 rounds); done 404.70 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 269.80 ha (field 134.90 ha; year programme 3 rounds, 404.70 ha); completed 134.90 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 404.70 ha; done 404.70 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 269.80 ha (year programme 3 rounds, 404.70 ha); completed 269.80 ha, round 2; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Fern encroachment",
       "v": "Nephrolepis biserrata encroaching onto palm circles/harvesting paths in P16; to be removed (Jun 2026)",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Condition",
+      "v": "Clean circles and inter-rows (photos 1, 6)",
+      "src": "PA 2/2026"
      }
     ],
     "manuring": [
      {
-      "k": "Mix B 1st",
-      "v": "2,250 g, 39.70 MT, 794 bags, 1.4.25-10.4.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 1.50 kg/palm (1,500 g), 26.20 MT, 524 bags",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Kieserite",
-      "v": "750 g, 13.25 MT, 265 bags, 28.4.25-8.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "2,250 g, 39.70 MT, 794 bags, 30.5.25-24.6.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,250 g, 39.70 MT, 794 bags, 19.7.25-29.7.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "2,000 g, 35.25 MT, 705 bags, 15.8.25-25.10.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,250 g, 39.70 MT, 794 bags, 16.10.25-3.12.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026 (cont.)",
+      "v": "Sep 2026 rock phosphate: 1.50 kg/palm (1,500 g), 26.20 MT, 524 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -2216,14 +2272,24 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 9% / 5% / 8% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 8%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "No figures in the Jan–Sep 2026 census table",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rat baiting 2025",
-      "v": "Storm 1 bait/palm: 161.24 ha in Dec, 280.32 ha to date, 2 rounds",
-      "src": "PA 1/2026"
+      "k": "Rat baiting 2026",
+      "v": "Storm, 1 round, 80 ha to date (of 134.90 ha)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Feb 2026: 720 before, 20 after; fresh attack seen at visit (Sep 2026), census in progress",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Trunk injection 2026",
+      "v": "Impact 75 at 20 ml/palm, 7.88 ha to date",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat baiting 2026",
@@ -2231,31 +2297,31 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 38% / 33%; Jul-Dec 15% / 12% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Impact 75 20 ml/palm: 29.24 ha in progress; fogging Alosa 30 ml + Lambda 270 ml + diesel 5 L per pump: 97.70 ha in Dec, 404.70 ha to date, 3 rounds",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Bagworm 2026",
       "v": "Census value 18 (as printed); significant Feb and May 2026; no follow-up reported since Feb 2026 - estate asked to clarify; random check Jun 2026: under control, no fresh attacks",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bagworm Sep 2026",
+      "v": "Fresh bagworm infestation seen at visit; census in progress (photos 12–13)",
+      "src": "PA 2/2026"
      }
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "134.90 ha, SPH 131 (PA table), 17,637 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM104.59/ha printed beside it); contractor(s): KT Palm Enterprise; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 129, 17,637 palms; rate RM0.54/palm (RM70.00/ha); contractor KT Palm Enter; whole field completed 134.90 ha; 100.00% completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Quality",
       "v": "Reported up to date; slightly under-pruned palms in localised sections; selective thinning of close planting pending",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Quality",
+      "v": "Some tall palms over-pruned with hanging bunches (photo 20)",
+      "src": "PA 2/2026"
      }
     ],
     "nutrients": [
@@ -2277,19 +2343,24 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 539.6 chains; done 539.55 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 100.65 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Re-blocking",
       "v": "P16G (134.9 ha) exceeds recommended block size; re-blocking pending",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 350 chains (RM6,650.00); graded to Jul 2026: none; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 50 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 57.55 chains (RM2,647.30) of 8 ft x 6 ft x 4 ft at RM46/chain; 19.35 chains done this month (Jul 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "other": [
@@ -2309,7 +2380,24 @@
        "calc": false
       }
      ],
-     "manuringPeriod": "to May 2026"
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 50,
+       "note": "134.90 of 269.80 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "269.80 of 269.80 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -2342,6 +2430,14 @@
     {
      "src": "Agro 1/2026",
      "text": "Agro Table 1 shows 87.45 ha vs 93 ha elsewhere."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Circle spraying 93.00 of 93.00 ha and selective 186.00 of 186.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 11.5 kg vs 9.9 kg July 2025."
     }
    ],
    "detail": {
@@ -2372,26 +2468,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2017)",
-      "v": "Dec 2024 9.0 kg; Dec 2025 10.2 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "2025 well below potential per Agro; TBN -34.0% Jan-May 2026",
       "src": "Agro 1/2026"
      },
      {
-      "k": "Crop note PA Apr 2026",
-      "v": "Good fruit sets seen at young-mature P17 (8 Apr 2026)",
-      "src": "PA 1/2026"
+      "k": "Bunch weight (planting year 2017)",
+      "v": "July 2025 9.9 kg; July 2026 11.5 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM32.00/tonne; output 1.80 MT per man-day; average earning RM58/man-day vs basic wage RM65.38/man-day - below basic wage",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM32.00/tonne; output 1.80 MT per man-day; average earning RM58/man-day vs basic wage RM65.38; in-field collection by Mini dumper",
+      "src": "PA 2/2026"
      },
      {
       "k": "Harvesting interval Jan-May 2026 (days)",
@@ -2411,14 +2502,14 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 279.00 ha (3 rounds); done 372.00 ha (4 rounds; 133% of programme)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 93.00 ha (field 93.00 ha; year programme 3 rounds, 279.00 ha); completed 93.00 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 279.00 ha; done 279.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 186.00 ha (year programme 3 rounds, 279.00 ha); completed 186.00 ha, round 1; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Fern encroachment",
@@ -2428,34 +2519,14 @@
     ],
     "manuring": [
      {
-      "k": "Mix B 1st",
-      "v": "2,250 g, 31.20 MT, 624 bags, 12.4.25-26.4.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 1.50 kg/palm (1,500 g), 20.30 MT, 405 bags",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Kieserite",
-      "v": "750 g, 10.40 MT, 208 bags, 9.5.25-14.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "2,250 g, 31.20 MT, 624 bags, 14.6.25-23.6.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,250 g, 31.20 MT, 624 bags, 30.7.25-20.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "2,000 g, 27.70 MT, 554 bags, 3.10.25-8.10.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,250 g, 31.20 MT, 624 bags, 11.11.25-4.12.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026 (cont.)",
+      "v": "Sep 2026 rock phosphate: 1.50 kg/palm (1,500 g), 20.30 MT, 405 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -2550,29 +2621,34 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 14% / 5.2% / 8% / 5% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 9%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Feb 2026: 10% before, 4% after; Apr 2026: 35% before, 7% after; Aug 2026: 15% before, 3% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rat baiting 2025",
-      "v": "Storm 1 bait/palm: 93 ha, 1 round (to Dec 2025); census exceeded 10% in Dec 2025 visit and baiting had not begun then",
-      "src": "PA 1/2026"
+      "k": "Rat baiting 2026",
+      "v": "Storm, 2 rounds, 186 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Jan 600 before, 80 after; Feb 80; Mar 480; May 1,160; Jun 180; Jul 1,833 before, 246 after",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Trunk injection 2026",
+      "v": "Bullet 55 at 10 ml/palm, 7.88 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Fogging 2026",
+      "v": "Alosa 30 ml + diesel 5 L + cypermethrin 104 ml; 123.00 ha, 1 round to date",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat census 2026",
       "v": "Table 10 prints 10%, 35% and 31% (Feb, Apr, May 2026 as read); Apr and May 2026 above the 10% threshold; 2 baiting rounds of 93 ha each in H1 2026",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 25% / 5% / 18%; Jul-Dec 6% / 7% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55: 77.83 ha; fogging Alosa + Lambda + diesel + cypermethrin: 93 ha, 1 round",
-      "src": "PA 1/2026"
      },
      {
       "k": "Bagworm 2026",
@@ -2582,9 +2658,9 @@
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "93.00 ha, SPH 149 (PA table), 13,860 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM119.23/ha printed beside it); contractor(s): Raja and Sunshine SK; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 145, 13,860 palms; rate RM0.48/palm (RM70.00/ha); contractor Raja & Sunshine SK; whole field completed 93.00 ha; 100.00% completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Quality",
@@ -2611,14 +2687,19 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 372 chains; done 336.90 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
+      "k": "Road grading 2026",
+      "v": "Budget 279 chains (RM5,301.00); graded to Jul 2026: 244.00 chains, RM3,050.00; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Drain desilting 2025",
-      "v": "Budget 93.75 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
+      "k": "Crusher run 2026",
+      "v": "Budget 55 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 93.75 chains (RM4,312.50) of 8 ft x 6 ft x 4 ft at RM46/chain; none done to Jul 2026",
+      "src": "PA 2/2026"
      }
     ],
     "progress": {
@@ -2631,7 +2712,24 @@
        "calc": false
       }
      ],
-     "manuringPeriod": "to May 2026"
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 100,
+       "note": "93.00 of 93.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "186.00 of 186.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -2662,12 +2760,16 @@
      "text": "Census SPH 120, considerably lower than expected; supplying advised."
     },
     {
-     "src": "PA 1/2026",
-     "text": "Badly overgrown VOPs (6+ years, bearing bunches) and under-pruned palms to correct."
-    },
-    {
      "src": "Agro 1/2026",
      "text": "Bagworm 20% in May 2026 census; foliar treatment June 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Circle spraying 175.50 of 114.00 ha and selective 228.00 of 228.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 6.9 kg vs 5.9 kg July 2025."
     }
    ],
    "detail": {
@@ -2698,26 +2800,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2018)",
-      "v": "Dec 2024 6.0 kg; Dec 2025 6.0 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Yield improved in 2025 but below expectations; below 4 t/ha as of May 2026 with minimal crop loss; production expected to rise with bunch formation",
       "src": "Agro 1/2026"
      },
      {
-      "k": "Crop note PA Apr 2026",
-      "v": "Not many bunches on most palms; good fruit sets seen at young-mature P17 and P19 (8 Apr 2026)",
-      "src": "PA 1/2026"
+      "k": "Bunch weight (planting year 2018)",
+      "v": "July 2025 5.9 kg; July 2026 6.9 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM50.00/tonne; output 2.00 MT per man-day; average earning RM100/man-day vs basic wage RM65.38/man-day",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM50.00/tonne; output 2.00 MT per man-day; average earning RM100/man-day vs basic wage RM65.38; in-field collection by Mini dumper",
+      "src": "PA 2/2026"
      },
      {
       "k": "Interval",
@@ -2727,14 +2824,14 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 342.00 ha (3 rounds); done 342.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 114.00 ha (field 114.00 ha; year programme 3 rounds, 342.00 ha); completed 175.50 ha, round 2; 2nd round in progress",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 342.00 ha; done 342.00 ha (100%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 228.00 ha (year programme 3 rounds, 342.00 ha); completed 228.00 ha, round 2; 2nd round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Weeding Dec 2025",
@@ -2747,46 +2844,26 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "VOPs",
-      "v": "PA: VOPs especially bad at block P18 - overgrown for at least 6 years and bearing bunches; priority eradication immediately; woodies also at P18 and sporadic Tetracera",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Strip circle spraying",
       "v": "Strip spraying used for circles (not company policy); recommend circles weeded to about 6 feet radius to keep soft grasses and limit erosion (Jun 2026)",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "VOPs",
+      "v": "Many overgrown VOPs; poisoning of VOPs done and still in progress, work satisfactory (Sep 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "manuring": [
      {
-      "k": "Mix B 1st",
-      "v": "2,250 g, 33.85 MT, 677 bags, 11.4.25-17.4.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 1.50 kg/palm (1,500 g), 20.65 MT, 413 bags",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Kieserite",
-      "v": "750 g, 11.30 MT, 226 bags, 8.5.25-13.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "printed 2,250 g but 30.10 MT, 602 bags (consistent with 2,000 g/palm), 3.6.25-12.6.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,250 g, 33.85 MT, 677 bags, 20.8.25-26.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "2,000 g, 30.10 MT, 602 bags, 30.8.25-5.9.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,000 g, 30.10 MT, 602 bags, 25.11.25-2.12.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026 (cont.)",
+      "v": "Sep 2026 rock phosphate: 1.50 kg/palm (1,500 g), 20.65 MT, 413 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -2881,29 +2958,34 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 16% / 5.6% / 10% / 5% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 11%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Feb 2026: 19% before, 7% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rat baiting 2025",
-      "v": "Storm 1 bait/palm: 23.64 ha in Dec, 137.64 ha to date, 2 rounds; census 14% in Nov 2025 needing baiting (baits to be replaced every 7 days until acceptance <20%)",
-      "src": "PA 1/2026"
+      "k": "Rat baiting 2026",
+      "v": "Storm, 1 round, 114 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Jan 480 before, 280 after; Feb 280; May 800; Jun 200; Jul 887 before, 93 after",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Trunk injection 2026",
+      "v": "Bullet 55 at 10 ml/palm, 7.88 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Fogging 2026",
+      "v": "Alosa 30 ml + lambda 270 ml + cypermethrin 104 ml per pump; 70.70 ha, 1 round to date",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
       "v": "Feb 2026: 19% before, 2% after baiting; Storm 114 ha, 1 round; baiting effective but attack signs still seen; keep periodic census",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 22% / 18%; Jul-Dec 10% / 10% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55: 57.57 ha; fogging (Alosa + Lambda + diesel + cypermethrin): 114 ha in Dec, 228 ha to date, 2 rounds",
-      "src": "PA 1/2026"
      },
      {
       "k": "Bagworm 2026",
@@ -2913,14 +2995,9 @@
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "114.00 ha, SPH 132 (PA table), 15,048 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM105.60/ha printed beside it); contractor(s): Raja and Sunshine SK; whole field completed Dec 2025",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Under pruning",
-      "v": "PA: under-pruned palms seen at P18 and need corrective action; Agro: >95% complete, up to date except localised sections where progressive pruning was ineffective; minimal over-pruning",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 120, 15,048 palms; rate RM0.58/palm (RM70.00/ha); contractor Raja & Sunshine SK; whole field completed 112.31 ha, not completed 1.69 ha; 98.52% completed, 1.48% not completed",
+      "src": "PA 2/2026"
      }
     ],
     "nutrients": [
@@ -2942,19 +3019,24 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 456 chains; done 408.50 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 62.13 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Vacant/SPH",
       "v": "Census SPH 120 (was 132), considerably lower than expected; verify large vacant areas and consider supplying; PARAS Drone Unit can produce palm point map",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 380 chains (RM7,220.00); graded to Jul 2026: 278.50 chains, RM3,481.25; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 60 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 62.13 chains (RM2,857.98) of 8 ft x 6 ft x 4 ft at RM46/chain; 30.2 chains done this month (Jul 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "progress": {
@@ -2967,7 +3049,24 @@
        "calc": false
       }
      ],
-     "manuringPeriod": "to May 2026"
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 154,
+       "note": "175.50 of 114.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "228.00 of 228.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -2998,8 +3097,12 @@
      "text": "Bagworm 26% in May 2026 census; improved bunch show at visit."
     },
     {
-     "src": "PA 1/2026",
-     "text": "Good fruit sets seen; harvester productivity satisfactory."
+     "src": "PA 2/2026",
+     "text": "Circle spraying 306.00 of 204.00 ha and selective 102.00 of 102.00 ha programmed to Jul 2026."
+    },
+    {
+     "src": "PA 2/2026",
+     "text": "Bunch weight July 2026 6.9 kg vs 4.7 kg July 2025."
     }
    ],
    "detail": {
@@ -3030,26 +3133,21 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Dec bunch weight (planting year 2019)",
-      "v": "Dec 2024 4.0 kg; Dec 2025 5.4 kg",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "Assessment",
       "v": "Yield improved in 2025 but below expectations; below 4 t/ha as of May 2026; good bunch formation expected to lift crop",
       "src": "Agro 1/2026"
      },
      {
-      "k": "Crop note PA Apr 2026",
-      "v": "Good fruit sets seen (8 Apr 2026)",
-      "src": "PA 1/2026"
+      "k": "Bunch weight (planting year 2019)",
+      "v": "July 2025 4.7 kg; July 2026 6.9 kg",
+      "src": "PA 2/2026"
      }
     ],
     "harvesting": [
      {
-      "k": "Harvester rate and earnings 2025",
-      "v": "Rate RM60.00/tonne; output 2.00 MT per man-day; average earning RM120/man-day vs basic wage RM65.38/man-day",
-      "src": "PA 1/2026"
+      "k": "Harvesting rate and output 2026",
+      "v": "Rate RM60.00/tonne; output 2.00 MT per man-day; average earning RM120/man-day vs basic wage RM65.38; in-field collection by Mini dumper",
+      "src": "PA 2/2026"
      },
      {
       "k": "Interval",
@@ -3059,14 +3157,14 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying Jan-Dec 2025",
-      "v": "Programme 408.00 ha (4 rounds); done 306.00 ha (3 rounds, 75%)",
-      "src": "PA 1/2026"
+      "k": "Circle spraying Jan–Jul 2026",
+      "v": "Programmed to date 204.00 ha (field 102.00 ha; year programme 3 rounds, 306.00 ha); completed 306.00 ha, round 2; 2nd round in progress",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Selective spraying Jan-Dec 2025",
-      "v": "Programme 408.00 ha (4 rounds); done 306.00 ha (3 rounds, 75%)",
-      "src": "PA 1/2026"
+      "k": "Selective spraying Jan–Jul 2026",
+      "v": "Programmed to date 102.00 ha (year programme 3 rounds, 306.00 ha); completed 102.00 ha, round 1; 1st round completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Weeding Dec 2025",
@@ -3086,34 +3184,14 @@
     ],
     "manuring": [
      {
-      "k": "Mix B 1st",
-      "v": "2,000 g, 28.55 MT, 571 bags, 17.4.25-22.4.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026",
+      "v": "Aug 2026 Mix B (3rd application): 1.50 kg/palm (1,500 g), 20.15 MT, 403 bags",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Kieserite",
-      "v": "500 g, 7.15 MT, 143 bags, 10.5.25-13.5.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 2nd",
-      "v": "2,000 g, 28.55 MT, 571 bags, 12.6.25-27.6.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 3rd",
-      "v": "2,000 g, 28.55 MT, 571 bags, 28.8.25-13.9.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Rock phosphate",
-      "v": "2,000 g, 28.55 MT, 571 bags, 14.8.25-30.8.25",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Mix B 4th",
-      "v": "2,000 g, 28.55 MT, 571 bags, 18.11.25-16.12.25",
-      "src": "PA 1/2026"
+      "k": "PA table Jul–Sep 2026 (cont.)",
+      "v": "Sep 2026 rock phosphate: 1.50 kg/palm (1,500 g), 20.15 MT, 403 bags; no application dates printed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Delays 2025",
@@ -3208,29 +3286,34 @@
     },
     "pests": [
      {
-      "k": "Rat damage census 2025",
-      "v": "Jan-Jun 2025 values as printed: 12% / 4.8% / 10% / 6% (before/after-baiting columns and months not resolved in the extract); Jul-Dec 2025: 10%. Baiting threshold 10%",
-      "src": "PA 1/2026"
+      "k": "Rat damage census 2026",
+      "v": "Feb 2026: 15% before, 6% after (Jan–Sep 2026 census table)",
+      "src": "PA 2/2026"
      },
      {
-      "k": "Rat baiting 2025",
-      "v": "Storm 1 bait/palm: 102 ha, 1 round to Dec 2025; census 12% in Nov 2025",
-      "src": "PA 1/2026"
+      "k": "Rat baiting 2026",
+      "v": "Storm, 2 rounds, 142 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Bagworm census 2026 (count, as printed)",
+      "v": "Jan 560 before, 80 after; Feb 80; May 1,040; Jun 160",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Trunk injection 2026",
+      "v": "Bullet 55 at 10 ml/palm, 7.88 ha to date",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Fogging 2026",
+      "v": "Alosa 30 ml + lambda 270 ml + cypermethrin 104 ml per pump; 60.90 ha, 1 round to date",
+      "src": "PA 2/2026"
      },
      {
       "k": "Rat 2026",
       "v": "Feb 2026: 15% before, 9% after baiting; Storm, 2 rounds to date (hectares printed 142 vs 102 ha); effective; monitor",
       "src": "Agro 1/2026"
-     },
-     {
-      "k": "Bagworm census 2025 (% palms infested, as printed)",
-      "v": "Jan-Jun 27% / 9% / 20%; Jul-Dec 8% / 9% (before/after-treatment columns and months not resolved in the extract)",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Bagworm treatment 2025",
-      "v": "Trunk injection Bullet 55: 71.38 ha; fogging: 102 ha in Dec, 204 ha to date, 2 rounds",
-      "src": "PA 1/2026"
      },
      {
       "k": "Bagworm 2026",
@@ -3240,9 +3323,9 @@
     ],
     "pruning": [
      {
-      "k": "Progressive pruning Dec 2025",
-      "v": "102.00 ha, SPH 140 (PA table), 14,280 palms; 3rd round (every 3 months); rate RM0.80/palm/year (RM112.00/ha printed beside it); contractor(s): Raja and Sunshine SK and KT; whole field completed Dec 2025",
-      "src": "PA 1/2026"
+      "k": "Progressive pruning to Jul 2026",
+      "v": "Jul 2026 table: SPH 132, 14,280 palms; rate RM0.53/palm (RM70.00/ha); contractor Raja & Sunshine SK & KT; whole field completed 101.22 ha, not completed 0.78 ha; 99.24% completed",
+      "src": "PA 2/2026"
      },
      {
       "k": "Quality",
@@ -3269,19 +3352,24 @@
       "src": "Agro 1/2026"
      },
      {
-      "k": "Road grading 2025",
-      "v": "Budget 408 chains; done 294.30 chains to Dec 2025 (cost RM12.50/chain); grading suspended in the current financial year for high diesel cost",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "Drain desilting 2025",
-      "v": "Budget 60.59 chains of 8 ft x 6 ft x 4 ft at RM70/chain; none done to Dec 2025; no drain issues reported",
-      "src": "PA 1/2026"
-     },
-     {
       "k": "SPH",
       "v": "Census SPH 132 (was 140); reduction after Garmin GPS census",
       "src": "Agro 2/2025"
+     },
+     {
+      "k": "Road grading 2026",
+      "v": "Budget 306 chains (RM5,814.00); graded to Jul 2026: 83.85 chains, RM422.13; grading contractor stopped work (rates too low)",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crusher run 2026",
+      "v": "Budget 60 MT; none bought to Jul 2026",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Drain desilting 2026",
+      "v": "Budget 60.59 chains (RM2,787.14) of 8 ft x 6 ft x 4 ft at RM46/chain; 47.05 chains done this month (Jul 2026)",
+      "src": "PA 2/2026"
      }
     ],
     "progress": {
@@ -3294,7 +3382,24 @@
        "calc": false
       }
      ],
-     "manuringPeriod": "to May 2026"
+     "manuringPeriod": "to May 2026",
+     "spraying": [
+      {
+       "k": "Circle spraying (to date)",
+       "pct": 150,
+       "note": "306.00 of 204.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      },
+      {
+       "k": "Selective spraying (to date)",
+       "pct": 100,
+       "note": "102.00 of 102.00 ha programmed",
+       "src": "PA 2/2026",
+       "calc": true
+      }
+     ],
+     "sprayingPeriod": "Jan–Jul 2026"
     }
    },
    "yhist": {
@@ -3344,107 +3449,152 @@
   }
  ],
  "summary": [
-  "Jan–May 2026 yield 4.76 t/ha vs 7.87 t/ha last year (-39%); monthly crop below 1,600 t (Agro).",
-  "Main cause is a 47% drop in bunch number after the May–Jul 2025 dry spell, made worse by harvester shortage, late manuring and bagworm.",
-  "Harvesters down to 61, 17 short (Jun 2026); productivity 0.70–1.22 t/man-day.",
-  "2025: 28,188 t FFB, 18.21 t/ha vs 20.18 t/ha budget (-10%); COP RM279.52/t vs RM263.61/t budget.",
-  "2026 manuring behind (Mix A 35%, Mix B 44% to May); Ganoderma census, VOP eradication and pruning backlog still not done."
+  "Jan–Jul 2026: 12,621 t FFB, 8.15 t/ha vs 11.89 t/ha budget (-31%) and 11.09 t/ha last year (-27%) (PA 2/2026).",
+  "Crop is picking up: many blocks hit 2.5 t/ha/month in August, harvester output rose from 1.6 to 2 t/man-day, and harvesters reached 78 (adequate) by September.",
+  "Cost RM298.92/t vs RM253.05/t budget (Jan–Jul 2026), high on low crop; spending itself is under budget (general charges -4%, upkeep -23%).",
+  "Manuring 85% of programme to July (late Kieserite and Mixture B); circle spraying 91%, selective 87%.",
+  "Roads are poor after the grading contractor quit (1,449 of 3,837 chains); new bagworm attack in P16G; Ganoderma census still not done."
  ],
  "issues": [
   {
-   "sev": "bad",
-   "title": "PA says 2025 yield rose 7%; it fell",
-   "detail": "PA 1/2026 para 8.2 says 2025 yield (18.21 t/ha) was 7% above 2024 (18.89 t/ha). It is 3.6% lower; Agro 1/2026 Table 18 shows -3.6% and FFB fell from 29,248.13 t to 28,187.68 t."
+   "sev": "warn",
+   "title": "General charges RM/t inconsistent in PA 2/2026",
+   "detail": "PA 2/2026 s.9 shows general charges 112.38 RM/t (budget 80.01). The s.5 table (RM1,491,827.90 actual, RM1,548,834 budget) over 12,621.25 t actual and 18,405 t budget gives 118.20 and 84.15 RM/t. Upkeep (111.79) and harvesting (74.75) reconcile. The same mismatch was in PA 1/2026."
   },
   {
    "sev": "warn",
-   "title": "General charges RM/t inconsistent in PA",
-   "detail": "PA 1/2026 production cost table shows general charges 79.39 RM/t (budget 77.66). The PA general charges table (RM2,353,528.70 actual, RM2,551,361 budget) over 28,187.68 t actual and 31,235 t budget gives 83.50 and 81.68 RM/t. Upkeep (122.95) and harvesting (77.18) do reconcile. Using 83.50 would put COP at 283.63 rather than 279.52 RM/t."
+   "title": "Drain table: chains done look like RM",
+   "detail": "PA 2/2026 s.6.7: 'actual to date (chain)' 890.1, 1,391.5, 2,164.3 (total 4,445.9) are 46 × the 'this month' chains (19.35, 30.20, 47.05; total 96.60), i.e. RM at RM46/chain. The summary then says 4,445.9 chains done vs 636.66 budgeted."
+  },
+  {
+   "sev": "warn",
+   "title": "Fogging rounds: text 2, table 1",
+   "detail": "PA 2/2026 6.5.2.2 says 2 rounds of fogging at P17, P18 and P19; the fogging table shows 1 round to date for each."
+  },
+  {
+   "sev": "warn",
+   "title": "Ex-excavation area figures unclear",
+   "detail": "PA 2/2026 summary says the ex-excavation area was declared 103 ha; para 2.2 speaks of the 'remaining 53.0 ha' (2.9 ha bananas, 50.1 ha oil palm). The area statement now lists 80 ha as 'Replanting (in progress)' where PA 1/2026 listed 80 ha immature (unplanted PN25K). Area % column: total planted shows 91.85% (same as mature) and the title total 95.25%."
+  },
+  {
+   "sev": "warn",
+   "title": "Rat baiting text vs table",
+   "detail": "PA 2/2026 6.5.1.1 says one round of baiting at P11/E, P16/G and P18/I, but the census table shows no census at P16/G in 2026 and the baiting table shows only 80 of 134.90 ha baited at P16/G."
+  },
+  {
+   "sev": "warn",
+   "title": "Pruning table percentages",
+   "detail": "PA 2/2026 pruning table: P12F 4.06 ha not completed but '-' in the % not completed column; total row shows 82.80 ha not completed as 5.35%. Text 6.9.1 says 2,109.37 of 2,231.60 ha pruned and paid (a different basis from the 1,463.40 ha whole-field total)."
   },
   {
    "sev": "warn",
    "title": "Palm census differs between reports",
-   "detail": "PA pruning table vs Agro Table 2 census: P18I 15,048 (SPH 132) vs 13,757 (SPH 120); P19J 14,280 vs 13,426; P17H 13,860 vs 13,485; P16G 17,637 vs 17,476; P09C 37,353 vs 37,283; P06B 27,468 vs 27,458. The PA table (which carries per-palm pruning rates) has 2,761 more palms."
-  },
-  {
-   "sev": "warn",
-   "title": "Harvester shortfall and requirement differ",
-   "detail": "PA: 72 harvesters vs 76 required (Dec 2025), 63 in Apr 2026 (short 13). Agro (Jun 2026): 61 harvesters, short 17, which implies 78 required against 76 in the PA."
+   "detail": "PA pruning table (Jul 2026) vs Agro 1/2026 Table 2: P18I 15,048 (SPH 120) vs 13,757; P19J 14,280 vs 13,426; P17H 13,860 vs 13,485; P16G 17,637 vs 17,476; P09C 37,353 vs 37,283; P06B 27,468 vs 27,458."
   },
   {
    "sev": "warn",
    "title": "Harvester productivity figures conflict",
-   "detail": "PA harvesting table shows 1.50–2.25 t/man-day by block (to Dec 2025). Agro Table 9 shows 0.70–1.22 t/man-day (mean to May 2026). Agro text 4.1.10 says 0.85–1.22 but its own table lists P09C at 0.70."
+   "detail": "PA 2/2026 harvesting table shows 1.50–2.25 t/man-day by block and 8.4 says productivity rose from 1.6 to 2 t/man-day; Agro 1/2026 Table 9 shows 0.70–1.22 t/man-day (mean to May 2026)."
   },
   {
    "sev": "warn",
-   "title": "Harvesting interval: 13 days vs 15–19 days",
-   "detail": "PA (visit 8 Apr 2026) says the interval averaged 13 days. Agro Table 7 estate records show 15–19 days in Mar 2026 and 15–16 days in Apr 2026, with 11–15 days only from May."
-  },
-  {
-   "sev": "warn",
-   "title": "2025 manuring 100% (PA) vs not fully done and late (Agro)",
-   "detail": "PA: 6,192.8 ha of 6,192.8 ha (100%), programme completed. Agro Table 3: rock phosphate/CIRP 98% (5.45 t unapplied), CRF 0% (6.56 t), with most rounds 1–4 months late (Agro 6.6b says up to five months)."
-  },
-  {
-   "sev": "warn",
-   "title": "Subsurface programme cancelled vs still scheduled",
-   "detail": "PA 6.4.6: 2026 subsurface fertiliser programme cancelled for lack of workers. Agro revised 2026 programme (Appendix 1a, June 2026) still schedules Mix A 8 kg/palm subsurface in P06A and P06B."
-  },
-  {
-   "sev": "warn",
-   "title": "Fogging area does not add up",
-   "detail": "PA 6.5.3 says 4 rounds of fogging over 1,933 ha. The PA fogging table to-date column sums to 1,570.5 ha (640.8 + 404.70 + 93 + 228 + 204)."
-  },
-  {
-   "sev": "warn",
-   "title": "Trunk injection chemical named differently",
-   "detail": "PA 6.5.2 says trunk injection used Methamidophos. Agro 4.5.9 says Monocrotophos (55%) at 10 ml/palm. The PA table lists Bullet 55 and Impact 75."
+   "title": "Subsurface manuring: none applied vs still in programme",
+   "detail": "PA 2/2026: no sub-surface fertiliser application (PA 1/2026: 2026 subsurface cancelled). Agro 1/2026 revised 2026 programme (Appendix 1a) still lists Mix A 8 kg/palm subsurface for P06A and P06B; PA 2/2026 shows Mix A 2.00 kg/palm broadcast at the 84 ha P06B sub-block in Aug."
   },
   {
    "sev": "warn",
    "title": "P17H area 87.45 ha vs 93 ha",
-   "detail": "Agro Table 1 lists P17H as 87.45 ha (total 1,542.65 ha); the PA and the rest of the Agro report use 93 ha (total 1,548.20 ha)."
-  },
-  {
-   "sev": "warn",
-   "title": "80 ha PN25K shown as immature but not planted; clearing figures do not add up",
-   "detail": "PA area statement counts the 80 ha as immature (total planted 1,628.20 ha), but PA 2.2 says nothing has been planted yet and Agro 2.4 says the estate has no immature plantings. PA 2.2 says 30 ha was cleared with a 'balance of 30 ha', which totals 60 ha, not 80 ha."
+   "detail": "Agro 1/2026 Table 1 lists P17H as 87.45 ha (total 1,542.65 ha); the PA reports and the rest of the Agro report use 93 ha (total 1,548.20 ha)."
   }
  ],
  "actions": [
   {
-   "item": "Recruit harvesters (short 17 as of Jun 2026) and lift productivity",
-   "src": "Agro 1/2026",
+   "item": "Recruit harvesters (short 17 in Jun 2026); now 78 available, adequate (Sep 2026)",
+   "src": "PA 2/2026",
+   "status": "done"
+  },
+  {
+   "item": "Retain harvesters by raising earnings through higher productivity; address high turnover",
+   "src": "PA 2/2026",
    "status": "repeat"
   },
   {
-   "item": "Recruit 6 manuring workers; replace sprayers diverted to harvesting",
-   "src": "PA 1/2026",
+   "item": "Phase out the 2 small harvesting contractors (4–5 harvesters each) and keep 3",
+   "src": "PA 2/2026",
    "status": "open"
   },
   {
-   "item": "Eradicate overgrown VOPs in P18 immediately, then other blocks",
-   "src": "PA 1/2026",
+   "item": "Monitor harvester productivity in the current high-crop period",
+   "src": "PA 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Use wheelbarrows for manuring (30 bags/man-day; 40 if semi-mechanised)",
+   "src": "PA 2/2026",
    "status": "repeat"
   },
   {
-   "item": "Ganoderma census and deboling of fallen palms (1.5 m cube); map infected points",
-   "src": "Agro 1/2026",
+   "item": "Engage another road grading contractor at the offered rate; 2,388 chains left; buy budgeted crusher run (645 MT)",
+   "src": "PA 2/2026",
    "status": "repeat"
   },
   {
-   "item": "Clear 95.8 ha pruning backlog in P00A, P09C, P12F; correct under-pruning in P18",
-   "src": "Agro 1/2026",
+   "item": "Eradicate overgrown VOPs in stages (P18 poisoning in progress)",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Raise sprayer output to 7 pumps/man-day; monitor sprayers' working hours",
+   "src": "PA 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Circle raking at P10/D; yearly circle raking after pruning in tall palm areas",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Ganoderma census and deboling at all fallen palms; map infected points",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Quarterly rat damage census in all fields; bait above 10%",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Census and treat the fresh bagworm attack at P16/G",
+   "src": "PA 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Correct under-pruned palms (97 ha by mid-Oct); stop over-pruning tall palms",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Prepare land (from Nov) and plant 50.1 ha oil palm and 2.9 ha bananas on the ex-excavation area, with EFB rings and Mucuna",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Put EFB disposal transport cost in the 2027 budget",
+   "src": "PA 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Budget the running account for HiLux TDF 1981 in 2027",
+   "src": "PA 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Resolve cattle intrusion (court hearing 21–23 Sep 2026)",
+   "src": "PA 2/2026",
    "status": "repeat"
   },
   {
    "item": "Proper frond stacking and full loose fruit collection",
-   "src": "Agro 1/2026",
-   "status": "repeat"
-  },
-  {
-   "item": "Quarterly rat damage census in all fields",
    "src": "Agro 1/2026",
    "status": "repeat"
   },
@@ -3494,22 +3644,7 @@
    "status": "open"
   },
   {
-   "item": "Yearly circle raking after pruning in tall palm areas",
-   "src": "Agro 1/2026",
-   "status": "open"
-  },
-  {
    "item": "Supply vacant points (low SPH, especially P18); PARAS drone mapping if needed",
-   "src": "Agro 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Repair 2 of 3 Badang units (battery RM3,000 each); consult Plantation Controller",
-   "src": "PA 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Plant 80 ha PN25K when resumed, with EFB rings and Mucuna",
    "src": "Agro 1/2026",
    "status": "open"
   },
@@ -3517,163 +3652,151 @@
    "item": "Consider replanting P00 before 2030",
    "src": "Agro 1/2026",
    "status": "open"
-  },
-  {
-   "item": "Resolve cattle intrusion (court case in September)",
-   "src": "PA 1/2026",
-   "status": "open"
   }
  ],
- "kb": "LADANG TAGAR 3, Tagar Properties Sdn Bhd (Prosper group). Fact pack drawn from PA Report 1/2026 (Planting Advisor Mr. Boey Chee Weng, visit 8 April 2026, reviewing Jan–Dec 2025) and Agronomy Report 1/2026 (Agronomist Mr. Chong Kuan Ming, visit 17 June 2026, follow-up to 10 December 2025 visit; 2026 manuring programme). Senior Estate Manager Mr. T. Paramaswarn; Sr. Assistant Manager in charge En. Mohd Afif Bin Ramlan; Plantation Controller Dr. Chua Chin Kok (Agro).\n\nAREA (PA, as at Dec 2025): estate title 1,685.62 ha. Mature 1,548.20 ha (91.85%), immature 80.00 ha (4.75%), total planted 1,628.20 ha (96.59%), unplanted TNB 14.00 ha, buildings/others 43.42 ha. Blocks: 00A 2000 Golden Hope/IOI 246 ha; 06B 2006 CH-DxP 204 ha; 09C 2009 278 ha; 10D 2010 22 ha; 11E 2011 217 ha; 12F 2012 137.30 ha; 16G 2016 Felda Yangambi 134.90 ha; 17H 2017 93 ha; 18I 2018 114 ha; 19J 2019 102 ha. The 80 ha ex-excavation area (PN25K) is not yet planted: 30 ha cleared, the rest on hold due to high diesel price. Agro: P00 (16% of area) is over 25 years old and replanting before 2030 should be considered; prime plantings over half the area; 7% young mature; no immature plantings. Agro Table 1 subdivides blocks (P00A1 136, P00A2 110, P06B1 84, P06B2 120, P09C1 148, P09C2 100, P11E1 129, P11E2 88, P12F1 62, P12F2 105.3, P18I1 56, P18I2 58, P19J1 53, P19J2 49) and shows P17H as 87.45 ha, total 1,542.65 ha. Re-blocking of P06B2, P09C1, P11E1 and P16G still pending; to be done by year end. For PN25K Agro recommends EFB in two rings in the circle after planting and Mucuna bracteata at 300 points/ha; planting hole CRF 600 g and RP 500 g, compound 0.8 kg, RP 1.5 kg.\n\nPALM CENSUS (Agro Table 2, GPS census): P00A 31,864 (in progress); P06B 27,458 SPH 134; P09C 37,283 SPH 134; P10D 2,944 SPH 134; P11E 26,746 SPH 123; P12F 17,337 SPH 126; P16G 17,476 SPH 129; P17H 13,485 SPH 145; P18I 13,757 SPH 120; P19J 13,426 SPH 132. SPH lower than expected especially P18; supplying advised. PA pruning table uses higher counts (P06B 27,468; P09C 37,353; P16G 17,637; P17H 13,860; P18I 15,048; P19J 14,280).\n\nLABOUR (PA, Dec 2025): total 115 vs 125 required (-10). Harvesters 72 vs 76 (ratio 1:22 ha vs 1:20). Manuring 13 vs 19 (-6). Sprayers 7 vs 7. Harvesting mandore 2 vs 3. Drivers/loaders 10 vs 8. Water pump attendant 1 vs 2. In April 2026 harvesters were 63 (short 13, ratio 1:25 ha); contractor to recruit 10 by May. All 7 sprayers diverted to harvesting temporarily. Worker ratio 1:13 ha. Agro (June 2026): 61 harvesters, short 17. Staff more than adequate; Field Supervisor Gobalakrishan medically boarded Nov 2025, replaced by Muhd Akif.\n\nGENERAL CHARGES (PA, 2025): actual RM2,353,528.70 vs budget RM2,551,361 (underspent 8%); RM1,445.48/ha vs RM1,566.98/ha. Management RM792,195.56; labour and amenities RM457,308.38; other expenditure RM1,091,455.76 (over budget RM991,831): electricity +76% (TNB tariff), water +18% (water carted from Berjaya Estate for 2 weeks after mill effluent polluted reservoir), recruitment +37% (19 workers recruited vs 8 budgeted), security +8%. MSPO RM12,569.\n\nUPKEEP AND CULTIVATION (PA, 2025): total RM3,465,662 vs RM3,422,844 (overspent 1%); RM2,238.51/ha vs RM2,210.82/ha. Per ha actual vs budget: weeding 214.27 vs 220.84; manuring 1,650.84 vs 1,602.66; pest and disease 152.79 vs 74.02; census and thinning 8.31 vs 4.96; drains 1.12 vs 25.80; roads and bridges 97.49 vs 138.34; boundaries 0.23 vs 3.38; soil/water conservation 0.87 vs 23.35; pruning 112.59 vs 117.47.\n\nWEEDING: PA circle spraying 4,484.71 ha (2.9 rounds), 93% of 4,826 ha; CDA output 7 ha/man-day, RM13/ha, earnings RM91/day, glyphosate 0.49 l/ha. Selective spraying 4,644.60 ha, 96%; mist blower 6.5 ha/man-day, RM15/ha, RM97.50/day, Garlon 0.49 l/ha. VOPs prevalent, very bad in P18 (6+ years old, bearing bunches). Agro: 2025 three rounds done except final circle rounds in P00 and P06 partial; 2026 first round done except P09C, second round started May. Clidemia patches in P09 and P12; P12F overgrown despite records; VOPs in circles in P00, P06, P09, P11, P12; strip spraying is against company policy, use 6–8 ft circles.\n\nMANURING: PA: 6,192.8 ha, 100% of budget in 2025; broadcasting 22 bags/man-day, RM17/ha, RM68/day; mini dumpers abandoned; subsurface at P06B only 13 bags/man-day, 0.5 ha/day, RM90/ha, RM45/day (basic wage RM65.38); 2026 subsurface cancelled. Agro Table 3 (2025): Mix A 369.25 t 100%; Mix B 1,119.00 t 100%; NK1 191.25 t 100%; kieserite 78.25 t 100%; CIRP 290.35 of 295.80 t (98%); CRF 0% (6.56 t unapplied, for PN25K). Rounds 1–4 months late. Agro Table 5 (2026 to May): Mix A 129.75 of 369.30 t (35%); Mix B 367.45 of 843.80 t (44%); NK2 79.65 t (100%); kieserite, RP, compound 0%. Delays due to late deliveries; March kieserite not applied in P09C, P12F, P16G, P17H, P18I, P19J; P11E Mix B round 2 overdue. Kieserite applied in rain and in narrow bands in P16. EFB in P09B excessive; use 40–50 mt/ha. 2026 programme revised for second half due to fertiliser price hike and limited stock.\n\nPEST AND DISEASE: PA: rat baiting (Storm) where damage above 10%. Bagworm high in 2025; trunk injection over 1,010.33 ha and fogging (PA says 4 rounds over 1,933 ha). Ganoderma widespread with fruiting bodies; census and deboling needed. Cattle intrusion unresolved; court case in September. Agro: rat census irregular; not done in P00A, P06B, P09C, P10D, P16G in 2026; P17H 35% (Apr) and 31% (May). P18I 19% to 2%, P19J 15% to 9% after Feb 2026 baiting. Bagworm (Metisa plana) significant in P11E, P12F, P16G, P17H; P18I 20% and P19J 26% in May 2026; monocrotophos trunk injection P11 Jan–Feb, lambda-cyhalothrin fogging P17H; prefer Bt when low. Ganoderma in P00, P09, P10, P12; no deboling progress.\n\nHARVESTING (PA, 2025): cost RM2,175,445 = RM77.18/t vs RM76.36/t budget (top-up wages RM55,184 for new harvesters). Rounds 21.4 vs 24 budget. Interval averaged 13 days. Outturn 94%. 2 of 3 Badang units down (battery RM3,000 each). Block rates and output: P00A RM52/t 1.60 t; P06B RM37 1.80 t; P09C RM34 1.50 t; P10D RM34 2.00 t; P11E RM34 1.50 t; P12F RM33 1.50 t; P16G RM30 2.25 t; P17H RM32 1.80 t; P18I RM50 2.00 t; P19J RM60 2.00 t. Low-output harvesters work about 5.5 hours/day. Agro: intervals 14–21 days Jan–Apr 2026, 11–15 in May; over-ripe bunches above 5% in P06B and P12F; productivity 0.70–1.22 t/man-day to May 2026.\n\nCROP (PA, 2025): FFB 28,187.68 t vs budget 31,235 t; 2024 29,248.13 t. Yield 18.21 t/ha vs 20.18 budget (10% below) and 18.89 in 2024. CPO 5,272.77 t, OER 18.71% vs 19.00%; kernel 1,409.39 t, 5.00%. Agro Table 18 block yields 2025 (2024): P00A 18.17 (17.44); P06B 20.13 (19.85); P09C 16.00 (19.42); P10D 26.00 (25.29); P11E 15.35 (15.13); P12F 15.67 (19.23); P16G 23.51 (24.32); P17H 19.72 (20.30); P18I 16.66 (15.34); P19J 21.62 (20.71). Agro monthly FFB 2026: Jan 1,551.33; Feb 1,275.21; Mar 1,446.46; Apr 1,577.19; May 1,525.03; total 7,375.22 t. Estate yield Jan–May 2026 4.76 vs 7.87 t/ha (-39.4%). Bunch number down 47.2% (901,007 to 476,110); average bunch weight up 14.6% (13.52 to 15.49 kg). Causes: May–July 2025 dry spell (98.0, 124.0, 35.5 mm), incomplete crop recovery, manuring delays, bagworm 2024/25. Crop expected to improve later in 2026.\n\nPRODUCTION COST (PA, 2025): RM279.52/t FFB vs RM263.61 budget (general 79.39 vs 77.66; upkeep 122.95 vs 109.58; harvesting 77.18 vs 76.37); RM1,494.25/t CPO vs RM1,387.60. High due to low yield.\n\nOTHER (PA): roads graded 4,620.35 of 6,513 chains at RM12.50/chain, suspended due to diesel cost; crusher run 348 of 670 t at RM43/t. No drain desilting (RM1,733 spent on backhoe clearing). Pruning 9,279 of 9,289 ha; RM1.20/palm/yr (2000), RM1.00 (2006), RM0.80 (2009–2019). Capex RM10,290 vs RM133,000.\n\nRAINFALL (Agro): 2021 2,901.0 mm/132 days; 2022 2,950.5/160; 2023 2,740.95/177; 2024 2,436.75/189; 2025 2,477.1/148.\n\n2026 FERTILISER PROGRAMME (Agro Appendix 1, revised, kg/palm): P00A and P00B NK2 2.50 in Feb (to be withdrawn if replanting in 2026/2027). P06B Mix A 8.00 subsurface in Jan and P06A in Feb (4 holes at 2 kg/hole). P09A and P09B Mix A 2.25 (Jan), Mix B 2.00 (Apr), Mix A 2.25 (Aug). P10C, P11A, P11C Mix B 2.25 in Jan, Apr and Aug. P12B, P12D, P12E Mix B 2.25 plus kieserite 0.75 in Jan, Mix B 2.25 in Apr and Aug. P16, P17, P18 Mix B 2.25 (Feb), kieserite 0.75 (Mar), Mix B 2.25 (May), Mix B 1.50 (Aug), RP 1.50 (Sep), Mix B 1.50 (Nov). P19 the same but kieserite 0.50 and May Mix B 2.00. Mixture A is 45% AS, 40% MOP, 15% kieserite; Mixture B is 45% AS, 40% MOP, 14% kieserite, 1% borate; NK2 is 60% SOA, 40% MOP; compound 14:13:9:2.5. The 2027 programme will be drawn up in the second half of 2026.\n\nAGRO PRUNING AND PALM CONDITION: 95.8 ha of pruning pending in P00A, P09C and P12F as of May 2026. Ravine palms are left unattended because of palm height. An extra contractor with 6 workers was engaged, and the backlog should clear in two months. Progressive pruning is consistent in P06B and P10D. There is slight under-pruning in P11A, P16 and P17. Frond stacking in terraced areas is still poor. Selective thinning in P06, P09, P12 and P16 is still pending. Leaf sampling in June 2025 showed major nutrients down on the previous sampling; leaves will be re-sampled in 2026. Chlorotic fronds were seen in the ravines of P12 and P00. For young mature P18 and P19, the reported pruning is over 95% complete. P18 weeding: 2 inter-row and 1 circle round to May 2026. P19: 2 circle and 1 inter-row round. P19 Clidemia and wild brinjal have improved.\n\nPA BUNCH WEIGHTS (Dec 2024 to Dec 2025): 2000 23.0 to 22.1 kg; 2006 22.0 to 22.3; 2009 21.0 to 21.5; 2010 21.0 to 20.8; 2011 20.0 to 20.5; 2012 21.0 to 20.3; 2016 13.0 to 13.6; 2017 9.0 to 10.2; 2018 6.0 to 6.0; 2019 4.0 to 5.4 kg. Overripe bunches from extended intervals were noted. Vehicles: the ambulance ran 5,668 of 10,000 km (grossly underused). Tractors BPD 1246 and BPJ 4895 ran 1,468 and 1,532 of 2,200 hours (low because the PN25K planting was deferred). Manual loading: Div A 18 t/day and Div B 16 t/day at RM7.50/t.\n\nDATA CAVEATS: PA 8.2 states 2025 yield was 7% above 2024, but the figures (18.21 vs 18.89 t/ha) show a 3.6% fall. The PA general charges RM/t (79.39) does not reconcile to its RM table (83.50 implied). Harvester counts, productivity, harvesting intervals and palm census differ between the two reports; see issues.",
+ "kb": "LADANG TAGAR 3, Tagar Properties Sdn Bhd (Prosper group). Fact pack drawn from PA Report 2/2026 (Planting Advisor Mr. Boey Chee Weng, visit 15 September 2026, reviewing January to July 2026) and Agronomy Report 1/2026 (Agronomist Mr. Chong Kuan Ming, visit 17 June 2026; 2026 manuring programme). Senior Estate Manager Mr. T. Paramaswarn; Sr. Assistant Manager in charge En. Mohd Afif Bin Ramlan; Plantation Controller Dr. Chua Chin Kok.\n\nAREA (PA 2/2026, as at July 2026): estate title 1,685.62 ha. Mature 1,548.20 ha; replanting (in progress) 80.00 ha; total planted 1,628.20 ha; unplanted TNB 14.00 ha; buildings/others 43.42 ha. No change in area. The ex-excavation area was declared as 103 ha; of the remaining 53.0 ha, 2.9 ha will be planted with bananas and 50.1 ha with oil palm, land preparation from November 2026. No replanting planned for 2027. Blocks: 00A 2000 246 ha; 06B 2006 204 ha; 09C 2009 278 ha; 10D 2010 22 ha; 11E 2011 217 ha; 12F 2012 137.30 ha; 16G 2016 134.90 ha; 17H 2017 93 ha; 18I 2018 114 ha; 19J 2019 102 ha. Agro: P00 is over 25 years old and replanting before 2030 should be considered; re-blocking of P06B2, P09C1, P11E1 and P16G pending.\n\nLABOUR (PA 2/2026, July 2026): total 111 vs 125 required (-14): 19 checkroll and 92 contract. Harvesters 68 vs 76 (ratio 1:23 ha vs 1:20); 78 harvesters at September (1:19 ha), adequate. Manuring 13 vs 19, short 1 at September. Sprayers 7 vs 7. Harvesting mandore 2 vs 3; drivers/loaders 10 vs 8; water pump attendant 1 vs 2. Worker ratio 1:14 ha. Five harvesting contractors (Rajandran, Gagasan Palm Oil Mgmt, SK Sunshine, CK Permai, Mariapan Kuthiandawak; Dhaanika Enterprise does weeding, manuring and loading); two have only 4 to 5 harvesters each; PA advises phasing them out and keeping 3. Staff adequate; cadet assistant En. Aiman transferred to PSK in April; Sustainability Officer joined June 2026. Agro (June 2026): 61 harvesters, short 17.\n\nGENERAL CHARGES (PA 2/2026, Jan–Jul 2026): RM1,491,827.90 vs budget to date RM1,548,834 (underspent 4%); annual budget RM2,655,125. RM916.24/ha vs RM951.26/ha. Management and supervision RM544,059.35; labour and amenities RM330,290.80; other expenditure RM617,409.75 (water supply +118%: tractors carted water for 2 weeks after mill effluent contaminated the source; sundry building +16%: shop repair); MSPO RM68.\n\nUPKEEP AND CULTIVATION (PA 2/2026, Jan–Jul 2026): RM1,410,930 vs RM1,825,152 to date (underspent 23%); RM911.34/ha vs RM1,178.89/ha. Per ha actual vs budget: weeding 111.16 vs 133.26; manuring 650.72 vs 870.12; pest and disease 26.43 vs 33.31; census and thinning 2.72 vs 0.50; drains 4.15 vs 13.77; roads and bridges 40.60 vs 73.68; boundaries 0.16 vs 1.05; soil/water conservation 9.17 vs 0 (EFB transport from mill, unbudgeted; to be budgeted for 2027); tools 0.01; pruning 66.22 vs 53.20.\n\nWEEDING (PA 2/2026): circle spraying 2,408 ha (1.6 rounds), 91% of 2,643 ha (1.7 rounds); circles clean; CDA 6.8 ha/man-day, RM13/ha, RM88.40/day, glyphosate 0.60 l/ha, 6 pumps/man-day (target 7); circle raking needed at P10/D. Selective spraying 2,307 ha (1.5 rounds), 87% of 2,653 ha; sprayers were used for harvesting for 2 months; mist blower 6.7 ha/man-day, RM15/ha, RM100.50/day, Garlon 0.85 l/ha; overgrown VOPs still prevalent, many at P18 where poisoning is in progress; spots of woodies at P00/A. Agro (June): Clidemia in P09 and P12; strip spraying should be replaced by 6 to 8 ft circles.\n\nMANURING (PA 2/2026): 2,948.60 ha or 85% of 3,461.60 ha budgeted applied to July; shortfall due to late delivery of Kieserite and Mixture B. Broadcasting 25 bags/man-day, RM18/ha, RM73.53/day; wheelbarrows advised (30 bags/day; 40 semi-mechanised). No sub-surface application. Aug 2026 table: Mix A 2.00 kg/palm on 84 ha of P06B (22.60 t) and 2.25 kg/palm on 248 ha of P09C (74.85 t); Mix B 2.25 kg/palm on 30 ha of P09C, P10D, P11E, P12F and 1.50 kg/palm on P16G to P19J (202.15 t total); rock phosphate 1.50 kg/palm on P16G to P19J in Sep (87.30 t); Mix B and NK for the 120 ha P06B sub-block marked programme revised. Agro Table 5 (to May 2026): Mix A 35%, Mix B 44%, NK2 100%, kieserite, RP and compound 0%.\n\nPEST AND DISEASE (PA 2/2026): rat baiting (Storm) one round at P11/E, P16/G, P18/I (census 16% before, 7% after) and two rounds at P17/H and P19/J (23% before, 7% after); latest census averaged 5%; census every 3 months and bait above 10%. June 2026 rat census P00A 14% to 8%, P06B 10% to 4%, P09C 16% to 7%, P10D 11% to 7%; P17H 35% in April, 15% in August. Bagworm affected 307.0 ha; fogging at P17, P18, P19 reduced infestations; trunk injection at P11 (Impact 75 20 ml/palm, 53.30 ha) and small areas with Bullet 55; fresh attack at P16/G, census in progress; July census counts P11E 1,891, P17H 1,833, P18I 887 before treatment. Ganoderma sporadic, no census done, deboling insufficient; census and deboling of all fallen palms recommended. Cattle intrusion court proceedings 21 to 23 September 2026.\n\nHARVESTING (PA 2/2026, Jan–Jul 2026): cost RM943,418 = RM74.75/t vs RM73.87/t budget (harvesting 52.43, internal transport 20.44, incentive 0.01, top-up wages 1.86). Rounds 11.8 vs 14 budget. Interval averaged 17 days. Outturn 97%. Collection by 3 mini dumpers and 2 Badang; wheelbarrows elsewhere. Block rates and output: P00A RM52/t 1.60 t; P06B RM37 1.80 t; P09C RM34 1.50 t; P10D RM34 2.00 t; P11E RM34 1.50 t; P12F RM33 1.50 t; P16G RM30 2.25 t; P17H RM32 1.80 t; P18I RM50 2.00 t; P19J RM60 2.00 t; basic wage RM65.38. Productivity was low in 1H (low crop, new harvesters) and rose from 1.6 to 2 t/man-day. Agro (to May): 0.70 to 1.22 t/man-day; over-ripe bunches above 5% in P06B and P12F.\n\nCROP (PA 2/2026, Jan–Jul 2026): FFB 12,621.25 t vs budget 18,405 t (annual 31,605 t); same period 2025 17,163.64 t. Yield 8.15 t/ha vs 11.89 budget (31% below) and 11.09 in Jan–Jul 2025 (27% below). CPO 2,349.61 t, OER 18.62% (budget 18.98%); kernel 631.06 t, 5.00%. Causes: low cropping in 1H and harvester shortage. Yield rising: many blocks reached 2.5 t/ha/month in August; 2016–2019 plantings show high potential to December. Bunch weights July 2025 to July 2026: 2000 21.1 to 22.5 kg; 2006 22.4 to 22.4; 2009 21.5 to 21.4; 2010 20.8 to 21.3; 2011 20.6 to 21.0; 2012 21.2 to 19.1; 2016 13.6 to 13.9; 2017 9.9 to 11.5; 2018 5.9 to 6.9; 2019 4.7 to 6.9 kg. Full years: 2025 28,187.68 t (18.21 t/ha); 2024 29,248.13 t (18.89 t/ha). Agro monthly FFB 2026: Jan 1,551.33; Feb 1,275.21; Mar 1,446.46; Apr 1,577.19; May 1,525.03 t (Jan–May 7,375.22 t, 4.76 t/ha vs 7.87). Agro block yields 2025 (2024): P00A 18.17 (17.44); P06B 20.13 (19.85); P09C 16.00 (19.42); P10D 26.00 (25.29); P11E 15.35 (15.13); P12F 15.67 (19.23); P16G 23.51 (24.32); P17H 19.72 (20.30); P18I 16.66 (15.34); P19J 21.62 (20.71).\n\nPRODUCTION COST (PA 2/2026, Jan–Jul 2026): RM298.92/t FFB vs RM253.05 budget (annual budget 252.61): general charges 112.38 vs 80.01; upkeep 111.79 vs 99.17; harvesting 74.75 vs 73.87. RM1,605.71/t CPO vs RM1,332.96. PA: acceptable under the circumstances; should fall as the high crop comes in. Note the general charges RM table implies 118.20 RM/t.\n\nOTHER (PA 2/2026): roads graded 1,448.80 of 3,837 chains (RM17,483.98 vs RM72,903 budget); contractor stopped as rates too low (RM12.50/chain without compaction vs RM10 before; PA considers fair); roads bumpy with ruts on hills; 645 t crusher run budgeted at RM53/t, none bought. Drains: 96.60 chains desilted in July at RM46/chain (636.66 chains budgeted). Pruning 2,109.37 of 2,231.60 ha budgeted; under-pruned spots and over-pruned tall palms with hanging bunches; 97.0 ha corrective pruning by mid-October at RM4.50/palm; pruning cost RM0.48 to RM0.93/palm/year by planting year. Vehicles: HiLux JRT 1819 moved to Tanjung Tualang; HiLux TDF 1981 bought (unbudgeted); tractors underused due to late manuring. Capex RM24,099 vs RM164,999 budget.\n\nPALM CENSUS (Agro Table 2, GPS census): P00A 31,864 (in progress); P06B 27,458 SPH 134; P09C 37,283 SPH 134; P10D 2,944 SPH 134; P11E 26,746 SPH 123; P12F 17,337 SPH 126; P16G 17,476 SPH 129; P17H 13,485 SPH 145; P18I 13,757 SPH 120; P19J 13,426 SPH 132. SPH lower than expected especially P18; supplying advised. PA pruning table uses higher counts (P06B 27,468; P09C 37,353; P16G 17,637; P17H 13,860; P18I 15,048; P19J 14,280).\n\nRAINFALL (Agro): 2021 2,901.0 mm/132 days; 2022 2,950.5/160; 2023 2,740.95/177; 2024 2,436.75/189; 2025 2,477.1/148.\n\n2026 FERTILISER PROGRAMME (Agro Appendix 1, revised, kg/palm): P00A and P00B NK2 2.50 in Feb (to be withdrawn if replanting in 2026/2027). P06B Mix A 8.00 subsurface in Jan and P06A in Feb (4 holes at 2 kg/hole). P09A and P09B Mix A 2.25 (Jan), Mix B 2.00 (Apr), Mix A 2.25 (Aug). P10C, P11A, P11C Mix B 2.25 in Jan, Apr and Aug. P12B, P12D, P12E Mix B 2.25 plus kieserite 0.75 in Jan, Mix B 2.25 in Apr and Aug. P16, P17, P18 Mix B 2.25 (Feb), kieserite 0.75 (Mar), Mix B 2.25 (May), Mix B 1.50 (Aug), RP 1.50 (Sep), Mix B 1.50 (Nov). P19 the same but kieserite 0.50 and May Mix B 2.00. Mixture A is 45% AS, 40% MOP, 15% kieserite; Mixture B is 45% AS, 40% MOP, 14% kieserite, 1% borate; NK2 is 60% SOA, 40% MOP; compound 14:13:9:2.5. The 2027 programme will be drawn up in the second half of 2026.\n\nAGRO PRUNING AND PALM CONDITION: 95.8 ha of pruning pending in P00A, P09C and P12F as of May 2026. Ravine palms are left unattended because of palm height. An extra contractor with 6 workers was engaged, and the backlog should clear in two months. Progressive pruning is consistent in P06B and P10D. There is slight under-pruning in P11A, P16 and P17. Frond stacking in terraced areas is still poor. Selective thinning in P06, P09, P12 and P16 is still pending. Leaf sampling in June 2025 showed major nutrients down on the previous sampling; leaves will be re-sampled in 2026. Chlorotic fronds were seen in the ravines of P12 and P00. For young mature P18 and P19, the reported pruning is over 95% complete. P18 weeding: 2 inter-row and 1 circle round to May 2026. P19: 2 circle and 1 inter-row round. P19 Clidemia and wild brinjal have improved.\n\nDATA CAVEATS: PA 2/2026 general charges RM/t (112.38) does not reconcile to its RM table (118.20 implied). The drain table's to-date chains look like RM values. Fogging text says 2 rounds, table 1. Ex-excavation area figures (103 ha, remaining 53 ha, 80 ha replanting) are not consistent. Palm census and harvester productivity differ between the PA and Agro reports.",
  "blockPeriod": "Jan–May 2026",
  "blockSrc": "Agro",
- "ytdCurrent": {
-  "year": 2026,
-  "period": "Jan–May 2026",
-  "yph": 4.76,
-  "prevSame": 7.87,
-  "src": "Agronomy Report 1/2026"
- },
  "folder": "https://drive.google.com/drive/folders/1MQTI8Ew-vQrXvzwjUxbjLfD4-Q5LFtSr",
  "costDetail": {
-  "period": "Jan–Dec 2025",
-  "src": "PA Report 1/2026, sections 5, 6, 7 and 9 (Production Cost)",
-  "ffb": 28187.68,
+  "period": "Jan–Jul 2026",
+  "src": "PA Report 2/2026, sections 5, 6, 7 and 9 (Cost of Production as at July 2026)",
+  "ffb": 12621.25,
   "groups": [
    {
     "name": "Harvest & collection",
-    "actual": 77.18,
-    "budget": 76.37,
+    "actual": 74.75,
+    "budget": 73.87,
     "items": [
      {
       "item": "Harvesting",
-      "actual": 49.56,
-      "budget": 49.62
+      "actual": 52.43,
+      "budget": 52.54
      },
      {
       "item": "Internal transport",
-      "actual": 19.55,
-      "budget": 19.33
-     },
-     {
-      "item": "External transport",
-      "actual": 0,
-      "budget": 0
+      "actual": 20.44,
+      "budget": 19.14
      },
      {
       "item": "Harvesting incentive",
-      "actual": 6.11,
-      "budget": 7.41
+      "actual": 0.01,
+      "budget": 1.09
      },
      {
       "item": "Top-up wages",
-      "actual": 1.96,
-      "budget": 0
+      "actual": 1.86,
+      "budget": 1.1
      }
     ]
    },
    {
     "name": "Upkeep & cultivation",
-    "actual": 122.95,
-    "budget": 109.58,
+    "actual": 111.79,
+    "budget": 99.17,
     "items": [
      {
       "item": "Weeding",
-      "actual": 11.77,
-      "budget": 10.95,
+      "actual": 13.64,
+      "budget": 11.21,
       "calc": true
      },
      {
       "item": "Manuring",
-      "actual": 90.67,
-      "budget": 79.44,
+      "actual": 79.82,
+      "budget": 73.19,
       "calc": true
      },
      {
       "item": "Pest & diseases",
-      "actual": 8.39,
-      "budget": 3.67,
+      "actual": 3.24,
+      "budget": 2.8,
       "calc": true
      },
      {
       "item": "Census & thinning out",
-      "actual": 0.46,
-      "budget": 0.25,
+      "actual": 0.33,
+      "budget": 0.04,
       "calc": true
      },
      {
       "item": "Drains",
-      "actual": 0.06,
-      "budget": 1.28,
-      "calc": true
-     },
-     {
-      "item": "Roads & bridges",
-      "actual": 5.35,
-      "budget": 6.86,
-      "calc": true
-     },
-     {
-      "item": "Boundaries / survey / fences",
-      "actual": 0.01,
-      "budget": 0.17,
-      "calc": true
-     },
-     {
-      "item": "Soil / water conservation",
-      "actual": 0.05,
+      "actual": 0.51,
       "budget": 1.16,
       "calc": true
      },
      {
+      "item": "Roads & bridges",
+      "actual": 4.98,
+      "budget": 6.2,
+      "calc": true
+     },
+     {
+      "item": "Boundaries / survey / fences",
+      "actual": 0.02,
+      "budget": 0.09,
+      "calc": true
+     },
+     {
+      "item": "Soil / water conservation",
+      "actual": 1.12,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
+      "item": "Tools",
+      "actual": 0.0,
+      "budget": 0.0,
+      "calc": true
+     },
+     {
       "item": "Pruning",
-      "actual": 6.18,
-      "budget": 5.82,
+      "actual": 8.12,
+      "budget": 4.47,
       "calc": true
      }
     ]
    },
    {
     "name": "General charges",
-    "actual": 79.39,
-    "budget": 77.66,
+    "actual": 112.38,
+    "budget": 80.01,
     "items": [
      {
       "item": "Management & supervision",
-      "actual": 28.1,
-      "budget": 26.57,
+      "actual": 43.11,
+      "budget": 28.99,
       "calc": true
      },
      {
       "item": "Labour & amenities",
-      "actual": 16.22,
-      "budget": 23.04,
+      "actual": 26.17,
+      "budget": 21.94,
       "calc": true
      },
      {
       "item": "Other expenditure",
-      "actual": 38.72,
-      "budget": 31.75,
+      "actual": 48.92,
+      "budget": 32.76,
       "calc": true
      },
      {
       "item": "Cost of MSPO",
-      "actual": 0.45,
-      "budget": 0.32,
+      "actual": 0.01,
+      "budget": 0.46,
       "calc": true
      }
     ]
    }
   ],
   "total": {
-   "actual": 279.52,
-   "budget": 263.61
+   "actual": 298.92,
+   "budget": 253.05
   },
   "notes": [
-   "Harvest items are RM/t as printed (s.7); upkeep and general-charges items computed as RM amount / 28,187.68 t actual and 31,235 t budget (calc).",
-   "MISMATCH general charges: printed group RM/t 79.39 actual / 77.66 budget, but sub-items (RM 2,353,528.70 / 28,187.68 t) sum to 83.49 / 81.68 (about 5% higher). Group totals kept as printed in s.9 (match dashboard costParts); the report's implied tonnage (about 29,645 t) is unexplained. General-charges items therefore do not add to the group total.",
-   "Upkeep items sum to 122.94 / 109.60 vs printed 122.95 / 109.58 (rounding).",
-   "Harvest budget items sum to 76.36 vs 76.37 printed in s.9 (s.7 itself prints 76.36). External transport nil; top-up wages unbudgeted."
+   "Harvest items are RM/t as printed (s.7). Upkeep and general-charges items computed as RM to date ÷ 12,621.25 t actual and 18,405 t budget (calc).",
+   "Upkeep printed RM/t 111.79 reconciles to RM1,410,930 ÷ 12,621.25 t. Printed budget 99.17 = RM1,825,152 ÷ 18,405 t.",
+   "MISMATCH general charges: printed 112.38 actual / 80.01 budget, but the s.5 table (RM1,491,827.90 actual, RM1,548,834 budget) gives 118.20 / 84.15 RM/t. Group totals kept as printed in s.9; the items therefore do not add to the group total."
   ]
  },
  "ffbProd": {
@@ -3733,14 +3856,19 @@
   "ytd": {
    "year": 2026,
    "from": 1,
-   "to": 5,
-   "t": 7375.22,
-   "src": "Agronomy Report 1/2026 Table 6 total (Jan-May 2026)"
+   "to": 7,
+   "t": 12621.25,
+   "src": "PA Report 2/2026 Section 8 Crop Production (actual to date, Jan–Jul 2026)"
   },
-  "notes": "No PA Report 2/2026 exists in the folder yet (latest PA is 1/2026, visit 8 Apr 2026), so 2026 data comes only from Agronomy 1/2026 (Jan-May). No Jun 2026 figure. Area basis is mature 1,548.20 ha throughout (PN25K 80 ha ex-excavation block is unplanted). 2022 caveat: printed 2022 total 20,868.10 t (sum of the printed monthly figures) does not reconcile with the 14.36 t/ha 2022 yield printed in Agro 1/2024 Table 12 (20,868.10 / 1,548.20 = 13.48 t/ha; 14.36 t/ha corresponds to roughly 22.2k t, and Table 13 bunch count x ABW is of similar order). Used the printed tonnage total; treat 2022 with caution. 2021 and earlier tonnages are not printed in the folder reports. Nov 2024 todate 26,831.31 (PA 1/2025 visit 2-2024) + Dec 2,416.82 = 29,248.13, consistent. PA 1/2026 para 8.2 says 2025 yield was 7% above 2024, but figures show 28,187.68 vs 29,248.13 (a 3.6% fall), as Agro states."
+  "notes": "PA Report 2/2026 (visit 15 Sep 2026) prints Jan–Jul 2026 cumulative FFB 12,621.25 t (budget 18,405 t; last year same period 17,163.64 t, which equals the sum of Agro 1/2026 Jan–Jul 2025 monthly figures). Monthly 2026 tonnes printed only for Jan–May (Agro 1/2026); Jun and Jul not printed separately. Area basis mature 1,548.20 ha. 2022 caveat from earlier notes still applies."
  },
  "blockEstateWide": {
   "manuring": [
+   {
+    "k": "Status Jan–Jul 2026",
+    "v": "2,948.60 ha applied = 85% of 3,461.60 ha budgeted; programme not achieved due to late delivery of Kieserite and Mixture B; no sub-surface application",
+    "src": "PA 2/2026"
+   },
    {
     "k": "Status 2025 (Dec 2025)",
     "v": "All programmes completed except CIRP: Mixture A 369.25 MT (100%), Mixture B 1,119.00 MT applied vs 1,114.40 MT required (100%), NK1 191.25 MT (100%), kieserite 78.25 MT (100%), CIRP (rock phosphate) 290.35 MT of 295.80 MT (98%), CRF 0 of 6.55 MT; 5.45 MT RP and 6.56 MT CRF unapplied because PN25K planting deferred; most programmes finished 1 to 4 months behind schedule (delays up to 5 months noted)",
@@ -3752,85 +3880,90 @@
     "src": "Agro 1/2026"
    },
    {
-    "k": "Method and labour 2025",
-    "v": "Broadcasting; 22 bags/man-day, RM17/ha, RM68/man-day (semi-mechanical mini-dumper method abandoned for repair cost); wheelbarrows advised (sister estates 25-30 bags/day); manuring workers 13 vs 19 required (-6); 6,192.8 ha 100% of budget applied",
-    "src": "PA 1/2026"
-   },
-   {
     "k": "Programme revision",
     "v": "2026 programme revised for second half in response to fertiliser price increase and limited stock; 2027 programme to be drawn up in 2H 2026; subsurface 2026 cancelled per PA",
     "src": "Agro 1/2026"
    },
    {
-    "k": "Costs 2025",
-    "v": "Manuring RM2,555,829 vs RM2,481,234 budget (RM1,650.84/ha vs RM1,602.66/ha)",
-    "src": "PA 1/2026"
-   },
-   {
     "k": "Bio-organic stock",
     "v": "8.13 MT RealStrong (since 2021): supply palm 700 g in hole + 3 kg/palm/year after one year; durian 3 kg/tree/year",
     "src": "Agro 2/2025"
+   },
+   {
+    "k": "Method and labour 2026",
+    "v": "Broadcasting, 25 bags/man-day, RM18/ha, RM73.53/man-day; wheelbarrows advised (30 bags/man-day; 40 with semi-mechanised); manuring workers 13 vs 19 required (Jul), short 1 at Sep",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Cost Jan–Jul 2026",
+    "v": "Manuring RM1,007,445 vs RM1,347,122 budget to date (RM650.72/ha vs RM870.12/ha)",
+    "src": "PA 2/2026"
    }
   ],
   "spraying": [
    {
-    "k": "Circle spraying 2025",
-    "v": "4,484.71 ha (2.9 rounds) = 93% of 4,826.60 ha (3 rounds); CDA output 7 ha/man-day; RM13/ha, RM91/man-day; glyphosate 0.49 L/ha = 0.8 pump/ha; 6 pumps/man-day (target 7); circle raking recommended for older plantings",
-    "src": "PA 1/2026"
+    "k": "Circle spraying Jan–Jul 2026",
+    "v": "2,408 ha (1.6 rounds) = 91% of 2,643 ha (1.7 rounds); circles clean; CDA 6.8 ha/man-day, RM13/ha, RM88.40/man-day; glyphosate 0.60 L/ha (1 pump/ha); 6 pumps/man-day (target 7); circle raking needed at P10/D",
+    "src": "PA 2/2026"
    },
    {
-    "k": "Selective spraying 2025",
-    "v": "4,644.60 ha (2.9 rounds) = 96% of 4,826.60 ha; mist blower 6.5 ha/man-day; RM15/ha, RM97.50/man-day; Garlon 0.49 L/ha = 0.9 pump/ha; 7 pumps/man-day; VOPs prevalent; use sodium chlorate/Krush for VOPs (GMD)",
-    "src": "PA 1/2026"
+    "k": "Selective spraying Jan–Jul 2026",
+    "v": "2,307 ha (1.5 rounds) = 87% of 2,653 ha (1.7 rounds); sprayers diverted to harvesting for 2 months; mist blower 6.7 ha/man-day, RM15/ha, RM100.50/man-day; Garlon 0.85 L/ha (1 pump/ha); 7 pumps/man-day; overgrown VOPs still prevalent, poisoning at P18 in progress",
+    "src": "PA 2/2026"
    },
    {
-    "k": "Spraying labour",
-    "v": "All 7 spraying workers diverted to harvesting (temporary) in April 2026",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Weeding cost 2025",
-    "v": "RM331,738 vs RM341,905 budget (RM214.27/ha vs RM220.84/ha)",
-    "src": "PA 1/2026"
+    "k": "Weeding cost Jan–Jul 2026",
+    "v": "RM172,091 vs RM206,311 budget to date (RM111.16/ha vs RM133.26/ha)",
+    "src": "PA 2/2026"
    }
   ],
   "pests": [
+   {
+    "k": "Rat Jan–Sep 2026",
+    "v": "One baiting round at P11/E, P16/G, P18/I (census 16% before, 7% after); two rounds at P17/H and P19/J (23% before, 7% after); latest census averaged 5%; census every 3 months, bait above 10%",
+    "src": "PA 2/2026"
+   },
    {
     "k": "Estate rat plan",
     "v": "One baiting round on tall palms and two on young palms per year; quarterly census; bait if over 10% (second-generation baits); regular census not done in all fields",
     "src": "Agro 1/2026"
    },
    {
-    "k": "Bagworm summary 2025",
-    "v": "Trunk injection (methamidophos) one round over 1,010.33 ha; fogging 4 rounds over 1,933 ha; attacks reduced; fogging limited to 3 h mornings (wind) so trunk injection preferred; Agro: use Bt when populations low, lambda-cyhalothrin only for severe",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Ganoderma",
-    "v": "Many infected palms (fallen palms; upper stem rot; fruiting bodies); census not done; deboling pit 1.5 m x 1.5 m x 1.5 m; annual census and GPS demarcation advised",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Cattle",
-    "v": "Herds still loitering; court case to convene September (2026)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Pest cost 2025",
-    "v": "Pest and disease RM236,552 vs RM114,597 budget (RM152.79/ha vs RM74.02/ha)",
-    "src": "PA 1/2026"
-   },
-   {
     "k": "Epiphytes",
     "v": "Large trunk epiphytes obstruct harvesting; control by poisoning",
     "src": "Agro 2/2025"
+   },
+   {
+    "k": "Bagworm 2026",
+    "v": "307.0 ha affected; fogging at P17, P18, P19 (text says 2 rounds; table shows 1 round each) reduced infestation; trunk injection at P11; fresh attack at P16/G, census in progress",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Ganoderma Sep 2026",
+    "v": "Sporadic infected palms; no census done; deboling done but not enough and not at other fallen palms; census and deboling of all fallen palms recommended",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Cattle",
+    "v": "Court proceedings on cattle intrusion 21–23 Sep 2026",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Pest cost Jan–Jul 2026",
+    "v": "RM40,917 vs RM51,569 budget to date (RM26.43/ha vs RM33.31/ha)",
+    "src": "PA 2/2026"
    }
   ],
   "yield": [
    {
-    "k": "Estate yield 2025",
-    "v": "FFB 28,187.68 MT = 18.21 t/ha vs budget 31,235.00 MT = 20.18 t/ha (-10%) and vs 2024 29,248.13 MT = 18.89 t/ha; PA text says \"7% above\" 2024 but its table shows -3.6% (Agro -3.6%/-4%); CPO 5,272.77 MT, OER 18.71%; kernel 1,409.39 MT",
-    "src": "PA 1/2026"
+    "k": "Estate yield Jan–Jul 2026",
+    "v": "FFB 12,621.25 MT = 8.15 t/ha vs budget 18,405 MT = 11.89 t/ha (-31%) and vs Jan–Jul 2025 17,163.64 MT = 11.09 t/ha (-27%); CPO 2,349.61 MT, OER 18.62% (budget 18.98%); kernel 631.06 MT, 5.00%; shortfall from low cropping in 1H and harvester shortage",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Crop outlook",
+    "v": "Yield rising: 2016–2019 plantings show high potential to Dec; many blocks reached 2.5 t/ha/month in Aug 2026; bunch weights mostly up Jul 2025 to Jul 2026 (2012 planting down 21.2 to 19.1 kg)",
+    "src": "PA 2/2026"
    },
    {
     "k": "Estate yield Jan-May 2026",
@@ -3845,31 +3978,31 @@
   ],
   "harvesting": [
    {
-    "k": "Estate harvesting 2025",
-    "v": "21.4 of 24 budgeted rounds; interval averaged 13 days at Dec 2025 (low crop); harvesters 72 vs 76 required at Dec 2025 (-4); 63 (13 short) at Apr 2026; 61 harvesters, 17 short at Jun 2026; contractor to recruit 10 by May; harvester outturn 94%; harvesters work 5.5 h/day (target 9 h); cost RM2,175,445 = RM77.18/tonne vs RM76.36 budget",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Evacuation",
-    "v": "Badang: 2 of 3 units not working (battery RM3,000/unit unaffordable by contractor); wheelbarrows needed; fronds not stacked and uncollected loose fruit seen at many blocks (PA)",
-    "src": "PA 1/2026"
+    "k": "Estate harvesting Jan–Jul 2026",
+    "v": "11.8 of 14 budgeted rounds; interval averaged 17 days; outturn 97%; harvesters 68 vs 76 required at Jul (ratio 1:23 ha), 78 at Sep (1:19 ha, adequate); productivity rose from 1.6 to 2 t/man-day; cost RM943,418 = RM74.75/t vs RM73.87/t budget",
+    "src": "PA 2/2026"
    },
    {
     "k": "Productivity Jun 2026",
     "v": "Harvester productivity 0.85-1.22 t/man-day (estate range for May 2026 per Agro text)",
     "src": "Agro 1/2026"
+   },
+   {
+    "k": "Evacuation and contractors",
+    "v": "3 mini dumpers (2 cutters + 1 collector) and 2 Badang (3 cutters + 1 collector); wheelbarrows where machines cannot reach; 5 harvesting contractors, 2 with only 4–5 harvesters; advised to phase out the 2 small ones and keep 3; manual loading Div A 18 t/day, Div B 16 t/day at RM7.50/t",
+    "src": "PA 2/2026"
    }
   ],
   "other": [
    {
+    "k": "Ex-excavation area",
+    "v": "New hectarage declared as 103 ha; of the remaining 53.0 ha, 2.9 ha to bananas and 50.1 ha to oil palm; land preparation from November 2026; 80 ha shown as 'replanting (in progress)' in the area statement; no replanting planned for 2027",
+    "src": "PA 2/2026"
+   },
+   {
     "k": "PN25K (80 ha ex-excavation) vacant",
     "v": "No planting done; 30 ha land cleared, 30 ha put on hold due to high diesel price (PA Apr 2026); Agro Jun 2026 says planting suspended; EFB in two rings and Mucuna bracteata at 300 points/ha recommended; CRF 600 g + RP 500 g in planting hole; 2026 PR25 programme as printed: compound 800 g and RP 1,500 g (Appendix 1c)",
     "src": "Agro 1/2026"
-   },
-   {
-    "k": "Roads and drains 2025",
-    "v": "4,620.35 of 6,513 chains graded (RM12.50/chain budget and actual); 348 MT crusher run vs 670 MT budget at RM43/MT; no desilting of drains done (837.46 chains budgeted); RM1,733 spent clearing clogged drains with backhoe",
-    "src": "PA 1/2026"
    },
    {
     "k": "Leaf analysis",
@@ -3877,12 +4010,27 @@
     "src": "Agro 1/2026"
    },
    {
+    "k": "Roads and drains Jan–Jul 2026",
+    "v": "1,448.80 of 3,837 chains graded (RM17,483.98 vs RM72,903 budget); contractor stopped (rates RM12.50/chain without compaction vs RM10 before, PA considers fair); roads bumpy with ruts on hills; 645 MT crusher run budgeted at RM53/MT, none bought; drains 96.60 chains desilted in July (636.66 chains budgeted, RM46/chain)",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Pruning Jan–Jul 2026",
+    "v": "2,109.37 of 2,231.60 ha budgeted progressively pruned and paid; under-pruned spots and some over-pruned tall palms with hanging bunches; 97.0 ha corrective pruning due by mid-Oct at RM4.50/palm; pruning cost RM102,528 vs RM82,362 budget",
+    "src": "PA 2/2026"
+   },
+   {
     "k": "Area and labour",
-    "v": "Mature 1,548.20 ha; immature 80.00 ha (vacant PN25K); total planted 1,628.20 ha; workers 115 vs 125 required (-10)",
-    "src": "PA 1/2026"
+    "v": "Mature 1,548.20 ha; replanting in progress 80.00 ha; total planted 1,628.20 ha; workers 111 vs 125 required (-14) at Jul 2026; ratio 1:14 ha; 1 cadet assistant transferred to PSK (Apr)",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Soil and water conservation",
+    "v": "Overspent (RM14,193, unbudgeted) as the estate now pays EFB transport from the mill; include in 2027 budget",
+    "src": "PA 2/2026"
    }
   ]
  },
- "blockGaps": "Not found: leaf nutrient numbers (both Agro appendices carry the foliar analysis as an image); soil analysis; bagworm and rat census month placement and before/after labelling are not resolved in the extracted tables; bagworm threshold not printed; no Ganoderma census counts or percentages (census not done) and no block-level Ganoderma data in PA; Table 8 actual harvesting intervals at 17 Jun 2026 is a chart (not extracted); harvesting intervals for P18I/P19J not tabled; over-ripe and loose-fruit percentages only for P06B and P12F (>5% Jun 2026; >20% Dec 2025) and P00A (>20% Dec 2025); pruning charts not extracted. Report inconsistencies: PA says yield 7% above 2024 but table 18.21 vs 18.89 t/ha is -3.6%; PA rat table and Agro rat tables do not align by period; P17H 87.45 ha vs 93 ha; Agro blocking table sums to 1,542.65 ha with P09C 248 ha and P12F 167.3 ha vs 278 ha and 137.30 ha elsewhere (PA actuals show a separate 30 ha under P09C on a Mix B/KIE/RP 1,750 g sequence); P09C pruning 94% printed vs 233/278 = 84%; P18I 2025 Mix B 2nd round printed 2,250 g but MT matches 2,000 g; subsurface 2026 cancelled (PA) yet still in the revised programme for P06; Agro text says kieserite not applied in P09C although the appendix has no kieserite for P09; programme months for 2025/2026 (fertNow/fertPrev) are read from the table layout. Programme 2025 from Agro 1/2025 Appendix 1; the visit dates for Agro 1/2025, 2/2025 and 1/2026 are Jul 9 2025, Dec 10 2025 and Jun 17 2026; PA visit 8 Apr 2026 (review Jan-Dec 2025).",
+ "blockGaps": "Not found: leaf nutrient numbers (both Agro appendices carry the foliar analysis as an image); soil analysis; bagworm and rat census month placement and before/after labelling are not resolved in the extracted tables; bagworm threshold not printed; no Ganoderma census counts or percentages (census not done) and no block-level Ganoderma data in PA; Table 8 actual harvesting intervals at 17 Jun 2026 is a chart (not extracted); harvesting intervals for P18I/P19J not tabled; over-ripe and loose-fruit percentages only for P06B and P12F (>5% Jun 2026; >20% Dec 2025) and P00A (>20% Dec 2025); pruning charts not extracted. Report inconsistencies: PA says yield 7% above 2024 but table 18.21 vs 18.89 t/ha is -3.6%; PA rat table and Agro rat tables do not align by period; P17H 87.45 ha vs 93 ha; Agro blocking table sums to 1,542.65 ha with P09C 248 ha and P12F 167.3 ha vs 278 ha and 137.30 ha elsewhere (PA actuals show a separate 30 ha under P09C on a Mix B/KIE/RP 1,750 g sequence); P09C pruning 94% printed vs 233/278 = 84%; P18I 2025 Mix B 2nd round printed 2,250 g but MT matches 2,000 g; subsurface 2026 cancelled (PA) yet still in the revised programme for P06; Agro text says kieserite not applied in P09C although the appendix has no kieserite for P09; programme months for 2025/2026 (fertNow/fertPrev) are read from the table layout. Programme 2025 from Agro 1/2025 Appendix 1; the visit dates for Agro 1/2025, 2/2025 and 1/2026 are Jul 9 2025, Dec 10 2025 and Jun 17 2026;  PA 2/2026 (visit 15 Sep 2026, Jan–Jul 2026) replaced PA 1/2026 rows; it has no block yields, so block t/ha remain Agro 1/2026 Jan–May 2026. PA 2/2026 manuring table lists Jul–Sep 2026 applications without dates; per-block manuring progress bars remain from Agro 1/2026 (to May). Bagworm census unit not stated.",
  "blockMap": "Dashboard ids = PA field ids without the PM prefix. Agro report sub-blocks map as: P00A = P00A1+P00A2 (programme P00A/P00B); P06B = P06B1+P06B2 (programme P06A 84 ha, P06B 120 ha); P09C = P09C1+P09C2 (programme P09A/P09B); P10D = programme P10C; P11E = P11E1+P11E2 (programme P11A/P11C); P12F = P12F1+P12F2 (programme P12B/P12D/P12E); P16G, P17H, P18I (P18I1/I2), P19J (P19J1/J2) = programme P16-P19. The 80 ha vacant PN25K area is not a dashboard block and is in estateWide.other. Extra keys estateWide.yield/harvesting/other hold estate-level items."
 }
