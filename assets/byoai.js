@@ -12,3 +12,44 @@
  const send=document.getElementById("send");if(send)send.textContent="Ask in Claude ↗";
  const note=document.createElement("p");note.className="byoL";note.textContent="Opens in your own Claude account.";form.insertAdjacentElement("afterend",note);
 })();
+
+/* Floating "Ask AI" balloon: the Ask card becomes a compact pop-up panel opened from a button that follows the scroll. */
+(function(){
+ const box=document.getElementById("askBox");if(!box||document.getElementById("askFab"))return;
+ const css=`
+ .askWrap.floated{display:none}
+ #askFab{position:fixed;right:14px;bottom:calc(84px + env(safe-area-inset-bottom));z-index:60;display:flex;align-items:center;gap:7px;
+  padding:12px 16px;border:0;border-radius:28px;background:var(--accent);color:#fff;font:600 16px var(--f-body,system-ui);
+  box-shadow:0 4px 14px rgba(0,0,0,.22);cursor:pointer}
+ #askFab svg{width:20px;height:20px;flex:none}
+ #askFab[hidden]{display:none}
+ #askPanel{position:fixed;z-index:61;right:12px;left:12px;bottom:calc(12px + env(safe-area-inset-bottom));max-height:min(78vh,560px);overflow:auto;
+  background:var(--panel,#fff);border:1px solid var(--line,#ddd);border-radius:14px;box-shadow:0 10px 32px rgba(0,0,0,.28);padding:14px 14px 10px}
+ @media (min-width:640px){#askPanel{left:auto;width:400px}}
+ #askPanel[hidden]{display:none}
+ #askPanel .card{border:0;box-shadow:none;padding:0;margin:0;background:transparent}
+ #askPanel h2{font-size:19px;margin:0 30px 4px 0}
+ #askPanel .sub{font-size:14px;margin:0 0 8px}
+ #askPanel .chips{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;margin-bottom:8px;scrollbar-width:none}
+ #askPanel .chips button{white-space:nowrap;max-width:none;flex:none;font-size:14.5px}
+ #askPanel .byoL{font-size:13.5px;margin:6px 0 0}
+ #askX{position:absolute;top:8px;right:8px;width:34px;height:34px;border:0;border-radius:17px;background:var(--bg,#eee);color:var(--fg,#222);font-size:20px;line-height:1;cursor:pointer}`;
+ const st=document.createElement("style");st.textContent=css;document.head.append(st);
+ const est=/estate/i.test((box.querySelector("h2")||{}).textContent||"")||!!document.getElementById("t-blocks");
+ const fab=document.createElement("button");fab.id="askFab";fab.type="button";fab.setAttribute("aria-label","Ask AI about this "+(est?"estate":"group"));
+ fab.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/></svg>Ask AI';
+ const pan=document.createElement("div");pan.id="askPanel";pan.hidden=true;pan.setAttribute("role","dialog");pan.setAttribute("aria-label","Ask AI");
+ const x=document.createElement("button");x.id="askX";x.type="button";x.setAttribute("aria-label","Close");x.textContent="×";
+ const wrap=box.closest(".askWrap");pan.append(x,box);document.body.append(pan,fab);if(wrap)wrap.classList.add("floated");
+ const q=document.getElementById("q");
+ const open=focus=>{pan.hidden=false;fab.hidden=true;if(focus&&q&&matchMedia("(min-width:640px)").matches)q.focus()};
+ const close=()=>{pan.hidden=true;fab.hidden=false};
+ window.PARAS_OPEN_ASK=open;
+ fab.addEventListener("click",()=>open(true));x.addEventListener("click",close);
+ document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!pan.hidden)close()});
+ document.addEventListener("click",e=>{if(e.target.closest&&e.target.closest("#chips button")){setTimeout(close,300);return}
+  if(e.target.closest&&e.target.closest(".askblock"))open(false);
+  else if(!pan.hidden&&!pan.contains(e.target)&&e.target!==fab&&!fab.contains(e.target))close()},true);
+ // after sending, tuck the panel away
+ const ask0=window.PARAS_ASK;if(ask0)window.PARAS_ASK=t=>{ask0(t);setTimeout(close,300)};
+})();
