@@ -124,6 +124,7 @@ function actions(){
 }
 fetch("/data/index.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{E=j.estates;
  try{const p=localStorage.getItem(PRICE_KEY);if(p)$("fp").value=p}catch(e){}
+ {const C=$("chips");if(C)["Which estates need attention most, and why?","What KPIs should I set for each estate manager?","Rank the estates by cost per tonne and explain the gaps","Which estates need replanting plans soonest?","Which actions keep being raised and not done?"].forEach(q=>{const b=document.createElement("button");b.type="button";b.textContent=q;b.addEventListener("click",()=>{if(window.PARAS_ASK)window.PARAS_ASK(q)});C.append(b)})}
  totals();production();agePie();attention();league();actions();
  $("srt").addEventListener("input",league);
  $("fp").addEventListener("input",()=>{try{localStorage.setItem(PRICE_KEY,$("fp").value)}catch(e){}league()});

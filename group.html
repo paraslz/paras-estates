@@ -36,7 +36,7 @@
 .ffbT tr.tot td{font-weight:700;border-top:2px solid var(--line)}.ffbT .x{color:var(--muted)}
 </style>
 </head>
-<body>
+<body data-slug="group">
 <header class="band">
  <div class="in">
   <div class="topnav"><a class="back" href="/">‹ All estates</a></div>
@@ -45,6 +45,14 @@
   <div class="meta">Every estate's latest PARAS figures side by side. Each figure covers the period its own report states.</div>
  </div>
 </header>
+<div class="askWrap"><div class="in">
+ <div class="card askTop" id="askBox">
+  <h2>Ask about the group</h2>
+  <p class="sub">Tap a question or type your own. It opens in Claude with every estate's latest figures.</p>
+  <div class="chips" id="chips"></div>
+  <form id="askForm" class="askrow"><label for="q" class="sr">Your question</label><input id="q" type="text" autocomplete="off" placeholder="Type a question about the group"><button id="send" type="submit">Ask</button></form>
+ </div>
+</div></div>
 <main><div class="in">
 
 <div class="card"><h2>Group at a glance</h2><p class="sub" id="gS"></p><div class="tot4" id="tot"></div></div>
@@ -88,5 +96,6 @@
 <script src="/assets/vendor/chart.umd.min.js"></script>
 <script src="/assets/blockdetail.js"></script>
 <script src="/assets/group.js"></script>
+<script src="/assets/byoai.js"></script>
 </body>
 </html>

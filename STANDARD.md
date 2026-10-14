@@ -133,3 +133,5 @@ UMB (paraslz/paraslz-umb-paras) and Far East (paraslz/parasIz-fareast-paras) run
   estate or URL in shared files; make it a site.js setting or a data field instead.
 - A new feature that needs new data fields shows nothing on a site until that site's data has the field: hide cards
   gracefully when data is missing, and add the extraction step to tools/ so each site's chat or weekly task can fill it.
+
+- Group page has its own Ask box (above the content) that opens Claude with kb/group.txt, the group pack built by tools/build_kb.py: group totals, age profile, FFB by year, and per estate the latest KPIs with periods, takeaways, actions and a link to the full estate pack.
