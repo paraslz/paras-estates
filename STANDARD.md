@@ -136,3 +136,4 @@ UMB (paraslz/paraslz-umb-paras) and Far East (paraslz/parasIz-fareast-paras) run
 
 - Group page has its own Ask box (above the content) that opens Claude with kb/group.txt, the group pack built by tools/build_kb.py: group totals, age profile, FFB by year, and per estate the latest KPIs with periods, takeaways, actions and a link to the full estate pack.
 - Ask is a floating "Ask AI" balloon (bottom-right, follows the scroll) that opens a compact panel with question chips and a text box; built in assets/byoai.js from the #askBox card, so it works on estate, group and bespoke pages.
+- The front page (index.html) also has the Ask AI bubble, using the group pack (body data-slug="group").

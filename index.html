@@ -20,7 +20,7 @@
 .count{font-size:15.5px;color:var(--muted)}
 </style>
 </head>
-<body>
+<body data-slug="group">
 <header class="band">
  <div class="in hero">
   <div class="eyebrow">PARAS Sdn Bhd · <span data-site="group">Prosper</span></div>
@@ -37,9 +37,19 @@
  <p class="count" id="cnt" aria-live="polite"></p>
  <div class="grid" id="grid"></div>
 </div></main>
+<div class="askWrap"><div class="in">
+ <div class="card askTop" id="askBox">
+  <h2>Ask about the group</h2>
+  <p class="sub">Ask about any estate or the whole group. It opens in Claude with every estate's latest figures.</p>
+  <div class="chips" id="chips"><button type="button" data-q="Which estates need attention most, and why?">Which estates need attention most, and why?</button><button type="button" data-q="What KPIs should I set for each estate manager?">What KPIs should I set for each estate manager?</button><button type="button" data-q="Which estates have the highest cost per tonne?">Which estates have the highest cost per tonne?</button><button type="button" data-q="Which estates need replanting plans soonest?">Which estates need replanting plans soonest?</button></div>
+  <form id="askForm" class="askrow"><label for="askQ" class="sr">Your question</label><input id="askQ" type="text" autocomplete="off" placeholder="Type a question about the group"><button id="send" type="submit">Ask</button></form>
+ </div>
+</div></div>
+
 <footer class="foot"><div class="in">Figures are as written in PARAS reports. Each dashboard lists known discrepancies under Integrity.</div></footer>
 <script src="/assets/site.js"></script>
 <script src="/assets/brand.js"></script>
+<script src="/assets/byoai.js"></script>
 <script>
 (function(){
 const $=id=>document.getElementById(id);

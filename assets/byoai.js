@@ -5,7 +5,7 @@
  const url=`${window.__SITE__||location.origin}/kb/${slug}.txt`;
  const G=slug==="group";
  const DEF=G?"Give me a short summary of the group's latest position and the estates that need attention most.":"Give me a short summary of this estate's latest reports and the main issues to look out for.";
- const qEl=document.getElementById("q");
+ const qEl=form.querySelector("input");
  const prompt=t=>`Please read this PARAS ${G?"group":"estate"} report pack and answer using only what it says, citing the report for each figure: ${url}\n\nMy question: ${(t||"").trim()||DEF}`;
  window.PARAS_ASK=t=>{window.open("https://claude.ai/new?q="+encodeURIComponent(prompt(t)),"_blank","noopener")};
  form.addEventListener("submit",e=>{e.preventDefault();e.stopImmediatePropagation();window.PARAS_ASK(qEl.value)},true);
@@ -41,13 +41,13 @@
  const pan=document.createElement("div");pan.id="askPanel";pan.hidden=true;pan.setAttribute("role","dialog");pan.setAttribute("aria-label","Ask AI");
  const x=document.createElement("button");x.id="askX";x.type="button";x.setAttribute("aria-label","Close");x.textContent="×";
  const wrap=box.closest(".askWrap");pan.append(x,box);document.body.append(pan,fab);if(wrap)wrap.classList.add("floated");
- const q=document.getElementById("q");
+ const q=box.querySelector("form input");
  const open=focus=>{pan.hidden=false;fab.hidden=true;if(focus&&q&&matchMedia("(min-width:640px)").matches)q.focus()};
  const close=()=>{pan.hidden=true;fab.hidden=false};
  window.PARAS_OPEN_ASK=open;
  fab.addEventListener("click",()=>open(true));x.addEventListener("click",close);
  document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!pan.hidden)close()});
- document.addEventListener("click",e=>{if(e.target.closest&&e.target.closest("#chips button")){setTimeout(close,300);return}
+ document.addEventListener("click",e=>{const cb=e.target.closest&&e.target.closest("#chips button");if(cb){if(cb.dataset.q&&window.PARAS_ASK)window.PARAS_ASK(cb.dataset.q);setTimeout(close,300);return}
   if(e.target.closest&&e.target.closest(".askblock"))open(false);
   else if(!pan.hidden&&!pan.contains(e.target)&&e.target!==fab&&!fab.contains(e.target))close()},true);
  // after sending, tuck the panel away
