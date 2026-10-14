@@ -18,10 +18,10 @@
  const box=document.getElementById("askBox");if(!box||document.getElementById("askFab"))return;
  const css=`
  .askWrap.floated{display:none}
- #askFab{position:fixed;right:14px;bottom:calc(84px + env(safe-area-inset-bottom));z-index:60;display:flex;align-items:center;gap:7px;
-  padding:12px 16px;border:0;border-radius:28px;background:var(--accent);color:#fff;font:600 16px var(--f-body,system-ui);
-  box-shadow:0 4px 14px rgba(0,0,0,.22);cursor:pointer}
- #askFab svg{width:20px;height:20px;flex:none}
+ #askFab{position:fixed;right:12px;bottom:calc(14px + env(safe-area-inset-bottom));z-index:60;display:flex;align-items:center;gap:5px;
+  padding:8px 12px;border:0;border-radius:22px;background:var(--accent);color:#fff;font:600 14px var(--f-body,system-ui);
+  box-shadow:0 3px 10px rgba(0,0,0,.2);opacity:.95;cursor:pointer}
+ #askFab svg{width:16px;height:16px;flex:none}
  #askFab[hidden]{display:none}
  #askPanel{position:fixed;z-index:61;right:12px;left:12px;bottom:calc(12px + env(safe-area-inset-bottom));max-height:min(78vh,560px);overflow:auto;
   background:var(--panel,#fff);border:1px solid var(--line,#ddd);border-radius:14px;box-shadow:0 10px 32px rgba(0,0,0,.28);padding:14px 14px 10px}
