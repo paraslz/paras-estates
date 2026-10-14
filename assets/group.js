@@ -61,6 +61,22 @@ function production(){
   return `<tr><td><a href="${esc(e.href)}">${esc(nm(e))}</a></td>${Y.map(y=>f.years[y]!=null&&f.with?`<td>${fmt(f.years[y])} <small>(incl. ${esc(name(f.with))})</small></td>`:cell(f.years[y])).join("")}${c26}</tr>`});
  $("ffbB").innerHTML=rows.join("")+`<tr class="tot"><td>Total</td>${yr.map(r=>`<td>${fmt(r.t)}</td>`).join("")}${cur?`<td>${fmt(cur.t)}${cur.part&&cur.part.length?"*":""}</td>`:""}</tr>`;
 }
+function agePie(){
+ const C=$("ageC");if(!window.ageProfile||!window.Chart){C.hidden=true;return}
+ const Y=CUR,per=E.map(e=>({e,A:ageProfile(e.age||[],Y)})).filter(x=>x.A.tot>0);if(!per.length){C.hidden=true;return}
+ const tot={},order=[];per.forEach(x=>x.A.rows.forEach(r=>{if(!(r.k in tot)){tot[r.k]={ha:0,r:r.r};order.push(r.k)}tot[r.k].ha+=r.ha}));
+ const pc=v=>v>0&&v<0.5?"<1%":v.toFixed(0)+"%";const K=Object.keys(AGE_COLORS).filter(k=>k in tot),T=K.reduce((s,k)=>s+tot[k].ha,0),col=AGE_COLORS;
+ $("gAgeS").textContent=`Share of ${fmt(T)} ha across ${per.length} estates by palm age in ${Y}, from each block's planting year`;
+ $("gAgeT").innerHTML=K.map(k=>`<tr><th scope="row"><span class="sw" style="background:${col[k]}"></span>${esc(k)}${tot[k].r?`<small>${tot[k].r}</small>`:""}</th><td class="n">${fmt(tot[k].ha)} ha</td><td class="n"><b>${pc(tot[k].ha/T*100)}</b></td></tr>`).join("");
+ const left=E.filter(e=>!per.some(x=>x.e===e)).map(nm),notes=[...new Set(per.flatMap(x=>x.A.notes))];
+ $("gAgeN").textContent=(left.length?`No block planting data for ${list(left)}. `:"")+notes.join(" ");
+ const g=getComputedStyle(document.documentElement);
+ new Chart($("gAge"),{type:"doughnut",data:{labels:K,datasets:[{data:K.map(k=>tot[k].ha),backgroundColor:K.map(k=>col[k]),borderColor:g.getPropertyValue("--panel").trim(),borderWidth:2}]},options:{maintainAspectRatio:false,cutout:"55%",plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${x.label}: ${fmt(x.raw)} ha (${(x.raw/T*100).toFixed(0)}%)`}}}}});
+ const ab={"Immature":"Imm.","Young mature":"Young","Prime":"Prime","Old":"Old","Over-aged":"Over"};const KT=K.filter(k=>ab[k]);
+ $("gAgeH").innerHTML=`<tr><th>Estate</th>${KT.map(k=>`<th title="${esc(k)}">${ab[k]}</th>`).join("")}</tr>`;
+ $("gAgeB").innerHTML=per.sort((a,b)=>nm(a.e).localeCompare(nm(b.e))).map(x=>{const m={};x.A.rows.forEach(r=>m[r.k]=r.ha);return `<tr><td><a href="${esc(x.e.href)}">${esc(nm(x.e))}</a></td>${KT.map(k=>m[k]?`<td>${pc(m[k]/x.A.tot*100)}</td>`:`<td class="x">–</td>`).join("")}</tr>`}).join("")
+  +`<tr class="tot"><td>Group</td>${KT.map(k=>`<td>${pc(tot[k].ha/T*100)}</td>`).join("")}</tr>`;
+}
 function attention(){
  const R=E.map(e=>({e,f:flag(e)})).filter(x=>x.f.worst===2).sort((a,b)=>(a.f.y??0)-(b.f.y??0));
  if(!R.length){$("attC").hidden=true;return}
@@ -108,7 +124,7 @@ function actions(){
 }
 fetch("/data/index.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{E=j.estates;
  try{const p=localStorage.getItem(PRICE_KEY);if(p)$("fp").value=p}catch(e){}
- totals();production();attention();league();actions();
+ totals();production();agePie();attention();league();actions();
  $("srt").addEventListener("input",league);
  $("fp").addEventListener("input",()=>{try{localStorage.setItem(PRICE_KEY,$("fp").value)}catch(e){}league()});
 });

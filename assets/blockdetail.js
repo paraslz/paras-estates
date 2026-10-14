@@ -79,6 +79,7 @@ window.blockDetailHTML=function(d){
  return out.join("");
 };
 const EW={manuring:"Manuring",spraying:"Spraying & weeding",pests:"Pests & diseases",yield:"Yield & crop",harvesting:"Harvesting",pruning:"Pruning",nutrients:"Nutrients",field:"Field",labour:"Labour",staff:"Staff",costs:"Costs",other:"Other"};
+window.AGE_COLORS={"Immature":"#9cc5a1","Young mature":"#5b9a68","Prime":"#2f6b45","Old":"#c08a2e","Over-aged":"#b04a3a","Replanting / no palms yet":"#b9b9b0","Year not stated":"#dcdcd4"};
 /* palm age profile: hectares by age class, from each block's planting year */
 window.ageProfile=function(blocks,yearNow){
  const C=[["Immature","0–3 yrs"],["Young mature","4–8 yrs"],["Prime","9–18 yrs"],["Old","19–25 yrs"],["Over-aged","over 25 yrs"],["Replanting / no palms yet",""],["Year not stated",""]];

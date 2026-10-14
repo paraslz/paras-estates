@@ -26,6 +26,6 @@ for f in sorted(glob.glob("data/*.json")):
               "period": k.get("ffbPeriod"), "yphBudget": k.get("yphBudget"), "yphPrev": k.get("yphPrevSame"),
               "copBudget": k.get("copBudget"), "copPeriod": k.get("copPeriod"),
               "actions": [{"item": a.get("item"), "src": a.get("src"), "status": a.get("status"), "times": a.get("times")} for a in (d.get("actions") or [])], "latest": lt[0], "latestTitle": f"{lt[1]} · {lt[0]}" if lt[0] else None,
-              "ffb": ffb(d), "area": {x: (d.get("area") or {}).get(x) for x in ("title", "planted", "mature", "immature", "replant")}})
+              "ffb": ffb(d), "age": [{k: b.get(k) for k in ("id", "ha", "planted", "status")} for b in (d.get("blocks") or d.get("ageBlocks") or [])], "area": {x: (d.get("area") or {}).get(x) for x in ("title", "planted", "mature", "immature", "replant")}})
 json.dump({"generated": datetime.date.today().isoformat(), "estates": E}, open("data/index.json", "w"), ensure_ascii=False)
 print(len(E), "estates in index")

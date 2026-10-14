@@ -90,7 +90,9 @@ Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · R
 3. Needs attention: red-flagged estates, worst 5 + "Show all".
 4. League table: yield and cost/t vs budget with red/amber/green (≤5% green, ≤15% amber, else red),
    sortable, margin shown under cost when an FFB price is entered.
-5. Action tracker: estate summary table (raised before / open, clickable), filters (estate, status
+5. Group palm age profile doughnut (all estates' blocks by age class, from data/index.json "age"), with an
+   "Age profile by estate" table (% per class).
+6. Action tracker: estate summary table (raised before / open, clickable), filters (estate, status
    default "Raised before", search), list limited to 25 with "Show more".
 
 ## 6. Data fields beyond the basics (see tools/SCHEMA.md)

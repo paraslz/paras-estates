@@ -531,5 +531,55 @@
   ]
  },
  "blockGaps": "Dashboard JSON has no blocks array; the five blocks come from the spec and report main blocks. Sub-block level yields and fertiliser months are not in the readable text: Agro Table 12 (2020-2025 yield) and foliar Appendix 2 are images; 2026 programme month columns (Jul 2026 and Jan 2026) are illegible, so applications are listed in printed order; 2025 programme months read from column position; P21A and PR23B 2025 months not legible. PA Table 11 monthly fertiliser columns are garbled so only totals are used. Agro Table 8 weeding percentages (inter-row vs circle) cannot be separated, so only PA rounds are given. No block-level manuring tonnage, chemical use, costs or leaf values. PA 1/2026 Ganoderma table appears shifted one block versus PA 1/2025; no census since Aug 2024. Inconsistencies: PA says yield slightly up, Agro says down; PA road grading 1,349 chains in text vs 1,648 in table; P01E pruning programme printed 504.35 ha (should be 1,504.35); supply 3,371 palms (Agro Jul) vs 10,322 (Agro Jan); barn owl 155 nests/6% (PA) vs 12 boxes/16% (Agro); P99D and P01E owl % do not match counts; PA hectare bases differ (P98C 280.19 vs 308.43; P95A 16.77 vs 19.02). PA cover says Jan-Apr 2026 while production is to May. The 'previous Agronomy report' for the programme is Agro 1/2026 visit Jan 2026 (2026 original) and Agro 1/2025 (2025 programme). Report says epiphyte poisoning commenced Aug 2026 although the visit was 30 Jul 2026.",
- "blockMap": "The dashboard JSON for this estate has no blocks array (it uses the bespoke page). Blocks follow the report main blocks: P95A (sub-block A5), P98C (C1-C5), P99D (D1-D5), P01E (E1-E7), P21A (A1-A4). P23B, P24B (printed PR24B), PR25B and the nursery are immature or replant areas and are summarised under estateWide.other, not as blocks. PA uses productive-area bases that differ from block areas (P95A 16.77 ha, P98C 280.19 ha in circle spraying, 136.26 ha selective and 126.48 ha pruning)."
+ "blockMap": "The dashboard JSON for this estate has no blocks array (it uses the bespoke page). Blocks follow the report main blocks: P95A (sub-block A5), P98C (C1-C5), P99D (D1-D5), P01E (E1-E7), P21A (A1-A4). P23B, P24B (printed PR24B), PR25B and the nursery are immature or replant areas and are summarised under estateWide.other, not as blocks. PA uses productive-area bases that differ from block areas (P95A 16.77 ha, P98C 280.19 ha in circle spraying, 136.26 ha selective and 126.48 ha pruning).",
+ "ageBlocks": [
+  {
+   "id": "P95A",
+   "ha": 19.02,
+   "planted": "1995",
+   "status": "Mature · tall palm"
+  },
+  {
+   "id": "P98C",
+   "ha": 308.43,
+   "planted": "1998",
+   "status": "Mature · C1–C3 replant 2027"
+  },
+  {
+   "id": "P99D",
+   "ha": 317.2,
+   "planted": "1999",
+   "status": "Mature · tall palm"
+  },
+  {
+   "id": "P01E",
+   "ha": 314.33,
+   "planted": "2001",
+   "status": "Mature · tall palm"
+  },
+  {
+   "id": "P21A",
+   "ha": 248.78,
+   "planted": "Oct 2021",
+   "status": "Young mature"
+  },
+  {
+   "id": "PR23B",
+   "ha": 74.8,
+   "planted": "Aug 2023",
+   "status": "Immature · scout harvest"
+  },
+  {
+   "id": "PR24B",
+   "ha": 150.57,
+   "planted": "Nov 2024 – Feb 2025",
+   "status": "Immature"
+  },
+  {
+   "id": "PR25B",
+   "ha": 109.25,
+   "planted": "Jul 2025 – Jun 2026",
+   "status": "Replant · just planted"
+  }
+ ]
 }
