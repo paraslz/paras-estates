@@ -266,6 +266,23 @@ table.yht tr.x td{color:var(--muted)}
 table.aget tbody th{width:auto}
 table.aget th small{display:block;font-weight:400;color:var(--muted);font-size:13px}
 table.aget .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:7px;vertical-align:-1px}
+
+/* structured block rows */
+.bi{padding:10px 0;border-top:1px solid var(--line)}
+.bdet .body>.bi:first-child,.bdet .body>p+.bi{border-top:0}
+.bih{font-weight:600;font-size:15px;margin-bottom:6px}
+.bstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px}
+.bstats>div{background:var(--bg);border-radius:8px;padding:8px 10px}
+.bstats .l{display:block;font-size:12.5px;color:var(--muted)}
+.bstats b{display:block;font:700 20px var(--f-display);font-variant-numeric:tabular-nums}
+.bstats small{display:block;font-size:12.5px;color:var(--muted)}
+table.bt2{width:100%;border-collapse:collapse;font-size:13.5px;line-height:1.35}
+table.bt2 th,table.bt2 td{padding:6px 5px;border-top:1px solid var(--line);text-align:left;vertical-align:top}
+table.bt2 thead th{font-weight:600;font-size:12px;color:var(--muted);border-top:0;text-transform:uppercase;letter-spacing:.03em}
+table.bt2 tbody th{font-weight:600;white-space:nowrap}
+ul.bpts{margin:0;padding-left:18px;font-size:14.5px;line-height:1.45}
+ul.bpts li{margin:2px 0}
+.bnote1{margin:6px 0 0;font-size:13.5px;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -408,12 +425,29 @@ window.costTableWire=function(tbody){tbody.querySelectorAll("tr.grp.exp").forEac
    row = {k, v, src}. Rendered as compact two-column tables; older-year records tucked into a fold. */
 (function(){
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const rows=r=>(Array.isArray(r)?r:(r&&r.rows)||[]).filter(x=>x&&(x.v||x.k));
+const rows=r=>(Array.isArray(r)?r:(r&&r.rows)||[]).filter(x=>x&&(x.v||x.k||x.tbl||x.stats||x.pts));
 // drop in-text report references like "(Agro Table 7, to Mar 2026)" or "(PA photo)" — the source line covers them
 const tidy=v=>String(v||"").replace(/\s*\((?=[^()]*\b(?:Table|Tables|Appendix|App\.|Agro|PA|photos?|Section|Fig\.?|Figure|as printed)\b)[^()]*\)/g,"").replace(/^PA photo:\s*/i,"").replace(/\s{2,}/g," ").trim();
 const yrs=s=>(String(s).match(/\b20\d\d\b/g)||[]).map(Number);
 const srcs=r=>{const s=[...new Set(r.map(x=>x.src).filter(Boolean))];return s.length?`<p class="bsrc">From ${s.map(esc).join(" · ")}</p>`:""};
-const table=r=>`<table class="bt"><tbody>${r.map(x=>`<tr><th scope="row">${esc(tidy(x.k))}</th><td>${esc(tidy(x.v))}</td></tr>`).join("")}</tbody></table>`;
+/* rows can carry structure for easy reading: stats [{l,v,d}], tbl {cols,rows}, pts [..], note; hide = keep for Ask only */
+function topSplit(v,re){const out=[];let d=0,cur="";for(let i=0;i<v.length;i++){const c=v[i];if(c==="("||c==="[")d++;else if((c===")"||c==="]")&&d>0)d--;
+ if(d===0&&re(v,i)){out.push(cur.trim());cur="";i+=(v[i]===";"?0:1);continue}cur+=c}if(cur.trim())out.push(cur.trim());return out.filter(Boolean)}
+function autoPts(v){if(v.length<140)return null;
+ let p=topSplit(v,(s,i)=>s[i]===";"&&s[i+1]===" ");
+ if(p.length<2)p=topSplit(v,(s,i)=>s[i]==="."&&s[i+1]===" "&&/[A-Z]/.test(s[i+2]||"")&&!/\b(e\.g|i\.e|vs|approx|no)$/i.test(s.slice(Math.max(0,i-5),i)));
+ return p.length>=2?p.map(x=>x.replace(/[.;]\s*$/,"")):null}
+const statsHTML=st=>`<div class="bstats">${st.map(x=>`<div><span class="l">${esc(x.l)}</span><b>${esc(x.v)}</b>${x.d?`<small>${esc(x.d)}</small>`:""}</div>`).join("")}</div>`;
+const tblHTML=t=>`<div class="tbl"><table class="bt2">${t.cols?`<thead><tr>${t.cols.map(c=>`<th>${esc(c)}</th>`).join("")}</tr></thead>`:""}<tbody>${(t.rows||[]).map(r=>`<tr>${r.map((c,i)=>i?`<td>${esc(c)}</td>`:`<th scope="row">${esc(c)}</th>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+const ptsHTML=p=>`<ul class="bpts">${p.map(x=>`<li>${esc(tidy(x))}</li>`).join("")}</ul>`;
+function table(r){
+ r=r.filter(x=>!x.hide);const out=[];let plain=[];
+ const flush=()=>{if(plain.length)out.push(`<table class="bt"><tbody>${plain.map(x=>`<tr><th scope="row">${esc(tidy(x.k))}</th><td>${esc(tidy(x.v))}</td></tr>`).join("")}</tbody></table>`);plain=[]};
+ r.forEach(x=>{const v=tidy(x.v),ap=!(x.stats||x.tbl||x.pts)&&autoPts(v);
+  if(!x.stats&&!x.tbl&&!x.pts&&!ap){plain.push(x);return}
+  flush();out.push(`<div class="bi"><div class="bih">${esc(tidy(x.k))}</div>${x.stats?statsHTML(x.stats):""}${x.tbl?tblHTML(x.tbl):""}${x.pts?ptsHTML(x.pts):ap?ptsHTML(ap):""}${x.note?`<p class="bnote1">${esc(x.note)}</p>`:""}</div>`)});
+ flush();return out.join("");
+}
 const older=(label,inner)=>`<details class="older"><summary>${label}</summary>${inner}</details>`;
 function split(r,latest){ // current vs earlier-year rows, by the years named in the row label
  const cur=[],old=[];r.forEach(x=>{const y=yrs(x.k);(y.length&&Math.max(...y)<latest?old:cur).push(x)});

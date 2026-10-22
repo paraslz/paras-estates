@@ -3,12 +3,29 @@
    row = {k, v, src}. Rendered as compact two-column tables; older-year records tucked into a fold. */
 (function(){
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const rows=r=>(Array.isArray(r)?r:(r&&r.rows)||[]).filter(x=>x&&(x.v||x.k));
+const rows=r=>(Array.isArray(r)?r:(r&&r.rows)||[]).filter(x=>x&&(x.v||x.k||x.tbl||x.stats||x.pts));
 // drop in-text report references like "(Agro Table 7, to Mar 2026)" or "(PA photo)" — the source line covers them
 const tidy=v=>String(v||"").replace(/\s*\((?=[^()]*\b(?:Table|Tables|Appendix|App\.|Agro|PA|photos?|Section|Fig\.?|Figure|as printed)\b)[^()]*\)/g,"").replace(/^PA photo:\s*/i,"").replace(/\s{2,}/g," ").trim();
 const yrs=s=>(String(s).match(/\b20\d\d\b/g)||[]).map(Number);
 const srcs=r=>{const s=[...new Set(r.map(x=>x.src).filter(Boolean))];return s.length?`<p class="bsrc">From ${s.map(esc).join(" · ")}</p>`:""};
-const table=r=>`<table class="bt"><tbody>${r.map(x=>`<tr><th scope="row">${esc(tidy(x.k))}</th><td>${esc(tidy(x.v))}</td></tr>`).join("")}</tbody></table>`;
+/* rows can carry structure for easy reading: stats [{l,v,d}], tbl {cols,rows}, pts [..], note; hide = keep for Ask only */
+function topSplit(v,re){const out=[];let d=0,cur="";for(let i=0;i<v.length;i++){const c=v[i];if(c==="("||c==="[")d++;else if((c===")"||c==="]")&&d>0)d--;
+ if(d===0&&re(v,i)){out.push(cur.trim());cur="";i+=(v[i]===";"?0:1);continue}cur+=c}if(cur.trim())out.push(cur.trim());return out.filter(Boolean)}
+function autoPts(v){if(v.length<140)return null;
+ let p=topSplit(v,(s,i)=>s[i]===";"&&s[i+1]===" ");
+ if(p.length<2)p=topSplit(v,(s,i)=>s[i]==="."&&s[i+1]===" "&&/[A-Z]/.test(s[i+2]||"")&&!/\b(e\.g|i\.e|vs|approx|no)$/i.test(s.slice(Math.max(0,i-5),i)));
+ return p.length>=2?p.map(x=>x.replace(/[.;]\s*$/,"")):null}
+const statsHTML=st=>`<div class="bstats">${st.map(x=>`<div><span class="l">${esc(x.l)}</span><b>${esc(x.v)}</b>${x.d?`<small>${esc(x.d)}</small>`:""}</div>`).join("")}</div>`;
+const tblHTML=t=>`<div class="tbl"><table class="bt2">${t.cols?`<thead><tr>${t.cols.map(c=>`<th>${esc(c)}</th>`).join("")}</tr></thead>`:""}<tbody>${(t.rows||[]).map(r=>`<tr>${r.map((c,i)=>i?`<td>${esc(c)}</td>`:`<th scope="row">${esc(c)}</th>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+const ptsHTML=p=>`<ul class="bpts">${p.map(x=>`<li>${esc(tidy(x))}</li>`).join("")}</ul>`;
+function table(r){
+ r=r.filter(x=>!x.hide);const out=[];let plain=[];
+ const flush=()=>{if(plain.length)out.push(`<table class="bt"><tbody>${plain.map(x=>`<tr><th scope="row">${esc(tidy(x.k))}</th><td>${esc(tidy(x.v))}</td></tr>`).join("")}</tbody></table>`);plain=[]};
+ r.forEach(x=>{const v=tidy(x.v),ap=!(x.stats||x.tbl||x.pts)&&autoPts(v);
+  if(!x.stats&&!x.tbl&&!x.pts&&!ap){plain.push(x);return}
+  flush();out.push(`<div class="bi"><div class="bih">${esc(tidy(x.k))}</div>${x.stats?statsHTML(x.stats):""}${x.tbl?tblHTML(x.tbl):""}${x.pts?ptsHTML(x.pts):ap?ptsHTML(ap):""}${x.note?`<p class="bnote1">${esc(x.note)}</p>`:""}</div>`)});
+ flush();return out.join("");
+}
 const older=(label,inner)=>`<details class="older"><summary>${label}</summary>${inner}</details>`;
 function split(r,latest){ // current vs earlier-year rows, by the years named in the row label
  const cur=[],old=[];r.forEach(x=>{const y=yrs(x.k);(y.length&&Math.max(...y)<latest?old:cur).push(x)});
