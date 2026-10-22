@@ -149,12 +149,8 @@ Pruning:
   - Pruning Jan-Jun 2026 (PA): Corrective pruning: 254.95 ha backlog, 254.95 ha done (balance 0). Progressive pruning: 1,515.46 of 2,280.00 ha (66%). Unpruned and mixed pruned/unpruned palms photographed in A1 and A3. Cost RM120/ha/yr (2005 planting), corrective RM100/ha. (PA 2/2026)
   - Quality Sep 2025: A2-A6 slightly under-pruned with excess dried fronds (dense canopy, harvesting efficiency reduced). (Agro 2/2025)
 Nutrients:
-  - Leaf analysis A1, Sep 2025 report: N 2.71% H; P 0.149% L; K 0.94% ML; Mg 0.33% H; Ca 0.50% N; B 15.75 ppm H; Zn 12.02 ppm N; Cu 7.5 ppm N (Agro 2/2025)
-  - Leaf analysis A2, Sep 2025 report: N 2.74% H; P 0.148% L; K 0.94% ML; Mg 0.35% H; Ca 0.48% ML; B 16.29 ppm H; Zn 9.47 ppm L; Cu 7.34 ppm N (Agro 2/2025)
-  - Leaf analysis A3, Sep 2025 report: N 2.66% N; P 0.150% ML; K 0.90% ML; Mg 0.35% H; Ca 0.46% ML; B 14.72 ppm N; Zn 9.35 ppm L; Cu 7.06 ppm N (Agro 2/2025)
-  - Leaf analysis A4, Sep 2025 report: N 2.75% H; P 0.155% ML; K 0.94% ML; Mg 0.33% H; Ca 0.42% ML; B 15.06 ppm H; Zn 10.08 ppm L; Cu 6.09 ppm N (Agro 2/2025)
-  - Leaf analysis A5, Sep 2025 report: N 2.69% N; P 0.165% N; K 1.12% H; Mg 0.31% H; Ca 0.38% L; B 16.15 ppm H; Zn 10.91 ppm L; Cu 5.97 ppm N (Agro 2/2025)
-  - Leaf analysis A6, Sep 2025 report: N 2.74% H; P 0.158% ML; K 1.06% N; Mg 0.28% H; Ca 0.52% N; B 13.69 ppm N; Zn 13.04 ppm N; Cu 6.03 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. (Agro 2/2025)
+  - Leaf N, P, K, Mg (Sep 2025 report): N 2.71% H; P 0.149% L; K 0.94% ML; Mg 0.33% H; Ca 0.50% N; B 15.75 ppm H; Zn 12.02 ppm N; Cu 7.5 ppm N | N 2.74% H; P 0.148% L; K 0.94% ML; Mg 0.35% H; Ca 0.48% ML; B 16.29 ppm H; Zn 9.47 ppm L; Cu 7.34 ppm N | N 2.66% N; P 0.150% ML; K 0.90% ML; Mg 0.35% H; Ca 0.46% ML; B 14.72 ppm N; Zn 9.35 ppm L; Cu 7.06 ppm N | N 2.75% H; P 0.155% ML; K 0.94% ML; Mg 0.33% H; Ca 0.42% ML; B 15.06 ppm H; Zn 10.08 ppm L; Cu 6.09 ppm N | N 2.69% N; P 0.165% N; K 1.12% H; Mg 0.31% H; Ca 0.38% L; B 16.15 ppm H; Zn 10.91 ppm L; Cu 5.97 ppm N | N 2.74% H; P 0.158% ML; K 1.06% N; Mg 0.28% H; Ca 0.52% N; B 13.69 ppm N; Zn 13.04 ppm N; Cu 6.03 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. (Agro 2/2025)
+  - Leaf Ca, B, Zn, Cu (Sep 2025 report): Ca, B, Zn, Cu leaf values for the same sub-blocks, as in the leaf analysis row above (Agro 2/2025)
 Field:
   - Palm census 2025: 49,598 palms (previous 51,680, -4%); 131 palms/ha (previous 136); completed 2025. (Agro 1/2026)
   - Peat soil condition: Peat-dominated: leaning palms, low vigour, smaller bunches, early bunch rot after waterlogging. Palm mounding in A3 on track (Sep 2025). (Agro 1/2026)
@@ -201,11 +197,8 @@ Pruning:
   - Pruning Jan-Jun 2026 (PA): Corrective pruning: 270.25 ha backlog, 270.25 ha done (balance 0). Progressive pruning: 1,621.92 of 2,010.00 ha (PA prints 23%). Pruned palms photographed in B3. Cost RM120/ha/yr (2005 planting). (PA 2/2026)
   - Quality: B4 under-pruned with excessive dried hanging fronds after flood (Feb 2026). (Agro 1/2026)
 Nutrients:
-  - Leaf analysis B1, Sep 2025 report: N 2.69% N; P 0.159% ML; K 1.00% N; Mg 0.29% H; Ca 0.46% ML; B 13.96 ppm N; Zn 12.69 ppm N; Cu 6.03 ppm N (Agro 2/2025)
-  - Leaf analysis B2, Sep 2025 report: N 2.59% ML; P 0.170% H; K 1.10% N; Mg 0.27% N; Ca 0.37% L; B 13.89 ppm N; Zn 11.64 ppm N; Cu 5.97 ppm N (Agro 2/2025)
-  - Leaf analysis B3, Sep 2025 report: N 2.63% N; P 0.172% H; K 1.06% N; Mg 0.26% N; Ca 0.37% L; B 13.83 ppm N; Zn 10.88 ppm N; Cu 4.68 ppm L (Agro 2/2025)
-  - Leaf analysis B4, Sep 2025 report: N 2.57% ML; P 0.168% N; K 1.16% H; Mg 0.29% H; Ca 0.38% L; B 13.85 ppm N; Zn 12.84 ppm N; Cu 6.29 ppm N (Agro 2/2025)
-  - Leaf analysis B5, Sep 2025 report: N 2.53% ML; P 0.159% ML; K 1.10% H; Mg 0.29% H; Ca 0.41% ML; B 14.85 ppm N; Zn 11.83 ppm N; Cu 5.32 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. B2-B4 Ca low. (Agro 2/2025)
+  - Leaf N, P, K, Mg (Sep 2025 report): N 2.69% N; P 0.159% ML; K 1.00% N; Mg 0.29% H; Ca 0.46% ML; B 13.96 ppm N; Zn 12.69 ppm N; Cu 6.03 ppm N | N 2.59% ML; P 0.170% H; K 1.10% N; Mg 0.27% N; Ca 0.37% L; B 13.89 ppm N; Zn 11.64 ppm N; Cu 5.97 ppm N | N 2.63% N; P 0.172% H; K 1.06% N; Mg 0.26% N; Ca 0.37% L; B 13.83 ppm N; Zn 10.88 ppm N; Cu 4.68 ppm L | N 2.57% ML; P 0.168% N; K 1.16% H; Mg 0.29% H; Ca 0.38% L; B 13.85 ppm N; Zn 12.84 ppm N; Cu 6.29 ppm N | N 2.53% ML; P 0.159% ML; K 1.10% H; Mg 0.29% H; Ca 0.41% ML; B 14.85 ppm N; Zn 11.83 ppm N; Cu 5.32 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. B2-B4 Ca low. (Agro 2/2025)
+  - Leaf Ca, B, Zn, Cu (Sep 2025 report): Ca, B, Zn, Cu leaf values for the same sub-blocks, as in the leaf analysis row above (Agro 2/2025)
 Field:
   - Palm census 2025: 38,100 palms (previous 45,560, -20%, largest fall); 114 palms/ha (previous 136); completed 2025. (Agro 1/2026)
   - Peat soil condition: Peat-dominated: leaning palms, early bunch rot, flood-affected frond stacking; re-mounding progress on peat areas (estate 32,054 of 34,305 palms = 93%). (Agro 1/2026)
@@ -253,12 +246,8 @@ Pruning:
   - Pruning Jan-Jun 2026 (PA): Corrective pruning: 149.75 ha done (17.72 ha in June; balance 0). Progressive pruning: 1,651.52 of 2,487.30 ha (66%). Pruned palms in C2 photographed. Cost RM120/ha/yr. (PA 2/2026)
   - Quality: Acceptable (non-peat), improved frond stacking in C1, C4, C5, C6 (Sep 2025); C6 slightly under-pruned (Feb 2026). (Agro 1/2026)
 Nutrients:
-  - Leaf analysis C1, Sep 2025 report: N 2.59% ML; P 0.155% ML; K 0.98% ML; Mg 0.32% H; Ca 0.57% N; B 14.78 ppm N (Agro 2/2025)
-  - Leaf analysis C2, Sep 2025 report: N 2.66% N; P 0.162% N; K 0.92% ML; Mg 0.31% H; Ca 0.64% N; B 16.02 ppm H (Agro 2/2025)
-  - Leaf analysis C3, Sep 2025 report: N 2.75% H; P 0.165% N; K 0.90% ML; Mg 0.31% H; Ca 0.64% N; B 15.95 ppm H (Agro 2/2025)
-  - Leaf analysis C4, Sep 2025 report: N 2.67% N; P 0.162% N; K 0.98% ML; Mg 0.27% N; Ca 0.57% N; B 15.26 ppm H (Agro 2/2025)
-  - Leaf analysis C5, Sep 2025 report: N 2.68% N; P 0.162% N; K 1.00% N; Mg 0.28% H; Ca 0.55% N; B 14.17 ppm N (Agro 2/2025)
-  - Leaf analysis C6, Sep 2025 report: N 2.56% ML; P 0.153% ML; K 1.06% N; Mg 0.26% N; Ca 0.53% N; B 13.83 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. K marginally low in C1-C4. (Agro 2/2025)
+  - Leaf N, P, K, Mg (Sep 2025 report): N 2.59% ML; P 0.155% ML; K 0.98% ML; Mg 0.32% H; Ca 0.57% N; B 14.78 ppm N | N 2.66% N; P 0.162% N; K 0.92% ML; Mg 0.31% H; Ca 0.64% N; B 16.02 ppm H | N 2.75% H; P 0.165% N; K 0.90% ML; Mg 0.31% H; Ca 0.64% N; B 15.95 ppm H | N 2.67% N; P 0.162% N; K 0.98% ML; Mg 0.27% N; Ca 0.57% N; B 15.26 ppm H | N 2.68% N; P 0.162% N; K 1.00% N; Mg 0.28% H; Ca 0.55% N; B 14.17 ppm N | N 2.56% ML; P 0.153% ML; K 1.06% N; Mg 0.26% N; Ca 0.53% N; B 13.83 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. K marginally low in C1-C4. (Agro 2/2025)
+  - Leaf Ca, B (Sep 2025 report): Ca, B leaf values for the same sub-blocks, as in the leaf analysis row above (Agro 2/2025)
 Field:
   - Palm census: 56,379 palms, 136 palms/ha: census in progress (old count). (Agro 1/2026)
 
@@ -302,9 +291,8 @@ Pruning:
   - Pruning Jan-Jun 2026 (PA): Corrective pruning: 137.60 ha done (balance 0). Progressive pruning: 750.89 of 1,261.20 ha (60%). Cost RM120/ha/yr (2005 planting). (PA 2/2026)
   - Quality: D3 (peat) with excessive dried hanging fronds after flood (Feb 2026, photos). (Agro 1/2026)
 Nutrients:
-  - Leaf analysis D1, Sep 2025 report: N 2.73% H; P 0.160% N; K 1.06% N; Mg 0.25% N; Ca 0.54% N; B 13.96 ppm N (Agro 2/2025)
-  - Leaf analysis D2, Sep 2025 report: N 2.72% H; P 0.164% N; K 1.04% N; Mg 0.27% N; Ca 0.58% N; B 15.26 ppm N (Agro 2/2025)
-  - Leaf analysis D3, Sep 2025 report: N 2.57% ML; P 0.160% N; K 0.98% ML; Mg 0.32% H; Ca 0.60% N; B 14.65 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. (Agro 2/2025)
+  - Leaf N, P, K, Mg (Sep 2025 report): N 2.73% H; P 0.160% N; K 1.06% N; Mg 0.25% N; Ca 0.54% N; B 13.96 ppm N | N 2.72% H; P 0.164% N; K 1.04% N; Mg 0.27% N; Ca 0.58% N; B 15.26 ppm N | N 2.57% ML; P 0.160% N; K 0.98% ML; Mg 0.32% H; Ca 0.60% N; B 14.65 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. (Agro 2/2025)
+  - Leaf Ca, B (Sep 2025 report): Ca, B leaf values for the same sub-blocks, as in the leaf analysis row above (Agro 2/2025)
 Field:
   - Palm census: 28,587 palms, 136 palms/ha: census in progress (old count). (Agro 1/2026)
   - Peat: D3 described as peat soil recently recovered from flooding. (Agro 1/2026)
@@ -352,12 +340,8 @@ Pruning:
   - Pruning Jan-Jun 2026 (PA): Corrective pruning: 172.43 ha done (3.57 ha in June; balance 0). Progressive pruning: 1,749.33 of 2,064.00 ha (85%). Pruned palms photographed in E2. Cost RM100/ha/yr (2006 planting). (PA 2/2026)
   - Quality: E6 acceptable canopy (Feb 2026, photos). (Agro 1/2026)
 Nutrients:
-  - Leaf analysis E1, Sep 2025 report: N 2.69% N; P 0.151% ML; K 0.94% ML; Mg 0.32% H; Ca 0.54% N; B 14.44 ppm N; Zn 10.16 ppm N; Cu 7.83 ppm N (Agro 2/2025)
-  - Leaf analysis E2, Sep 2025 report: N 2.52% ML; P 0.144% L; K 1.06% N; Mg 0.32% H; Ca 0.47% ML; B 13.14 ppm N; Zn 10.3 ppm N; Cu 8.72 ppm N (Agro 2/2025)
-  - Leaf analysis E3, Sep 2025 report: N 2.75% H; P 0.149% L; K 1.10% N; Mg 0.29% H; Ca 0.43% ML; B 13.01 ppm N; Zn 11.73 ppm N; Cu 8.92 ppm N (Agro 2/2025)
-  - Leaf analysis E4, Sep 2025 report: N 2.60% N; P 0.154% ML; K 1.12% H; Mg 0.28% H; Ca 0.45% ML; B 13.69 ppm N; Zn 12.55 ppm N; Cu 8.15 ppm N (Agro 2/2025)
-  - Leaf analysis E5, Sep 2025 report: N 2.64% N; P 0.150% ML; K 1.08% N; Mg 0.29% H; Ca 0.43% ML; B 13.01 ppm N; Zn 10.27 ppm N; Cu 6.99 ppm N (Agro 2/2025)
-  - Leaf analysis E6, Sep 2025 report: N 2.68% N; P 0.145% L; K 1.14% H; Mg 0.28% H; Ca 0.40% ML; B 11.98 ppm N; Zn 9.95 ppm L; Cu 7.06 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. P low in E2, E3, E6. (Agro 2/2025)
+  - Leaf N, P, K, Mg (Sep 2025 report): N 2.69% N; P 0.151% ML; K 0.94% ML; Mg 0.32% H; Ca 0.54% N; B 14.44 ppm N; Zn 10.16 ppm N; Cu 7.83 ppm N | N 2.52% ML; P 0.144% L; K 1.06% N; Mg 0.32% H; Ca 0.47% ML; B 13.14 ppm N; Zn 10.3 ppm N; Cu 8.72 ppm N | N 2.75% H; P 0.149% L; K 1.10% N; Mg 0.29% H; Ca 0.43% ML; B 13.01 ppm N; Zn 11.73 ppm N; Cu 8.92 ppm N | N 2.60% N; P 0.154% ML; K 1.12% H; Mg 0.28% H; Ca 0.45% ML; B 13.69 ppm N; Zn 12.55 ppm N; Cu 8.15 ppm N | N 2.64% N; P 0.150% ML; K 1.08% N; Mg 0.29% H; Ca 0.43% ML; B 13.01 ppm N; Zn 10.27 ppm N; Cu 6.99 ppm N | N 2.68% N; P 0.145% L; K 1.14% H; Mg 0.28% H; Ca 0.40% ML; B 11.98 ppm N; Zn 9.95 ppm L; Cu 7.06 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. P low in E2, E3, E6. (Agro 2/2025)
+  - Leaf Ca, B, Zn, Cu (Sep 2025 report): Ca, B, Zn, Cu leaf values for the same sub-blocks, as in the leaf analysis row above (Agro 2/2025)
 Field:
   - Palm census 2025: 43,469 palms (previous 46,784, -8%); 126 palms/ha (previous 136); completed 2025. (Agro 1/2026)
   - Peat: E is peat-dominated: harvesting intervals consistently extended through 2025; E6 peat. (Agro 1/2026)
@@ -405,12 +389,8 @@ Pruning:
   - Pruning Jan-Jun 2026 (PA): Corrective pruning: 313.65 ha backlog, 313.65 ha done (94.28 ha in June; balance 0). Progressive pruning: 740.15 of 1,881.90 ha (39%). Unpruned palms photographed in F2; pruned in F4 and F6. Cost RM100/ha/yr (2006 planting). (PA 2/2026)
   - Quality Sep 2025: F3-F6 significant pruning delays: overgrown palms, congested, unremoved fronds; corrective pruning needed. (Agro 2/2025)
 Nutrients:
-  - Leaf analysis F1, Sep 2025 report: N 2.68% N; P 0.169% N; K 1.08% N; Mg 0.29% H; Ca 0.41% ML; B 11.70 ppm N; Zn 9.9 ppm L; Cu 6.86 ppm N (Agro 2/2025)
-  - Leaf analysis F2, Sep 2025 report: N 2.67% N; P 0.175% H; K 1.04% N; Mg 0.33% H; Ca 0.43% ML; B 12.94 ppm N; Zn 10.01 ppm L; Cu 6.54 ppm N (Agro 2/2025)
-  - Leaf analysis F3, Sep 2025 report: N 2.70% H; P 0.165% ML; K 0.98% ML; Mg 0.30% H; Ca 0.48% ML; B 11.43 ppm N (Agro 2/2025)
-  - Leaf analysis F4, Sep 2025 report: N 2.52% ML; P 0.155% ML; K 1.04% N; Mg 0.32% H; Ca 0.52% N; B 10.61 ppm ML; Zn 10.09 ppm L; Cu 3.14 ppm L (Agro 2/2025)
-  - Leaf analysis F5, Sep 2025 report: N 2.53% ML; P 0.154% ML; K 0.92% ML; Mg 0.33% H; Ca 0.53% N; B 10.81 ppm N (Agro 2/2025)
-  - Leaf analysis F6, Sep 2025 report: N 2.59% ML; P 0.159% ML; K 0.96% ML; Mg 0.31% H; Ca 0.55% ML (as printed); B 11.09 ppm N; Zn 12.83 ppm N; Cu 7.89 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. F4 Zn and Cu low. (Agro 2/2025)
+  - Leaf N, P, K, Mg (Sep 2025 report): N 2.68% N; P 0.169% N; K 1.08% N; Mg 0.29% H; Ca 0.41% ML; B 11.70 ppm N; Zn 9.9 ppm L; Cu 6.86 ppm N | N 2.67% N; P 0.175% H; K 1.04% N; Mg 0.33% H; Ca 0.43% ML; B 12.94 ppm N; Zn 10.01 ppm L; Cu 6.54 ppm N | N 2.70% H; P 0.165% ML; K 0.98% ML; Mg 0.30% H; Ca 0.48% ML; B 11.43 ppm N | N 2.52% ML; P 0.155% ML; K 1.04% N; Mg 0.32% H; Ca 0.52% N; B 10.61 ppm ML; Zn 10.09 ppm L; Cu 3.14 ppm L | N 2.53% ML; P 0.154% ML; K 0.92% ML; Mg 0.33% H; Ca 0.53% N; B 10.81 ppm N | N 2.59% ML; P 0.159% ML; K 0.96% ML; Mg 0.31% H; Ca 0.55% ML (as printed); B 11.09 ppm N; Zn 12.83 ppm N; Cu 7.89 ppm N. Key: H high, N normal, ML marginally low, L low. Sampling date not printed (report visit 24 Sep 2025); estate-wide: P mostly below desired range, K marginally low, Mg sufficient, Zn variable; deficiencies addressed in the 2026 programme. F4 Zn and Cu low. (Agro 2/2025)
+  - Leaf Ca, B, Zn, Cu (Sep 2025 report): Ca, B, Zn, Cu leaf values for the same sub-blocks, as in the leaf analysis row above (Agro 2/2025)
 Field:
   - Palm census 2025: 38,681 palms (previous 42,656, -10%); 123 palms/ha (previous 136); completed 2025. (Agro 1/2026)
 

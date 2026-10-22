@@ -56,12 +56,12 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
-[manuring] 2026 progress to Jul 2026 (Table 3): Applied 502.06 t of 979.29 t programme to date (51%) and of 1,169.16 t for the year (43%); received 630.44 t. AS 44.94 req / 44.94 applied; NK1 157.77 year and to date, 158.15 received, 157.77 applied; Mix A 212.52 year, 141.68 to date, 138.38 received, 70.84 applied; Mix B 492.62 year, 394.89 to date, 268.04 received, 194.43 applied; RP 174.43, 0 received, none applied; Compound 12/12/7/2 76.68 year, 55.38 to date, 65.87 received, 34.08 applied; Fujicoat 10.2, 0 received (Agro 2/2026)
+[manuring] Fertiliser progress to Jul 2026 (t): Applied 502.06 t of 979.29 t programme to date (51%) and of 1,169.16 t for the year (43%); received 630.44 t. AS 44.94 req / 44.94 applied; NK1 157.77 year and to date, 158.15 received, 157.77 applied; Mix A 212.52 year, 141.68 to date, 138.38 received, 70.84 applied; Mix B 492.62 year, 394.89 to date, 268.04 received, 194.43 applied; RP 174.43, 0 received, none applied; Compound 12/12/7/2 76.68 year, 55.38 to date, 65.87 received, 34.08 applied; Fujicoat 10.2, 0 received (Agro 2/2026)
 [manuring] Status (Aug 2026): Most mature blocks did only one mixture round in H1; second Mix A/B overdue in older and prime areas; RP still pending; some delays over three months; estate unlikely to complete the year's programme. Remaining stocks to be carried into 2027 (Agro 2/2026)
 [manuring] Stock balance Jul 2026 (Table 7, bags): Div A: AS 20, Mix A 1,347, Mix B 740, RP 17, urea 31. Div B: NK1 13, Mix B 723, RP 373, Compound 12/12/7/2 600, urea 5, MOP 5, kieserite 15, Fujicoat 2. Surplus AS and NK1; 36 bags urea unused (Agro 2/2026)
 [manuring] Storage and sampling: Storage satisfactory (on pallets). Sample 1 bag per 20 during unloading; keep 5 bags per consignment until lab results confirm specification, then release quickly (Agro 2/2026)
 [manuring] Method: Consider semi-mechanised application (mechanical Badang, mini crawler); use wheelbarrows instead of empty bags or buckets; fertilisers broadcast evenly in weeded circles (frond heaps only where stacking is proper); base requirements on latest palm stand (Agro 2/2026)
-[manuring] 2026 monthly progress (to Mar 2026): Applied 204.80 t vs programme 337.95 t (delay; estate needs to expedite). By month: Jan Comp 17.30 t req, 35.80 delivered, 34.10 applied (B/F 2025, 18.5 t); Jan Mix B 141.35 req, 109.40 delivered, 101.55 applied (in progress); Feb Mix A 70.85 req, 20.85 delivered, 20.00 applied (in progress); Feb NK1 49.15 req, delivered, applied (completed); Mar NK1 59.30 req, nil. Upcoming: Apr Mix B 140.00; May Mix A 70.85, RP 106.50 (19.55 t delivered); Jun NK1 49.15, RP 59.60. Programme total H1 764.05 t, delivered 234.75, applied 204.80 (PA 1/2026)
+[manuring] Monthly progress to Mar 2026 (t): Applied 204.80 t vs programme 337.95 t (delay; estate needs to expedite). By month: Jan Comp 17.30 t req, 35.80 delivered, 34.10 applied (B/F 2025, 18.5 t); Jan Mix B 141.35 req, 109.40 delivered, 101.55 applied (in progress); Feb Mix A 70.85 req, 20.85 delivered, 20.00 applied (in progress); Feb NK1 49.15 req, delivered, applied (completed); Mar NK1 59.30 req, nil. Upcoming: Apr Mix B 140.00; May Mix A 70.85, RP 106.50 (19.55 t delivered); Jun NK1 49.15, RP 59.60. Programme total H1 764.05 t, delivered 234.75, applied 204.80 (PA 1/2026)
 [manuring] Worker output and earnings (PA 5.2.4): Manual application, as printed: rate per bag RM2.50 for 2.50 kg, RM2.75 for 2.25 kg, RM3.00 for 2.00 kg, RM3.25 for 1.75 kg, RM3.50 for 1.50 kg; bags/day 28, 26, 24, 22, 20; earnings RM70.00, RM71.50, RM72.00, RM71.50, RM70.00 per day; average RM70.00/day, 4-5 ha/day (PA 1/2026)
 [manuring] Method (Mar 2026 and Jan 2026): Manual application; semi-mechanised (mini crawler, motorised wheelbarrow) suggested; use standard containers and wheelbarrows instead of empty bags; fertiliser requirement must follow latest palm stand (PA 1/2026)
 [spraying] Weeding status (Aug 2026): Behind schedule: most fields only one round; 2nd inter-row round began Jun 2026 and only several older plantings are done. Soft grasses improving where 2 rounds done. Main broadleaf weed Clidemia hirta (metsulfuron-methyl, triclopyr). Keep soft grasses and Nephrolepis biserrata on hilly ground (Agro 2/2026)
@@ -83,8 +83,7 @@ Spraying progress (to Aug 2026):
   - Inter-row weeding · 1st rd: 50% — 122 ha to date (Agro 2/2026)
   - Circle weeding · 1st rd: 50% — 122 ha to date (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Jan), month completed Jun; 122.00 ha to date of 366.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Feb), month completed Jan; 122.00 ha to date of 366.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Jan), month completed Jun; 122.00 ha to date of 366.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Feb), month completed Jan; 122.00 ha to date of 366.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Circles (Aug 2026): Some sections overgrown: circles likely missed in the previous round or sprayed radius below the required 6 feet (Agro 2/2026)
   - Weeds (Aug 2025): Overgrown Clidemia hirta and Hedyotis verticillata in P98 (also P04, P09); circles overgrown by grasses / Ageratum conyzoides in parts of P98; circle due for spraying (photos 50-51) (Agro 1/2025)
   - Inter-row (Mar 2026 PA): Inter-row spraying satisfactorily eradicated noxious weeds in PM98 (photos 1-2); soft grasses should be allowed to grow in barren areas (PA 1/2026)
@@ -104,18 +103,13 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 8.05 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Older planting yield below average to Aug 2026; incomplete crop recovery in ravines and under-pruned areas, tall palms harder to harvest, etiolation in ravines, poor loose-fruit collection (Agro 2/2026)
-  - Jan–Mar 2026: 371.07 t FFB = 3.04 t/ha (block 122 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,640.27 t = 13.44 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 2,318.00 t = 19.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 10.40 t/ha vs estimate 9.42 t/ha; 10.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.66 t/ha with 4.00 rounds (estimate for the year 9.42 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 371.07 t FFB = 3.04 t/ha (block 122 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,640.27 t = 13.44 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 2,318.00 t = 19.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 10.40 t/ha vs estimate 9.42 t/ha; 10.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.66 t/ha with 4.00 rounds (estimate for the year 9.42 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
   - Comment: Jul–Mar yield of 13.44 t/ha was a reason replanting of PM98 was postponed (PA 2.3); Agro: yield below average from tall palms over 24 years old (PA 1/2026)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-17, 15-17, 15-18, 12-10, 11-12, 11-12, 11-10 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
   - Rotten bunches (Aug 2026): Rotten/over-ripe bunches found on the palms (photos 9-14, P98, P99, P00, P01) (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 18 days (2nd round); 371.07 t FFB harvested with 363 harvester man-days = 1.02 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM56.00/t; productivity 1.02 t/man-day; average earning RM57.12/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 18 days (2nd round); 371.07 t FFB harvested with 363 harvester man-days = 1.02 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM56.00/t; productivity 1.02 t/man-day; average earning RM57.12/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: Jul–Nov 21-25 days, Dec 16-20 (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
   - Productivity: Lowest harvester productivity in the estate, 1.02 t/man-day, earnings RM57.12/day (PA 1/2026)
 Pruning:
@@ -139,8 +133,7 @@ Spraying progress (to Aug 2026):
   - Inter-row weeding · 2nd rd: 100% — 188 ha to date (Agro 2/2026)
   - Circle weeding · 1st rd: 50% — 94 ha to date (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 2nd round (programme May), month completed Jul; 188.00 ha to date of 282.00 ha year programme; 100% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Feb), month completed Mar; 94.00 ha to date of 282.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 2nd round (programme May), month completed Jul; 188.00 ha to date of 282.00 ha year programme; 100% as printed (Table 11) | 1st round (programme Feb), month completed Mar; 94.00 ha to date of 282.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Selective weeding quality (Aug 2026): Incomplete eradication of broadleaf weeds after recent selective weeding, likely inadequate wetting of systemic herbicide (shortcoming highlighted before in P99, P04 and P09) (Agro 2/2026)
   - VOPs (Aug 2026): Significant numbers of volunteer oil palm seedlings within palm circles (Agro 2/2026)
   - Ground cover (Aug 2026): Soft grasses dominant (improved where 2 inter-row rounds done); keep soft grasses and Nephrolepis biserrata on hilly ground for erosion control (Agro 2/2026)
@@ -161,18 +154,13 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 10.32 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Older planting yield below average to Aug 2026; incomplete crop recovery in ravines and under-pruned areas, tall palms harder to harvest, etiolation in ravines, poor loose-fruit collection (Agro 2/2026)
-  - Jan–Mar 2026: 277.18 t FFB = 2.95 t/ha (block 94 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 976.52 t = 10.39 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 1,786.00 t = 19.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 7.44 t/ha vs estimate 9.44 t/ha; 9.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 1.59 t/ha with 3.00 rounds (estimate for the year 9.44 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 277.18 t FFB = 2.95 t/ha (block 94 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 976.52 t = 10.39 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 1,786.00 t = 19.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 7.44 t/ha vs estimate 9.44 t/ha; 9.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 1.59 t/ha with 3.00 rounds (estimate for the year 9.44 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
   - Comment: Jul–Mar yield of 10.39 t/ha; Jun–Dec 2025 yield 7.44 t/ha was the lowest of the mature blocks and below its 9.44 estimate; PA kept it among postponed replants (PA 1/2026)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-14, 14-16, 14-16, 16-12, 15-13, 15-13, 14-12 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
   - Over-ripe bunches (Aug 2026): Significant number of over-ripe bunches on collection platforms in P99A; rotten/over-ripe bunches on palms (photos, P98–P01); crop quality assessed in P99B; incomplete loose-fruit collection in P99 (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 16 days (2nd round); 277.18 t FFB harvested with 168 harvester man-days = 1.65 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM56.00/t; productivity 1.65 t/man-day; average earning RM92.40/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 16 days (2nd round); 277.18 t FFB harvested with 168 harvester man-days = 1.65 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM56.00/t; productivity 1.65 t/man-day; average earning RM92.40/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: Jul–Nov 21-25 days, Dec 16-20 (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 2/12; previous 155 ha, this month 0 ha; to date 155.00 ha (previously 155.00, updated 155.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -195,8 +183,7 @@ Spraying progress (to Aug 2026):
   - Inter-row weeding · 2nd rd: 100% — 312 ha to date (Agro 2/2026)
   - Circle weeding · 1st rd: 50% — 156 ha to date (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 2nd round (programme May), month completed Jul; 312.00 ha to date of 468.00 ha year programme; 100% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Feb), month completed Mar; 156.00 ha to date of 468.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 2nd round (programme May), month completed Jul; 312.00 ha to date of 468.00 ha year programme; 100% as printed (Table 11) | 1st round (programme Feb), month completed Mar; 156.00 ha to date of 468.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Selective weeding quality (Aug 2026): Incomplete eradication of broadleaf weeds after recent selective weeding, likely inadequate wetting of systemic herbicide (shortcoming highlighted before in P99, P04 and P09) (Agro 2/2026)
   - Circles (Aug 2026): Circle condition improved (previously soft weeds such as Ageratum conyzoides) (Agro 2/2026)
   - VOPs (Aug 2026): Significant numbers of volunteer oil palm seedlings within palm circles (Agro 2/2026)
@@ -219,18 +206,13 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 9.71 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Older planting yield below average to Aug 2026; incomplete crop recovery in ravines and under-pruned areas, tall palms harder to harvest, etiolation in ravines, poor loose-fruit collection (Agro 2/2026)
-  - Jan–Mar 2026: 498.02 t FFB = 3.19 t/ha (block 156 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 2,005.60 t = 12.86 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 2,964.00 t = 19.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 9.67 t/ha vs estimate 9.37 t/ha; 9.50 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.44 t/ha with 3.50 rounds (estimate for the year 9.37 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 498.02 t FFB = 3.19 t/ha (block 156 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 2,005.60 t = 12.86 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 2,964.00 t = 19.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 9.67 t/ha vs estimate 9.37 t/ha; 9.50 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.44 t/ha with 3.50 rounds (estimate for the year 9.37 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-15, 14-17, 15-17, 16-13, 14-13, 14-13, 14-13 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
   - Rotten bunches (Aug 2026): Rotten/over-ripe bunches found on the palms (photos 9-14, P98, P99, P00, P01) (Agro 2/2026)
   - Loose fruit (Aug 2026): Incomplete loose-fruit collection seen in P00 (photos 21-22) (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 17 days (2nd round); 498.02 t FFB harvested with 416 harvester man-days = 1.20 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM51.00/t; productivity 1.20 t/man-day; average earning RM61.20/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 17 days (2nd round); 498.02 t FFB harvested with 416 harvester man-days = 1.20 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM51.00/t; productivity 1.20 t/man-day; average earning RM61.20/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: Jul–Nov 21-25 days, Dec 16-20 (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 2/12; previous 237 ha, this month 0 ha; to date 237.00 ha (previously 237.00, updated 237.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -253,8 +235,7 @@ Spraying progress (to Aug 2026):
 Manuring progress:
   - Advice: omit Sep 2026 Mix A: Final Mix A round scheduled Sep 2026 to be omitted (estate unlikely to finish the programme); prioritise 2nd/3rd mixture rounds in prime mature areas (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme May), month completed Jul; 85.00 ha to date of 255.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Feb), month completed Feb; 85.00 ha to date of 255.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme May), month completed Jul; 85.00 ha to date of 255.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Feb), month completed Feb; 85.00 ha to date of 255.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - VOPs (Aug 2026): Significant numbers of volunteer oil palm seedlings within palm circles (Agro 2/2026)
   - Ground cover (Aug 2026): Soft grasses dominant (improved where 2 inter-row rounds done); keep soft grasses and Nephrolepis biserrata on hilly ground for erosion control (Agro 2/2026)
   - Acceptable circles (Aug 2026): Acceptable circle conditions observed in parts of the field (photos 67-74) (Agro 2/2026)
@@ -279,17 +260,12 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 12.29 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Older planting yield below average to Aug 2026; incomplete crop recovery in ravines and under-pruned areas, tall palms harder to harvest, etiolation in ravines, poor loose-fruit collection (Agro 2/2026)
-  - Jan–Mar 2026: 285.84 t FFB = 3.36 t/ha (block 85 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,302.06 t = 15.32 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 1,870.00 t = 22.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 11.96 t/ha vs estimate 10.44 t/ha; 10.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.22 t/ha with 3.50 rounds (estimate for the year 10.44 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 285.84 t FFB = 3.36 t/ha (block 85 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,302.06 t = 15.32 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 1,870.00 t = 22.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 11.96 t/ha vs estimate 10.44 t/ha; 10.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.22 t/ha with 3.50 rounds (estimate for the year 10.44 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-17, 16-17, 15-17, 16-11, 14-13, 14-13, 12-11 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
   - Rotten bunches (Aug 2026): Rotten/over-ripe bunches found on the palms (photos 9-14, P98, P99, P00, P01) (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 16 days (1st round) and 17 days (2nd round); 285.84 t FFB harvested with 202 harvester man-days = 1.42 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM48.00/t; productivity 1.42 t/man-day; average earning RM68.16/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 16 days (1st round) and 17 days (2nd round); 285.84 t FFB harvested with 202 harvester man-days = 1.42 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM48.00/t; productivity 1.42 t/man-day; average earning RM68.16/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: Jul–Nov 21-25 days, Dec 16-20 (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 2/12; previous 140 ha, this month 0 ha; to date 140.00 ha (previously 140.00, updated 140.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -312,8 +288,7 @@ Manuring progress:
   - Outstanding at Jul 2026: Mix A (May) not yet applied (Tables 4-6) (Agro 2/2026)
   - Advice: omit Sep 2026 Mix A: Final Mix A round scheduled Sep 2026 to be omitted (estate unlikely to finish the programme); prioritise 2nd/3rd mixture rounds in prime mature areas (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Jan), month completed Jun; 23.00 ha to date of 69.00 ha year programme; 100% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Feb), month completed Feb; 23.00 ha to date of 69.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Jan), month completed Jun; 23.00 ha to date of 69.00 ha year programme; 100% as printed (Table 11) | 1st round (programme Feb), month completed Feb; 23.00 ha to date of 69.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Broadleaf weeds (Aug 2026): Significant patches of broadleaf weeds (mainly Clidemia hirta) from delayed inter-row weeding; prioritise inter-row weeding, selective spraying with metsulfuron-methyl and triclopyr (Agro 2/2026)
   - VOPs (Aug 2026): Significant numbers of volunteer oil palm seedlings within palm circles (Agro 2/2026)
   - Ground cover (Aug 2026): Soft grasses dominant (improved where 2 inter-row rounds done); keep soft grasses and Nephrolepis biserrata on hilly ground for erosion control (Agro 2/2026)
@@ -340,16 +315,11 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 11.50 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Older planting yield below average to Aug 2026; incomplete crop recovery in ravines and under-pruned areas, tall palms harder to harvest, etiolation in ravines, poor loose-fruit collection (Agro 2/2026)
-  - Jan–Mar 2026: 68.12 t FFB = 2.96 t/ha (block 23 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 335.42 t = 14.58 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 506.00 t = 22.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 11.62 t/ha vs estimate 10.48 t/ha; 9.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.45 t/ha with 4.00 rounds (estimate for the year 10.48 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 68.12 t FFB = 2.96 t/ha (block 23 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 335.42 t = 14.58 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 506.00 t = 22.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 11.62 t/ha vs estimate 10.48 t/ha; 9.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.45 t/ha with 4.00 rounds (estimate for the year 10.48 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 15, 15-18, 15-18, 17-13, 15-15, 11-15, 11-15 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 18 days (2nd round); 68.12 t FFB harvested with 60 harvester man-days = 1.14 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM48.00/t; productivity 1.14 t/man-day; average earning RM54.72/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 18 days (2nd round); 68.12 t FFB harvested with 60 harvester man-days = 1.14 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM48.00/t; productivity 1.14 t/man-day; average earning RM54.72/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: Jul–Nov 21-25 days, Dec 16-20 (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 1/12; previous 21 ha, this month 0 ha; to date 21.00 ha (previously 21.00, updated 21.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -374,8 +344,7 @@ Manuring progress:
   - Outstanding at Jul 2026: Mix A (May) not yet applied (Tables 4-6) (Agro 2/2026)
   - Advice: omit Sep 2026 Mix A: Final Mix A round scheduled Sep 2026 to be omitted (estate unlikely to finish the programme); prioritise 2nd/3rd mixture rounds in prime mature areas (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Feb), month completed Jun; 87.00 ha to date of 261.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Mar), month completed Feb; 87.00 ha to date of 261.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Feb), month completed Jun; 87.00 ha to date of 261.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Mar), month completed Feb; 87.00 ha to date of 261.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Broadleaf weeds (Aug 2026): Significant patches of broadleaf weeds (mainly Clidemia hirta) from delayed inter-row weeding; prioritise inter-row weeding, selective spraying with metsulfuron-methyl and triclopyr (Agro 2/2026)
   - Weeds (Aug 2025): Overgrown Clidemia hirta / Hedyotis verticillata in P04; circles of P04 overgrown with grasses or Ageratum; circles due for spraying (photos 50-51) (Agro 1/2025)
 Fertiliser programme (next year) 2027:
@@ -401,16 +370,11 @@ Pests & diseases:
   - Ganoderma (Apr 2026 PA): Several palms in PM04 with Ganoderma: basal stem rot and unopened spears (photos 7-8); palm census and deboling of fallen stumps required (10.10); fallen infested stumps to be deboled and exposed to sunlight; in fields under 20 years mounding the base prolongs life. Agro Jan 2026: Ganoderma negligible, no treatment (PA 1/2026)
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 9.97 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
-  - Jan–Mar 2026: 393.06 t FFB = 4.52 t/ha (block 87 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,550.12 t = 17.82 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 2,088.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 13.30 t/ha vs estimate 11.00 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.69 t/ha with 4.00 rounds (estimate for the year 11.00 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 393.06 t FFB = 4.52 t/ha (block 87 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,550.12 t = 17.82 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 2,088.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 13.30 t/ha vs estimate 11.00 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.69 t/ha with 4.00 rounds (estimate for the year 11.00 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-16, 14-16, 14-16, 16-14, 14-15, 14-11, 12-15 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 16 days (2nd round); 393.06 t FFB harvested with 254 harvester man-days = 1.55 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM48.00/t; productivity 1.55 t/man-day; average earning RM74.40/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 16 days (2nd round); 393.06 t FFB harvested with 254 harvester man-days = 1.55 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM48.00/t; productivity 1.55 t/man-day; average earning RM74.40/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: 16-20 days Jul–Dec (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 2/12; previous 143 ha, this month 0 ha; to date 143.00 ha (previously 143.00, updated 143.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -436,8 +400,7 @@ Manuring progress:
   - Outstanding at Jul 2026: Mix A (May); RP (Jun) not yet applied (Tables 4-6) (Agro 2/2026)
   - Advice: omit Sep 2026 Mix A: Final Mix A round scheduled Sep 2026 to be omitted (estate unlikely to finish the programme); prioritise 2nd/3rd mixture rounds in prime mature areas (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Jun), month completed Jan; 58.00 ha to date of 174.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Mar), month completed Mar; 58.00 ha to date of 174.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Jun), month completed Jan; 58.00 ha to date of 174.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Mar), month completed Mar; 58.00 ha to date of 174.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Circles (Aug 2026): Circle condition improved (previously soft weeds such as Ageratum conyzoides) (Agro 2/2026)
   - Ground cover (Aug 2026): Soft grasses dominant (improved where 2 inter-row rounds done); keep soft grasses and Nephrolepis biserrata on hilly ground for erosion control (Agro 2/2026)
   - Acceptable circles (Aug 2026): Acceptable circle conditions observed in parts of the field (photos 67-74) (Agro 2/2026)
@@ -466,16 +429,11 @@ Pests & diseases:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 11.33 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Older planting yield below average to Aug 2026; incomplete crop recovery in ravines and under-pruned areas, tall palms harder to harvest, etiolation in ravines, poor loose-fruit collection (Agro 2/2026)
-  - Jan–Mar 2026: 198.65 t FFB = 3.43 t/ha (block 58 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,022.89 t = 17.64 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 1,392.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 14.21 t/ha vs estimate 11.97 t/ha; 10.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.92 t/ha with 4.00 rounds (estimate for the year 11.97 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 198.65 t FFB = 3.43 t/ha (block 58 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,022.89 t = 17.64 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 1,392.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 14.21 t/ha vs estimate 11.97 t/ha; 10.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.92 t/ha with 4.00 rounds (estimate for the year 11.97 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 15-17, 15, 15-18, 20-15, 17-16, 17-16, 11-15 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 5.00 rounds Jan–Mar; March interval 15 days (1st round) and 18 days (2nd round); 198.65 t FFB harvested with 171 harvester man-days = 1.16 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM45.00/t; productivity 1.16 t/man-day; average earning RM52.20/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 5.00 rounds Jan–Mar; March interval 15 days (1st round) and 18 days (2nd round); 198.65 t FFB harvested with 171 harvester man-days = 1.16 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM45.00/t; productivity 1.16 t/man-day; average earning RM52.20/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: 16-20 days Jul–Dec (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 2/12; previous 99 ha, this month 0 ha; to date 99.00 ha (previously 99.00, updated 99.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -501,8 +459,7 @@ Spraying progress (to Aug 2026):
 Manuring progress:
   - Outstanding at Jul 2026: Mix B (Apr); Mix B (Jul); RP (Jun) not yet applied (Tables 4-6) (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Jun), month completed Feb; 39.00 ha to date of 117.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Mar), month completed Jun; 39.00 ha to date of 117.00 ha year programme; 100% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Jun), month completed Feb; 39.00 ha to date of 117.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Mar), month completed Jun; 39.00 ha to date of 117.00 ha year programme; 100% as printed (Table 12) (Agro 2/2026)
   - Broadleaf weeds (Aug 2026): Significant patches of broadleaf weeds (mainly Clidemia hirta) from delayed inter-row weeding; prioritise inter-row weeding, selective spraying with metsulfuron-methyl and triclopyr (Agro 2/2026)
   - Acceptable circles (Aug 2026): Acceptable circle conditions observed in parts of the field (photos 67-74) (Agro 2/2026)
 Fertiliser programme (next year) 2027:
@@ -528,16 +485,11 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 12.10 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Prime planting: yield improved since the takeover but not yet at full potential (Agro 2/2026)
-  - Jan–Mar 2026: 169.08 t FFB = 4.34 t/ha (block 39 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 717.84 t = 18.41 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 975.00 t = 25.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 14.07 t/ha vs estimate 12.08 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.93 t/ha with 4.00 rounds (estimate for the year 12.08 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 169.08 t FFB = 4.34 t/ha (block 39 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 717.84 t = 18.41 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 975.00 t = 25.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 14.07 t/ha vs estimate 12.08 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.93 t/ha with 4.00 rounds (estimate for the year 12.08 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-17, 14-17, 17, 18-16, 18-16, 18-16, 11-14 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
   - Crop recovery (Aug 2026): Incomplete harvesting in ravines of older plantings (palms missed, bunches rotting on palms); loose fruit not fully collected where debris or weeds obstruct; harvester productivity in older plantings under 1.5 mt/man-day; excessive dry hanging fronds block visibility (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 1.00 rounds in March, 5.00 rounds Jan–Mar; March interval 17 days (1st round) (no 2nd round); 169.08 t FFB harvested with 132 harvester man-days = 1.28 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM45.00/t; productivity 1.28 t/man-day; average earning RM57.60/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 1.00 rounds in March, 5.00 rounds Jan–Mar; March interval 17 days (1st round) (no 2nd round); 169.08 t FFB harvested with 132 harvester man-days = 1.28 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM45.00/t; productivity 1.28 t/man-day; average earning RM57.60/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: 16-20 days Jul–Dec (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 2/12; previous 64 ha, this month 0 ha; to date 64.00 ha (previously 64.00, updated 64.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -567,8 +519,7 @@ Manuring progress:
   - Advice: skip Oct 2026 Mix B: Final Mix B round scheduled Oct 2026 to be skipped; complete RP in all recommended blocks (Agro 2/2026)
   - Surplus stock allocation: NK1 1,500 g/palm; MOP 1,500 g/palm; urea 1,000 g/palm (P15 or P16) (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Jun), month completed Jan; 95.00 ha to date of 285.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Mar), month completed Apr; 95.00 ha to date of 285.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Jun), month completed Jan; 95.00 ha to date of 285.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Mar), month completed Apr; 95.00 ha to date of 285.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Broadleaf weeds (Aug 2026): Significant patches of broadleaf weeds (mainly Clidemia hirta) from delayed inter-row weeding; prioritise inter-row weeding, selective spraying with metsulfuron-methyl and triclopyr (Agro 2/2026)
   - Acceptable circles (Aug 2026): Acceptable circle conditions observed in parts of the field (photos 67-74) (Agro 2/2026)
 Fertiliser programme (next year) 2027:
@@ -594,15 +545,10 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 13.42 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Prime planting: yield improved since the takeover but not yet at full potential (Agro 2/2026)
-  - Jan–Mar 2026: 371.23 t FFB = 3.91 t/ha (block 95 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,949.77 t = 20.52 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 2,470.00 t = 26.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 16.62 t/ha vs estimate 12.52 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 3.54 t/ha with 4.00 rounds (estimate for the year 12.52 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 371.23 t FFB = 3.91 t/ha (block 95 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,949.77 t = 20.52 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 2,470.00 t = 26.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 16.62 t/ha vs estimate 12.52 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 3.54 t/ha with 4.00 rounds (estimate for the year 12.52 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 15-17, 14-16, 14-16, 5-12, 8-13, 8-13, 12-12 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 16 days (2nd round); 371.23 t FFB harvested with 215 harvester man-days = 1.73 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM43.00/t; productivity 1.73 t/man-day; average earning RM74.39/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 16 days (2nd round); 371.23 t FFB harvested with 215 harvester man-days = 1.73 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM43.00/t; productivity 1.73 t/man-day; average earning RM74.39/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: 16-20 days Jul–Dec (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
 Pruning:
   - Progressive pruning (Aug 2026): Round 6/12; previous 665 ha, this month 0 ha; to date 665.00 ha (previously 665.00, updated 665.00); 0% as printed (Table 10). Progressive pruning not on schedule in most fields (Agro 2/2026)
@@ -633,8 +579,7 @@ Manuring progress:
   - Advice: skip Oct 2026 Mix B: Final Mix B round scheduled Oct 2026 to be skipped; complete RP in all recommended blocks (Agro 2/2026)
   - Surplus stock allocation: Kieserite 1,000 g/palm; urea 1,000 g/palm (P15 or P16) (Agro 2/2026)
 Spraying & weeding:
-  - Inter-row weeding (to Aug 2026): 1st round (programme Jun), month completed Feb; 78.00 ha to date of 234.00 ha year programme; 50% as printed (Table 11) (Agro 2/2026)
-  - Circle weeding (to Aug 2026): 1st round (programme Mar), month completed Apr; 78.00 ha to date of 234.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
+  - Weeding to Aug 2026: 1st round (programme Jun), month completed Feb; 78.00 ha to date of 234.00 ha year programme; 50% as printed (Table 11) | 1st round (programme Mar), month completed Apr; 78.00 ha to date of 234.00 ha year programme; 50% as printed (Table 12) (Agro 2/2026)
   - Broadleaf weeds (Aug 2026): Significant patches of broadleaf weeds (mainly Clidemia hirta) from delayed inter-row weeding; prioritise inter-row weeding, selective spraying with metsulfuron-methyl and triclopyr (Agro 2/2026)
   - Circles (Aug 2026): Circle condition improved (previously soft weeds such as Ageratum conyzoides) (Agro 2/2026)
   - Acceptable circles (Aug 2026): Acceptable circle conditions observed in parts of the field (photos 67-74) (Agro 2/2026)
@@ -663,16 +608,11 @@ Pests & diseases:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 14.85 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Prime planting: yield improved since the takeover but not yet at full potential (Agro 2/2026)
-  - Jan–Mar 2026: 402.28 t FFB = 5.16 t/ha (block 78 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,785.17 t = 22.89 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 2,028.00 t = 26.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 17.73 t/ha vs estimate 12.71 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 3.13 t/ha with 4.00 rounds (estimate for the year 12.71 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 402.28 t FFB = 5.16 t/ha (block 78 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,785.17 t = 22.89 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 2,028.00 t = 26.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 17.73 t/ha vs estimate 12.71 t/ha; 11.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 3.13 t/ha with 4.00 rounds (estimate for the year 12.71 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
   - Comment: Best Jan–Mar yield (5.16 t/ha) and best Jul–Mar yield (22.89 t/ha) in the estate; prime planting performing well, over 15 t/ha Jun–Dec (PA 1/2026)
 Harvesting:
   - Harvest interval Jan–Jul 2026 (days): Jan–Jul by month: 14-17, 14-17, 14-17, 12-14, 12-13, 12-13, 12-12 (Table 9, estate records). Agronomist: intervals within acceptable range but crop recovery still suboptimal (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 17 days (2nd round); 402.28 t FFB harvested with 215 harvester man-days = 1.87 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM43.00/t; productivity 1.87 t/man-day; average earning RM80.14/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 14 days (1st round) and 17 days (2nd round); 402.28 t FFB harvested with 215 harvester man-days = 1.87 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM43.00/t; productivity 1.87 t/man-day; average earning RM80.14/day (PA 1/2026)
   - Harvest interval Jul–Dec 2025: 16-20 days Jul–Dec (Agro Table 6; the report says records differ from the previous visit and need estate verification) (Agro 1/2026)
   - Loose fruit (Aug 2025): At 15-day intervals no obvious delay and few over-ripe bunches, but loose fruit collection incomplete (photos 14-15) (Agro 1/2025)
 Pruning:
@@ -731,16 +671,11 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 5.19 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Very low yield to date, far below P19B of the same age: poor access in hilly sections and large unplantable areas; SPH under 100 in the drone census (Agro 2/2026)
-  - Jan–Mar 2026: 73.47 t FFB = 1.75 t/ha (block 42 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 407.47 t = 9.70 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 630.00 t = 15.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 7.95 t/ha vs estimate 7.79 t/ha; 8.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.14 t/ha with 4.00 rounds (estimate for the year 7.79 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 73.47 t FFB = 1.75 t/ha (block 42 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 407.47 t = 9.70 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 630.00 t = 15.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 7.95 t/ha vs estimate 7.79 t/ha; 8.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.14 t/ha with 4.00 rounds (estimate for the year 7.79 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
   - Comment: Lowest yield in the estate: 1.75 t/ha Jan–Mar 2026; 9.70 t/ha Jul–Mar vs 15.00 estimate. Steep field with poor access, risky in rain (PA 7.2); only about 8 t/ha Jun–Dec 2025, well below PM19B of the same planting age; reduced yield likely due to poor access in hilly sections and large unplantable areas; drone survey to fix planted area and density (PA 1/2026)
 Harvesting:
   - Young mature harvesting (Aug 2026): Estate records: intervals 10–18 days; no signs of harvesting delay at inspection; crop prospects promising except in hilly P19A (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 1.50 rounds in March, 5.50 rounds Jan–Mar; March interval 17 days (1st round) and 20 days (2nd round); 73.47 t FFB harvested with 60 harvester man-days = 1.22 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM65.00/t; productivity 1.22 t/man-day; average earning RM79.30/day (steep terrain) (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 1.50 rounds in March, 5.50 rounds Jan–Mar; March interval 17 days (1st round) and 20 days (2nd round); 73.47 t FFB harvested with 60 harvester man-days = 1.22 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM65.00/t; productivity 1.22 t/man-day; average earning RM79.30/day (steep terrain) (PA 1/2026)
   - Interval 2025: Young mature P19-P21: intervals often extended to about 20 days in 2025 but no delays seen at the Jan 2026 inspection; harvesting in P19A more challenging (hilly terrain) (Agro 1/2026)
 Pruning:
   - Young mature pruning quality (Aug 2026): No delays reported but quality unsatisfactory: slight over-pruning during harvesting, one-sided pruning with fronds left in terraced areas, fronds not stacked in designated areas (left in palm circles in P19 and P20). Retain 2 subtending fronds; stack on terrace lips, not backslopes (Agro 2/2026)
@@ -795,15 +730,10 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 15.43 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Satisfactory, over 15 mt/ha to Aug 2026 (age and better agronomy); expected to exceed 25 mt/ha by year end (Agro 2/2026)
-  - Jan–Mar 2026: 89.82 t FFB = 4.49 t/ha (block 20 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 415.45 t = 20.77 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 500.00 t = 25.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 16.28 t/ha vs estimate 11.00 t/ha; 9.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.95 t/ha with 4.50 rounds (estimate for the year 11.00 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 89.82 t FFB = 4.49 t/ha (block 20 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 415.45 t = 20.77 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 500.00 t = 25.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 16.28 t/ha vs estimate 11.00 t/ha; 9.00 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.95 t/ha with 4.50 rounds (estimate for the year 11.00 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Young mature harvesting (Aug 2026): Estate records: intervals 10–18 days; no signs of harvesting delay at inspection; crop prospects promising except in hilly P19A (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 19 days (1st round) and 16 days (2nd round); 89.82 t FFB harvested with 64 harvester man-days = 1.40 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM55.00/t; productivity 1.40 t/man-day; average earning RM77.00/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 19 days (1st round) and 16 days (2nd round); 89.82 t FFB harvested with 64 harvester man-days = 1.40 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM55.00/t; productivity 1.40 t/man-day; average earning RM77.00/day (PA 1/2026)
   - Interval 2025: As P19A: intervals about 20 days in 2025 for P19-P21, none seen delayed at Jan 2026 visit (Agro 1/2026)
 Pruning:
   - Young mature pruning quality (Aug 2026): No delays reported but quality unsatisfactory: slight over-pruning during harvesting, one-sided pruning with fronds left in terraced areas, fronds not stacked in designated areas (left in palm circles in P19 and P20). Retain 2 subtending fronds; stack on terrace lips, not backslopes (Agro 2/2026)
@@ -858,16 +788,11 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 17.29 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Satisfactory, over 15 mt/ha to Aug 2026 (age and better agronomy); expected to exceed 25 mt/ha by year end (Agro 2/2026)
-  - Jan–Mar 2026: 321.59 t FFB = 4.95 t/ha (block 65 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,436.86 t = 22.11 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 1,560.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 17.16 t/ha vs estimate 10.86 t/ha; 9.50 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 3.18 t/ha with 5.00 rounds (estimate for the year 10.86 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 321.59 t FFB = 4.95 t/ha (block 65 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,436.86 t = 22.11 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 1,560.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 17.16 t/ha vs estimate 10.86 t/ha; 9.50 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 3.18 t/ha with 5.00 rounds (estimate for the year 10.86 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
   - Comment: Jul–Mar yield 22.11 t/ha; highest harvester productivity in the estate (PA 1/2026)
 Harvesting:
   - Young mature harvesting (Aug 2026): Estate records: intervals 10–18 days; no signs of harvesting delay at inspection; crop prospects promising except in hilly P19A (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 16 days (1st round) and 16 days (2nd round); 321.59 t FFB harvested with 149 harvester man-days = 2.16 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM55.00/t; productivity 2.16 t/man-day; average earning RM118.80/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 16 days (1st round) and 16 days (2nd round); 321.59 t FFB harvested with 149 harvester man-days = 2.16 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM55.00/t; productivity 2.16 t/man-day; average earning RM118.80/day (PA 1/2026)
   - Interval 2025: Young mature P19-P21: intervals often about 20 days in 2025; no delays seen at Jan 2026 inspection; crop prospects promising (Agro 1/2026)
   - Productivity: Highest harvester productivity in the estate 2.16 t/man-day, earnings RM118.80/day (PA 1/2026)
 Pruning:
@@ -921,15 +846,10 @@ Fertiliser programme (previous year) 2025:
 Yield:
   - Jan–Aug 2026 (as of Aug 2026): 16.15 t/ha. Estate mature 1,030 ha: 11.58 t/ha (Table 13). No 2025 block comparison possible (previous year's data unavailable) (Agro 2/2026)
   - Assessment (Aug 2026): Satisfactory, over 15 mt/ha to Aug 2026 (age and better agronomy); expected to exceed 25 mt/ha by year end (Agro 2/2026)
-  - Jan–Mar 2026: 297.04 t FFB = 4.50 t/ha (block 66 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate (PA 1/2026)
-  - Jul 2025–Mar 2026 (9 months since takeover): 1,089.07 t = 16.50 t/ha. Estate: 16,634.51 t = 16.15 t/ha (PA 1/2026)
-  - 2026 full-year estimate: 1,584.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) (PA 1/2026)
-  - Jun–Dec 2025: 12.00 t/ha vs estimate 7.92 t/ha; 10.50 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) (Agro 1/2026)
-  - Jun–Jul 2025 (first two months after takeover): 2.14 t/ha with 5.00 rounds (estimate for the year 7.92 t/ha). Estate 2.62 t/ha, 4.04 rounds (Agro 1/2025)
+  - Yield by period (t/ha): 297.04 t FFB = 4.50 t/ha (block 66 ha). Estate: 3,816.45 t = 3.71 t/ha, 23.34% below the 4,978.62 t estimate | 1,089.07 t = 16.50 t/ha. Estate: 16,634.51 t = 16.15 t/ha | 1,584.00 t = 24.00 t/ha (estate estimate 22,671.00 t = 22.01 t/ha; Agro expects over 20 t/ha in 2026) | 12.00 t/ha vs estimate 7.92 t/ha; 10.50 harvesting rounds to date. Estate: 12.45 vs 10.39 t/ha estimate (20% above) | 2.14 t/ha with 5.00 rounds (estimate for the year 7.92 t/ha). Estate 2.62 t/ha, 4.04 rounds (PA 1/2026 · Agro 1/2026 · Agro 1/2025)
 Harvesting:
   - Young mature harvesting (Aug 2026): Estate records: intervals 10–18 days; no signs of harvesting delay at inspection; crop prospects promising except in hilly P19A (Agro 2/2026)
-  - Jan–Mar 2026 rounds and intervals: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 16 days (2nd round); 297.04 t FFB harvested with 145 harvester man-days = 2.05 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day (PA 1/2026)
-  - Harvest rate and earnings (Mar 2026): RM55.00/t; productivity 2.05 t/man-day; average earning RM112.75/day (PA 1/2026)
+  - Harvesting Jan–Mar 2026: 2.00 rounds in March, 6.00 rounds Jan–Mar; March interval 15 days (1st round) and 16 days (2nd round); 297.04 t FFB harvested with 145 harvester man-days = 2.05 t per harvester-day. Estate: 1.89 rounds in March, 5.89 Jan–Mar, 15 and 16 days, 3,816.45 t, 2,614 man-days, 1.46 t/day | RM55.00/t; productivity 2.05 t/man-day; average earning RM112.75/day (PA 1/2026)
   - Interval 2025: Young mature P19-P21: intervals often about 20 days in 2025; no delays seen at Jan 2026 inspection; crop prospects promising (Agro 1/2026)
 Pruning:
   - Young mature pruning quality (Aug 2026): No delays reported but quality unsatisfactory: slight over-pruning during harvesting, one-sided pruning with fronds left in terraced areas, fronds not stacked in designated areas (left in palm circles in P19 and P20). Retain 2 subtending fronds; stack on terrace lips, not backslopes (Agro 2/2026)

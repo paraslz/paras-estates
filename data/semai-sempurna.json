@@ -185,56 +185,197 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan-Jun 2026 yield",
+      "k": "Yield Jan–Jun 2026 vs 2025",
       "v": "8.97 t/ha (1,559.48 t on 173.90 ha) vs 8.80 t/ha Jan-Jun 2025; change +1.93%",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Jun 2026",
+        "v": "8.97 t/ha",
+        "d": "1,559.48 t on 173.90 ha · +1.93%"
+       },
+       {
+        "l": "Jan–Jun 2025",
+        "v": "8.80 t/ha"
+       }
+      ]
      },
      {
-      "k": "Full-year yield, t/ha",
-      "v": "2021 20.68; 2022 19.44; 2023 15.38; 2024 22.41; 2025 18.66 (Agro 1/2026 App 2a; 2021 from that report)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Full-year FFB, t",
+      "k": "Full-year FFB (t)",
       "v": "2022 3,379.76; 2023 2,674.08; 2024 3,896.65; 2025 3,244.84 (Agro 2/2026 App 3a)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "2025 vs 2024",
-      "v": "-16.7% in t/ha (22.41 to 18.66)",
-      "src": "Agro 1/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "FFB (t)"
+       ],
+       "rows": [
+        [
+         "2022",
+         "3,379.76"
+        ],
+        [
+         "2023",
+         "2,674.08"
+        ],
+        [
+         "2024",
+         "3,896.65"
+        ],
+        [
+         "2025",
+         "3,244.84"
+        ]
+       ]
+      }
      },
      {
       "k": "Bunch weight",
       "v": "18.9 kg (Jun 2025) to 20.1 kg (Jun 2026), 2006 planting; PA suspects some 2025 weights abnormal, possible bunch counting errors",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "20.1 kg",
+        "d": "Jun 2026 · 18.9 kg Jun 2025"
+       }
+      ],
+      "note": "2006 planting. PA suspects some 2025 weights abnormal (bunch counting errors)"
+     },
+     {
+      "k": "Full-year yield, t/ha",
+      "v": "2021 20.68; 2022 19.44; 2023 15.38; 2024 22.41; 2025 18.66 (Agro 1/2026 App 2a; 2021 from that report)",
+      "src": "Agro 1/2026",
+      "hide": true
+     },
+     {
+      "k": "2025 vs 2024",
+      "v": "-16.7% in t/ha (22.41 to 18.66)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "harvesting": [
      {
-      "k": "Harvest interval 2026, days (min-max)",
-      "v": "Jan 12-16; Feb 14-15; Mar 12-13; Apr 12-12; May 13-14; Jun 13-13 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low)",
-      "src": "Agro 2/2026"
+      "k": "Harvest interval, days (min-max)",
+      "v": "Jan 12-16; Feb 14-15; Mar 12-13; Apr 12-12; May 13-14; Jun 13-13 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low) | 15-18, 15-19, 16-19, 15-18, 17-19, 17-19, 8-13, 10-18, 11-18, 7-11, 11-20, 6-11 (Jan to Dec in printed order; table layout garbled in extraction)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2026",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "12-16",
+         "15-18"
+        ],
+        [
+         "Feb",
+         "14-15",
+         "15-19"
+        ],
+        [
+         "Mar",
+         "12-13",
+         "16-19"
+        ],
+        [
+         "Apr",
+         "12-12",
+         "15-18"
+        ],
+        [
+         "May",
+         "13-14",
+         "17-19"
+        ],
+        [
+         "Jun",
+         "13-13",
+         "17-19"
+        ],
+        [
+         "Jul",
+         "–",
+         "8-13"
+        ],
+        [
+         "Aug",
+         "–",
+         "10-18"
+        ],
+        [
+         "Sep",
+         "–",
+         "11-18"
+        ],
+        [
+         "Oct",
+         "–",
+         "7-11"
+        ],
+        [
+         "Nov",
+         "–",
+         "11-20"
+        ],
+        [
+         "Dec",
+         "–",
+         "6-11"
+        ]
+       ]
+      },
+      "note": "Agro: 2026 averaged under 15 days. 2025 table layout garbled in extraction"
      },
      {
-      "k": "Harvest rounds Jan-Jun 2026",
-      "v": "12.00 (100%) (Agro Table 10)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Harvest rounds 2025",
-      "v": "19.17 (79.88% of 24-round target)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Harvest interval 2025, days",
-      "v": "15-18, 15-19, 16-19, 15-18, 17-19, 17-19, 8-13, 10-18, 11-18, 7-11, 11-20, 6-11 (Jan to Dec in printed order; table layout garbled in extraction)",
-      "src": "Agro 1/2026"
+      "k": "Harvest rounds",
+      "v": "12.00 (100%) (Agro Table 10) | 19.17 (79.88% of 24-round target)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Period",
+        "Rounds",
+        "% of target"
+       ],
+       "rows": [
+        [
+         "Jan–Jun 2026",
+         "12.00",
+         "100%"
+        ],
+        [
+         "2025",
+         "19.17",
+         "79.88%"
+        ]
+       ]
+      },
+      "note": "2026: Agro Table 10. 2025 target 24 rounds"
      },
      {
       "k": "Harvester pay, 2006 planting",
       "v": "Rate RM33/t; 1.64 t/man-day; average earnings RM54.12/day vs basic wage RM65.89 in this table (RM65.38 quoted in PA 6.2.4). Below basic wage (Jan-Jun 2026). Shown per planting year; the 2011 row covers P11D and P11E together.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Rate",
+        "v": "RM33/t"
+       },
+       {
+        "l": "Output",
+        "v": "1.64 t/man-day"
+       },
+       {
+        "l": "Avg earnings",
+        "v": "RM54.12/day",
+        "d": "basic wage RM65.89"
+       }
+      ],
+      "note": "Below basic wage (Jan–Jun 2026). Per planting year (2011 row covers P11D and P11E)"
      },
      {
       "k": "Due-for-harvest at Jan 2026 visit",
@@ -256,12 +397,21 @@
      {
       "k": "Mix A, 2.25 kg/palm (2,250 g)",
       "v": "Scheduled Feb; applied/completed Mar 2026 (one month late) per PA table; Agro says Mix A done on time in Feb. 2026 programme was 2,250 g.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "Scheduled Feb; PA table shows completed Mar 2026 (one month late)",
+       "Agro says Mix A done on time in Feb"
+      ],
+      "note": "2026 programme 2,250 g/palm"
      },
      {
       "k": "Rock phosphate (RP) 1,500 g/palm",
       "v": "Scheduled Jun 2026; no apply/complete dates printed at PA. Agro: slight delay in P06A and P09B, completion expected Jul 2026",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "Scheduled Jun 2026; no apply/complete dates printed in PA",
+       "Agro: slight delay in P06A and P09B; completion expected Jul 2026"
+      ]
      },
      {
       "k": "Next round printed",
@@ -273,12 +423,23 @@
      {
       "k": "Broadleaf weeds in vacant areas",
       "v": "Spots of broadleaf weed in vacant areas left by Ganoderma-fallen palms; weed these to prevent Clidemia hirta spreading. Photos 35-38 show broadleaf eradication effective",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Broadleaf spots in vacant areas left by Ganoderma-fallen palms",
+       "Weed them to stop Clidemia hirta spreading",
+       "Photos 35-38: broadleaf eradication effective"
+      ]
      },
      {
       "k": "Circle and VOP photos",
       "v": "A2: circle raking required, VOPs seen; A3: fronds to be restacked away from circles in flood-prone area, VOPs seen; clean inter-rows in A2 and A3 (PA photos 1-5, 11-14)",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "A2: circle raking required, VOPs seen",
+       "A3: restack fronds away from circles in flood-prone area; VOPs seen",
+       "Clean inter-rows in A2 and A3"
+      ],
+      "note": "PA photos 1-5, 11-14"
      },
      {
       "k": "Weeds noted Jan 2026",
@@ -345,22 +506,69 @@
      {
       "k": "Palm census by sub-block",
       "v": "Table 3, palm census last updated 2024: A1 55.40 ha: 6,648 palms, 120 SPH (previous 7,052, 127); A2 55.40 ha: 6,648 palms, 120 SPH (previous 6,394, 115); A3 63.10 ha: 7,572 palms, 120 SPH (previous 8,600, 136)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "ha",
+        "Palms (prev)",
+        "SPH (prev)"
+       ],
+       "rows": [
+        [
+         "A1",
+         "55.40",
+         "6,648 (7,052)",
+         "120 (127)"
+        ],
+        [
+         "A2",
+         "55.40",
+         "6,648 (6,394)",
+         "120 (115)"
+        ],
+        [
+         "A3",
+         "63.10",
+         "7,572 (8,600)",
+         "120 (136)"
+        ]
+       ]
+      },
+      "note": "Palm census last updated 2024"
      },
      {
       "k": "Block palm stand",
       "v": "20,868 palms, 120 SPH",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palm stand",
+        "v": "20,868"
+       },
+       {
+        "l": "SPH",
+        "v": "120"
+       }
+      ]
      },
      {
       "k": "Palm stand loss",
       "v": "Palm count fell from 22,046 to 20,868 (Agro table; sum of previous sub-blocks 22,046). A1 and A2 show identical 6,648 palms, suggesting averaging rather than a true count",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Palm count fell from 22,046 to 20,868",
+       "A1 and A2 both show 6,648 palms: likely averaging, not a true count"
+      ]
      },
      {
       "k": "Vacant areas",
       "v": "Vacant areas from Ganoderma-fallen palms expose ground to sunlight and encourage broadleaf weeds; palm mounding to prolong life of infected palms recommended for P06A (Jan 2026)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Ganoderma-fallen palms leave vacant ground: sunlight, broadleaf weeds",
+       "Palm mounding recommended to prolong life of infected palms (Jan 2026)"
+      ]
      },
      {
       "k": "Flood-prone low area",
@@ -375,44 +583,145 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census, Apr 2026",
-      "v": "12% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 2,495 palms damaged, 12%. Threshold 10%",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Rat damage census, Jun 2026 (post-baiting)",
-      "v": "No June census printed; P06A not baited",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Rat baiting Jan-Jun 2026",
-      "v": "No baiting recorded; PA bait table is blank for A1-A3 although damage 12% is above the 10% threshold",
-      "src": "PA 2/2026"
+      "k": "Rat damage, fresh palms",
+      "v": "12% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 2,495 palms damaged, 12%. Threshold 10% | No June census printed; P06A not baited",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Apr–May 2026 (Agro)",
+        "v": "12%",
+        "d": "PA: 2,495 palms, 12%"
+       },
+       {
+        "l": "Jun 2026",
+        "v": "–",
+        "d": "no June census printed"
+       }
+      ],
+      "note": "Threshold 10%"
      },
      {
       "k": "Rat damage census 2025",
       "v": "Six census values as printed in order: 3%, 10%, 5%, 9%, 1%, 4% (Agro 1/2026 Table 7; month columns illegible, values read as pre- and post-baiting). Two baiting rounds in 2025 with Storm (flocoumafen 0.005% w/w) across all fields",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Census (order printed)",
+        "Damage"
+       ],
+       "rows": [
+        [
+         "1",
+         "3%"
+        ],
+        [
+         "2",
+         "10%"
+        ],
+        [
+         "3",
+         "5%"
+        ],
+        [
+         "4",
+         "9%"
+        ],
+        [
+         "5",
+         "1%"
+        ],
+        [
+         "6",
+         "4%"
+        ]
+       ]
+      },
+      "note": "Month columns illegible; read as pre-/post-baiting. Two Storm (flocoumafen 0.005% w/w) rounds, all fields"
      },
      {
-      "k": "Barn owl boxes Jun 2026",
-      "v": "18 boxes, 8 occupied (44%); adults 6, chicks 2, eggs 0; condition good 15, poor 3",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Barn owl boxes Dec 2025",
-      "v": "49 boxes, 43 occupied (93%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
-      "src": "Agro 1/2026"
+      "k": "Barn owl boxes",
+      "v": "18 boxes, 8 occupied (44%); adults 6, chicks 2, eggs 0; condition good 15, poor 3 | 49 boxes, 43 occupied (93%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "",
+        "Dec 2025",
+        "Jun 2026"
+       ],
+       "rows": [
+        [
+         "Boxes",
+         "49",
+         "18"
+        ],
+        [
+         "Occupied",
+         "43 (93%)",
+         "8 (44%)"
+        ],
+        [
+         "Adults",
+         "–",
+         "6"
+        ],
+        [
+         "Chicks",
+         "–",
+         "2"
+        ],
+        [
+         "Eggs",
+         "–",
+         "0"
+        ],
+        [
+         "Good / poor",
+         "–",
+         "15 / 3"
+        ]
+       ]
+      },
+      "note": "Box count and occupancy fall sharply with no explanation"
      },
      {
       "k": "Ganoderma census 2024 (latest)",
       "v": "20,868 palms; 2,471 infected + 2,189 collapsed = 4,660 (22.33%). No new census since (Agro 1/2026 and 2/2026 same figures)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "2,471"
+       },
+       {
+        "l": "Collapsed",
+        "v": "2,189"
+       },
+       {
+        "l": "Total",
+        "v": "4,660",
+        "d": "22.33% of 20,868 palms"
+       }
+      ],
+      "note": "No new census since 2024"
+     },
+     {
+      "k": "Rat baiting Jan-Jun 2026",
+      "v": "No baiting recorded; PA bait table is blank for A1-A3 although damage 12% is above the 10% threshold",
+      "src": "PA 2/2026",
+      "pts": [
+       "No baiting recorded; PA bait table blank for A1-A3",
+       "Damage 12% is above the 10% threshold"
+      ]
      },
      {
       "k": "Ganoderma trend",
       "v": "Highest infection in estate; many fruiting bodies seen in A2 and A3 (PA photos 36-41); infection rising; deboling of fallen palms to be expedited; palm mounding recommended (Jan 2026)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Highest infection in estate; many fruiting bodies in A2, A3 (PA photos 36-41)",
+       "Infection rising; expedite deboling of fallen palms",
+       "Palm mounding recommended (Jan 2026)"
+      ]
      },
      {
       "k": "Rat photos",
@@ -422,19 +731,36 @@
     ],
     "pruning": [
      {
-      "k": "Pruning Jan-Jun 2026",
-      "v": "1,043.40 of 1,043.40 ha pruned and paid (6 rounds, 100%); programme year 2,086.80 ha; Agro: up to date, progressive pruning",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Pruning cost",
-      "v": "RM100.08/ha/year (2006-2010 plantings)",
-      "src": "PA 2/2026"
+      "k": "Pruning Jan–Jun 2026",
+      "v": "1,043.40 of 1,043.40 ha pruned and paid (6 rounds, 100%); programme year 2,086.80 ha; Agro: up to date, progressive pruning | RM100.08/ha/year (2006-2010 plantings)",
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Pruned and paid",
+        "v": "100%",
+        "d": "1,043.40 of 1,043.40 ha · 6 rounds"
+       },
+       {
+        "l": "Programme year",
+        "v": "2,086.80 ha"
+       },
+       {
+        "l": "Cost",
+        "v": "RM100.08/ha/yr",
+        "d": "2006-2010 plantings"
+       }
+      ],
+      "note": "Agro: up to date, progressive pruning"
      },
      {
       "k": "Fractured fronds",
       "v": "Many fractured fronds in A2 (PA photos 20-21); premature frond snapping in P06A (Ganoderma-linked, Jan 2026); prune only dry fronds",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "Many fractured fronds in A2 (PA photos 20-21)",
+       "Premature frond snapping in P06A, Ganoderma-linked (Jan 2026)",
+       "Prune only dry fronds"
+      ]
      },
      {
       "k": "Frond stacking",
@@ -528,56 +854,197 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan-Jun 2026 yield",
+      "k": "Yield Jan–Jun 2026 vs 2025",
       "v": "7.20 t/ha (1,456.87 t on 202.40 ha) vs 8.98 t/ha Jan-Jun 2025; change -19.82%",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Jun 2026",
+        "v": "7.20 t/ha",
+        "d": "1,456.87 t on 202.40 ha · -19.82%"
+       },
+       {
+        "l": "Jan–Jun 2025",
+        "v": "8.98 t/ha"
+       }
+      ]
      },
      {
-      "k": "Full-year yield, t/ha",
-      "v": "2021 19.70; 2022 24.44; 2023 17.04; 2024 23.48; 2025 20.68 (Agro 1/2026 App 2a; 2021 from that report)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Full-year FFB, t",
+      "k": "Full-year FFB (t)",
       "v": "2022 4,946.53; 2023 3,448.30; 2024 4,751.68; 2025 4,185.80 (Agro 2/2026 App 3a)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "2025 vs 2024",
-      "v": "-11.9% in t/ha (23.48 to 20.68)",
-      "src": "Agro 1/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "FFB (t)"
+       ],
+       "rows": [
+        [
+         "2022",
+         "4,946.53"
+        ],
+        [
+         "2023",
+         "3,448.30"
+        ],
+        [
+         "2024",
+         "4,751.68"
+        ],
+        [
+         "2025",
+         "4,185.80"
+        ]
+       ]
+      }
      },
      {
       "k": "Bunch weight",
       "v": "20.2 kg to 20.0 kg, 2009 planting; PA suspects some 2025 weights abnormal, possible bunch counting errors",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "20.0 kg",
+        "d": "was 20.2 kg"
+       }
+      ],
+      "note": "2009 planting. PA suspects some 2025 weights abnormal (bunch counting errors)"
+     },
+     {
+      "k": "Full-year yield, t/ha",
+      "v": "2021 19.70; 2022 24.44; 2023 17.04; 2024 23.48; 2025 20.68 (Agro 1/2026 App 2a; 2021 from that report)",
+      "src": "Agro 1/2026",
+      "hide": true
+     },
+     {
+      "k": "2025 vs 2024",
+      "v": "-11.9% in t/ha (23.48 to 20.68)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "harvesting": [
      {
-      "k": "Harvest interval 2026, days (min-max)",
-      "v": "Jan 17-18; Feb 14-15; Mar 13-14; Apr 11-12; May 12-13; Jun 13-13 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low)",
-      "src": "Agro 2/2026"
+      "k": "Harvest interval, days (min-max)",
+      "v": "Jan 17-18; Feb 14-15; Mar 13-14; Apr 11-12; May 12-13; Jun 13-13 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low) | 15-19, 15-19, 15-18, 16-19, 16-18, 16-19, 14-19, 12-20, 11-14, 10-19, 13-17, 8-15 (Jan to Dec in printed order; table layout garbled in extraction)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2026",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "17-18",
+         "15-19"
+        ],
+        [
+         "Feb",
+         "14-15",
+         "15-19"
+        ],
+        [
+         "Mar",
+         "13-14",
+         "15-18"
+        ],
+        [
+         "Apr",
+         "11-12",
+         "16-19"
+        ],
+        [
+         "May",
+         "12-13",
+         "16-18"
+        ],
+        [
+         "Jun",
+         "13-13",
+         "16-19"
+        ],
+        [
+         "Jul",
+         "–",
+         "14-19"
+        ],
+        [
+         "Aug",
+         "–",
+         "12-20"
+        ],
+        [
+         "Sep",
+         "–",
+         "11-14"
+        ],
+        [
+         "Oct",
+         "–",
+         "10-19"
+        ],
+        [
+         "Nov",
+         "–",
+         "13-17"
+        ],
+        [
+         "Dec",
+         "–",
+         "8-15"
+        ]
+       ]
+      },
+      "note": "Agro: 2026 averaged under 15 days. 2025 table layout garbled in extraction"
      },
      {
-      "k": "Harvest rounds Jan-Jun 2026",
-      "v": "12.00 (100%) (Agro Table 10)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Harvest rounds 2025",
-      "v": "19.00 (79.17%)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Harvest interval 2025, days",
-      "v": "15-19, 15-19, 15-18, 16-19, 16-18, 16-19, 14-19, 12-20, 11-14, 10-19, 13-17, 8-15 (Jan to Dec in printed order; table layout garbled in extraction)",
-      "src": "Agro 1/2026"
+      "k": "Harvest rounds",
+      "v": "12.00 (100%) (Agro Table 10) | 19.00 (79.17%)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Period",
+        "Rounds",
+        "% of target"
+       ],
+       "rows": [
+        [
+         "Jan–Jun 2026",
+         "12.00",
+         "100%"
+        ],
+        [
+         "2025",
+         "19.00",
+         "79.17%"
+        ]
+       ]
+      },
+      "note": "2026: Agro Table 10"
      },
      {
       "k": "Harvester pay, 2009 planting",
       "v": "Rate RM33/t; 1.55 t/man-day; average earnings RM51.15/day vs basic wage RM65.89 in this table (RM65.38 quoted in PA 6.2.4). Below basic wage (Jan-Jun 2026). Shown per planting year; the 2011 row covers P11D and P11E together.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Rate",
+        "v": "RM33/t"
+       },
+       {
+        "l": "Output",
+        "v": "1.55 t/man-day"
+       },
+       {
+        "l": "Avg earnings",
+        "v": "RM51.15/day",
+        "d": "basic wage RM65.89"
+       }
+      ],
+      "note": "Below basic wage (Jan–Jun 2026). Per planting year (2011 row covers P11D and P11E)"
      },
      {
       "k": "Over-ripe bunches, Jan 2026",
@@ -594,7 +1061,11 @@
      {
       "k": "Rock phosphate (RP) 1,500 g/palm",
       "v": "Scheduled Jun 2026; no apply/complete dates printed. Agro: slight delay in P09B, completion expected Jul 2026",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "Scheduled Jun 2026; no apply/complete dates printed",
+       "Agro: slight delay in P09B; completion expected Jul 2026"
+      ]
      },
      {
       "k": "Next round printed",
@@ -606,12 +1077,22 @@
      {
       "k": "Round 2 inter-row, expected finish",
       "v": "83% at June; expected complete in Jul 2026 (Agro 4.4.3). Photos 39-42 show areas recently selectively weeded",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Round 2 inter-row 83% at June; expected done Jul 2026",
+       "Photos 39-42: areas recently selectively weeded"
+      ],
+      "note": "Agro 4.4.3"
      },
      {
       "k": "Circle and VOP photos",
       "v": "B2 and B4: circle raking required; B3 and B4 circles clean; B4: VOPs seen; B2, B3 inter-rows clean (PA photos 6-9, 15-17)",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "B2 and B4: circle raking required; B3 and B4 circles clean",
+       "B4: VOPs seen; B2, B3 inter-rows clean"
+      ],
+      "note": "PA photos 6-9, 15-17"
      },
      {
       "k": "Weeds noted Jan 2026",
@@ -678,12 +1159,63 @@
      {
       "k": "Palm census by sub-block",
       "v": "Table 3, palm census last updated 2024: B1 40.50 ha: 5,103 palms, 126 SPH (previous 4,097, 101); B2 44.10 ha: 5,557 palms, 126 SPH (previous 5,577, 126); B3 24.70 ha: 3,112 palms, 126 SPH (previous 3,893, 158); B4 49.00 ha: 6,174 palms, 126 SPH (previous 4,835, 99); B5 44.10 ha: 5,557 palms, 126 SPH (previous 6,246, 142)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "ha",
+        "Palms (prev)",
+        "SPH (prev)"
+       ],
+       "rows": [
+        [
+         "B1",
+         "40.50",
+         "5,103 (4,097)",
+         "126 (101)"
+        ],
+        [
+         "B2",
+         "44.10",
+         "5,557 (5,577)",
+         "126 (126)"
+        ],
+        [
+         "B3",
+         "24.70",
+         "3,112 (3,893)",
+         "126 (158)"
+        ],
+        [
+         "B4",
+         "49.00",
+         "6,174 (4,835)",
+         "126 (99)"
+        ],
+        [
+         "B5",
+         "44.10",
+         "5,557 (6,246)",
+         "126 (142)"
+        ]
+       ]
+      },
+      "note": "Palm census last updated 2024"
      },
      {
       "k": "Block palm stand",
       "v": "25,503 palms, 126 SPH",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palm stand",
+        "v": "25,503"
+       },
+       {
+        "l": "SPH",
+        "v": "126"
+       }
+      ]
      },
      {
       "k": "Waterlogging P09B1",
@@ -698,44 +1230,181 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census, Apr 2026",
-      "v": "15% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 3,780 palms damaged, 15%. Threshold 10%",
-      "src": "Agro 2/2026"
+      "k": "Rat damage, fresh palms",
+      "v": "15% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 3,780 palms damaged, 15%. Threshold 10% | 17%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Apr–May 2026 (Agro)",
+        "v": "15%",
+        "d": "PA: 3,780 palms, 15%"
+       },
+       {
+        "l": "Jun 2026",
+        "v": "17%",
+        "d": "post-baiting"
+       }
+      ],
+      "note": "Threshold 10%"
      },
      {
-      "k": "Rat damage census, Jun 2026 (post-baiting)",
-      "v": "17%",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Rat baiting Jan-Jun 2026",
+      "k": "Rat baiting Jan–Jun 2026 (% of palms)",
       "v": "3 rounds done. R1 baits 100% of palms (25,503); R2 12,670 (49.7%); R3 4,302 (16.9%) (sums of sub-block baits as printed). Sub-block R2/R3 %: B1 R2 57%, R3 17%; B2 29%, 16%; B3 59%, 16%; B4 51%, 17%; B5 57%, 18%. Round dates not printed.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Round 2",
+        "Round 3"
+       ],
+       "rows": [
+        [
+         "B1",
+         "57%",
+         "17%"
+        ],
+        [
+         "B2",
+         "29%",
+         "16%"
+        ],
+        [
+         "B3",
+         "59%",
+         "16%"
+        ],
+        [
+         "B4",
+         "51%",
+         "17%"
+        ],
+        [
+         "B5",
+         "57%",
+         "18%"
+        ],
+        [
+         "Block",
+         "49.7%",
+         "16.9%"
+        ]
+       ]
+      },
+      "note": "3 rounds. R1 100% of palms (25,503); R2 12,670 palms; R3 4,302 palms. Dates not printed"
      },
      {
       "k": "Rat damage census 2025",
       "v": "Six census values as printed in order: 3%, 12%, 4%, 7%, 1%, 4% (Agro 1/2026 Table 7; month columns illegible, values read as pre- and post-baiting). Two baiting rounds in 2025 with Storm (flocoumafen 0.005% w/w) across all fields",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Census (order printed)",
+        "Damage"
+       ],
+       "rows": [
+        [
+         "1",
+         "3%"
+        ],
+        [
+         "2",
+         "12%"
+        ],
+        [
+         "3",
+         "4%"
+        ],
+        [
+         "4",
+         "7%"
+        ],
+        [
+         "5",
+         "1%"
+        ],
+        [
+         "6",
+         "4%"
+        ]
+       ]
+      },
+      "note": "Month columns illegible; read as pre-/post-baiting. Two Storm (flocoumafen 0.005% w/w) rounds, all fields"
      },
      {
-      "k": "Barn owl boxes Jun 2026",
-      "v": "20 boxes, 7 occupied (35%); adults 5, chicks 2, eggs 0; condition good 16, poor 4",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Barn owl boxes Dec 2025",
-      "v": "17 boxes, 13 occupied (81%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
-      "src": "Agro 1/2026"
+      "k": "Barn owl boxes",
+      "v": "20 boxes, 7 occupied (35%); adults 5, chicks 2, eggs 0; condition good 16, poor 4 | 17 boxes, 13 occupied (81%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "",
+        "Dec 2025",
+        "Jun 2026"
+       ],
+       "rows": [
+        [
+         "Boxes",
+         "17",
+         "20"
+        ],
+        [
+         "Occupied",
+         "13 (81%)",
+         "7 (35%)"
+        ],
+        [
+         "Adults",
+         "–",
+         "5"
+        ],
+        [
+         "Chicks",
+         "–",
+         "2"
+        ],
+        [
+         "Eggs",
+         "–",
+         "0"
+        ],
+        [
+         "Good / poor",
+         "–",
+         "16 / 4"
+        ]
+       ]
+      },
+      "note": "Box count and occupancy fall sharply with no explanation"
      },
      {
       "k": "Ganoderma census 2024 (latest)",
       "v": "25,503 palms; 45 infected + 39 collapsed = 84 (0.33%). No new census since (Agro 1/2026 and 2/2026 same figures)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "45"
+       },
+       {
+        "l": "Collapsed",
+        "v": "39"
+       },
+       {
+        "l": "Total",
+        "v": "84",
+        "d": "0.33% of 25,503 palms"
+       }
+      ],
+      "note": "No new census since 2024"
      },
      {
       "k": "Ganoderma trend",
       "v": "Agro 5.7 says infection rising in P06A and P09B although the 2024 census shows only 0.33%; deboling seen in B2, fruiting bodies in B3 (PA photos 42-45); expedite deboling of fallen palms",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Agro 5.7: infection rising in P06A and P09B, but 2024 census shows only 0.33%",
+       "Deboling seen in B2; fruiting bodies in B3 (PA photos 42-45)",
+       "Expedite deboling of fallen palms"
+      ]
      },
      {
       "k": "Rat photos",
@@ -745,19 +1414,34 @@
     ],
     "pruning": [
      {
-      "k": "Pruning Jan-Jun 2026",
-      "v": "1,214.40 of 1,214.40 ha pruned and paid (6 rounds, 100%); programme year 2,428.80 ha; Agro: up to date, progressive pruning",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Pruning cost",
-      "v": "RM100.08/ha/year",
-      "src": "PA 2/2026"
+      "k": "Pruning Jan–Jun 2026",
+      "v": "1,214.40 of 1,214.40 ha pruned and paid (6 rounds, 100%); programme year 2,428.80 ha; Agro: up to date, progressive pruning | RM100.08/ha/year",
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Pruned and paid",
+        "v": "100%",
+        "d": "1,214.40 of 1,214.40 ha · 6 rounds"
+       },
+       {
+        "l": "Programme year",
+        "v": "2,428.80 ha"
+       },
+       {
+        "l": "Cost",
+        "v": "RM100.08/ha/yr"
+       }
+      ],
+      "note": "Agro: up to date, progressive pruning"
      },
      {
       "k": "Under-pruning B5",
       "v": "Jan 2026: localised under-pruning in B5, to be rectified (only dry fronds removed); Jul 2026 photos show acceptable pruning in B1-B5",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Jan 2026: localised under-pruning in B5 (only dry fronds removed)",
+       "Jul 2026 photos: acceptable pruning in B1-B5"
+      ]
      },
      {
       "k": "Fractured fronds",
@@ -856,56 +1540,197 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan-Jun 2026 yield",
+      "k": "Yield Jan–Jun 2026 vs 2025",
       "v": "8.29 t/ha (1,153.42 t on 139.20 ha) vs 10.10 t/ha Jan-Jun 2025; change -17.92%",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Jun 2026",
+        "v": "8.29 t/ha",
+        "d": "1,153.42 t on 139.20 ha · -17.92%"
+       },
+       {
+        "l": "Jan–Jun 2025",
+        "v": "10.10 t/ha"
+       }
+      ]
      },
      {
-      "k": "Full-year yield, t/ha",
-      "v": "2021 23.47; 2022 21.84; 2023 17.58; 2024 24.40; 2025 21.76 (Agro 1/2026 App 2a; 2021 from that report)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Full-year FFB, t",
+      "k": "Full-year FFB (t)",
       "v": "2022 3,040.09; 2023 2,447.20; 2024 3,396.69; 2025 3,028.77 (Agro 2/2026 App 3a)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "2025 vs 2024",
-      "v": "-10.8% in t/ha (24.40 to 21.76)",
-      "src": "Agro 1/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "FFB (t)"
+       ],
+       "rows": [
+        [
+         "2022",
+         "3,040.09"
+        ],
+        [
+         "2023",
+         "2,447.20"
+        ],
+        [
+         "2024",
+         "3,396.69"
+        ],
+        [
+         "2025",
+         "3,028.77"
+        ]
+       ]
+      }
      },
      {
       "k": "Bunch weight",
       "v": "17.0 kg to 19.9 kg, 2010 planting; PA suspects some 2025 weights abnormal, possible bunch counting errors",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "19.9 kg",
+        "d": "was 17.0 kg"
+       }
+      ],
+      "note": "2010 planting. PA suspects some 2025 weights abnormal (bunch counting errors)"
+     },
+     {
+      "k": "Full-year yield, t/ha",
+      "v": "2021 23.47; 2022 21.84; 2023 17.58; 2024 24.40; 2025 21.76 (Agro 1/2026 App 2a; 2021 from that report)",
+      "src": "Agro 1/2026",
+      "hide": true
+     },
+     {
+      "k": "2025 vs 2024",
+      "v": "-10.8% in t/ha (24.40 to 21.76)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "harvesting": [
      {
-      "k": "Harvest interval 2026, days (min-max)",
-      "v": "Jan 15-16; Feb 15-15; Mar 12-13; Apr 11-13; May 12-13; Jun 11-13 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low)",
-      "src": "Agro 2/2026"
+      "k": "Harvest interval, days (min-max)",
+      "v": "Jan 15-16; Feb 15-15; Mar 12-13; Apr 11-13; May 12-13; Jun 11-13 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low) | 16-18, 15-18, 16-17, 16-17, 17-19, 15-18, 16-21, 15-24, 13-14, 11-19, 8-16, 14-15 (Jan to Dec in printed order; table layout garbled in extraction)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2026",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "15-16",
+         "16-18"
+        ],
+        [
+         "Feb",
+         "15-15",
+         "15-18"
+        ],
+        [
+         "Mar",
+         "12-13",
+         "16-17"
+        ],
+        [
+         "Apr",
+         "11-13",
+         "16-17"
+        ],
+        [
+         "May",
+         "12-13",
+         "17-19"
+        ],
+        [
+         "Jun",
+         "11-13",
+         "15-18"
+        ],
+        [
+         "Jul",
+         "–",
+         "16-21"
+        ],
+        [
+         "Aug",
+         "–",
+         "15-24"
+        ],
+        [
+         "Sep",
+         "–",
+         "13-14"
+        ],
+        [
+         "Oct",
+         "–",
+         "11-19"
+        ],
+        [
+         "Nov",
+         "–",
+         "8-16"
+        ],
+        [
+         "Dec",
+         "–",
+         "14-15"
+        ]
+       ]
+      },
+      "note": "Agro: 2026 averaged under 15 days. 2025 table layout garbled in extraction"
      },
      {
-      "k": "Harvest rounds Jan-Jun 2026",
-      "v": "12.00 (100%) (Agro Table 10)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Harvest rounds 2025",
-      "v": "18.17 (75.71%)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Harvest interval 2025, days",
-      "v": "16-18, 15-18, 16-17, 16-17, 17-19, 15-18, 16-21, 15-24, 13-14, 11-19, 8-16, 14-15 (Jan to Dec in printed order; table layout garbled in extraction)",
-      "src": "Agro 1/2026"
+      "k": "Harvest rounds",
+      "v": "12.00 (100%) (Agro Table 10) | 18.17 (75.71%)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Period",
+        "Rounds",
+        "% of target"
+       ],
+       "rows": [
+        [
+         "Jan–Jun 2026",
+         "12.00",
+         "100%"
+        ],
+        [
+         "2025",
+         "18.17",
+         "75.71%"
+        ]
+       ]
+      },
+      "note": "2026: Agro Table 10"
      },
      {
       "k": "Harvester pay, 2010 planting",
       "v": "Rate RM32/t; 1.95 t/man-day; average earnings RM62.40/day vs basic wage RM65.89 in this table (RM65.38 quoted in PA 6.2.4). Below basic wage (Jan-Jun 2026). Shown per planting year; the 2011 row covers P11D and P11E together.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Rate",
+        "v": "RM32/t"
+       },
+       {
+        "l": "Output",
+        "v": "1.95 t/man-day"
+       },
+       {
+        "l": "Avg earnings",
+        "v": "RM62.40/day",
+        "d": "basic wage RM65.89"
+       }
+      ],
+      "note": "Below basic wage (Jan–Jun 2026). Per planting year (2011 row covers P11D and P11E)"
      },
      {
       "k": "Over-ripe bunches, Jan 2026",
@@ -991,12 +1816,51 @@
      {
       "k": "Palm census by sub-block",
       "v": "Table 3, palm census last updated 2024: C1 35.20 ha: 4,611 palms, 131 SPH (previous 4,056, 115); C2 67.20 ha: 8,803 palms, 131 SPH (previous 9,928, 148); C3 36.80 ha: 4,821 palms, 131 SPH (previous 5,764, 157)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "ha",
+        "Palms (prev)",
+        "SPH (prev)"
+       ],
+       "rows": [
+        [
+         "C1",
+         "35.20",
+         "4,611 (4,056)",
+         "131 (115)"
+        ],
+        [
+         "C2",
+         "67.20",
+         "8,803 (9,928)",
+         "131 (148)"
+        ],
+        [
+         "C3",
+         "36.80",
+         "4,821 (5,764)",
+         "131 (157)"
+        ]
+       ]
+      },
+      "note": "Palm census last updated 2024"
      },
      {
       "k": "Block palm stand",
       "v": "18,235 palms, 131 SPH",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palm stand",
+        "v": "18,235"
+       },
+       {
+        "l": "SPH",
+        "v": "131"
+       }
+      ]
      },
      {
       "k": "Neglected area C2",
@@ -1006,39 +1870,161 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census, Apr 2026",
-      "v": "15% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 2,724 palms damaged, 15%. Threshold 10%",
-      "src": "Agro 2/2026"
+      "k": "Rat damage, fresh palms",
+      "v": "15% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 2,724 palms damaged, 15%. Threshold 10% | 14%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Apr–May 2026 (Agro)",
+        "v": "15%",
+        "d": "PA: 2,724 palms, 15%"
+       },
+       {
+        "l": "Jun 2026",
+        "v": "14%",
+        "d": "post-baiting"
+       }
+      ],
+      "note": "Threshold 10%"
      },
      {
-      "k": "Rat damage census, Jun 2026 (post-baiting)",
-      "v": "14%",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Rat baiting Jan-Jun 2026",
+      "k": "Rat baiting Jan–Jun 2026 (% of palms)",
       "v": "3 rounds done. R1 baits 100% of palms (18,235); R2 8,237 (45.2%); R3 3,121 (17.1%) (sums of sub-block baits as printed). Sub-block R2/R3 %: C1 29%, 16%; C2 54%, 18%; C3 44%, 17%. Round dates not printed.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Round 2",
+        "Round 3"
+       ],
+       "rows": [
+        [
+         "C1",
+         "29%",
+         "16%"
+        ],
+        [
+         "C2",
+         "54%",
+         "18%"
+        ],
+        [
+         "C3",
+         "44%",
+         "17%"
+        ],
+        [
+         "Block",
+         "45.2%",
+         "17.1%"
+        ]
+       ]
+      },
+      "note": "3 rounds. R1 100% of palms (18,235); R2 8,237 palms; R3 3,121 palms. Dates not printed"
      },
      {
       "k": "Rat damage census 2025",
       "v": "Six census values as printed in order: 3%, 11%, 4%, 10%, 2%, 3% (Agro 1/2026 Table 7; month columns illegible, values read as pre- and post-baiting). Two baiting rounds in 2025 with Storm (flocoumafen 0.005% w/w) across all fields",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Census (order printed)",
+        "Damage"
+       ],
+       "rows": [
+        [
+         "1",
+         "3%"
+        ],
+        [
+         "2",
+         "11%"
+        ],
+        [
+         "3",
+         "4%"
+        ],
+        [
+         "4",
+         "10%"
+        ],
+        [
+         "5",
+         "2%"
+        ],
+        [
+         "6",
+         "3%"
+        ]
+       ]
+      },
+      "note": "Month columns illegible; read as pre-/post-baiting. Two Storm (flocoumafen 0.005% w/w) rounds, all fields"
      },
      {
-      "k": "Barn owl boxes Jun 2026",
-      "v": "14 boxes, 5 occupied (36%); adults 6, chicks 2, eggs 3; condition good 10, poor 4",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Barn owl boxes Dec 2025",
-      "v": "11 boxes, 8 occupied (80%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
-      "src": "Agro 1/2026"
+      "k": "Barn owl boxes",
+      "v": "14 boxes, 5 occupied (36%); adults 6, chicks 2, eggs 3; condition good 10, poor 4 | 11 boxes, 8 occupied (80%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "",
+        "Dec 2025",
+        "Jun 2026"
+       ],
+       "rows": [
+        [
+         "Boxes",
+         "11",
+         "14"
+        ],
+        [
+         "Occupied",
+         "8 (80%)",
+         "5 (36%)"
+        ],
+        [
+         "Adults",
+         "–",
+         "6"
+        ],
+        [
+         "Chicks",
+         "–",
+         "2"
+        ],
+        [
+         "Eggs",
+         "–",
+         "3"
+        ],
+        [
+         "Good / poor",
+         "–",
+         "10 / 4"
+        ]
+       ]
+      },
+      "note": "Box count and occupancy fall sharply with no explanation"
      },
      {
       "k": "Ganoderma census 2024 (latest)",
       "v": "18,235 palms; 16 infected + 25 collapsed = 41 (0.22%). No new census since (Agro 1/2026 and 2/2026 same figures)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "16"
+       },
+       {
+        "l": "Collapsed",
+        "v": "25"
+       },
+       {
+        "l": "Total",
+        "v": "41",
+        "d": "0.22% of 18,235 palms"
+       }
+      ],
+      "note": "No new census since 2024"
      },
      {
       "k": "Ganoderma deboling",
@@ -1048,19 +2034,35 @@
     ],
     "pruning": [
      {
-      "k": "Pruning Jan-Jun 2026",
-      "v": "835.20 of 835.20 ha pruned and paid (6 rounds, 100%); programme year 1,670.40 ha; Agro: up to date, progressive pruning",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Pruning cost",
-      "v": "RM100.08/ha/year",
-      "src": "PA 2/2026"
+      "k": "Pruning Jan–Jun 2026",
+      "v": "835.20 of 835.20 ha pruned and paid (6 rounds, 100%); programme year 1,670.40 ha; Agro: up to date, progressive pruning | RM100.08/ha/year",
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Pruned and paid",
+        "v": "100%",
+        "d": "835.20 of 835.20 ha · 6 rounds"
+       },
+       {
+        "l": "Programme year",
+        "v": "1,670.40 ha"
+       },
+       {
+        "l": "Cost",
+        "v": "RM100.08/ha/yr"
+       }
+      ],
+      "note": "Agro: up to date, progressive pruning"
      },
      {
       "k": "Corrective pruning C2",
       "v": "Neglected portion of C2 in corrective pruning, about 50% done at the 8 Jul 2026 visit, due complete Jul 2026 (Agro comment column calls it P09C2, which does not exist)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Neglected part of C2: corrective pruning about 50% done at 8 Jul 2026 visit",
+       "Due complete Jul 2026",
+       "Agro comment column calls it P09C2, which does not exist"
+      ]
      },
      {
       "k": "Frond snapping",
@@ -1162,56 +2164,197 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan-Jun 2026 yield",
+      "k": "Yield Jan–Jun 2026 vs 2025",
       "v": "10.24 t/ha (745.74 t on 72.80 ha) vs 12.90 t/ha Jan-Jun 2025; change -20.62%",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Jun 2026",
+        "v": "10.24 t/ha",
+        "d": "745.74 t on 72.80 ha · -20.62%"
+       },
+       {
+        "l": "Jan–Jun 2025",
+        "v": "12.90 t/ha"
+       }
+      ]
      },
      {
-      "k": "Full-year yield, t/ha",
-      "v": "2021 26.43; 2022 30.15; 2023 23.01; 2024 31.33; 2025 26.92 (Agro 1/2026 App 2a; 2021 from that report)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Full-year FFB, t",
+      "k": "Full-year FFB (t)",
       "v": "2022 2,194.71; 2023 1,674.91; 2024 2,280.51; 2025 1,959.54 (Agro 2/2026 App 3a)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "2025 vs 2024",
-      "v": "-14.1% in t/ha (31.33 to 26.92)",
-      "src": "Agro 1/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "FFB (t)"
+       ],
+       "rows": [
+        [
+         "2022",
+         "2,194.71"
+        ],
+        [
+         "2023",
+         "1,674.91"
+        ],
+        [
+         "2024",
+         "2,280.51"
+        ],
+        [
+         "2025",
+         "1,959.54"
+        ]
+       ]
+      }
      },
      {
       "k": "Bunch weight",
       "v": "17.2 kg to 19.4 kg, 2011D planting; PA suspects some 2025 weights abnormal, possible bunch counting errors",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "19.4 kg",
+        "d": "was 17.2 kg"
+       }
+      ],
+      "note": "2011D planting. PA suspects some 2025 weights abnormal (bunch counting errors)"
+     },
+     {
+      "k": "Full-year yield, t/ha",
+      "v": "2021 26.43; 2022 30.15; 2023 23.01; 2024 31.33; 2025 26.92 (Agro 1/2026 App 2a; 2021 from that report)",
+      "src": "Agro 1/2026",
+      "hide": true
+     },
+     {
+      "k": "2025 vs 2024",
+      "v": "-14.1% in t/ha (31.33 to 26.92)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "harvesting": [
      {
-      "k": "Harvest interval 2026, days (min-max)",
-      "v": "Jan 13-20; Feb 15-16; Mar 12-14; Apr 11-12; May 12-13; Jun 13-14 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low)",
-      "src": "Agro 2/2026"
+      "k": "Harvest interval, days (min-max)",
+      "v": "Jan 13-20; Feb 15-16; Mar 12-14; Apr 11-12; May 12-13; Jun 13-14 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low) | 15-18, 16-18, 15-18, 16-18, 16-19, 16-18, 15-19, 14-22, 13-17, 10-16, 10-18, 15-17 (Jan to Dec in printed order; table layout garbled in extraction)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2026",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "13-20",
+         "15-18"
+        ],
+        [
+         "Feb",
+         "15-16",
+         "16-18"
+        ],
+        [
+         "Mar",
+         "12-14",
+         "15-18"
+        ],
+        [
+         "Apr",
+         "11-12",
+         "16-18"
+        ],
+        [
+         "May",
+         "12-13",
+         "16-19"
+        ],
+        [
+         "Jun",
+         "13-14",
+         "16-18"
+        ],
+        [
+         "Jul",
+         "–",
+         "15-19"
+        ],
+        [
+         "Aug",
+         "–",
+         "14-22"
+        ],
+        [
+         "Sep",
+         "–",
+         "13-17"
+        ],
+        [
+         "Oct",
+         "–",
+         "10-16"
+        ],
+        [
+         "Nov",
+         "–",
+         "10-18"
+        ],
+        [
+         "Dec",
+         "–",
+         "15-17"
+        ]
+       ]
+      },
+      "note": "Agro: 2026 averaged under 15 days. 2025 table layout garbled in extraction"
      },
      {
-      "k": "Harvest rounds Jan-Jun 2026",
-      "v": "11.00 (91.66%, the only block short) (Agro Table 10)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Harvest rounds 2025",
-      "v": "17.17 (71.54%)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Harvest interval 2025, days",
-      "v": "15-18, 16-18, 15-18, 16-18, 16-19, 16-18, 15-19, 14-22, 13-17, 10-16, 10-18, 15-17 (Jan to Dec in printed order; table layout garbled in extraction)",
-      "src": "Agro 1/2026"
+      "k": "Harvest rounds",
+      "v": "11.00 (91.66%, the only block short) (Agro Table 10) | 17.17 (71.54%)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Period",
+        "Rounds",
+        "% of target"
+       ],
+       "rows": [
+        [
+         "Jan–Jun 2026",
+         "11.00",
+         "91.66%"
+        ],
+        [
+         "2025",
+         "17.17",
+         "71.54%"
+        ]
+       ]
+      },
+      "note": "2026: Agro Table 10; the only block short"
      },
      {
       "k": "Harvester pay, 2011 planting",
       "v": "Rate RM32/t; 1.89 t/man-day; average earnings RM60.48/day vs basic wage RM65.89 in this table (RM65.38 quoted in PA 6.2.4). Below basic wage (Jan-Jun 2026). Shown per planting year; the 2011 row covers P11D and P11E together.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Rate",
+        "v": "RM32/t"
+       },
+       {
+        "l": "Output",
+        "v": "1.89 t/man-day"
+       },
+       {
+        "l": "Avg earnings",
+        "v": "RM60.48/day",
+        "d": "basic wage RM65.89"
+       }
+      ],
+      "note": "Below basic wage (Jan–Jun 2026). Per planting year (2011 row covers P11D and P11E)"
      },
      {
       "k": "Due-for-harvest at Jan 2026 visit",
@@ -1228,12 +2371,21 @@
      {
       "k": "Mix B round 2, 2.50 kg/palm (2,500 g) as printed",
       "v": "Scheduled Apr; applied and completed Mar 2026. 2026 programme printed 2,500 g in Apr (2027 programme lowers Apr to 2,250 g).",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "pts": [
+       "Scheduled Apr; applied and completed Mar 2026",
+       "2026 programme printed 2,500 g in Apr; 2027 lowers Apr to 2,250 g"
+      ]
      },
      {
       "k": "Rounds done",
       "v": "Agro Table 10: 11 harvest rounds; PA labels manuring 13 of 15 rounds estate-wide (late RP). Agro 2/2026 3.1: no delay above 1 month",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "pts": [
+       "Agro Table 10: 11 harvest rounds",
+       "PA: manuring 13 of 15 rounds estate-wide (late RP)",
+       "Agro 3.1: no delay above 1 month"
+      ]
      }
     ],
     "spraying": [
@@ -1297,49 +2449,210 @@
      {
       "k": "Palm census by sub-block",
       "v": "Table 3, palm census last updated 2024: D1 19.40 ha: 2,503 palms, 129 SPH (previous 2,700, 139); D2 33.20 ha: 4,250 palms, 128 SPH (previous 4,361, 131); D3 20.20 ha: 2,606 palms, 129 SPH (previous 3,237, 160)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "ha",
+        "Palms (prev)",
+        "SPH (prev)"
+       ],
+       "rows": [
+        [
+         "D1",
+         "19.40",
+         "2,503 (2,700)",
+         "129 (139)"
+        ],
+        [
+         "D2",
+         "33.20",
+         "4,250 (4,361)",
+         "128 (131)"
+        ],
+        [
+         "D3",
+         "20.20",
+         "2,606 (3,237)",
+         "129 (160)"
+        ]
+       ]
+      },
+      "note": "Palm census last updated 2024"
      },
      {
       "k": "Block palm stand",
       "v": "9,359 palms, 128-129 SPH",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palm stand",
+        "v": "9,359"
+       },
+       {
+        "l": "SPH",
+        "v": "128-129"
+       }
+      ]
      }
     ],
     "pests": [
      {
-      "k": "Rat damage census, Apr 2026",
-      "v": "13% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 1,249 palms damaged, 13%. Threshold 10%",
-      "src": "Agro 2/2026"
+      "k": "Rat damage, fresh palms",
+      "v": "13% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 1,249 palms damaged, 13%. Threshold 10% | 19%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Apr–May 2026 (Agro)",
+        "v": "13%",
+        "d": "PA: 1,249 palms, 13%"
+       },
+       {
+        "l": "Jun 2026",
+        "v": "19%",
+        "d": "post-baiting"
+       }
+      ],
+      "note": "Threshold 10%"
      },
      {
-      "k": "Rat damage census, Jun 2026 (post-baiting)",
-      "v": "19%",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Rat baiting Jan-Jun 2026",
+      "k": "Rat baiting Jan–Jun 2026 (% of palms)",
       "v": "3 rounds done. R1 baits 100% of palms (9,359); R2 5,042 (53.9%); R3 1,549 (16.6%) (sums of sub-block baits as printed). Sub-block R2/R3 %: D1 52%, 16%; D2 55%, 16%; D3 53%, 18%. Round dates not printed.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Round 2",
+        "Round 3"
+       ],
+       "rows": [
+        [
+         "D1",
+         "52%",
+         "16%"
+        ],
+        [
+         "D2",
+         "55%",
+         "16%"
+        ],
+        [
+         "D3",
+         "53%",
+         "18%"
+        ],
+        [
+         "Block",
+         "53.9%",
+         "16.6%"
+        ]
+       ]
+      },
+      "note": "3 rounds. R1 100% of palms (9,359); R2 5,042 palms; R3 1,549 palms. Dates not printed"
      },
      {
       "k": "Rat damage census 2025",
       "v": "Six census values as printed in order: 3%, 11%, 6%, 7%, 1%, 2% (Agro 1/2026 Table 7; month columns illegible, values read as pre- and post-baiting). Two baiting rounds in 2025 with Storm (flocoumafen 0.005% w/w) across all fields",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Census (order printed)",
+        "Damage"
+       ],
+       "rows": [
+        [
+         "1",
+         "3%"
+        ],
+        [
+         "2",
+         "11%"
+        ],
+        [
+         "3",
+         "6%"
+        ],
+        [
+         "4",
+         "7%"
+        ],
+        [
+         "5",
+         "1%"
+        ],
+        [
+         "6",
+         "2%"
+        ]
+       ]
+      },
+      "note": "Month columns illegible; read as pre-/post-baiting. Two Storm (flocoumafen 0.005% w/w) rounds, all fields"
      },
      {
-      "k": "Barn owl boxes Jun 2026",
-      "v": "7 boxes, 4 occupied (57%); adults 4, chicks 0, eggs 6; condition good 4, poor 3",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Barn owl boxes Dec 2025",
-      "v": "15 boxes, 10 occupied (77%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
-      "src": "Agro 1/2026"
+      "k": "Barn owl boxes",
+      "v": "7 boxes, 4 occupied (57%); adults 4, chicks 0, eggs 6; condition good 4, poor 3 | 15 boxes, 10 occupied (77%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "",
+        "Dec 2025",
+        "Jun 2026"
+       ],
+       "rows": [
+        [
+         "Boxes",
+         "15",
+         "7"
+        ],
+        [
+         "Occupied",
+         "10 (77%)",
+         "4 (57%)"
+        ],
+        [
+         "Adults",
+         "–",
+         "4"
+        ],
+        [
+         "Chicks",
+         "–",
+         "0"
+        ],
+        [
+         "Eggs",
+         "–",
+         "6"
+        ],
+        [
+         "Good / poor",
+         "–",
+         "4 / 3"
+        ]
+       ]
+      },
+      "note": "Box count and occupancy fall sharply with no explanation"
      },
      {
       "k": "Ganoderma census 2024 (latest)",
       "v": "9,359 palms; 48 infected + 110 collapsed = 158 (1.69%). No new census since (Agro 1/2026 and 2/2026 same figures)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "48"
+       },
+       {
+        "l": "Collapsed",
+        "v": "110"
+       },
+       {
+        "l": "Total",
+        "v": "158",
+        "d": "1.69% of 9,359 palms"
+       }
+      ],
+      "note": "No new census since 2024"
      },
      {
       "k": "Rat photos",
@@ -1349,14 +2662,26 @@
     ],
     "pruning": [
      {
-      "k": "Pruning Jan-Jun 2026",
-      "v": "436.80 of 436.80 ha pruned and paid (6 rounds, 100%); programme year 873.60 ha; Agro: up to date, progressive pruning",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Pruning cost",
-      "v": "RM84.96/ha/year (2011 planting)",
-      "src": "PA 2/2026"
+      "k": "Pruning Jan–Jun 2026",
+      "v": "436.80 of 436.80 ha pruned and paid (6 rounds, 100%); programme year 873.60 ha; Agro: up to date, progressive pruning | RM84.96/ha/year (2011 planting)",
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Pruned and paid",
+        "v": "100%",
+        "d": "436.80 of 436.80 ha · 6 rounds"
+       },
+       {
+        "l": "Programme year",
+        "v": "873.60 ha"
+       },
+       {
+        "l": "Cost",
+        "v": "RM84.96/ha/yr",
+        "d": "2011 planting"
+       }
+      ],
+      "note": "Agro: up to date, progressive pruning"
      },
      {
       "k": "Pruning condition",
@@ -1453,56 +2778,198 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan-Jun 2026 yield",
+      "k": "Yield Jan–Jun 2026 vs 2025",
       "v": "11.42 t/ha (914.48 t on 80.10 ha) vs 14.22 t/ha Jan-Jun 2025; change printed -16.69%; figures give -19.69%",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Jun 2026",
+        "v": "11.42 t/ha",
+        "d": "914.48 t on 80.10 ha · printed -16.69%"
+       },
+       {
+        "l": "Jan–Jun 2025",
+        "v": "14.22 t/ha"
+       }
+      ],
+      "note": "Figures give -19.69%"
      },
      {
-      "k": "Full-year yield, t/ha",
-      "v": "2021 30.25; 2022 29.53; 2023 23.99; 2024 32.76; 2025 30.02 (Agro 1/2026 App 2a; 2021 from that report)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Full-year FFB, t",
+      "k": "Full-year FFB (t)",
       "v": "2022 2,365.09; 2023 1,921.28; 2024 2,624.14; 2025 2,404.58 (Agro 2/2026 App 3a)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "2025 vs 2024",
-      "v": "-8.4% in t/ha (32.76 to 30.02)",
-      "src": "Agro 1/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "FFB (t)"
+       ],
+       "rows": [
+        [
+         "2022",
+         "2,365.09"
+        ],
+        [
+         "2023",
+         "1,921.28"
+        ],
+        [
+         "2024",
+         "2,624.14"
+        ],
+        [
+         "2025",
+         "2,404.58"
+        ]
+       ]
+      }
      },
      {
       "k": "Bunch weight",
       "v": "18.7 kg to 19.2 kg, 2011E planting; PA suspects some 2025 weights abnormal, possible bunch counting errors",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "19.2 kg",
+        "d": "was 18.7 kg"
+       }
+      ],
+      "note": "2011E planting. PA suspects some 2025 weights abnormal (bunch counting errors)"
+     },
+     {
+      "k": "Full-year yield, t/ha",
+      "v": "2021 30.25; 2022 29.53; 2023 23.99; 2024 32.76; 2025 30.02 (Agro 1/2026 App 2a; 2021 from that report)",
+      "src": "Agro 1/2026",
+      "hide": true
+     },
+     {
+      "k": "2025 vs 2024",
+      "v": "-8.4% in t/ha (32.76 to 30.02)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "harvesting": [
      {
-      "k": "Harvest interval 2026, days (min-max)",
-      "v": "Jan 15-16; Feb 13-15; Mar 11-13; Apr 12-12; May 12-13; Jun 13-14 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low)",
-      "src": "Agro 2/2026"
+      "k": "Harvest interval, days (min-max)",
+      "v": "Jan 15-16; Feb 13-15; Mar 11-13; Apr 12-12; May 12-13; Jun 13-14 (Agro Table 5; Agro says intervals averaged under 15 days, kept in range because crop was low) | 15-17, 15-17, 16-18, 15-18, 17-19, 15-18, 9-15, 8-15, 10-19, 11-19, 15-18, 10-17 (Jan to Dec in printed order; table layout garbled in extraction)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2026",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "15-16",
+         "15-17"
+        ],
+        [
+         "Feb",
+         "13-15",
+         "15-17"
+        ],
+        [
+         "Mar",
+         "11-13",
+         "16-18"
+        ],
+        [
+         "Apr",
+         "12-12",
+         "15-18"
+        ],
+        [
+         "May",
+         "12-13",
+         "17-19"
+        ],
+        [
+         "Jun",
+         "13-14",
+         "15-18"
+        ],
+        [
+         "Jul",
+         "–",
+         "9-15"
+        ],
+        [
+         "Aug",
+         "–",
+         "8-15"
+        ],
+        [
+         "Sep",
+         "–",
+         "10-19"
+        ],
+        [
+         "Oct",
+         "–",
+         "11-19"
+        ],
+        [
+         "Nov",
+         "–",
+         "15-18"
+        ],
+        [
+         "Dec",
+         "–",
+         "10-17"
+        ]
+       ]
+      },
+      "note": "Agro: 2026 averaged under 15 days. 2025 table layout garbled in extraction"
      },
      {
-      "k": "Harvest rounds Jan-Jun 2026",
-      "v": "12.00 (100%) (Agro Table 10)",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Harvest rounds 2025",
-      "v": "18.00 (75.00%)",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Harvest interval 2025, days",
-      "v": "15-17, 15-17, 16-18, 15-18, 17-19, 15-18, 9-15, 8-15, 10-19, 11-19, 15-18, 10-17 (Jan to Dec in printed order; table layout garbled in extraction)",
-      "src": "Agro 1/2026"
+      "k": "Harvest rounds",
+      "v": "12.00 (100%) (Agro Table 10) | 18.00 (75.00%)",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Period",
+        "Rounds",
+        "% of target"
+       ],
+       "rows": [
+        [
+         "Jan–Jun 2026",
+         "12.00",
+         "100%"
+        ],
+        [
+         "2025",
+         "18.00",
+         "75.00%"
+        ]
+       ]
+      },
+      "note": "2026: Agro Table 10"
      },
      {
       "k": "Harvester pay, 2011 planting",
       "v": "Rate RM32/t; 1.89 t/man-day; average earnings RM60.48/day vs basic wage RM65.89 in this table (RM65.38 quoted in PA 6.2.4). Below basic wage (Jan-Jun 2026). Shown per planting year; the 2011 row covers P11D and P11E together.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Rate",
+        "v": "RM32/t"
+       },
+       {
+        "l": "Output",
+        "v": "1.89 t/man-day"
+       },
+       {
+        "l": "Avg earnings",
+        "v": "RM60.48/day",
+        "d": "basic wage RM65.89"
+       }
+      ],
+      "note": "Below basic wage (Jan–Jun 2026). Per planting year (2011 row covers P11D and P11E)"
      }
     ],
     "manuring": [
@@ -1588,49 +3055,210 @@
      {
       "k": "Palm census by sub-block",
       "v": "Table 3, palm census last updated 2024: E1 19.00 ha: 2,394 palms, 126 SPH (previous 2,654, 140); E2 36.80 ha: 4,637 palms, 126 SPH (previous 5,175, 141); E3 24.30 ha: 3,062 palms, 126 SPH (previous 4,323, 178)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "ha",
+        "Palms (prev)",
+        "SPH (prev)"
+       ],
+       "rows": [
+        [
+         "E1",
+         "19.00",
+         "2,394 (2,654)",
+         "126 (140)"
+        ],
+        [
+         "E2",
+         "36.80",
+         "4,637 (5,175)",
+         "126 (141)"
+        ],
+        [
+         "E3",
+         "24.30",
+         "3,062 (4,323)",
+         "126 (178)"
+        ]
+       ]
+      },
+      "note": "Palm census last updated 2024"
      },
      {
       "k": "Block palm stand",
       "v": "10,093 palms, 126 SPH",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palm stand",
+        "v": "10,093"
+       },
+       {
+        "l": "SPH",
+        "v": "126"
+       }
+      ]
      }
     ],
     "pests": [
      {
-      "k": "Rat damage census, Apr 2026",
-      "v": "19% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 1,779 palms damaged, 18%. Threshold 10%",
-      "src": "Agro 2/2026"
+      "k": "Rat damage, fresh palms",
+      "v": "19% palms with fresh damage (Agro Table 6, Apr-May 2026); PA census: 1,779 palms damaged, 18%. Threshold 10% | 18%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Apr–May 2026 (Agro)",
+        "v": "19%",
+        "d": "PA: 1,779 palms, 18%"
+       },
+       {
+        "l": "Jun 2026",
+        "v": "18%",
+        "d": "post-baiting"
+       }
+      ],
+      "note": "Threshold 10%"
      },
      {
-      "k": "Rat damage census, Jun 2026 (post-baiting)",
-      "v": "18%",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Rat baiting Jan-Jun 2026",
+      "k": "Rat baiting Jan–Jun 2026 (% of palms)",
       "v": "3 rounds done. R1 baits 100% of palms (10,094); R2 4,954 (49.1%); R3 1,766 (17.5%) (sums of sub-block baits as printed). Sub-block R2/R3 %: E1 50%, 18%; E2 50%, 18%; E3 47%, 16%. Round dates not printed.",
-      "src": "PA 2/2026"
+      "src": "PA 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Round 2",
+        "Round 3"
+       ],
+       "rows": [
+        [
+         "E1",
+         "50%",
+         "18%"
+        ],
+        [
+         "E2",
+         "50%",
+         "18%"
+        ],
+        [
+         "E3",
+         "47%",
+         "16%"
+        ],
+        [
+         "Block",
+         "49.1%",
+         "17.5%"
+        ]
+       ]
+      },
+      "note": "3 rounds. R1 100% of palms (10,094); R2 4,954 palms; R3 1,766 palms. Dates not printed"
      },
      {
       "k": "Rat damage census 2025",
       "v": "Six census values as printed in order: 2%, 11%, 7%, 8%, 1%, 2% (Agro 1/2026 Table 7; month columns illegible, values read as pre- and post-baiting). Two baiting rounds in 2025 with Storm (flocoumafen 0.005% w/w) across all fields",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Census (order printed)",
+        "Damage"
+       ],
+       "rows": [
+        [
+         "1",
+         "2%"
+        ],
+        [
+         "2",
+         "11%"
+        ],
+        [
+         "3",
+         "7%"
+        ],
+        [
+         "4",
+         "8%"
+        ],
+        [
+         "5",
+         "1%"
+        ],
+        [
+         "6",
+         "2%"
+        ]
+       ]
+      },
+      "note": "Month columns illegible; read as pre-/post-baiting. Two Storm (flocoumafen 0.005% w/w) rounds, all fields"
      },
      {
-      "k": "Barn owl boxes Jun 2026",
-      "v": "8 boxes, 5 occupied (63%); adults 3, chicks 1, eggs 0; condition good 5, poor 3",
-      "src": "Agro 2/2026"
-     },
-     {
-      "k": "Barn owl boxes Dec 2025",
-      "v": "20 boxes, 11 occupied (100%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
-      "src": "Agro 1/2026"
+      "k": "Barn owl boxes",
+      "v": "8 boxes, 5 occupied (63%); adults 3, chicks 1, eggs 0; condition good 5, poor 3 | 20 boxes, 11 occupied (100%) (Agro 1/2026 Table 8); box count and occupancy fall sharply by Jun 2026 without explanation",
+      "src": "Agro 2/2026 · Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "",
+        "Dec 2025",
+        "Jun 2026"
+       ],
+       "rows": [
+        [
+         "Boxes",
+         "20",
+         "8"
+        ],
+        [
+         "Occupied",
+         "11 (100%)",
+         "5 (63%)"
+        ],
+        [
+         "Adults",
+         "–",
+         "3"
+        ],
+        [
+         "Chicks",
+         "–",
+         "1"
+        ],
+        [
+         "Eggs",
+         "–",
+         "0"
+        ],
+        [
+         "Good / poor",
+         "–",
+         "5 / 3"
+        ]
+       ]
+      },
+      "note": "Box count and occupancy fall sharply with no explanation"
      },
      {
       "k": "Ganoderma census 2024 (latest)",
       "v": "10,093 palms; 123 infected + 7 collapsed = 130 (1.29%). No new census since (Agro 1/2026 and 2/2026 same figures)",
-      "src": "Agro 2/2026"
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "123"
+       },
+       {
+        "l": "Collapsed",
+        "v": "7"
+       },
+       {
+        "l": "Total",
+        "v": "130",
+        "d": "1.29% of 10,093 palms"
+       }
+      ],
+      "note": "No new census since 2024"
      },
      {
       "k": "Rat photos",
@@ -1645,14 +3273,26 @@
     ],
     "pruning": [
      {
-      "k": "Pruning Jan-Jun 2026",
-      "v": "480.60 of 480.60 ha pruned and paid (6 rounds, 100%); programme year 961.20 ha; Agro: up to date, progressive pruning",
-      "src": "PA 2/2026"
-     },
-     {
-      "k": "Pruning cost",
-      "v": "RM84.96/ha/year (2011 planting)",
-      "src": "PA 2/2026"
+      "k": "Pruning Jan–Jun 2026",
+      "v": "480.60 of 480.60 ha pruned and paid (6 rounds, 100%); programme year 961.20 ha; Agro: up to date, progressive pruning | RM84.96/ha/year (2011 planting)",
+      "src": "PA 2/2026",
+      "stats": [
+       {
+        "l": "Pruned and paid",
+        "v": "100%",
+        "d": "480.60 of 480.60 ha · 6 rounds"
+       },
+       {
+        "l": "Programme year",
+        "v": "961.20 ha"
+       },
+       {
+        "l": "Cost",
+        "v": "RM84.96/ha/yr",
+        "d": "2011 planting"
+       }
+      ],
+      "note": "Agro: up to date, progressive pruning"
      },
      {
       "k": "Pruning condition",
@@ -2156,49 +3796,210 @@
    {
     "k": "Tonnage to June 2026",
     "v": "Mix B 278.45 of 556.90 t (50%; 298.95 received); CIRP 54.10 of 128.55 t (42%; 99.90 received, 28.65 to receive); Mix A 104.35 of 104.35 t (100%). Printed total 571.00 of 959.85 t (59%) does not equal the three rows (436.90 of 789.80 t)",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "To Jun 2026",
+      "Applied (t)",
+      "% of plan"
+     ],
+     "rows": [
+      [
+       "Mix B",
+       "278.45 of 556.90",
+       "50%"
+      ],
+      [
+       "CIRP",
+       "54.10 of 128.55",
+       "42%"
+      ],
+      [
+       "Mix A",
+       "104.35 of 104.35",
+       "100%"
+      ]
+     ]
+    },
+    "note": "Received: Mix B 298.95 t; CIRP 99.90 t (28.65 t to receive). Printed total 571.00 of 959.85 t (59%) does not equal the three rows (436.90 of 789.80 t)"
    },
    {
     "k": "Progress and delay",
     "v": "Agro: no delay over one month; first and second Mix B rounds and Mix A on time; CIRP largely on schedule, slight delay P06A and P09B, completion expected Jul 2026. PA: 13 of 15 rounds applied, delay blamed on late rock phosphate",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "pts": [
+     "Agro: no delay over one month; Mix B rounds 1-2 and Mix A on time",
+     "CIRP largely on schedule; slight delay P06A, P09B (done Jul 2026)",
+     "PA: 13 of 15 rounds applied; delay blamed on late rock phosphate"
+    ]
    },
    {
     "k": "Stock and remaining",
     "v": "Store 41.90 mt RP plus 28.65 mt due Jul; remaining 20.50 mt Mix B for round 3 in Jul; application suspended during the 8 Jul visit for rain. Quality improved",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "pts": [
+     "Store: 41.90 mt RP plus 28.65 mt due Jul",
+     "Remaining 20.50 mt Mix B for round 3 in Jul",
+     "Application suspended during 8 Jul visit for rain; quality improved"
+    ]
    },
    {
     "k": "2025 programme",
     "v": "Completed without major delay: Mix B/Compact B 777.70 t, CIRP 133.70 t, ammonium sulphate 48.45 t (959.85 t, 100%); no application over 2 months late",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "2025 programme",
+      "Tonnes"
+     ],
+     "rows": [
+      [
+       "Mix B / Compact B",
+       "777.70"
+      ],
+      [
+       "CIRP",
+       "133.70"
+      ],
+      [
+       "Ammonium sulphate",
+       "48.45"
+      ],
+      [
+       "Total (100%)",
+       "959.85"
+      ]
+     ]
+    },
+    "note": "Completed without major delay; nothing over 2 months late"
    },
    {
     "k": "2026 requirement at Jan",
     "v": "Mix B 556.90 t, CIRP 128.55 t, Mix A 208.70 t (894.15 t); Agro 2/2026 shows Mix A 104.35 t",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "2026 at Jan",
+      "Tonnes"
+     ],
+     "rows": [
+      [
+       "Mix B",
+       "556.90"
+      ],
+      [
+       "CIRP",
+       "128.55"
+      ],
+      [
+       "Mix A",
+       "208.70"
+      ],
+      [
+       "Total",
+       "894.15"
+      ]
+     ]
+    },
+    "note": "Agro 2/2026 shows Mix A 104.35 t"
    },
    {
     "k": "Fertiliser composition",
     "v": "Mix A 45% SOA, 0% RP, 40% MOP, 14% KIE; Mix B same plus 1% B; rock phosphate 28-30% P2O5; kieserite 27% MgO. Broadcast by hand in weeded circle: 29 bags/man-day, RM2.50/bag, RM72.50/man-day",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "tbl": {
+     "cols": [
+      "Fertiliser",
+      "Composition"
+     ],
+     "rows": [
+      [
+       "Mix A",
+       "45% SOA, 0% RP, 40% MOP, 14% KIE"
+      ],
+      [
+       "Mix B",
+       "Same plus 1% B"
+      ],
+      [
+       "Rock phosphate",
+       "28-30% P2O5"
+      ],
+      [
+       "Kieserite",
+       "27% MgO"
+      ]
+     ]
+    },
+    "note": "Broadcast by hand in weeded circle: 29 bags/man-day, RM2.50/bag, RM72.50/man-day"
    }
   ],
   "spraying": [
    {
     "k": "Circle spray Jan-Jun 2026",
     "v": "668.40 ha (1 round) 100%; 3.0 ha/man-day vs 5 achievable; RM16/ha; earnings RM48/man-day vs RM65.38 basic; glyphosate 0.32 l/ha recorded as 1.9 pumps/ha (PA says should be about 4)",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "stats": [
+     {
+      "l": "Circle done",
+      "v": "100%",
+      "d": "668.40 ha (1 round)"
+     },
+     {
+      "l": "Output",
+      "v": "3.0 ha/man-day",
+      "d": "5 achievable"
+     },
+     {
+      "l": "Rate",
+      "v": "RM16/ha",
+      "d": "RM48/man-day vs RM65.38 basic"
+     },
+     {
+      "l": "Glyphosate",
+      "v": "0.32 l/ha",
+      "d": "1.9 pumps/ha; PA: about 4"
+     }
+    ],
+    "note": "Jan–Jun 2026"
    },
    {
     "k": "Selective spray Jan-Jun 2026",
     "v": "1,268.00 of 1,336.80 ha (95%, 1.9 rounds); mist blower 3 ha/man-day; RM22/ha vs sister estates about RM16; earnings RM66/man-day; Garlon 0.31 l/ha recorded as 1.6 pumps (PA says 3); 6 pumps/man-day vs 11 potential",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "stats": [
+     {
+      "l": "Selective done",
+      "v": "95%",
+      "d": "1,268.00 of 1,336.80 ha (1.9 rounds)"
+     },
+     {
+      "l": "Output",
+      "v": "3 ha/man-day",
+      "d": "6 pumps/man-day vs 11 potential"
+     },
+     {
+      "l": "Rate",
+      "v": "RM22/ha",
+      "d": "sisters about RM16; RM66/man-day"
+     },
+     {
+      "l": "Garlon",
+      "v": "0.31 l/ha",
+      "d": "1.6 pumps; PA: 3"
+     }
+    ],
+    "note": "Jan–Jun 2026, mist blower"
    },
    {
     "k": "PA instructions",
     "v": "One round of circle raking in lieu of circle spraying; one dedicated selective round to eradicate all VOPs this financial year; time and motion study; low-volume Inter pump suggested for circles",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "pts": [
+     "One round of circle raking in lieu of circle spraying",
+     "One dedicated selective round to eradicate all VOPs this financial year",
+     "Time and motion study; low-volume Inter pump suggested for circles"
+    ]
    },
    {
     "k": "Inter-row cover",
@@ -2210,17 +4011,80 @@
    {
     "k": "Rat damage Apr 2026",
     "v": "Estate census 84,058 palms; P06A 12%, P09B 15%, P10C 15%, P11D 13%, P11E 19% (Agro) vs threshold 10%",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Block",
+      "Fresh damage (Agro)"
+     ],
+     "rows": [
+      [
+       "P06A",
+       "12%"
+      ],
+      [
+       "P09B",
+       "15%"
+      ],
+      [
+       "P10C",
+       "15%"
+      ],
+      [
+       "P11D",
+       "13%"
+      ],
+      [
+       "P11E",
+       "19%"
+      ]
+     ]
+    },
+    "note": "Apr 2026, estate census 84,058 palms; threshold 10%"
    },
    {
     "k": "Baiting and trend",
     "v": "3 baiting rounds in B, C, D and E; fresh damage reduced but old and fresh damage in most blocks; PA: extensive; acceptance high after round 3; quarterly census, bait above 10%",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "pts": [
+     "3 baiting rounds in B, C, D and E; fresh damage reduced",
+     "Old and fresh damage still in most blocks; PA: extensive",
+     "Acceptance high after round 3; quarterly census, bait above 10%"
+    ]
    },
    {
     "k": "Barn owls Jun 2026",
     "v": "67 boxes (1 per 10 ha), 29 occupied (43%), 24 adults, 7 chicks, 9 eggs; 50 good, 17 poor. Dec 2025 had 112 boxes (1 per 6 ha), 85 occupied (89%)",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "",
+      "Dec 2025",
+      "Jun 2026"
+     ],
+     "rows": [
+      [
+       "Boxes",
+       "112 (1 per 6 ha)",
+       "67 (1 per 10 ha)"
+      ],
+      [
+       "Occupied",
+       "85 (89%)",
+       "29 (43%)"
+      ],
+      [
+       "Adults / chicks / eggs",
+       "–",
+       "24 / 7 / 9"
+      ],
+      [
+       "Good / poor",
+       "–",
+       "50 / 17"
+      ]
+     ]
+    }
    },
    {
     "k": "Bagworm",
@@ -2230,24 +4094,135 @@
    {
     "k": "Ganoderma 2024 census",
     "v": "84,058 palms; 2,703 infected, 2,370 collapsed, 5,073 total (6.04%); census not updated; PA tells estate to commence a census and tabulate it",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Infected",
+      "v": "2,703"
+     },
+     {
+      "l": "Collapsed",
+      "v": "2,370"
+     },
+     {
+      "l": "Total",
+      "v": "5,073",
+      "d": "6.04% of 84,058 palms"
+     }
+    ],
+    "note": "Census not updated; PA tells estate to start a census and tabulate it"
    }
   ],
   "other": [
    {
     "k": "Labour Jun 2026",
     "v": "32 workers vs 40 required; harvesters 23 vs 28 (20 on 8 Jul per Agro); 5 new harvesters due by end Aug; sprayers 3 vs 4; manurers 3 vs 4",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "tbl": {
+     "cols": [
+      "Jun 2026",
+      "Required",
+      "Actual"
+     ],
+     "rows": [
+      [
+       "Total",
+       "40",
+       "32"
+      ],
+      [
+       "Harvesters",
+       "28",
+       "23"
+      ],
+      [
+       "Sprayers",
+       "4",
+       "3"
+      ],
+      [
+       "Manurers",
+       "4",
+       "3"
+      ]
+     ]
+    },
+    "note": "Harvesters 20 on 8 Jul per Agro; 5 new harvesters due by end Aug"
    },
    {
     "k": "Rainfall Jan-Jun 2026",
     "v": "837.50 mm over 39 rain days; Jan 87.50, Feb 278.00, Mar 0.00, Apr 215.50, May 231.00, Jun 25.50 mm; dry spells may lower FFB",
-    "src": "Agro 2/2026"
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Rain",
+      "v": "837.50 mm",
+      "d": "39 rain days"
+     }
+    ],
+    "tbl": {
+     "cols": [
+      "Month",
+      "mm"
+     ],
+     "rows": [
+      [
+       "Jan",
+       "87.50"
+      ],
+      [
+       "Feb",
+       "278.00"
+      ],
+      [
+       "Mar",
+       "0.00"
+      ],
+      [
+       "Apr",
+       "215.50"
+      ],
+      [
+       "May",
+       "231.00"
+      ],
+      [
+       "Jun",
+       "25.50"
+      ]
+     ]
+    },
+    "note": "Jan–Jun 2026; dry spells may lower FFB"
    },
    {
     "k": "Roads and drains Jan-Jun 2026",
     "v": "Laterite 395.65 of 400 chains (98.60 this month, RM105/chain); grading 0 of 780 chains and desilting 0 of 685 chains (no contractor)",
-    "src": "PA 2/2026"
+    "src": "PA 2/2026",
+    "tbl": {
+     "cols": [
+      "Jan–Jun 2026",
+      "Done",
+      "Budget"
+     ],
+     "rows": [
+      [
+       "Laterite (chains)",
+       "395.65",
+       "400"
+      ],
+      [
+       "Grading (chains)",
+       "0",
+       "780"
+      ],
+      [
+       "Desilting (chains)",
+       "0",
+       "685"
+      ]
+     ]
+    },
+    "note": "Laterite 98.60 this month at RM105/chain; no contractor for grading and desilting"
    }
   ]
  },

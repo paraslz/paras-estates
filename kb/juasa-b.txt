@@ -94,9 +94,9 @@ ESTATE-WIDE FIELD NOTES
 [pests] Barn owls: Juasa B has no barn owl boxes installed; may raise bait usage. Install in stages (Juasa A has 84 boxes, 73% occupancy Jan 2026, 27% in poor condition) (Agro 1/2026 6.5.5-6.5.8)
 [pests] Other pests/diseases: No other pests or diseases seen on the PA visit (PA 2/2026 6.7.4)
 [pests] Ganoderma: Ganoderma census not yet done in Juasa A or B; to be done with palm census before replanting; SOP if infection above 10%; watermelon intercropping with contractors suggested in high-Ganoderma replant areas (Agro 1/2026 2.8-2.10)
-[yield] Estate yield Jan–May 2026 vs 2025 (Agro Table 17): 3.87 t/ha vs 4.00 t/ha Jan–May 2025 (-0.13 t/ha, -3.25%) on 1,365.03 ha in the table. Juasa A 4.88 vs 6.14 t/ha (Agro 1/2026 Table 17, 8.6)
+[yield] Estate yield Jan–May 2026 vs 2025: 3.87 t/ha vs 4.00 t/ha Jan–May 2025 (-0.13 t/ha, -3.25%) on 1,365.03 ha in the table. Juasa A 4.88 vs 6.14 t/ha (Agro 1/2026 Table 17, 8.6)
 [yield] Full-year FFB yield (Agro graph): Juasa B t/ha: 2021 13.12; 2022 13.37; 2023 11.96; 2024 14.48; 2025 9.73. Juasa A 2025: 17.42. Agro: Juasa B yield remains unsatisfactory (Agro 1/2026 8.1-8.3, Item 10)
-[yield] PA crop table to Jun 2026 (combined/base mismatch): FFB 14,032.23 mt vs budget to date 18,899 mt (annual 37,446 mt) vs 15,660.18 mt same period 2025 (12-month 40,080 mt). Yield 6.53 t/ha vs budget 8.79 and 7.20 last year; hectarage printed 2,149.17 ha, which does not equal Juasa B mature 1,305.03 ha. CPO 2,298.64 mt; OER 16.38% vs 18.94% budget and 16.83% last year; kernel 701.12 mt, 5.00% (PA 2/2026 8)
+[yield] PA crop table to Jun 2026: FFB 14,032.23 mt vs budget to date 18,899 mt (annual 37,446 mt) vs 15,660.18 mt same period 2025 (12-month 40,080 mt). Yield 6.53 t/ha vs budget 8.79 and 7.20 last year; hectarage printed 2,149.17 ha, which does not equal Juasa B mature 1,305.03 ha. CPO 2,298.64 mt; OER 16.38% vs 18.94% budget and 16.83% last year; kernel 701.12 mt, 5.00% (PA 2/2026 8)
 [yield] PA explanation: Shortfall due to harvester shortage, flooding and a low-crop season early in the year; loss of crop through harvester shortage is unsatisfactory (PA 2/2026 8.3, item 13)
 [yield] Yield limiting factors: Old palms (45% of area over 26 yr), low stand (125 SPH vs 138 SPH Juasa A), flooding (613.90 ha, 40%), crop recovery losses (Agro 1/2026 8.2-8.8)
 [harvesting] Harvesting rounds and interval: 8.7 rounds to June vs 12 budgeted; average interval 16 days (target 14). Agro Jan–May 2026: 8-21 days (2025: 9-108 days from flooding) (PA 2/2026 7.2-7.3 / Agro 1/2026 6.1.1)
@@ -145,10 +145,10 @@ Fertiliser programme (previous year) 2025:
   - Total per palm per year (computed: sum of printed applications; no total printed): 5,000 g (Agro 1/2025 (visit for 2-2024) App.1b)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 2.55 t/ha Jan–May 2026 vs 9.65 t/ha Jan–May 2025 (diff -7.10 t/ha); block 50.6 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1993 (main block): 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1993 planting: 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM93F, Jan–May 2026 (days, range per month): Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM93F (planting-year group): Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM93F Jan–May 2026: Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM93F: Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM93F, Jan–Jun 2026: Corrective backlog 73.38 ha: 8.72 ha in June, 10.71 ha to date, balance 62.67 ha. Progressive: programme 1,209.60 ha/yr, actual nil (0%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st-4th rounds 0%; 5th round 4.3 ha (2%) (main-block figures). (Agro 1/2026 Table 10)
@@ -179,10 +179,10 @@ Fertiliser programme (previous year) 2025:
   - Total per palm per year (computed: sum of printed applications; no total printed): 5,000 g (Agro 1/2025 (visit for 2-2024) App.1b)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 2.65 t/ha Jan–May 2026 vs 5.64 t/ha Jan–May 2025 (diff -2.99 t/ha); block 58.8 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1993 (main block): 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1993 planting: 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM93F, Jan–May 2026 (days, range per month): Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM93F (planting-year group): Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM93F Jan–May 2026: Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM93F: Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM93F, Jan–Jun 2026: Corrective backlog 73.38 ha: 8.72 ha in June, 10.71 ha to date, balance 62.67 ha. Progressive: programme 1,209.60 ha/yr, actual nil (0%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st-4th rounds 0%; 5th round 4.3 ha (2%) (main-block figures). (Agro 1/2026 Table 10)
@@ -211,10 +211,10 @@ Fertiliser programme (previous year) 2025:
   - Total per palm per year (computed: sum of printed applications; no total printed): 5,000 g (Agro 1/2025 (visit for 2-2024) App.1b)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 3.72 t/ha Jan–May 2026 vs 5.63 t/ha Jan–May 2025 (diff -1.91 t/ha); block 54.2 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1993 (main block): 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1993 planting: 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM93F, Jan–May 2026 (days, range per month): Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM93F (planting-year group): Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM93F Jan–May 2026: Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM93F: Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM93F, Jan–Jun 2026: Corrective backlog 73.38 ha: 8.72 ha in June, 10.71 ha to date, balance 62.67 ha. Progressive: programme 1,209.60 ha/yr, actual nil (0%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st-4th rounds 0%; 5th round 4.3 ha (2%) (main-block figures). (Agro 1/2026 Table 10)
@@ -243,10 +243,10 @@ Fertiliser programme (previous year) 2025:
   - Total per palm per year (computed: sum of printed applications; no total printed): 5,000 g (Agro 1/2025 (visit for 2-2024) App.1b)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.1 t/ha Jan–May 2026 vs 6.01 t/ha Jan–May 2025 (diff -1.91 t/ha); block 38 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1993 (main block): 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1993 planting: 20.6 kg in June 2025 vs 26.3 kg in June 2026 (applies to the whole 1993 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM93F, Jan–May 2026 (days, range per month): Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM93F (planting-year group): Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM93F Jan–May 2026: Jan 12-15; Feb 11-18; Mar 12-16; Apr 8-16; May 8-21 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM93F: Budget rate RM56.00/t; labour rate RM47.00/t; output 1.70 t/man-day; average earning RM79.90/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM93F, Jan–Jun 2026: Corrective backlog 73.38 ha: 8.72 ha in June, 10.71 ha to date, balance 62.67 ha. Progressive: programme 1,209.60 ha/yr, actual nil (0%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st-4th rounds 0%; 5th round 4.3 ha (2%) (main-block figures). (Agro 1/2026 Table 10)
@@ -274,9 +274,9 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2026 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.31 t/ha Jan–May 2026 vs 4.79 t/ha Jan–May 2025 (diff -0.48 t/ha); block 14.5 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1997 (main block): 20.2 kg in June 2025 vs 19.5 kg in June 2026 (applies to the whole 1997 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1997 planting: 20.2 kg in June 2025 vs 19.5 kg in June 2026 (applies to the whole 1997 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM97H, Jan–May 2026 (days, range per month): Jan 15-17; Feb 12-20; Mar 14-16; Apr 10-14; May 9-18 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvest interval PM97H Jan–May 2026: Jan 15-17; Feb 12-20; Mar 14-16; Apr 10-14; May 9-18 (main-block figures) (Agro 1/2026 Table 9)
   - Status: Block is being felled for replanting; no harvesting data in the 2026 Agro/PA tables beyond the Jan–May yield figure (see yield) (Agro 1/2026)
 Pruning:
   - Status: Block being replanted in 2026; low pruning completion at P97H is due to replanting (Agro 1/2026 6.2.1)
@@ -302,9 +302,9 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2026 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 2.4 t/ha Jan–May 2026 vs 3.42 t/ha Jan–May 2025 (diff -1.02 t/ha); block 45.5 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1997 (main block): 20.2 kg in June 2025 vs 19.5 kg in June 2026 (applies to the whole 1997 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1997 planting: 20.2 kg in June 2025 vs 19.5 kg in June 2026 (applies to the whole 1997 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM97H, Jan–May 2026 (days, range per month): Jan 15-17; Feb 12-20; Mar 14-16; Apr 10-14; May 9-18 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvest interval PM97H Jan–May 2026: Jan 15-17; Feb 12-20; Mar 14-16; Apr 10-14; May 9-18 (main-block figures) (Agro 1/2026 Table 9)
   - Status: Block is being felled for replanting; no harvesting data in the 2026 Agro/PA tables beyond the Jan–May yield figure (see yield) (Agro 1/2026)
 Pruning:
   - Status: Block being replanted in 2026; low pruning completion at P97H is due to replanting (Agro 1/2026 6.2.1)
@@ -333,11 +333,11 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.65 t/ha Jan–May 2026 vs 7.74 t/ha Jan–May 2025 (diff -3.09 t/ha); block 35.9 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1997 (main block): 20.2 kg in June 2025 vs 19.5 kg in June 2026 (applies to the whole 1997 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1997 planting: 20.2 kg in June 2025 vs 19.5 kg in June 2026 (applies to the whole 1997 planting). (PA 2/2026 8.4-8.5)
   - Replanting plan: H4 scheduled for replanting in 2028 (Agro Table 6) (Agro 1/2026 Table 6)
 Harvesting:
-  - Harvest interval PM97H, Jan–May 2026 (days, range per month): Jan 15-17; Feb 12-20; Mar 14-16; Apr 10-14; May 9-18 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM97H (planting-year group): Budget rate RM56.00/t; labour rate RM47.00/t; output 1.90 t/man-day; average earning RM89.30/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
+  - Harvest interval PM97H Jan–May 2026: Jan 15-17; Feb 12-20; Mar 14-16; Apr 10-14; May 9-18 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM97H: Budget rate RM56.00/t; labour rate RM47.00/t; output 1.90 t/man-day; average earning RM89.30/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM97H, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 215.40 ha/yr, 3.71 ha done (1%). (PA row is H4, 35.90 ha.) Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: all rounds 0% (main-block figures). (Agro 1/2026 Table 10)
@@ -357,8 +357,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 62.3 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Applied on 62.3 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 62.3 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Applied on 62.3 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Ground cover / weeds: Predominantly soft grasses (Agro). PA: clean circles and clean inter-rows (photos 5, 15) but VOPs seen in inter-row (photo 14) (Agro 1/2026 6.4.11 / PA 2/2026 6.3-6.4)
 Fertiliser programme (this year) 2026:
@@ -376,10 +375,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.74 t/ha Jan–May 2026 vs 6.1 t/ha Jan–May 2025 (diff -1.36 t/ha); block 62.3 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
   - Loose fruit collection: Incomplete loose fruit collection / uncollected loose fruit (photos 85-88) (Agro 1/2026 6.1.7)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
@@ -400,8 +399,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 58.3 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Applied on 58.3 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 58.3 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Applied on 58.3 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
   - Frond stacking: Recommended frond-stacking method not yet consistently implemented in P99I2 (photos 17-18) (Agro 1/2026 4.13)
 Spraying & weeding:
   - Ground cover: Predominantly soft grasses (Agro 1/2026 6.4.11)
@@ -420,10 +418,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.98 t/ha Jan–May 2026 vs 3.78 t/ha Jan–May 2025 (diff +1.20 t/ha); block 58.3 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st 98.3 ha (24%); 2nd 52.0 ha (13%); 3rd 52.0 ha (13%); 4th 90 ha (23%); 5th 73.2 ha (18%) (main-block figures). (Agro 1/2026 Table 10)
@@ -443,8 +441,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 49.3 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Applied on 49.3 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 49.3 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Applied on 49.3 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: spraying carried out only on higher ground; this sub-block excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Predominantly soft grasses (Agro 1/2026 6.4.11)
@@ -463,10 +460,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 3.5 t/ha Jan–May 2026 vs 2.04 t/ha Jan–May 2025 (diff +1.46 t/ha); block 49.3 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
   - Loose fruit collection: Incomplete loose fruit collection / uncollected loose fruit (photos 89-92) (Agro 1/2026 6.1.7)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
@@ -488,8 +485,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 37.1 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Applied on 37.1 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 37.1 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Applied on 37.1 ha (whole sub-block). PA records NK1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Ground cover: Predominantly soft grasses (Agro 1/2026 6.4.11)
 Fertiliser programme (this year) 2026:
@@ -507,10 +503,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.97 t/ha Jan–May 2026 vs 11.12 t/ha Jan–May 2025 (diff -6.15 t/ha); block 37.1 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
   - Harvest quality check (Jun 2026 visit): 16% overripe (photos 77-80). Agro: Juasa B 5-16% overripe is excessively high and unacceptable; stronger supervision and refresher training on ripeness standards advised. (Agro 1/2026 6.1.2-6.1.6)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
@@ -531,8 +527,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 32.2 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 32.2 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Predominantly soft grasses (Agro 1/2026 6.4.11)
@@ -551,10 +546,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2027 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.54 t/ha Jan–May 2026 vs 3.95 t/ha Jan–May 2025 (diff +0.59 t/ha); block 32.2 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
   - Harvest quality check (Jun 2026 visit): 16% overripe (photos 73-76). Agro: Juasa B 5-16% overripe is excessively high and unacceptable; stronger supervision and refresher training on ripeness standards advised. (Agro 1/2026 6.1.2-6.1.6)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
@@ -577,8 +572,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 58.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 58.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: excluded from the spraying programme (Agro 1/2026 6.4.3)
 Fertiliser programme (this year) 2026:
@@ -596,10 +590,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2027 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 3.12 t/ha Jan–May 2026 vs 4.75 t/ha Jan–May 2025 (diff -1.63 t/ha); block 58.7 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st 98.3 ha (24%); 2nd 52.0 ha (13%); 3rd 52.0 ha (13%); 4th 90 ha (23%); 5th 73.2 ha (18%) (main-block figures). (Agro 1/2026 Table 10)
@@ -618,8 +612,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 49.2 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 49.2 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: excluded from the spraying programme (Agro 1/2026 6.4.3)
 Fertiliser programme (this year) 2026:
@@ -637,10 +630,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2027 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 1.32 t/ha Jan–May 2026 vs 0.59 t/ha Jan–May 2025 (diff +0.73 t/ha); block 49.2 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st 98.3 ha (24%); 2nd 52.0 ha (13%); 3rd 52.0 ha (13%); 4th 90 ha (23%); 5th 73.2 ha (18%) (main-block figures). (Agro 1/2026 Table 10)
@@ -659,8 +652,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 67% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 48.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). (PA 2/2026 6.5)
-  - Round 2 (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 48.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3 (flagged mismatch). | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). PA table shows round 2 done only on I1–I4 (207.00 ha of 395.80 ha). (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Lindernia has colonised the peat area (beneficial soft cover) (Agro 1/2026 6.4.12)
@@ -679,10 +671,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2027 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.42 t/ha Jan–May 2026 vs 1.8 t/ha Jan–May 2025 (diff +2.62 t/ha); block 48.7 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 1999 (main block): 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 1999 planting: 19.5 kg in June 2025 vs 19.7 kg in June 2026 (applies to the whole 1999 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM99I, Jan–May 2026 (days, range per month): Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM99I (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM99I Jan–May 2026: Jan 12-18; Feb 13-18; Mar 10-10; Apr 11-16; May 15-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM99I: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 12 mt/day, rate RM7.50/t, average earning RM90/day. (PA 2/2026 7.6)
   - Harvest quality check (Jun 2026 visit): 13% overripe (photos 81-84). Agro: Juasa B 5-16% overripe is excessively high and unacceptable; stronger supervision and refresher training on ripeness standards advised. (Agro 1/2026 6.1.2-6.1.6)
 Pruning:
   - PA pruning status PM99I, Jan–Jun 2026: Corrective backlog 31.45 ha, none done to date; balance 31.45 ha. Progressive: programme 2,374.80 ha/yr, 365.64 ha done (15%). Pruning cost RM140/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
@@ -705,7 +697,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 41% — 75.1 of 183.4 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 73% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B (Aug): PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.) (PA 2/2026 6.5)
+  - Manuring rounds 2026: PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.) (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Predominantly soft grasses (Agro 1/2026 6.4.11)
@@ -726,10 +718,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 1.97 t/ha Jan–May 2026 vs 2.92 t/ha Jan–May 2025 (diff -0.95 t/ha); block 34.4 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2000 (main block): 4.4 kg in June 2025 vs 15.2 kg in June 2026 (applies to the whole 2000 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2000 planting: 4.4 kg in June 2025 vs 15.2 kg in June 2026 (applies to the whole 2000 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM00J, Jan–May 2026 (days, range per month): Jan 8-16; Feb 10-12; Mar 18-21; Apr 17-20; May 7-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM00J (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
+  - Harvest interval PM00J Jan–May 2026: Jan 8-16; Feb 10-12; Mar 18-21; Apr 17-20; May 7-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM00J: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM00J, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 550.20 ha/yr, nil done (0%). Pruning cost RM120/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: all rounds 0% (main-block figures). (Agro 1/2026 Table 10)
@@ -750,7 +742,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 41% — 75.1 of 183.4 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 73% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B (Aug): PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.) (PA 2/2026 6.5)
+  - Manuring rounds 2026: PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.) (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Predominantly soft grasses (Agro 1/2026 6.4.11)
@@ -771,10 +763,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 5.41 t/ha Jan–May 2026 vs 6.26 t/ha Jan–May 2025 (diff -0.85 t/ha); block 16.6 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2000 (main block): 4.4 kg in June 2025 vs 15.2 kg in June 2026 (applies to the whole 2000 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2000 planting: 4.4 kg in June 2025 vs 15.2 kg in June 2026 (applies to the whole 2000 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM00J, Jan–May 2026 (days, range per month): Jan 8-16; Feb 10-12; Mar 18-21; Apr 17-20; May 7-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM00J (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
+  - Harvest interval PM00J Jan–May 2026: Jan 8-16; Feb 10-12; Mar 18-21; Apr 17-20; May 7-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM00J: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM00J, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 550.20 ha/yr, nil done (0%). Pruning cost RM120/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: all rounds 0% (main-block figures). (Agro 1/2026 Table 10)
@@ -795,7 +787,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 41% — 75.1 of 183.4 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 73% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B (Aug): PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.) (PA 2/2026 6.5)
+  - Manuring rounds 2026: PA table plans 1,750 g/palm in Aug; 0.00 ha done at cut-off. (Agro 2026 programme has no 4th application for J.) (PA 2/2026 6.5)
 Spraying & weeding:
   - Weeds (PA photos): Clean circles and clean inter-rows in places (photos 4, 6, 13); also overgrown VOPs (photo 17) and spots of woodies (photo 16) (PA 2/2026 6.3-6.4)
 Fertiliser programme (this year) 2026:
@@ -815,10 +807,10 @@ Pests & diseases:
   - Ganoderma census: Not yet carried out (Juasa A and B). Agro advises a Ganoderma census with the palm census in sub-blocks scheduled for replanting; use the Ganoderma replanting SOP where infection exceeds 10%. Replanting scheduled 2028 (Agro Table 6). (Agro 1/2026 2.8-2.9, Table 6)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 3.91 t/ha Jan–May 2026 vs 7.81 t/ha Jan–May 2025 (diff -3.90 t/ha); block 40.7 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2000 (main block): 4.4 kg in June 2025 vs 15.2 kg in June 2026 (applies to the whole 2000 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2000 planting: 4.4 kg in June 2025 vs 15.2 kg in June 2026 (applies to the whole 2000 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM00J, Jan–May 2026 (days, range per month): Jan 8-16; Feb 10-12; Mar 18-21; Apr 17-20; May 7-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM00J (planting-year group): Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
+  - Harvest interval PM00J Jan–May 2026: Jan 8-16; Feb 10-12; Mar 18-21; Apr 17-20; May 7-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM00J: Budget rate RM50.00/t; labour rate RM41.00/t; output 2.00 t/man-day; average earning RM82.00/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM00J, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 550.20 ha/yr, nil done (0%). Pruning cost RM120/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: all rounds 0% (main-block figures). (Agro 1/2026 Table 10)
@@ -839,7 +831,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 0% — not started (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 0% — not started (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B: PA table plans 1,750 g/palm in Aug (Agro programme shows Oct); 0.00 ha done at cut-off. (PA 2/2026 6.5)
+  - Manuring rounds 2026: PA table plans 1,750 g/palm in Aug (Agro programme shows Oct); 0.00 ha done at cut-off. (PA 2/2026 6.5)
 Spraying & weeding:
   - Ground cover: Lindernia has colonised the peat area. PA: clean circles and clean inter-rows (photos 9, 19) (Agro 1/2026 6.4.12 / PA 2/2026 6.3-6.4)
 Fertiliser programme (this year) 2026:
@@ -861,10 +853,10 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 5,158 baits = 100% of palms; round 2: 0%. Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 1.93 t/ha Jan–May 2026 vs 2.67 t/ha Jan–May 2025 (diff -0.74 t/ha); block 40.3 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2004 (main block): 9.5 kg in June 2025 vs 16.6 kg in June 2026 (applies to the whole 2004 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2004 planting: 9.5 kg in June 2025 vs 16.6 kg in June 2026 (applies to the whole 2004 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM04L, Jan–May 2026 (days, range per month): Jan 12-12; Feb 15-16; Mar 12-17; Apr 17-19; May 5-13 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM04L (planting-year group): Budget rate RM47.00/t; labour rate RM38.00/t; output 1.85 t/man-day; average earning RM70.30/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
+  - Harvest interval PM04L Jan–May 2026: Jan 12-12; Feb 15-16; Mar 12-17; Apr 17-19; May 5-13 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM04L: Budget rate RM47.00/t; labour rate RM38.00/t; output 1.85 t/man-day; average earning RM70.30/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM7.50/t, average earning RM67.5/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM04L, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 241.80 ha/yr, 10.28 ha done (4%). Pruning cost RM120/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: all rounds 0% (main-block figures). (Agro 1/2026 Table 10)
@@ -889,9 +881,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 33% — 138.1 of 414.8 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 37% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 60.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. (PA 2/2026 6.5)
-  - Round 2 Mix B (Apr): Programme 2,250 g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. (PA 2/2026 6.5)
-  - Round 3 RP (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 60.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. | Programme 2,250 g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: the N field excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Bare ground with sparse soft-grass cover; Lindernia has colonised parts of the peat. Agro recommends establishing Lindernia or Nephrolepis. PA: clean circles and inter-rows (photos 7, 18) (Agro 1/2026 6.4.12, 6.4.16-6.4.17)
@@ -915,10 +905,10 @@ Pests & diseases:
   - Rat damage photo: Old rat damage (photo 36) (PA 2/2026 6.7)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 1.95 t/ha Jan–May 2026 vs 0.76 t/ha Jan–May 2025 (diff +1.19 t/ha); block 60.7 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2015 (main block): 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2015 planting: 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM15N, Jan–May 2026 (days, range per month): Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM15N (planting-year group): Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM15N Jan–May 2026: Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM15N: Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM15N, Jan–Jun 2026: Corrective backlog 5.74 ha, fully done to date (5.74 ha); balance nil. Progressive: programme 1,244.40 ha/yr, 139.44 ha done (11%). Pruning cost RM85/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st and 2nd 0%; 3rd 23.9 ha (12%); 4th 23.9 ha (12%); 5th 46.5 ha (22%) (main-block figures). (Agro 1/2026 Table 10)
@@ -941,9 +931,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 33% — 138.1 of 414.8 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 37% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 37.5 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. (PA 2/2026 6.5)
-  - Round 2 Mix B (Apr): Programme 2,250 g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. (PA 2/2026 6.5)
-  - Round 3 RP (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 37.5 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. | Programme 2,250 g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: the N field excluded from the spraying programme (Agro 1/2026 6.4.3)
   - Ground cover: Bare ground with sparse soft-grass cover; Lindernia colonised peat. Recommend Lindernia or Nephrolepis (Agro 1/2026 6.4.12, 6.4.16-6.4.17)
@@ -966,10 +954,10 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 25,418 baits = 100% of palms; round 2: 0%. Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 2.49 t/ha Jan–May 2026 vs 1.02 t/ha Jan–May 2025 (diff +1.47 t/ha); block 37.5 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2015 (main block): 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2015 planting: 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM15N, Jan–May 2026 (days, range per month): Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM15N (planting-year group): Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM15N Jan–May 2026: Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM15N: Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM15N, Jan–Jun 2026: Corrective backlog 5.74 ha, fully done to date (5.74 ha); balance nil. Progressive: programme 1,244.40 ha/yr, 139.44 ha done (11%). Pruning cost RM85/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st and 2nd 0%; 3rd 23.9 ha (12%); 4th 23.9 ha (12%); 5th 46.5 ha (22%) (main-block figures). (Agro 1/2026 Table 10)
@@ -991,9 +979,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 33% — 138.1 of 414.8 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 37% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 48.5 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. (PA 2/2026 6.5)
-  - Round 2 Mix B (Apr): Programme 2,250 g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. (PA 2/2026 6.5)
-  - Round 3 RP (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 48.5 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. | Programme 2,250 g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: the N field excluded from the spraying programme (Agro 1/2026 6.4.3)
 Fertiliser programme (this year) 2026:
@@ -1015,10 +1001,10 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 25,418 baits = 100% of palms; round 2: 0%. Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 2.04 t/ha Jan–May 2026 vs 1.56 t/ha Jan–May 2025 (diff +0.48 t/ha); block 48.5 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2015 (main block): 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2015 planting: 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM15N, Jan–May 2026 (days, range per month): Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM15N (planting-year group): Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM15N Jan–May 2026: Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM15N: Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM15N, Jan–Jun 2026: Corrective backlog 5.74 ha, fully done to date (5.74 ha); balance nil. Progressive: programme 1,244.40 ha/yr, 139.44 ha done (11%). Pruning cost RM85/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st and 2nd 0%; 3rd 23.9 ha (12%); 4th 23.9 ha (12%); 5th 46.5 ha (22%) (main-block figures). (Agro 1/2026 Table 10)
@@ -1040,9 +1026,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 33% — 138.1 of 414.8 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 37% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 1 (Feb): Programme 2,000 g/palm. Applied on 60.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. (PA 2/2026 6.5)
-  - Round 2 Mix B (Apr): Programme 2,250 (PA table; Agro programme prints 2,000 g for N4) g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. (PA 2/2026 6.5)
-  - Round 3 RP (Jun): Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm. Applied on 60.7 ha (whole sub-block) per PA table. PA records the fertiliser as NK1; Agro 2026 programme specifies NK3. | Programme 2,250 (PA table; Agro programme prints 2,000 g for N4) g/palm. Not applied by the PA table cut-off (Jun 2026). PA 6.5.1: Mix B and RP delivered late and applied in July. | Programme 2,000 g/palm. Not applied by the PA table cut-off (Jun 2026). Late delivery; applied in July per PA 6.5.1. (PA 2/2026 6.5)
 Spraying & weeding:
   - Spraying exclusion: Low-lying flood-prone: the N field excluded from the spraying programme (Agro 1/2026 6.4.3)
 Fertiliser programme (this year) 2026:
@@ -1064,10 +1048,10 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 25,418 baits = 100% of palms; round 2: 0%. Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 1.72 t/ha Jan–May 2026 vs 2.32 t/ha Jan–May 2025 (diff -0.60 t/ha); block 60.7 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2015 (main block): 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2015 planting: 4.1 kg in June 2025 vs 9.1 kg in June 2026 (applies to the whole 2015 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM15N, Jan–May 2026 (days, range per month): Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM15N (planting-year group): Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
+  - Harvest interval PM15N Jan–May 2026: Jan 15-20; Feb 6-12; Mar 11-16; Apr 18-19; May 9-14 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM15N: Budget rate RM53.00/t; labour rate RM42.00/t; output 1.80 t/man-day; average earning RM75.60/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM9.00/t, average earning RM90/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM15N, Jan–Jun 2026: Corrective backlog 5.74 ha, fully done to date (5.74 ha); balance nil. Progressive: programme 1,244.40 ha/yr, 139.44 ha done (11%). Pruning cost RM85/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st and 2nd 0%; 3rd 23.9 ha (12%); 4th 23.9 ha (12%); 5th 46.5 ha (22%) (main-block figures). (Agro 1/2026 Table 10)
@@ -1090,7 +1074,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 97% — 127.78 of 132.4 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 93% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B (Jul): Programme 2,000 g/palm; 0.00 ha done at PA table cut-off. (PA table does not list the Oct round of 1,500 g/palm that is in the Agro programme.) (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm; 0.00 ha done at PA table cut-off. (PA table does not list the Oct round of 1,500 g/palm that is in the Agro programme.) (PA 2/2026 6.5)
 Spraying & weeding:
   - Ground cover: Predominantly soft grasses. PA: clean circles (photo 8) (Agro 1/2026 6.4.11 / PA 2/2026 6.3)
 Fertiliser programme (this year) 2026:
@@ -1114,11 +1098,11 @@ Pests & diseases:
   - Rat damage photo: Old rat damage (photo 37) (PA 2/2026 6.7)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 4.14 t/ha Jan–May 2026 vs 4.29 t/ha Jan–May 2025 (diff -0.15 t/ha); block 36.9 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2016 (main block): 9.2 kg in June 2025 vs 8.2 kg in June 2026 (applies to the whole 2016 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2016 planting: 9.2 kg in June 2025 vs 8.2 kg in June 2026 (applies to the whole 2016 planting). (PA 2/2026 8.4-8.5)
   - Fruit set: Good fruit sets seen on visit (photo) (PA 2/2026 8.6)
 Harvesting:
-  - Harvest interval PM16P, Jan–May 2026 (days, range per month): Jan 10-15; Feb 11-18; Mar 10-15; Apr 11-15; May 8-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM16P (planting-year group): Budget rate RM54.00/t; labour rate RM43.00/t; output 2.00 t/man-day; average earning RM86.00/man-day vs basic wage RM65.39. Manual loading table as printed: 8 mt/day, rate RM9.00/t, average earning RM72/day. (PA 2/2026 7.6)
+  - Harvest interval PM16P Jan–May 2026: Jan 10-15; Feb 11-18; Mar 10-15; Apr 11-15; May 8-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM16P: Budget rate RM54.00/t; labour rate RM43.00/t; output 2.00 t/man-day; average earning RM86.00/man-day vs basic wage RM65.39. Manual loading table as printed: 8 mt/day, rate RM9.00/t, average earning RM72/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM16P, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 397.20 ha/yr, 397.20 ha done (100%). Pruning cost RM70/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st and 2nd 0%; 3rd 65.9 ha (99%); 4th 66.2 ha (100%); 5th 66.2 ha (100%) (main-block figures). (Agro 1/2026 Table 10)
@@ -1143,7 +1127,7 @@ Spraying progress (Jan–Jun 2026):
   - Selective spraying: 97% — 127.78 of 132.4 ha (PA 2/2026 6.4)
   - Inter-row rd 1 (to May): 93% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B (Jul): Programme 2,000 g/palm; 0.00 ha done at PA table cut-off. (PA table does not list the Oct round of 1,500 g/palm that is in the Agro programme.) (PA 2/2026 6.5)
+  - Manuring rounds 2026: Programme 2,000 g/palm; 0.00 ha done at PA table cut-off. (PA table does not list the Oct round of 1,500 g/palm that is in the Agro programme.) (PA 2/2026 6.5)
   - Application quality (Jun 2026 visit): Quality of fertiliser application assessed in P16P2: no significant caking in Mix B, only small lumps easily broken; fertiliser properly broadcast, fewer lumpy or narrow-band applications (photos 13-14) (Agro 1/2026 4.8-4.9)
 Spraying & weeding:
   - Weed kill / ground cover: Incomplete weed kills seen (photos 168-169); Lindernia colonised the peat area (Agro 1/2026 6.4.12, 6.4.15)
@@ -1167,10 +1151,10 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 9,033 baits = 100% of palms; round 2: 0%. Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 3.54 t/ha Jan–May 2026 vs 4.71 t/ha Jan–May 2025 (diff -1.17 t/ha); block 29.3 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2016 (main block): 9.2 kg in June 2025 vs 8.2 kg in June 2026 (applies to the whole 2016 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2016 planting: 9.2 kg in June 2025 vs 8.2 kg in June 2026 (applies to the whole 2016 planting). (PA 2/2026 8.4-8.5)
 Harvesting:
-  - Harvest interval PM16P, Jan–May 2026 (days, range per month): Jan 10-15; Feb 11-18; Mar 10-15; Apr 11-15; May 8-16 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM16P (planting-year group): Budget rate RM54.00/t; labour rate RM43.00/t; output 2.00 t/man-day; average earning RM86.00/man-day vs basic wage RM65.39. Manual loading table as printed: 8 mt/day, rate RM9.00/t, average earning RM72/day. (PA 2/2026 7.6)
+  - Harvest interval PM16P Jan–May 2026: Jan 10-15; Feb 11-18; Mar 10-15; Apr 11-15; May 8-16 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM16P: Budget rate RM54.00/t; labour rate RM43.00/t; output 2.00 t/man-day; average earning RM86.00/man-day vs basic wage RM65.39. Manual loading table as printed: 8 mt/day, rate RM9.00/t, average earning RM72/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM16P, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 397.20 ha/yr, 397.20 ha done (100%). Pruning cost RM70/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st and 2nd 0%; 3rd 65.9 ha (99%); 4th 66.2 ha (100%); 5th 66.2 ha (100%) (main-block figures). (Agro 1/2026 Table 10)
@@ -1196,7 +1180,7 @@ Spraying progress (Jan–Jun 2026):
   - Inter-row rd 1 (to May): 100% — to May 2026 (Agro 1/2026 Table 12)
   - Circle rd 1 (to May): 100% — to May 2026 (Agro 1/2026 Table 12)
 Manuring progress:
-  - Round 4 Mix B (Jul): PA table plans 2,000 g/palm (Agro programme: 1,500 g/palm); 0.00 ha done at cut-off. (PA 2/2026 6.5)
+  - Manuring rounds 2026: PA table plans 2,000 g/palm (Agro programme: 1,500 g/palm); 0.00 ha done at cut-off. (PA 2/2026 6.5)
 Spraying & weeding:
   - Weeds: Predominantly soft grasses but pockets of dense undesirable weeds; sizeable VOPs that should be eradicated promptly; over-spraying (blanket) seen (photo 170). PA photos: clean circles and inter-rows (3, 11) and VOPs (12) (Agro 1/2026 6.4.11, 6.4.13-6.4.15 / PA 2/2026 6.3-6.4)
 Fertiliser programme (this year) 2026:
@@ -1220,11 +1204,11 @@ Pests & diseases:
   - Rat damage photos: Old rat damage (photos 33-34) and fresh rat damage (photo 35) seen; PA: rat damage extensive, especially in lowland areas (PA 2/2026 6.7.1)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 5.19 t/ha Jan–May 2026 vs 8.63 t/ha Jan–May 2025 (diff -3.44 t/ha); block 38.2 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2020 (main block): 9.3 kg in June 2025 vs 6.6 kg in June 2026 (applies to the whole 2020 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2020 planting: 9.3 kg in June 2025 vs 6.6 kg in June 2026 (applies to the whole 2020 planting). PA flags this planting year as abnormally different and asks for the recording to be investigated. (PA 2/2026 8.4-8.5)
   - Fruit set: Good fruit sets seen on visit (photo) (PA 2/2026 8.6)
 Harvesting:
-  - Harvest interval PM20R, Jan–May 2026 (days, range per month): Jan 11-15; Feb 9-15; Mar 8-14; Apr 10-11; May 12-14 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM20R (planting-year group): Budget rate RM84.00/t; labour rate RM73.00/t; output 1.50 t/man-day; average earning RM109.50/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM9.00/t, average earning RM81/day. (PA 2/2026 7.6)
+  - Harvest interval PM20R Jan–May 2026: Jan 11-15; Feb 9-15; Mar 8-14; Apr 10-11; May 12-14 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM20R: Budget rate RM84.00/t; labour rate RM73.00/t; output 1.50 t/man-day; average earning RM109.50/man-day vs basic wage RM65.39. Manual loading table as printed: 9 mt/day, rate RM9.00/t, average earning RM81/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning status PM20R, Jan–Jun 2026: No corrective backlog printed. Progressive: programme 229.20 ha/yr, 229.20 ha done (100%). Pruning cost RM70/ha/yr; corrective pruning RM175/ha. Whole main-block row in PA table. (PA 2/2026 6.6)
   - Agro pruning rounds to Jun 2026: 1st-5th rounds each 38.2 ha (100%) (main-block figures). (Agro 1/2026 Table 10)
@@ -1275,11 +1259,11 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 37,776 baits = 100% of palms; round 2: 18,700 baits (50%). Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 5.67 t/ha Jan–May 2026 vs 0.54 t/ha Jan–May 2025 (diff +5.13 t/ha); block 21.63 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2022 (main block): 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2022 planting: 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
   - Maturity status: P22 replant declared mature in 2026; PA asks for maximum crop recovery in 2026 and notes inter-row conditions need improvement (PA 2/2026 item 15)
 Harvesting:
-  - Harvest interval PM22T, Jan–May 2026 (days, range per month): Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM22T (planting-year group): Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
+  - Harvest interval PM22T Jan–May 2026: Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM22T: Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning table: PM22T is not in the PA 6.6 pruning table; pruning cost RM103.60/ha/yr for P22. PA: pruned palms look satisfactory (photo 25 P22/T5) (PA 2/2026 6.6.4)
   - Pruning quality (Jun 2026 visit): Slight over-pruning; retrain harvesters to retain at least 2 subtending fronds below the lowest bunch (Agro 1/2026 6.2.8)
@@ -1326,11 +1310,11 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 37,776 baits = 100% of palms; round 2: 18,700 baits (50%). Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 3.87 t/ha Jan–May 2026 vs 2.59 t/ha Jan–May 2025 (diff +1.28 t/ha); block 75.9 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2022 (main block): 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2022 planting: 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
   - Maturity status: P22 replant declared mature in 2026 (all P22T sub-blocks) (PA 2/2026 item 15)
 Harvesting:
-  - Harvest interval PM22T, Jan–May 2026 (days, range per month): Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM22T (planting-year group): Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
+  - Harvest interval PM22T Jan–May 2026: Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM22T: Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
 Pruning:
   - PA pruning table: PM22T is not in the PA 6.6 pruning table; pruning cost RM103.60/ha/yr for P22. PA: pruned palms look satisfactory (photo 25 P22/T5) (PA 2/2026 6.6.4)
   - Pruning quality (Jun 2026 visit): Slight over-pruning; retrain harvesters to retain at least 2 subtending fronds below the lowest bunch (Agro 1/2026 6.2.8)
@@ -1375,12 +1359,12 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 37,776 baits = 100% of palms; round 2: 18,700 baits (50%). Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 6.5 t/ha Jan–May 2026 vs 3.15 t/ha Jan–May 2025 (diff +3.35 t/ha); block 58.1 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2022 (main block): 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2022 planting: 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
   - Fruit set: Good fruit sets seen on visit (photo) (PA 2/2026 8.6)
   - Maturity status: P22 replant declared mature in 2026 (all P22T sub-blocks) (PA 2/2026 item 15)
 Harvesting:
-  - Harvest interval PM22T, Jan–May 2026 (days, range per month): Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM22T (planting-year group): Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
+  - Harvest interval PM22T Jan–May 2026: Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM22T: Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
   - Harvest quality check (Jun 2026 visit): 5% overripe and 8% underripe bunches (photos 69-72); underripe shows inconsistent ripeness assessment. Agro: Juasa B 5-16% overripe is excessively high and unacceptable; stronger supervision and refresher training on ripeness standards advised. (Agro 1/2026 6.1.2-6.1.6)
 Pruning:
   - PA pruning table: PM22T is not in the PA 6.6 pruning table; pruning cost RM103.60/ha/yr for P22. PA: pruned palms look satisfactory (photo 25 P22/T5) (PA 2/2026 6.6.4)
@@ -1426,11 +1410,11 @@ Pests & diseases:
   - Rat baiting, Jun 2026: Round 1: 37,776 baits = 100% of palms; round 2: 18,700 baits (50%). Campaign still in progress at PA visit (28 Jul 2026). PA: 1 round is insufficient; continue until damage below 10%; repeat census every 3 months. (PA 2/2026 6.7.1-6.7.3)
 Yield:
   - FFB yield Jan–May 2026 vs 2025: 5.08 t/ha Jan–May 2026 vs 2.28 t/ha Jan–May 2025 (diff +2.80 t/ha); block 72.3 ha in the table (Agro 1/2026 Table 17)
-  - Avg bunch weight, planting 2022 (main block): 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
+  - Bunch weight, 2022 planting: 2.5 kg in June 2025 vs 3.6 kg in June 2026 (applies to the whole 2022 planting). (PA 2/2026 8.4-8.5)
   - Maturity status: P22 replant declared mature in 2026 (all P22T sub-blocks) (PA 2/2026 item 15)
 Harvesting:
-  - Harvest interval PM22T, Jan–May 2026 (days, range per month): Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
-  - Harvester pay PM22T (planting-year group): Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
+  - Harvest interval PM22T Jan–May 2026: Jan 11-11; Feb 12-12; Mar 10-13; Apr 5-10; May 10-12 (main-block figures) (Agro 1/2026 Table 9)
+  - Harvester pay PM22T: Budget rate RM99.00/t; labour rate RM88.00/t; output 1.50 t/man-day; average earning RM132.00/man-day vs basic wage RM65.39. Manual loading table as printed: 10 mt/day, rate RM12.00/t, average earning RM120/day. (PA 2/2026 7.6)
   - Harvest quality check (Jun 2026 visit): 8% overripe bunches in freshly harvested bunches (photos 65-68). Agro: Juasa B 5-16% overripe is excessively high and unacceptable; stronger supervision and refresher training on ripeness standards advised. (Agro 1/2026 6.1.2-6.1.6)
 Pruning:
   - PA pruning table: PM22T is not in the PA 6.6 pruning table; pruning cost RM103.60/ha/yr for P22. PA: pruned palms look satisfactory (photo 25 P22/T5) (PA 2/2026 6.6.4)
@@ -1478,7 +1462,7 @@ Pests & diseases:
 Field:
   - Flood-prone area (Appendix 3b): Not listed in Appendix 3b (no flood-prone area reported for this sub-block) (Agro 1/2026 App.3b)
   - Palm stand / census: PR24 V3+V4 126.7 ha: 18,752 palms listed as "new replanting" in the census table (no stand/ha printed). Agro advises an annual palm census in blocks under 5 years, especially flood-prone areas (Agro 1/2026 Table 5, 2.7)
-  - Immature costs, to Jun 2026 (PR24 V3+V4 combined): Upkeep RM116,863 actual (RM922/ha) vs RM142,644 budget to date (RM1,126/ha); annual budget RM285,270 (RM2,252/ha). From start: RM1,185,731 incl. felling/clearing etc. (RM9,359/ha). Lines actual vs budget to date: circle spraying/woodies RM28,508 vs RM28,512; manuring RM41,256 vs RM54,474; pest & disease RM18,815 vs RM29,166; drains RM2,581 vs RM1,248; roads RM13,983 vs RM6,966; supplying RM7,066 vs RM16,002; ablation nil vs RM5,388; pruning RM4,654 vs nil (PA 2/2026 10.1)
+  - Immature costs to Jun 2026 (V3+V4): Upkeep RM116,863 actual (RM922/ha) vs RM142,644 budget to date (RM1,126/ha); annual budget RM285,270 (RM2,252/ha). From start: RM1,185,731 incl. felling/clearing etc. (RM9,359/ha). Lines actual vs budget to date: circle spraying/woodies RM28,508 vs RM28,512; manuring RM41,256 vs RM54,474; pest & disease RM18,815 vs RM29,166; drains RM2,581 vs RM1,248; roads RM13,983 vs RM6,966; supplying RM7,066 vs RM16,002; ablation nil vs RM5,388; pruning RM4,654 vs nil (PA 2/2026 10.1)
 
 BLOCK PR24V4 (64.6 ha, planted 2024, Immature)
 Manuring progress (to Jun 2026):

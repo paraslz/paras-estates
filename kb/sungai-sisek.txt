@@ -135,9 +135,7 @@ Harvesting:
   - Manual loading, tractor, May 2026: 10.83 t/day; rate RM8/t; earning RM86.64/day (PA 1/2026)
   - Loose fruit: Uncollected loose fruit at P95E-5; long stalks an issue (under 5 cm needed) (Agro 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM140/ha/year (1995-97 plantings) (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM140/ha/year (1995-97 plantings) (Agro 1/2026 · PA 1/2026)
   - Frond stacking: Inconsistent in flat areas (Agro 1/2026)
   - Sanitation: Epiphytes in E1-E3 removed manually (Agro 1/2026)
 Nutrients:
@@ -171,9 +169,7 @@ Harvesting:
   - Harvester output May 2026: Rate RM45/t; 2.38 t per man-day; average earning RM107.10/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 9.31 t/day; rate RM8/t; earning RM74.48/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM140/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM140/ha/year (Agro 1/2026 · PA 1/2026)
   - Fronds: Fractured fronds at P96/F3 (PA 1/2026)
 Field:
   - Area, SPH, palms, Mar 2026: 146.09 ha; 143 SPH; 20,891 palms. No recent census; a full census is recommended (Agro 1/2026)
@@ -205,9 +201,7 @@ Harvesting:
   - Harvester output May 2026: Rate RM45/t; 2.26 t per man-day; average earning RM101.70/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 5.95 t/day; rate RM8/t; earning RM47.6/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM140/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM140/ha/year (Agro 1/2026 · PA 1/2026)
 Field:
   - Area, SPH, palms, Mar 2026: 74.46 ha; 148 SPH; 11,020 palms. No recent census; a full census is recommended (Agro 1/2026)
   - Replanting plan: 2030 (Agro Table 4) (Agro 1/2026)
@@ -240,11 +234,9 @@ Harvesting:
   - Harvester output May 2026: Rate RM37/t; 2.55 t per man-day; average earning RM94.35/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 10.18 t/day; rate RM8/t; earning RM81.44/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM120/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM120/ha/year (Agro 1/2026 · PA 1/2026)
 Nutrients:
-  - Leaf analysis H1 (% dry matter, B in ppm): N 2.67 normal; P 0.174 high; K 1.24 high; Mg 0.28 high; Ca 0.5 normal; B 14.51 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
+  - Leaf analysis H1: N 2.67 normal; P 0.174 high; K 1.24 high; Mg 0.28 high; Ca 0.5 normal; B 14.51 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
 Field:
   - Area, SPH, palms, Mar 2026: 59.49 ha; 143 SPH; 8,507 palms. No recent census; a full census is recommended (Agro 1/2026)
 
@@ -260,8 +252,7 @@ Spraying progress (to May 2026):
 Manuring progress:
   - AS (Feb, 1,000 g): A1 applied 20 May; A2 26-28 May; A3 and A4 pending (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: main area: programmed 193.58 ha, completed 158.08 ha, printed 100% (figures do not agree, check); year programme 580.74 ha. Terrace part (PM15A TR) 20.70 ha: 100%; year programme 62.10 ha (PA 1/2026)
-  - Selective spray to May 2026: main 193.58 ha = 50%; terrace part 20.70 ha = 50% (PA 1/2026)
+  - Spray to May 2026 (PA): main area: programmed 193.58 ha, completed 158.08 ha, printed 100% (figures do not agree, check); year programme 580.74 ha. Terrace part (PM15A TR) 20.70 ha: 100%; year programme 62.10 ha | main 193.58 ha = 50%; terrace part 20.70 ha = 50% (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - A1, A2: Jan: Mix B 2,250 g; Feb: AS 1,000 g; Apr: Mix B 2,250 g; Jul: Mix B 1,500 g; Aug: RP 1,500 g; Oct: Mix B 1,500 g (Agro 1/2026)
@@ -270,8 +261,7 @@ Fertiliser programme (previous year) 2025:
   - A1, A2: Jan: Mix B 2,250 g; Apr: Mix B 2,250 g; Jul: Mix B 2,250 g; Aug: RP 1,750 g; Oct: Mix B 2,250 g (Agro 1/2025)
   - A3, A4: Jan: Mix B 2,000 g; Feb: AS 1,000 g; Apr: Mix B 2,000 g; Jul: Mix B 2,250 g; Aug: RP 2,000 g; Oct: Mix B 2,250 g (Agro 1/2025)
 Pests & diseases:
-  - Rat damage census, as at May 2026: 800 palms censused; damage 2% (PA 1/2026)
-  - Rat damage census Jan / Feb / Mar 2026: 3% Jan / 4% Feb / 3% Mar (Agro 1/2026)
+  - Rat damage census 2026: 3% Jan / 4% Feb / 3% Mar | 800 palms censused; damage 2% (Agro 1/2026 · PA 1/2026)
   - Baiting to May 2026: None done (PA) (PA 1/2026)
   - Bagworm: Seen at P15; census to begin; Methamidophos if above 10 active larvae per frond. In 2025 old bagworm in hilly P15A2 (PA 1/2026)
   - Bagworm 2025: Old bagworm in P15A2 hilly area (Agro 2/2025)
@@ -285,14 +275,9 @@ Harvesting:
   - Harvester output May 2026: Rate RM42/t; 1.98 t per man-day; average earning RM83.16/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 10.94 t/day; rate RM12/t; earning RM131.28/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM70/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM70/ha/year (Agro 1/2026 · PA 1/2026)
 Nutrients:
-  - Leaf analysis A1 (% dry matter, B in ppm): N 2.34 low; P 0.143 low; K 0.96 normal; Mg 0.32 high; Ca 0.66 high; B 13.42 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis A2 (% dry matter, B in ppm): N 2.5 low; P 0.155 marginally low; K 1.02 normal; Mg 0.3 high; Ca 0.6 high; B 10.81 marginally low. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis A3 (% dry matter, B in ppm): N 2.39 low; P 0.143 low; K 1.1 high; Mg 0.3 high; Ca 0.56 normal; B 14.37 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis A4 (% dry matter, B in ppm): N 2.51 low; P 0.144 low; K 1.12 high; Mg 0.27 normal; Ca 0.54 normal; B 13.96 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
+  - Leaf analysis A1–A4: N 2.34 low; P 0.143 low; K 0.96 normal; Mg 0.32 high; Ca 0.66 high; B 13.42 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.5 low; P 0.155 marginally low; K 1.02 normal; Mg 0.3 high; Ca 0.6 high; B 10.81 marginally low. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.39 low; P 0.143 low; K 1.1 high; Mg 0.3 high; Ca 0.56 normal; B 14.37 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.51 low; P 0.144 low; K 1.12 high; Mg 0.27 normal; Ca 0.54 normal; B 13.96 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
   - N deficiency 2025: PM15A-1/A-2 improving (Agro 2/2025)
 Field:
   - Area, SPH, palms, Mar 2026: 214.28 ha; 121 SPH (lowest in estate); 25,928 palms. No recent census; a full census is recommended (Agro 1/2026)
@@ -316,8 +301,7 @@ Fertiliser programme (previous year) 2025:
   - I2: Jan: Mix B 2,000 g; Apr: Mix B 2,000 g; Jul: Mix B 2,250 g; Aug: RP 1,750 g; Oct: Mix B 2,250 g (no kieserite) (Agro 1/2025)
   - I3: Jan: Mix B 2,000 g; Mar: kieserite 750 g; Apr: Mix B 2,000 g; Jul: Mix B 2,250 g; Aug: RP 2,000 g; Oct: Mix B 2,250 g (Agro 1/2025)
 Pests & diseases:
-  - Rat damage census, as at May 2026: 600 palms censused; damage 5% (PA 1/2026)
-  - Rat damage census Jan / Feb / Mar 2026: 3% / 2% / 3% (Agro 1/2026)
+  - Rat damage census 2026: 3% / 2% / 3% | 600 palms censused; damage 5% (Agro 1/2026 · PA 1/2026)
   - Baiting to May 2026: None done (PA) (PA 1/2026)
 Yield:
   - Full year 2025 vs 2024: 2024 21.44 t/ha; 2025 25.31 t/ha; difference printed 15% (Agro 1/2026)
@@ -329,13 +313,9 @@ Harvesting:
   - Harvester output May 2026: Rate RM65/t; 2.5 t per man-day; average earning RM162.50/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 0.0 t/day; rate RM12/t; earning RM0/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM70/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM70/ha/year (Agro 1/2026 · PA 1/2026)
 Nutrients:
-  - Leaf analysis I1 (% dry matter, B in ppm): N 2.62 normal; P 0.151 marginally low; K 1.08 high; Mg 0.29 high; Ca 0.55 normal; B 14.17 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis I2 (% dry matter, B in ppm): N 2.52 normal; P 0.154 marginally low; K 1.04 normal; Mg 0.3 high; Ca 0.58 normal; B 14.31 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis I3 (% dry matter, B in ppm): N 2.6 normal; P 0.164 normal; K 1.02 normal; Mg 0.31 high; Ca 0.58 normal; B 14.51 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
+  - Leaf analysis I1–I3: N 2.62 normal; P 0.151 marginally low; K 1.08 high; Mg 0.29 high; Ca 0.55 normal; B 14.17 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.52 normal; P 0.154 marginally low; K 1.04 normal; Mg 0.3 high; Ca 0.58 normal; B 14.31 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.6 normal; P 0.164 normal; K 1.02 normal; Mg 0.31 high; Ca 0.58 normal; B 14.51 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
 Field:
   - Area, SPH, palms, Mar 2026: 129.10 ha; 138 SPH; 17,816 palms. No recent census; a full census is recommended (Agro 1/2026)
 
@@ -350,8 +330,7 @@ Spraying progress (to May 2026):
   - Circle spray · terrace: 100% — 1.80 ha (PA 1/2026)
   - Selective · terrace: 50% — 1.80 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle spray to May 2026: main area: programmed 223.61 ha, completed 338.94 ha = 152%; year programme 670.83 ha. Terrace part (PM19J TR) 1.80 ha: 100%; year programme 5.40 ha (PA 1/2026)
-  - Selective spray to May 2026: main 223.61 ha = 50%; terrace part 1.80 ha = 50% (PA 1/2026)
+  - Spray to May 2026 (PA): main area: programmed 223.61 ha, completed 338.94 ha = 152%; year programme 670.83 ha. Terrace part (PM19J TR) 1.80 ha: 100%; year programme 5.40 ha | main 223.61 ha = 50%; terrace part 1.80 ha = 50% (PA 1/2026)
   - Woodies: Spots of woodies at P19/J1 (PA 1/2026)
   - Circle and inter-row, Mar 2026: 100% reported for circle and inter-row (Agro Tables 9 and 12) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -361,8 +340,7 @@ Fertiliser programme (previous year) 2025:
   - J1, J4: Jan: Mix B 2,000 g; Mar: kieserite 750 g; Apr: Mix B 2,000 g; Jul: Mix B 2,000 g; Aug: RP 2,000 g; Oct: Mix B 2,000 g (Agro 1/2025)
   - J2, J3: Same without kieserite (Agro 1/2025)
 Pests & diseases:
-  - Rat damage census, as at May 2026: 1,200 palms censused; damage 5% (PA 1/2026)
-  - Rat damage census Jan / Feb / Mar 2026: 3% / 4% / 4% (Agro 1/2026)
+  - Rat damage census 2026: 3% / 4% / 4% | 1,200 palms censused; damage 5% (Agro 1/2026 · PA 1/2026)
   - Baiting to May 2026: J1-J4: R1 100% and R2 100% (PA lists J as 2 rounds) (PA 1/2026)
 Yield:
   - Full year 2025 vs 2024: 2024 15.5 t/ha; 2025 16.72 t/ha; difference printed 7% as printed (the figures give 7.9%) (Agro 1/2026)
@@ -374,14 +352,9 @@ Harvesting:
   - Harvester output May 2026: Rate RM68/t; 2.18 t per man-day; average earning RM148.24/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 11.92 t/day; rate RM10/t; earning RM119.2/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM70/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM70/ha/year (Agro 1/2026 · PA 1/2026)
 Nutrients:
-  - Leaf analysis J1 (% dry matter, B in ppm): N 2.56 low; P 0.157 low; K 1.04 normal; Mg 0.31 high; Ca 0.56 normal; B 15.54 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis J2 (% dry matter, B in ppm): N 2.59 low; P 0.155 low; K 1.06 normal; Mg 0.31 high; Ca 0.54 normal; B 14.03 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis J3 (% dry matter, B in ppm): N 2.6 low; P 0.157 low; K 1.02 normal; Mg 0.28 high; Ca 0.54 normal; B 13.89 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis J4 (% dry matter, B in ppm): N 2.62 marginally low; P 0.158 low; K 1.1 normal; Mg 0.23 normal; Ca 0.57 normal; B 17 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
+  - Leaf analysis J1–J4: N 2.56 low; P 0.157 low; K 1.04 normal; Mg 0.31 high; Ca 0.56 normal; B 15.54 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.59 low; P 0.155 low; K 1.06 normal; Mg 0.31 high; Ca 0.54 normal; B 14.03 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.6 low; P 0.157 low; K 1.02 normal; Mg 0.28 high; Ca 0.54 normal; B 13.89 normal. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.62 marginally low; P 0.158 low; K 1.1 normal; Mg 0.23 normal; Ca 0.57 normal; B 17 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
   - N deficiency 2025: PM19J-1 improving (Agro 2/2025)
 Field:
   - Area, SPH, palms, Mar 2026: 225.41 ha; 141 SPH; 31,783 palms. No recent census; a full census is recommended (Agro 1/2026)
@@ -407,8 +380,7 @@ Fertiliser programme (this year) 2026:
 Fertiliser programme (previous year) 2025:
   - K1, K2: Jan: Mix B 1,750 g; Mar: kieserite 750 g; Apr: Mix B 1,750 g; Jul: Mix B 2,000 g; Aug: RP 2,000 g; Oct: Mix B 2,000 g (Agro 1/2025)
 Pests & diseases:
-  - Rat damage census, as at May 2026: 600 palms censused; damage 3% (PA 1/2026)
-  - Rat damage census Jan / Feb / Mar 2026: 5% / 19% / 4% (Agro 1/2026)
+  - Rat damage census 2026: 5% / 19% / 4% | 600 palms censused; damage 3% (Agro 1/2026 · PA 1/2026)
   - Rat threshold: Feb 2026 damage of 19% was above the 10% threshold (Agro 1/2026)
   - Baiting to May 2026: K1: R1 100%, R2 100%, R3 100%, R4 50% (3,300 of 6,550 baits). K2: R4 45% (3,300 of 7,265 baits). PA lists K as 4 rounds. Agro Mar 2026: K1, K2 R1-R2 done (PA 1/2026)
 Yield:
@@ -422,12 +394,9 @@ Harvesting:
   - Manual loading, tractor, May 2026: 12.24 t/day; rate RM10/t; earning RM122.4/day (PA 1/2026)
   - Loose fruit May-Jun 2026: Uncollected loose fruit at P20/K2 (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM70/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM70/ha/year (Agro 1/2026 · PA 1/2026)
 Nutrients:
-  - Leaf analysis K1 (% dry matter, B in ppm): N 2.62 marginally low; P 0.162 low; K 1.12 normal-high; Mg 0.24 low; Ca 0.57 normal; B 17.35 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis K2 (% dry matter, B in ppm): N 2.59 low; P 0.162 low; K 1.16 high; Mg 0.29 low; Ca 0.5 normal; B 16.37 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
+  - Leaf analysis K1, K2: N 2.62 marginally low; P 0.162 low; K 1.12 normal-high; Mg 0.24 low; Ca 0.57 normal; B 17.35 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.59 low; P 0.162 low; K 1.16 high; Mg 0.29 low; Ca 0.5 normal; B 16.37 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
   - K deficiency, lower fronds: Seen in P21K per the 2025 text (written PM21K; check whether PM20K or PM21D is meant) (Agro 2/2025)
 Field:
   - Area, SPH, palms, Mar 2026: 101.58 ha; 146 SPH; 14,831 palms. No recent census; a full census is recommended (Agro 1/2026)
@@ -452,8 +421,7 @@ Fertiliser programme (this year) 2026:
 Fertiliser programme (previous year) 2025:
   - D1-D3: Jan: Mix B 1,500 g; Feb: kieserite 500 g; Apr: Mix B 1,500 g; Jun: RP 2,000 g; Jul: Mix B 1,750 g; Oct: Mix B 1,750 g (Agro 1/2025)
 Pests & diseases:
-  - Rat damage census, as at May 2026: 900 palms censused; damage 4% (PA 1/2026)
-  - Rat damage census Jan / Feb / Mar 2026: 2% / 4% / 4% (Agro 1/2026)
+  - Rat damage census 2026: 2% / 4% / 4% | 900 palms censused; damage 4% (Agro 1/2026 · PA 1/2026)
   - Baiting to May 2026: D1: R1 100% (7,596 baits), R2 100% (7,595), R3 65% (4,950). D2: R3 65% (3,300). D3: R3 71% (4,950). PA lists D as 3 rounds. Agro Mar 2026: D1/D2 R1 done (PA 1/2026)
 Yield:
   - Full year 2025 vs 2024: 2025 11.24 t/ha (no 2024 figure printed) (Agro 1/2026)
@@ -465,13 +433,9 @@ Harvesting:
   - Harvester output May 2026: Rate RM83/t; 2.03 t per man-day; average earning RM168.49/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: 8.18 t/day; rate RM10/t; earning RM81.8/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM60/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM60/ha/year (Agro 1/2026 · PA 1/2026)
 Nutrients:
-  - Leaf analysis D1 (% dry matter, B in ppm): N 2.66 low; P 0.169 low; K 1.14 high; Mg 0.27 low; Ca 0.62 high; B 17.21 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis D2 (% dry matter, B in ppm): N 2.71 normal; P 0.172 low; K 1.16 high; Mg 0.27 low; Ca 0.68 high; B 18.18 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
-  - Leaf analysis D3 (% dry matter, B in ppm): N 2.59 low; P 0.173 low; K 1.3 high; Mg 0.27 low; Ca 0.56 normal; B 16.65 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
+  - Leaf analysis D1–D3: N 2.66 low; P 0.169 low; K 1.14 high; Mg 0.27 low; Ca 0.62 high; B 17.21 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.71 normal; P 0.172 low; K 1.16 high; Mg 0.27 low; Ca 0.68 high; B 18.18 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 | N 2.59 low; P 0.173 low; K 1.3 high; Mg 0.27 low; Ca 0.56 normal; B 16.65 high. Sampling date not printed; Oct/Nov 2025 report (visit 17 Nov 2025), Table 9 (Agro 2/2025)
 Field:
   - Area, SPH, palms, Mar 2026: 144.48 ha; 148 SPH; 21,383 palms. No recent census; a full census is recommended (Agro 1/2026)
   - Fruit set: Good fruit set at D3 (PA photos) (PA 1/2026)
@@ -494,8 +458,7 @@ Fertiliser programme (this year) 2026:
 Fertiliser programme (previous year) 2025:
   - L1-L3: Jan: Mix B 1,500 g; Feb: kieserite 500 g; Apr: Mix B 1,500 g; Jun: RP 2,000 g; Jul: Mix B 1,500 g; Oct: Mix B 1,500 g (Agro 1/2025)
 Pests & diseases:
-  - Rat damage census, as at May 2026: 900 palms censused; damage 2% (PA 1/2026)
-  - Rat damage census Jan / Feb / Mar 2026: 3% / 4% / 3% (Agro 1/2026)
+  - Rat damage census 2026: 3% / 4% / 3% | 900 palms censused; damage 2% (Agro 1/2026 · PA 1/2026)
   - Baiting to May 2026: None done (PA) (PA 1/2026)
   - Rhinoceros beetle (RB) census: May 2025 13%; Oct 2025 8% (Agro 2/2025)
   - Oryctes treatment Oct 2025: 6 rounds of Russel Beta 2.9 EC at 50 ml per pump (Agro 2/2025)
@@ -508,9 +471,7 @@ Harvesting:
   - Harvester output May 2026: Rate RM88/t; 1.67 t per man-day; average earning RM146.96/day (basic wage RM65.39). PA says the outturn data was wrong and must be rechecked (PA 1/2026)
   - Manual loading, tractor, May 2026: no tonnage printed; rate RM10/t; earning RM0/day (PA 1/2026)
 Pruning:
-  - Progressive pruning: Agro Mar 2026: 100% (three rounds young mature) (Agro 1/2026)
-  - Progressive pruning to May 2026: 100%; 12 rounds a year programme (PA 1/2026)
-  - Pruning cost (PA May 2026): RM60/ha/year (PA 1/2026)
+  - Pruning progress and cost: Agro Mar 2026: 100% (three rounds young mature) | 100%; 12 rounds a year programme | RM60/ha/year (Agro 1/2026 · PA 1/2026)
   - Over-pruning: Avoid over-pruning (Agro 1/2026)
   - Maturity: PR22L declared mature in 2026 (PA 1/2026)
 Field:
@@ -522,10 +483,7 @@ Spraying progress (to May 2026):
   - Circle spray: 50% — 232.71 of 465.42 ha (PA 1/2026)
   - Selective spray: 100% — 465.42 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle, Mar 2026: 232.71 of 232.71 ha = 100% (Agro 1/2026)
-  - Inter-row, Mar 2026: 232.71 of 232.71 ha = 100% (Agro 1/2026)
-  - Circle, to May 2026: 232.71 of 465.42 ha = 50% (PA 1/2026)
-  - Selective, to May 2026: 465.42 of 465.42 ha = 100% (PA 1/2026)
+  - Spraying Mar and May 2026: 232.71 of 232.71 ha = 100% | 232.71 of 232.71 ha = 100% | 232.71 of 465.42 ha = 50% | 465.42 of 465.42 ha = 100% (Agro 1/2026 · PA 1/2026)
   - Weeds: Mucuna encroaching into circles (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - B1-B4: Jan: Compound (14:13:9:2.5) 1,500 g; Apr: Compound 1,500 g; Jun: RP 2,000 g; Jul: Compound 1,500 g; Oct: Compound 1,500 g (Agro 1/2026)
@@ -556,10 +514,7 @@ Spraying progress (to May 2026):
   - Circle spray: 66% — 259.02 of 393.38 ha (PA 1/2026)
   - Selective spray: 75% — 296.12 of 393.38 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle, Mar 2026: 141.65 of 196.69 ha = 72% (Agro 1/2026)
-  - Inter-row, Mar 2026: 117.37 of 393.38 ha = 30% (Agro 1/2026)
-  - Circle, to May 2026: 259.02 of 393.38 ha = 66% (PA 1/2026)
-  - Selective, to May 2026: 296.12 of 393.38 ha = 75% (PA 1/2026)
+  - Spraying Mar and May 2026: 141.65 of 196.69 ha = 72% | 117.37 of 393.38 ha = 30% | 259.02 of 393.38 ha = 66% | 296.12 of 393.38 ha = 75% (Agro 1/2026 · PA 1/2026)
   - Weeds: Clidemia intensively removed with over-application look on inter-row terraces (Agro Mar 2026); Giant Paspalum and grassy paths (PA May 2026); PA advises path spraying (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - C1-C3: Jan: Compound 1,000 g; Apr: Compound 1,000 g; Jun: RP 1,750 g; Jul: Compound 1,200 g; Oct: Compound 1,200 g (Agro 1/2026)
@@ -580,10 +535,7 @@ Spraying progress (to May 2026):
   - Circle spray: 100% — 132.14 of 132.14 ha (PA 1/2026)
   - Selective spray: 67% — 132.14 of 198.21 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle, Mar 2026: 66.07 of 66.07 ha = 100% (Agro 1/2026)
-  - Inter-row, Mar 2026: 66.07 of 132.14 ha = 50% (Agro 1/2026)
-  - Circle, to May 2026: 132.14 of 132.14 ha = 100% (PA 1/2026)
-  - Selective, to May 2026: 132.14 of 198.21 ha = 67% (PA 1/2026)
+  - Spraying Mar and May 2026: 66.07 of 66.07 ha = 100% | 66.07 of 132.14 ha = 50% | 132.14 of 132.14 ha = 100% | 132.14 of 198.21 ha = 67% (Agro 1/2026 · PA 1/2026)
   - Weeds: Grasses and Stenochlaena (Agro Mar 2026) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - E2, E4 (replanted 2025): Planting hole: CRF and RP (CRF 600 g per palm is the rate used in the Agro CRF check; RP hole rate not printed in my extract); Jul: Compound 800 g; Aug: RP 1,500 g; Oct: Compound 900 g (Agro 1/2026)

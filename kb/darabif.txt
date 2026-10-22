@@ -118,10 +118,8 @@ Manuring progress:
   - Method: Surface broadcast with Badang in parts of P03A (also P03C, P03D); wheelbarrow elsewhere (PA 6.2.6). (PA 1/2026)
   - 2024 programme deviations (Agro 1/2025): Mix B round 1 (2024 programme) late 3-4 months in A1, A3, A4, A5; round 2 late 3-4 months in A1, A3, A4, A5; RP round 1 late 3-5 months in A1-A5. Rounds 3-4 completed within 2 months. (Agro 1/2025)
 Spraying & weeding:
-  - Circle spraying 2025 (Jan-Dec): 805 ha done of 1,032 ha programmed (3.0 rounds) = 2.3 rounds, 78%. By round 1/2/3: 100/100/34%. (Agro 1/2026)
-  - Inter-row (selective) 2025 (Jan-Dec): 1,032 ha done vs 1,032 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
-  - Circle spraying Jan-Mar 2026: Mar 2026 (PA): 344.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 227 ha (66%) of 3 rounds' hectarage done. (PA 1/2026)
-  - Inter-row spraying Jan-Mar 2026: Mar 2026 (PA): 344.00 ha = 1.0 round (33%). Jan 2026 (Agro): not started. (PA 1/2026)
+  - Weeding 2025 (Jan-Dec): 805 ha done of 1,032 ha programmed (3.0 rounds) = 2.3 rounds, 78%. By round 1/2/3: 100/100/34%. | 1,032 ha done vs 1,032 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
+  - Weeding Jan-Mar 2026: Mar 2026 (PA): 344.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 227 ha (66%) of 3 rounds' hectarage done. | Mar 2026 (PA): 344.00 ha = 1.0 round (33%). Jan 2026 (Agro): not started. (PA 1/2026)
   - Ground condition: PA: acceptable circle in A2; soft grasses and Nephrolepis biserrata in inter-row A2 (photos 1, 5, 6, 7). Palm circles due for spraying noted in 'PM 03M' patches (as printed). (PA 1/2026)
   - Epiphytes and VOPs (Agro 1/2025): 2025 visit: VOPs to be spot-sprayed to avoid over-spraying. (Agro 1/2025)
 Fertiliser programme (this year) 2026:
@@ -150,7 +148,7 @@ Yield:
   - Harvest rounds in 2025: 17.04 rounds cumulative to Dec 2025 = 71% of the target of 24 rounds a year. (Agro 1/2026)
   - Harvester income and crop: PA: low recent crop, 3.69 t/ha to date as of Mar 2026, lowered harvester output (1.74 t per man-day). (PA 1/2026)
 Harvesting:
-  - Monthly harvest interval (days), Jan 2025-Jan 2026: Jan-25 20-39; Feb 17-25; Mar 17-25; Apr 17-25; May 17-23; Jun 16-23; Jul 17-22; Aug 17-22; Sep 17-19; Oct 18-20; Nov 17-19; Dec 16-18; Jan-26 13-15 (Agro 1/2026)
+  - Harvest interval (days) Jan 2025-Jan 2026: Jan-25 20-39; Feb 17-25; Mar 17-25; Apr 17-25; May 17-23; Jun 16-23; Jul 17-22; Aug 17-22; Sep 17-19; Oct 18-20; Nov 17-19; Dec 16-18; Jan-26 13-15 (Agro 1/2026)
   - Mar 2026 rounds and interval: 2.00 rounds in Mar 2026; 6.00 rounds to date vs 6.00 budgeted; interval 12-16 days this month. (PA 1/2026)
   - Harvester output (Mar 2026): Rate RM35.00/t; 1.74 t per man-day; average earning RM60.90 per man-day. (PA 1/2026)
   - Evacuation and contractor: Badang (mechanised infield collection) in P03A, P03C, P03D (8 MB units, 1,217 ha, 41 harvesters, 1 machine to 5.12 ha per PA 7.2). Contractor Frankie Tan Resources, A1-A5 344 ha: 15 workers required, 12 actual (-3) (Mar 2026). (PA 1/2026)
@@ -164,7 +162,7 @@ Pruning:
   - Progressive pruning Jan-Mar 2026: Jan 2026 (Agro): 100% of the first round done. Mar 2026 (PA): 1,032 ha = 25% of the annual programme, 3.0 rounds of 12. (Agro 1/2026)
   - Condition: Agro: spotted areas slightly under-pruned (A1, A2, photos 71-72); acceptable canopy elsewhere. Agro 1/2025: under-pruning in A2 (dried hanging fronds), premature frond snapping A1; inconsistent frond stacking A3. (Agro 1/2026)
 Field:
-  - Palm census (drone census in progress, Feb 2026): A1 59 ha 7,434 palms SPH 126; A2 52 ha 6,916 SPH 133; A3 64 ha 8,512 SPH 133; A4 104 ha 13,832 SPH 133; A5 65 ha 8,320 SPH 128. Block total 344 ha. (Agro 1/2026)
+  - Palm census (drone, Feb 2026): A1 59 ha 7,434 palms SPH 126; A2 52 ha 6,916 SPH 133; A3 64 ha 8,512 SPH 133; A4 104 ha 13,832 SPH 133; A5 65 ha 8,320 SPH 128. Block total 344 ha. (Agro 1/2026)
   - Age: Planted 2003 (23 years); no replanting planned for 2 years (PA); age of palms 11-23 years across both estates (Agro). (PA 1/2026)
   - Palm appearance: Palm appearance acceptable, no significant deficiency symptoms; no serious waterlogging (Agro Feb 2026). (Agro 1/2026)
 
@@ -175,10 +173,8 @@ Spraying progress (Jan–Mar 2026):
 Manuring progress:
   - 2024 programme deviations (Agro 1/2025): Mix B round 2 late 3-4 months in B4, B5; RP round 1 late 3-5 months in B1-B5. (Agro 1/2025)
 Spraying & weeding:
-  - Circle spraying 2025 (Jan-Dec): 1,230 ha done of 1,230 ha programmed (3.0 rounds) = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
-  - Inter-row (selective) 2025 (Jan-Dec): 1,230 ha done vs 1,230 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
-  - Circle spraying Jan-Mar 2026: Mar 2026 (PA): 410.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 253 ha (62%) of 3 rounds' hectarage done. (PA 1/2026)
-  - Inter-row spraying Jan-Mar 2026: Mar 2026 (PA): 410.00 ha = 1.0 round (33%). Jan 2026 (Agro): not started. (PA 1/2026)
+  - Weeding 2025 (Jan-Dec): 1,230 ha done of 1,230 ha programmed (3.0 rounds) = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. | 1,230 ha done vs 1,230 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
+  - Weeding Jan-Mar 2026: Mar 2026 (PA): 410.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 253 ha (62%) of 3 rounds' hectarage done. | Mar 2026 (PA): 410.00 ha = 1.0 round (33%). Jan 2026 (Agro): not started. (PA 1/2026)
   - Ground condition: PA: due palm circle in B3 (photo 3); satisfactory inter-row with soft grass dominance in B2 (photo 7). Only block to complete 3.0 circle rounds in 2025. (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - B1 (94 ha): NK1 2,500 g Jan; Mix A 2,500 g Apr; NK1 2,000 g Jul; Mix A 2,000 g Oct = 9,000 g/palm/year (computed). (Agro 1/2026)
@@ -204,7 +200,7 @@ Yield:
   - Jan-Feb 2025 vs 2024: 3.71 t/ha as of Feb 2025 vs 4.30 t/ha as of Feb 2024 (-13.7%). (Agro 1/2025)
   - Harvest rounds in 2025: 19.72 rounds cumulative to Dec 2025 = 82% of the target of 24 rounds a year. (Agro 1/2026)
 Harvesting:
-  - Monthly harvest interval (days), Jan 2025-Jan 2026: Jan-25 19-28; Feb 18-21; Mar 18-21; Apr 18-21; May 16-18; Jun 16-19; Jul 16-19; Aug 16-20; Sep 14-15; Oct 14-15; Nov 14-15; Dec 14-15; Jan-26 13-15 (Agro 1/2026)
+  - Harvest interval (days) Jan 2025-Jan 2026: Jan-25 19-28; Feb 18-21; Mar 18-21; Apr 18-21; May 16-18; Jun 16-19; Jul 16-19; Aug 16-20; Sep 14-15; Oct 14-15; Nov 14-15; Dec 14-15; Jan-26 13-15 (Agro 1/2026)
   - Mar 2026 rounds and interval: 2.00 rounds in Mar 2026; 6.21 rounds to date vs 6.00 budgeted; interval 12-15 days this month. (PA 1/2026)
   - Harvester output (Mar 2026): Rate RM38.00/t; 2.15 t per man-day; average earning RM81.70 per man-day. (PA 1/2026)
   - Evacuation and contractor: 2 mini-tractors with 14 harvesters on 410 ha (1 machine per 7.00 ha), machine output 14.42 t per man-day, harvesters 2.06 t (PA text 2.08); live buffalo with 3 harvesters seen in B1, output not reported. Contractor Solid Agriculture, 410 ha: 18 workers required, 14 actual (variance printed -5) (Mar 2026). (PA 1/2026)
@@ -214,7 +210,7 @@ Pruning:
   - Progressive pruning Jan-Mar 2026: Jan 2026 (Agro): 100% of the first round done. Mar 2026 (PA): 1,230 ha = 25% of the annual programme, 3.0 rounds of 12. (Agro 1/2026)
   - Condition: PA: satisfactory pruning in B3 (photo 16); only block to reach 12.00 rounds (100%) in 2025. (PA 1/2026)
 Field:
-  - Palm census (drone census in progress, Feb 2026): B1 94 ha 12,690 SPH 135; B2 76 ha 10,032 SPH 132; B3 83 ha 11,205 SPH 135; B4 92 ha 11,500 SPH 125; B5 65 ha 8,320 SPH 128. Block total 410 ha. (Agro 1/2026)
+  - Palm census (drone, Feb 2026): B1 94 ha 12,690 SPH 135; B2 76 ha 10,032 SPH 132; B3 83 ha 11,205 SPH 135; B4 92 ha 11,500 SPH 125; B5 65 ha 8,320 SPH 128. Block total 410 ha. (Agro 1/2026)
   - Tapping rights: B1 is part of the 50 ha tapping-right claim (with C4, C5, C6); Land Office application forwarded in Oct, unresolved; patrol boundary, do not leave FFB overnight (PA). (PA 1/2026)
   - Roads: Satisfactory road condition in B2 (photo 11). Roads in D1 muddy and slow to dry in 2025 (Agro 1/2025). (PA 1/2026)
 
@@ -223,14 +219,12 @@ Spraying progress (Jan–Mar 2026):
   - Circle spraying: 33% — 443.00 ha, 1.0 round (PA 1/2026)
   - Inter-row spraying: 33% — 443.00 ha, 1.0 round (PA 1/2026)
 Manuring progress:
-  - Quality check (C3, NK1 broadcast, day before Feb 2026 visit): Overall acceptable; a few palms with lumpy or narrow bands (uneven distribution) (photos 7-8). Scorching on soft grasses probably from over-dosage (photos 5-6). (Agro 1/2026)
+  - Quality check C3 NK1 (Feb 2026): Overall acceptable; a few palms with lumpy or narrow bands (uneven distribution) (photos 7-8). Scorching on soft grasses probably from over-dosage (photos 5-6). (Agro 1/2026)
   - 2024 programme deviations (Agro 1/2025): Mix B round 1 late 3-4 months in C3; RP round 1 late 3-5 months in C2-C5. (Agro 1/2025)
   - 2025 sub-soil blocks: C4 and C5 were programmed for sub-soil Mix B 9.0 kg (Feb 2025); sub-soil not completed in 2025, converted to broadcast Dec 2025-Jan 2026 (see estate-wide rows). (Agro 1/2026)
 Spraying & weeding:
-  - Circle spraying 2025 (Jan-Dec): 886 ha done of 1,329 ha programmed (3.0 rounds) = 2.0 rounds, 67%. By round 1/2/3: 100/100/-. (Agro 1/2026)
-  - Inter-row (selective) 2025 (Jan-Dec): 1,329 ha done vs 1,329 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
-  - Circle spraying Jan-Mar 2026: Mar 2026 (PA): 443.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 257 ha (58%) of 3 rounds' hectarage done. (PA 1/2026)
-  - Inter-row spraying Jan-Mar 2026: Mar 2026 (PA): 443.00 ha = 1.0 round (33%). Jan 2026 (Agro): not started. (PA 1/2026)
+  - Weeding 2025 (Jan-Dec): 886 ha done of 1,329 ha programmed (3.0 rounds) = 2.0 rounds, 67%. By round 1/2/3: 100/100/-. | 1,329 ha done vs 1,329 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
+  - Weeding Jan-Mar 2026: Mar 2026 (PA): 443.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 257 ha (58%) of 3 rounds' hectarage done. | Mar 2026 (PA): 443.00 ha = 1.0 round (33%). Jan 2026 (Agro): not started. (PA 1/2026)
   - Ground condition: PA: acceptable palm circle in C5 (photo 2). Agro Feb 2026: circle sprayed only 58% of one round of hectarage. (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - C2 (89 ha): NK1 2,000 g Feb; Mix A 2,000 g May; Mix A 2,000 g Aug; NK1 2,000 g Oct = 8,000 g/palm/year (computed). (Agro 1/2026)
@@ -257,7 +251,7 @@ Yield:
   - Jan-Feb 2025 vs 2024: 2.06 t/ha as of Feb 2025 vs 3.61 t/ha as of Feb 2024 (-42.9%). (Agro 1/2025)
   - Harvest rounds in 2025: 16.26 rounds cumulative to Dec 2025 = 68% of the target of 24 rounds a year. (Agro 1/2026)
 Harvesting:
-  - Monthly harvest interval (days), Jan 2025-Jan 2026: Jan-25 16-30; Feb 19-21; Mar 16-20; Apr 16-20; May 16-21; Jun 16-21; Jul 16-23; Aug 16-22; Sep 17-19; Oct 18-20; Nov 17-19; Dec 16-18; Jan-26 13-15 (Agro 1/2026)
+  - Harvest interval (days) Jan 2025-Jan 2026: Jan-25 16-30; Feb 19-21; Mar 16-20; Apr 16-20; May 16-21; Jun 16-21; Jul 16-23; Aug 16-22; Sep 17-19; Oct 18-20; Nov 17-19; Dec 16-18; Jan-26 13-15 (Agro 1/2026)
   - Mar 2026 rounds and interval: 2.00 rounds in Mar 2026; 6.00 rounds to date vs 6.00 budgeted; interval 12-14 days this month. (PA 1/2026)
   - Harvester output (Mar 2026): Rate RM37.00/t; 2.13 t per man-day; average earning RM78.81 per man-day. (PA 1/2026)
   - Evacuation and contractor: Badang in P03C and P03A, P03D. Contractor Nikolai Resources covers C2-C6 and D1-D5 (873 ha): 36 required, 29 actual (-7) (Mar 2026). (PA 1/2026)
@@ -267,7 +261,7 @@ Pruning:
   - Progressive pruning Jan-Mar 2026: Jan 2026 (Agro): 100% of the first round done. Mar 2026 (PA): 1,329 ha = 25% of the annual programme, 3.0 rounds of 12. (Agro 1/2026)
   - Condition: PA: under-pruned patches with hanging dried fronds in C6 (photo 17). Agro 1/2025: under-pruning in 'C01' (as printed). (PA 1/2026)
 Field:
-  - Palm census (drone census in progress, Feb 2026): C2 89 ha 11,926 SPH 134; C3 97 ha 13,095 SPH 135; C4 82 ha 11,234 SPH 137; C5 89 ha 12,282 SPH 138; C6 86 ha 11,008 SPH 128. Block total 443 ha. (Agro 1/2026)
+  - Palm census (drone, Feb 2026): C2 89 ha 11,926 SPH 134; C3 97 ha 13,095 SPH 135; C4 82 ha 11,234 SPH 137; C5 89 ha 12,282 SPH 138; C6 86 ha 11,008 SPH 128. Block total 443 ha. (Agro 1/2026)
   - Tapping rights: C4, C5, C6 are part of the 50 ha tapping-right claim (with B1); Land Office application forwarded in Oct, unresolved; patrol boundary, do not leave FFB overnight (PA). (PA 1/2026)
   - Roads: Satisfactory road in C6 (photo 12, PA). (PA 1/2026)
 
@@ -279,10 +273,8 @@ Manuring progress:
   - Quality check (D2, Mar 2025): Narrow and lumpy application found in P03D-2 (photos 3-6, Agro 1/2025). (Agro 1/2025)
   - 2025 sub-soil blocks: D5 programmed for sub-soil Mix B 9.0 kg (Feb 2025); D1 listed as sub-soil in the Mar 2025 pending list. 2026: D4 and D5 sub-soil converted to broadcasting at the estate's request (labour not consistent). (Agro 1/2026)
 Spraying & weeding:
-  - Circle spraying 2025 (Jan-Dec): 926 ha done of 1,290 ha programmed (3.0 rounds) = 2.2 rounds, 72%. By round 1/2/3: 100/100/2%. (Agro 1/2026)
-  - Inter-row (selective) 2025 (Jan-Dec): 1,151 of 1,290 ha done vs 1,290 ha programmed = 2.7 rounds, 89%. By round 1/2/3: 100/100/84%. (Agro 1/2026)
-  - Circle spraying Jan-Mar 2026: Mar 2026 (PA): none ha done = - round (- of 3.0 rounds). Jan 2026 (Agro): 0 of 3 rounds' hectarage done. (PA 1/2026)
-  - Inter-row spraying Jan-Mar 2026: Mar 2026 (PA): 139.00 ha = 0.3 round (11%). Jan 2026 (Agro): not started. (PA 1/2026)
+  - Weeding 2025 (Jan-Dec): 926 ha done of 1,290 ha programmed (3.0 rounds) = 2.2 rounds, 72%. By round 1/2/3: 100/100/2%. | 1,151 of 1,290 ha done vs 1,290 ha programmed = 2.7 rounds, 89%. By round 1/2/3: 100/100/84%. (Agro 1/2026)
+  - Weeding Jan-Mar 2026: Mar 2026 (PA): none ha done = - round (- of 3.0 rounds). Jan 2026 (Agro): 0 of 3 rounds' hectarage done. | Mar 2026 (PA): 139.00 ha = 0.3 round (11%). Jan 2026 (Agro): not started. (PA 1/2026)
   - Gaps and weeds: PA: circles due for spraying in D1 and D4; Stenochlaena palustris patches in low-lying/drain edge (D1, photo 8); Dracaena sp (Danella) spreading in low-lying D3 - potassium-based glyphosate such as KRUSH suggested. Agro: overgrown grasses and VOPs in D1 (photos 79-80). Inter-row in D1 had only two rounds in 2025. (PA 1/2026)
   - Epiphytes (Agro 1/2025): Epiphytes in spotted area of D2 and D1/D2 (photos 93-94): to be removed to avoid obstruction at harvest. (Agro 1/2025)
 Fertiliser programme (this year) 2026:
@@ -310,7 +302,7 @@ Yield:
   - Jan-Feb 2025 vs 2024: 2.92 t/ha as of Feb 2025 vs 3.63 t/ha as of Feb 2024 (-19.6%). (Agro 1/2025)
   - Harvest rounds in 2025: 17.57 rounds cumulative to Dec 2025 = 73% of the target of 24 rounds a year. (Agro 1/2026)
 Harvesting:
-  - Monthly harvest interval (days), Jan 2025-Jan 2026: Jan-25 16-21; Feb 13-19; Mar 13-19; Apr 14-19; May 14-19; Jun 14-21; Jul 14-20; Aug 14-19; Sep 17-19; Oct 18-20; Nov 17-19; Dec 16-18; Jan-26 13-15 (Agro 1/2026)
+  - Harvest interval (days) Jan 2025-Jan 2026: Jan-25 16-21; Feb 13-19; Mar 13-19; Apr 14-19; May 14-19; Jun 14-21; Jul 14-20; Aug 14-19; Sep 17-19; Oct 18-20; Nov 17-19; Dec 16-18; Jan-26 13-15 (Agro 1/2026)
   - Mar 2026 rounds and interval: 2.00 rounds in Mar 2026; 6.12 rounds to date vs 6.00 budgeted; interval 12-15 days this month. (PA 1/2026)
   - Harvester output (Mar 2026): Rate RM37.00/t; 2.05 t per man-day; average earning RM75.85 per man-day. (PA 1/2026)
   - Evacuation and contractor: Badang in P03D. Contractor Nikolai Resources (shared with P03C, 873 ha): 36 required, 29 actual (-7) (Mar 2026). (PA 1/2026)
@@ -320,7 +312,7 @@ Pruning:
   - Progressive pruning Jan-Mar 2026: Jan 2026 (Agro): 100% of the first round done. Mar 2026 (PA): 1,290 ha = 25% of the annual programme, 3.0 rounds of 12. (Agro 1/2026)
   - Condition: PA: under-pruned in D1 (photo 18). Agro: isolated over-pruned palms in D2 with hanging bunches. Agro 1/2025: slight under-pruning D2, premature frond snapping D1, inconsistent stacking and roadside pruning needed in D1. (PA 1/2026)
 Field:
-  - Palm census (drone census in progress, Feb 2026): D1 66 ha 8,976 SPH 136; D2 73 ha 9,855 SPH 135; D3 113 ha 15,594 SPH 138; D4 103 ha 14,214 SPH 138; D5 75 ha 10,575 SPH 141. Block total 430 ha. (Agro 1/2026)
+  - Palm census (drone, Feb 2026): D1 66 ha 8,976 SPH 136; D2 73 ha 9,855 SPH 135; D3 113 ha 15,594 SPH 138; D4 103 ha 14,214 SPH 138; D5 75 ha 10,575 SPH 141. Block total 430 ha. (Agro 1/2026)
   - D4 waterlogging: Low-lying area in D4 has prolonged waterlogging after the flood; drain desilted but water has not receded because of a blockage in neighbouring Felda Merchong; needs joint action (PA 6.5.3-6.5.4, photos 13-14). Flooding in P03D deemed unavoidable (Group MD 2/2025: desilt outlets regularly). (PA 1/2026)
   - D3 flooding: Palms in flood-prone D3 had less vigour in Mar 2025; timely manuring advised for recovery (Agro 1/2025). (Agro 1/2025)
   - Roads: Roadside pruning needed in D1 for road drying (Agro 1/2025). (Agro 1/2025)
@@ -332,10 +324,8 @@ Spraying progress (Jan–Mar 2026):
 Manuring progress:
   - Programme: No fertiliser programme line for P05E (Lipis Jaya land) in the 2025 or 2026 appendices of the Agro reports. (Agro 1/2026)
 Spraying & weeding:
-  - Circle spraying 2025 (Jan-Dec): 40 ha done of 60 ha programmed (3.0 rounds) = 2.0 rounds, 67%. By round 1/2/3: 100/100/-. (Agro 1/2026)
-  - Inter-row (selective) 2025 (Jan-Dec): 60 ha done vs 60 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
-  - Circle spraying Jan-Mar 2026: Mar 2026 (PA): 20.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 0 of 3 rounds' hectarage done. (PA 1/2026)
-  - Inter-row spraying Jan-Mar 2026: Mar 2026 (PA): 20.00 ha = 1.0 round (33%). Jan 2026 (Agro): 20 ha, 33% (inter-row started here, finishing 2025 carry-over). (PA 1/2026)
+  - Weeding 2025 (Jan-Dec): 40 ha done of 60 ha programmed (3.0 rounds) = 2.0 rounds, 67%. By round 1/2/3: 100/100/-. | 60 ha done vs 60 ha programmed = 3.0 rounds, 100%. By round 1/2/3: 100/100/100%. (Agro 1/2026)
+  - Weeding Jan-Mar 2026: Mar 2026 (PA): 20.00 ha done = 1.0 round (33% of 3.0 rounds). Jan 2026 (Agro): 0 of 3 rounds' hectarage done. | Mar 2026 (PA): 20.00 ha = 1.0 round (33%). Jan 2026 (Agro): 20 ha, 33% (inter-row started here, finishing 2025 carry-over). (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - Programme: No P05E (E2, 20 ha) programme line printed in Agro 1/2026 Appendix 1; the E1/E2 rows printed there (92 ha / 26 ha, Mix B 9,000 g subsurface and KIE 750 g) belong to Insan Jaya's PM05E, not this block. The 2026 Mix B 24.50 t line in the manuring tables is not attributed to a block. (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
@@ -350,11 +340,11 @@ Yield:
   - Harvest rounds in 2025: 17 rounds cumulative to Dec 2025 = 71% of the target of 24 rounds a year. (Agro 1/2026)
   - Note: Part of Lipis Jaya Plantation (20 ha), managed by Darabif but excluded from the Darabif estate account (PA). (PA 1/2026)
 Harvesting:
-  - Monthly harvest interval (days), Jan 2025-Jan 2026: Jan-25 26; Feb 22; Mar 0; Apr 6; May 4; Jun 4; Jul 4; Aug 4; Sep 4; Oct 4; Nov 4; Dec 4; Jan-26 4 (as printed; values after Feb 2025 look unreliable) (Agro 1/2026)
+  - Harvest interval (days) Jan 2025-Jan 2026: Jan-25 26; Feb 22; Mar 0; Apr 6; May 4; Jun 4; Jul 4; Aug 4; Sep 4; Oct 4; Nov 4; Dec 4; Jan-26 4 (as printed; values after Feb 2025 look unreliable) (Agro 1/2026)
   - Rounds Feb 2025: 3.50 rounds (% of target 88%). (Agro 1/2025)
 Pruning:
   - Progressive pruning 2025 (Jan-Dec): 140 ha of 240 ha programmed = 58% (not given of 12 rounds, PA). (Agro 1/2026)
   - 2026: Jan 2026: program 0 ha, completed 0 (no round started). In Dec 2025 pruning was carried out in all blocks except P05E (Agro). (Agro 1/2026)
 Field:
-  - Palm census (drone census in progress, Feb 2026): E2 20 ha, palm count and SPH not filled in. Block total 20 ha. (Agro 1/2026)
+  - Palm census (drone, Feb 2026): E2 20 ha, palm count and SPH not filled in. Block total 20 ha. (Agro 1/2026)
   - Ownership: 20 ha of Lipis Jaya Plantation in P05E managed by Darabif, excluded from Darabif estate account (PA). (PA 1/2026)
