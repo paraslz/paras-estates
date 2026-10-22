@@ -283,6 +283,11 @@ table.bt2 tbody th{font-weight:600;white-space:nowrap}
 ul.bpts{margin:0;padding-left:18px;font-size:14.5px;line-height:1.45}
 ul.bpts li{margin:2px 0}
 .bnote1{margin:6px 0 0;font-size:13.5px;color:var(--muted)}
+
+.bdet>*,.bdet .body,.bi{min-width:0;max-width:100%}.bi .tbl{overflow-x:auto;-webkit-overflow-scrolling:touch}table.bt2 td{min-width:56px}
+.bdet{grid-template-columns:minmax(0,1fr)}
+.bdet details>.body,#bEW>.body{grid-template-columns:minmax(0,1fr)}
+table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-body);color:var(--fg)}
 </style>
 </head>
 <body>
@@ -508,7 +513,7 @@ const SECS=[["yield","Yield & crop"],["manuring","Manuring progress"],["spraying
 const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";
- const all=Object.entries(d).filter(([k])=>k!=="progress").flatMap(([,v])=>rows(v)),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
+ const all=Object.entries(d).filter(([k])=>k!=="progress"&&!/^fert/.test(k)).flatMap(([,v])=>rows(v)),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
  const out=[],none=[];
  SECS.forEach(([k,t])=>{
   const body=k==="fert"?fertHTML(d):(k==="manuring"||k==="spraying")?progSection(k,d,latest):(rows(d[k]).length?section(rows(d[k]),latest):"");

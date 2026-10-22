@@ -86,7 +86,7 @@ const SECS=[["yield","Yield & crop"],["manuring","Manuring progress"],["spraying
 const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";
- const all=Object.entries(d).filter(([k])=>k!=="progress").flatMap(([,v])=>rows(v)),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
+ const all=Object.entries(d).filter(([k])=>k!=="progress"&&!/^fert/.test(k)).flatMap(([,v])=>rows(v)),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
  const out=[],none=[];
  SECS.forEach(([k,t])=>{
   const body=k==="fert"?fertHTML(d):(k==="manuring"||k==="spraying")?progSection(k,d,latest):(rows(d[k]).length?section(rows(d[k]),latest):"");
