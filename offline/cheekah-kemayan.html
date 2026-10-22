@@ -283,6 +283,9 @@ ul.bpts li{margin:2px 0}
 .bdet{grid-template-columns:minmax(0,1fr)}
 .bdet details>.body,#bEW>.body{grid-template-columns:minmax(0,1fr)}
 table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-body);color:var(--fg)}
+
+/* charts must shrink when the screen narrows */
+.card{grid-template-columns:minmax(0,1fr)}.two>*{min-width:0}.chart{min-width:0;overflow:hidden}.chart canvas{max-width:100%}
 </style>
 
 </head>
