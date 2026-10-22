@@ -86,7 +86,7 @@ const SECS=[["yield","Yield & crop"],["manuring","Manuring progress"],["spraying
 const OPEN=new Set(["manuring","spraying","fert","pests"]);
 window.blockDetailHTML=function(d){
  if(!d)return "";
- const all=Object.entries(d).filter(([k])=>k!=="progress"&&!/^fert/.test(k)).flatMap(([,v])=>rows(v)),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
+ const all=Object.entries(d).filter(([k])=>k!=="progress"&&!/^fert/.test(k)).flatMap(([,v])=>rows(v)),Y=all.flatMap(x=>yrs(x.k)),latest=Y.length?Math.min(Math.max(...Y),new Date().getFullYear()):9999;
  const out=[],none=[];
  SECS.forEach(([k,t])=>{
   const body=k==="fert"?fertHTML(d):(k==="manuring"||k==="spraying")?progSection(k,d,latest):(rows(d[k]).length?section(rows(d[k]),latest):"");
@@ -116,7 +116,7 @@ window.ageProfile=function(blocks,yearNow){
 window.estateWideHTML=function(w){
  if(!w)return "";
  const ks=Object.keys(w).filter(k=>rows(w[k]).length);if(!ks.length)return "";
- const Y=ks.flatMap(k=>rows(w[k])).flatMap(x=>yrs(x.k)),latest=Y.length?Math.max(...Y):9999;
+ const Y=ks.flatMap(k=>rows(w[k])).flatMap(x=>yrs(x.k)),latest=Y.length?Math.min(Math.max(...Y),new Date().getFullYear()):9999;
  return ks.map(k=>`<h5>${esc(EW[k]||k)}</h5>${section(rows(w[k]),latest)}`).join("");
 };
 })();
