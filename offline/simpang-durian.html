@@ -292,24 +292,30 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 /* charts must shrink when the screen narrows (fold, rotate, desktop mode) */
 .card{grid-template-columns:minmax(0,1fr)}.two>*{min-width:0}.chart{min-width:0;overflow:hidden}.chart canvas{max-width:100%}
 
-/* top 5 on Overview: two closed tiles; tap opens a sideways strip of cards */
-.topw{padding:12px;gap:0}
-.ttiles{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.ttile{all:unset;box-sizing:border-box;cursor:pointer;display:grid;gap:4px;align-content:start;min-width:0;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg)}
-.ttile .tk{font:600 12.5px var(--f-body);text-transform:uppercase;letter-spacing:.03em;color:var(--muted)}
-.ttile .t1{font-weight:600;line-height:1.3;color:var(--fg)}
-.ttile .tgo{font-size:13px;color:var(--accent);font-weight:600}
-.ttile.on{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
-.ttile:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.tpanel{margin-top:10px;min-width:0}.tpanel .sub{margin:0 0 6px}
-.tstrip{display:grid;grid-auto-flow:column;grid-auto-columns:min(82%,300px);gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:6px;overscroll-behavior-x:contain}
-.tcard{scroll-snap-align:start;border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:var(--panel);display:grid;gap:5px;align-content:start;min-width:0}
-.tcard .tn{width:22px;height:22px;border-radius:50%;background:var(--accent);color:var(--panel);font:600 12px var(--f-mono);display:grid;place-items:center}
-.tcard b{line-height:1.3}.tcard .pill{justify-self:start}
-.tcard p{margin:0;font-size:.94em;line-height:1.4}
-.tcard .ts{color:var(--muted);font:12px var(--f-mono)}
-.thint{margin:2px 0 0;font-size:12.5px;color:var(--muted)}
-@media (min-width:900px){.thint{display:none}.tstrip{grid-auto-flow:row;grid-template-columns:repeat(5,minmax(0,1fr));overflow:visible}}
+/* top 5 on Overview: tappable tags; tap opens a pop-up from the bottom */
+.topw{gap:12px}
+.topw .th{margin:0 0 7px;font:600 16px var(--f-body)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{all:unset;box-sizing:border-box;cursor:pointer;display:inline-flex;gap:6px;align-items:center;max-width:100%;padding:6px 11px 6px 6px;border-radius:999px;border:1px solid var(--line);background:var(--bg);font:500 14.5px var(--f-body);color:var(--fg);line-height:1.2}
+.chip i{flex:none;font:600 11.5px var(--f-mono);font-style:normal;color:#fff;background:var(--bad);border-radius:50%;width:19px;height:19px;display:grid;place-items:center}
+.chip.w i{background:var(--warn)}
+.chip:hover{border-color:var(--accent)}.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.thint{margin:-4px 0 0;font-size:12.5px;color:var(--muted)}
+.tsheet{position:fixed;inset:0;z-index:2147483000;display:grid;align-items:end;justify-items:center}
+.tsheet[hidden]{display:none}
+.tback{position:absolute;inset:0;background:rgba(0,0,0,.35)}
+.tbox{position:relative;width:100%;max-width:560px;max-height:80vh;overflow:auto;background:var(--panel);color:var(--fg);border-radius:16px 16px 0 0;padding:12px 18px calc(18px + env(safe-area-inset-bottom));box-shadow:0 -8px 30px rgba(0,0,0,.2);animation:tup .18s ease-out}
+@keyframes tup{from{transform:translateY(40px);opacity:.4}}
+.tgrab{width:40px;height:4px;border-radius:2px;background:var(--line);margin:0 auto 10px}
+.tx{all:unset;cursor:pointer;position:absolute;top:8px;right:12px;font-size:26px;line-height:1;color:var(--muted);padding:4px 8px}
+.tsk{font:12px var(--f-mono);text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.tbox h3{margin:4px 0 6px;font-size:19px;line-height:1.3;padding-right:24px}
+.tbox p{margin:6px 0;line-height:1.5}
+.tbox .ts{font:12.5px var(--f-mono);color:var(--muted)}
+.tnav{display:flex;justify-content:space-between;margin-top:14px}
+.tnav button{all:unset;cursor:pointer;font-weight:600;color:var(--accent);padding:6px 2px}
+.tnav button:disabled{color:var(--line);cursor:default}
+@media (min-width:700px){.tsheet{align-items:center}.tbox{border-radius:14px}.tgrab{display:none}}
 </style>
 </head>
 <body>
@@ -346,12 +352,11 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 
 <section role="tabpanel" id="t-overview">
  <div class="card topw" id="topWrap" hidden>
-  <div class="ttiles">
-   <button type="button" class="ttile" id="topL" data-k="limits" aria-expanded="false"><span class="tk">Top 5 yield-limiting factors</span><span class="t1" id="topL1"></span><span class="tgo">View ›</span></button>
-   <button type="button" class="ttile" id="topP" data-k="pa" aria-expanded="false"><span class="tk">Top 5 PA issues</span><span class="t1" id="topP1"></span><span class="tgo">View ›</span></button>
-  </div>
-  <div class="tpanel" id="topPanel" hidden><p class="sub" id="topPs"></p><div class="tstrip" id="topStrip"></div><p class="thint">Swipe sideways for all 5</p></div>
+  <div id="topL"><h3 class="th">Top 5 yield-limiting factors</h3><div class="chips" id="topLc"></div></div>
+  <div id="topP"><h3 class="th">Top 5 PA issues</h3><div class="chips" id="topPc"></div></div>
+  <p class="thint">Tap a tag for the figures</p>
  </div>
+ <div class="tsheet" id="tSheet" hidden><div class="tback" data-x></div><div class="tbox" role="dialog" aria-modal="true" aria-labelledby="tsT"><div class="tgrab"></div><button type="button" class="tx" data-x aria-label="Close">×</button><div class="tsk" id="tsK"></div><h3 id="tsT"></h3><span class="pill bad" id="tsR" hidden>Raised before</span><p id="tsD"></p><div class="ts" id="tsS"></div><div class="tnav"><button type="button" id="tsPrev">‹ Prev</button><button type="button" id="tsNext">Next ›</button></div></div></div>
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
  <div class="card" id="cB5"><h2>FFB production</h2><p class="sub">Estate FFB tonnes by full year, plus this year to date</p><div class="chart"><canvas id="ch5" aria-label="FFB tonnes by year"></canvas></div><p class="note" id="ch5n"></p></div>
  <div class="card" id="cB6"><h2>Palm age profile</h2><p class="sub" id="ch6s"></p><div class="agewrap"><div class="chart pie"><canvas id="chAge" aria-label="Planted area by palm age"></canvas></div><table class="bt aget"><tbody id="ageT"></tbody></table></div><p class="note" id="ageN"></p></div>
@@ -660,11 +665,16 @@ function render(){
  if(k.harvesters!=null)tiles.push(["Harvesters",`${k.harvesters}<small>${k.harvestersReq!=null?" / "+k.harvestersReq:""}</small>`,k.workers!=null?`workers ${k.workers}${k.workersReq!=null?" / "+k.workersReq:""}`:""]);
  if(k.manuringPct!=null&&tiles.length<5)tiles.push(["Manuring done",`${fmt(k.manuringPct)}<small>%</small>`,esc(k.manuringNote||"")]);
  $("kv").innerHTML=tiles.map(t=>`<div><div class="k">${t[0]}</div><div class="v">${t[1]}</div><div class="d">${t[2]}</div></div>`).join("")||`<p class="empty">No headline figures in the latest reports.</p>`;
- (function(){const T=D.top||{};let any=0,cur=null;const sub={limits:T.limitsSub||"Biggest crop loss first",pa:T.paSub||"From the latest PA report"};
-  const card=(x,n)=>`<div class="tcard"><div class="tn">${n}</div><b>${esc(x.t)}</b>${x.rep?'<span class="pill bad">Raised before</span>':''}${x.d?`<p>${esc(x.d)}</p>`:''}${x.src?`<span class="ts">${esc(x.src)}</span>`:''}</div>`;
-  [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5),b=$(id);if(!L.length){b.hidden=true;return}any=1;$(id+"1").textContent="1. "+L[0].t;
-   b.onclick=()=>{const open=cur!==k;cur=open?k:null;document.querySelectorAll(".ttile").forEach(t=>{const on=open&&t===b;t.classList.toggle("on",on);t.setAttribute("aria-expanded",on);t.querySelector(".tgo").textContent=on?"Close ×":"View ›"});
-    $("topPanel").hidden=!open;if(open){$("topPs").textContent=sub[k];$("topStrip").innerHTML=L.map((x,i)=>card(x,i+1)).join("");$("topStrip").scrollLeft=0}}});
+ (function(){const T=D.top||{},NM={limits:"Yield-limiting factor",pa:"PA issue"};let any=0,K=null,I=0;
+  const show=()=>{const L=T[K].slice(0,5),x=L[I];$("tsK").textContent=`${NM[K]} ${I+1} of ${L.length}`;$("tsT").textContent=x.t;$("tsR").hidden=!x.rep;$("tsD").textContent=x.d||"";$("tsS").textContent=x.src||"";$("tsPrev").disabled=I==0;$("tsNext").disabled=I==L.length-1};
+  const open=(k,i)=>{K=k;I=i;show();$("tSheet").hidden=false;document.body.style.overflow="hidden";$("tsNext").focus({preventScroll:true})};
+  const close=()=>{$("tSheet").hidden=true;document.body.style.overflow=""};
+  [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5);if(!L.length){$(id).hidden=true;return}any=1;
+   $(id+"c").innerHTML=L.map((x,i)=>`<button type="button" class="chip${i>2?" w":""}" data-i="${i}"><i>${i+1}</i>${esc(x.s||x.t)}</button>`).join("");
+   $(id+"c").onclick=e=>{const b=e.target.closest(".chip");if(b)open(k,+b.dataset.i)}});
+  $("tSheet").onclick=e=>{if(e.target.closest("[data-x]"))close()};
+  $("tsPrev").onclick=()=>{if(I>0){I--;show()}};$("tsNext").onclick=()=>{if(I<T[K].slice(0,5).length-1){I++;show()}};
+  document.addEventListener("keydown",e=>{if(!$("tSheet").hidden){if(e.key=="Escape")close();if(e.key=="ArrowRight")$("tsNext").click();if(e.key=="ArrowLeft")$("tsPrev").click()}});
   if(any)$("topWrap").hidden=false})();
  const sm=D.summary||[];if(sm.length)$("sum").innerHTML=sm.map(s=>`<li>${esc(s)}</li>`).join("");else $("sumCard").hidden=true;
  const bl=(D.blocks||[]).filter(b=>b.ytd!=null);

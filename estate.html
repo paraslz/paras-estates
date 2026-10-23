@@ -42,12 +42,11 @@
 
 <section role="tabpanel" id="t-overview">
  <div class="card topw" id="topWrap" hidden>
-  <div class="ttiles">
-   <button type="button" class="ttile" id="topL" data-k="limits" aria-expanded="false"><span class="tk">Top 5 yield-limiting factors</span><span class="t1" id="topL1"></span><span class="tgo">View ›</span></button>
-   <button type="button" class="ttile" id="topP" data-k="pa" aria-expanded="false"><span class="tk">Top 5 PA issues</span><span class="t1" id="topP1"></span><span class="tgo">View ›</span></button>
-  </div>
-  <div class="tpanel" id="topPanel" hidden><p class="sub" id="topPs"></p><div class="tstrip" id="topStrip"></div><p class="thint">Swipe sideways for all 5</p></div>
+  <div id="topL"><h3 class="th">Top 5 yield-limiting factors</h3><div class="chips" id="topLc"></div></div>
+  <div id="topP"><h3 class="th">Top 5 PA issues</h3><div class="chips" id="topPc"></div></div>
+  <p class="thint">Tap a tag for the figures</p>
  </div>
+ <div class="tsheet" id="tSheet" hidden><div class="tback" data-x></div><div class="tbox" role="dialog" aria-modal="true" aria-labelledby="tsT"><div class="tgrab"></div><button type="button" class="tx" data-x aria-label="Close">×</button><div class="tsk" id="tsK"></div><h3 id="tsT"></h3><span class="pill bad" id="tsR" hidden>Raised before</span><p id="tsD"></p><div class="ts" id="tsS"></div><div class="tnav"><button type="button" id="tsPrev">‹ Prev</button><button type="button" id="tsNext">Next ›</button></div></div></div>
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
  <div class="card" id="cB5"><h2>FFB production</h2><p class="sub">Estate FFB tonnes by full year, plus this year to date</p><div class="chart"><canvas id="ch5" aria-label="FFB tonnes by year"></canvas></div><p class="note" id="ch5n"></p></div>
  <div class="card" id="cB6"><h2>Palm age profile</h2><p class="sub" id="ch6s"></p><div class="agewrap"><div class="chart pie"><canvas id="chAge" aria-label="Planted area by palm age"></canvas></div><table class="bt aget"><tbody id="ageT"></tbody></table></div><p class="note" id="ageN"></p></div>
