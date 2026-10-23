@@ -51,6 +51,20 @@ RAINFALL (PA Appendix 1 and Agro Appendix 3). Total mm and rain days: 2021 1,871
 
 DATA CAVEATS. (1) PA prints 18.80 t/ha for 2025; arithmetic and Agro give 19.06 t/ha. (2) PA budget yield 20.41 t/ha does not match 10,463 t over 464 ha (22.55 t/ha); on tonnes FFB was 15.5% below budget, not 8%. (3) PA says no replanting plans; Agro schedules P98 in 2028 and P02 in 2029. (4) Rounds in 2025: 18.5 (PA) vs 15.0 (Agro). (5) P02 inter-rows unsatisfactory in PA (May) but acceptable in Agro (April). (6) Rat census percentages in Agro Table 8 do not match counts for P11A, P12B, P13A, P13B. (7) Agro Table 13 shows P13A 2024 yield 19.67, Appendix 2a gives 19.62.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Slow harvesting rounds: 15.0 rounds in 2025 vs 24 target (Agro; PA says 18.5); intervals up to 28 days in Jan–Mar 2026. Overripe bunches: 1998 bunch weight fell from 23.4 to 20.2 kg (Dec 2024 → Dec 2025). (Agro 1/2026 · PA 1/2026)
+2. 2026 manuring running late: Only 152.60 of 579.45 t applied (26%) by Mar 2026; 403.45 t not yet received; rock phosphate 0%. Programme cut back because of fertiliser prices. (Agro 1/2026)
+3. Old palms in P98 and P02: 32% of area is over 20 years old. P98 yielded 3.17 t/ha in Jan–Mar 2026 vs 5.02 t/ha in Jan–Mar 2025 (-36.9%). Replanting set for 2028 (P98) and 2029 (P02). (Agro 1/2026)
+4. Potassium and magnesium deficiency: Mild Mg and K deficiency in P12B, P13A, P13B; orange fronds on terraced and hilly areas (low cation exchange capacity). (Agro 1/2026)
+5. Bagworm and cattle intrusion: Bagworm defoliation in P12 and P13 (now much reduced); cattle intrusion still unresolved and suspected of bringing bagworm in. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Cost per tonne well over budget: RM261.78/t FFB vs RM201.00/t budget, Jan–Dec 2025, mainly because the crop budget was missed. (PA 1/2026 s.9)
+2. Crop 15.5% below budget: 8,845.68 t FFB vs 10,463 t budget, Jan–Dec 2025; put down to a harvester shortage early in the year. (PA 1/2026 s.8)
+3. General charges overspent: RM1,560.52/ha vs RM911.49/ha budget, Jan–Dec 2025 (Pinfosys under-budgeting); manager to monitor and explain overspends in 2026. (PA 1/2026 s.5)
+4. Harvesters work short days: Harvesters work only 5–6.5 hours (PA asks for 9); only 2 mini dumpers working, the rest broken, so wheelbarrows are used. (PA 1/2026 s.7, 12.1)
+5. Weeds in P02 and cattle unresolved: P02 inter-rows not satisfactory: urgent selective spraying and VOP clearing needed. Cattle intrusion still unresolved; urea bought to deter cattle pushed manuring over budget. (PA 1/2026 s.6)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5–9 (General Charges, Upkeep & Cultivation, Harvesting & Collection tables; Production Cost table 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 74.72 / 68.80
   - Harvesting labour: 42.65 / 41.56

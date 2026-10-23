@@ -283,3 +283,11 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 
 /* charts must shrink when the screen narrows (fold, rotate, desktop mode) */
 .card{grid-template-columns:minmax(0,1fr)}.two>*{min-width:0}.chart{min-width:0;overflow:hidden}.chart canvas{max-width:100%}
+
+/* top 5 lists on Overview */
+ol.toplist{margin:0;padding:0;list-style:none;counter-reset:t;display:grid;gap:12px}
+ol.toplist li{counter-increment:t;display:grid;grid-template-columns:28px minmax(0,1fr);column-gap:8px;line-height:1.4}
+ol.toplist li::before{content:counter(t);grid-row:span 3;width:24px;height:24px;border-radius:50%;background:var(--accent);color:var(--panel);font:600 13px var(--f-mono);display:grid;place-items:center;margin-top:1px}
+ol.toplist b{font-weight:600}ol.toplist .pill{justify-self:start;margin-top:2px}
+ol.toplist .td{grid-column:2;color:var(--fg);font-size:.94em}
+ol.toplist .ts{grid-column:2;color:var(--muted);font:12px var(--f-mono)}

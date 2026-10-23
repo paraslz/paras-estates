@@ -40,6 +40,15 @@ def ffb_text(d):
 SEC = [("manuring", "Manuring progress"), ("spraying", "Spraying & weeding"), ("fertNext", "Fertiliser programme (next year)"),
        ("fertNow", "Fertiliser programme (this year)"), ("fertPrev", "Fertiliser programme (previous year)"), ("pests", "Pests & diseases"),
        ("yield", "Yield"), ("harvesting", "Harvesting"), ("pruning", "Pruning"), ("nutrients", "Nutrients"), ("field", "Field"), ("other", "Other")]
+def top_text(d):
+    T = d.get("top") or {}
+    out = []
+    for k, h in (("limits", "TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)"), ("pa", "TOP 5 PA ISSUES (main matters raised in the latest PA report)")):
+        if T.get(k):
+            out.append("\n" + h)
+            out += [f"{i}. {x['t']}: {x.get('d','')} ({x.get('src','')})" for i, x in enumerate(T[k][:5], 1)]
+    return "\n".join(out) + "\n" if out else ""
+
 def rows(v): return v.get("rows", []) if isinstance(v, dict) else (v or [])
 def block_text(d):
     out = []
@@ -84,7 +93,7 @@ Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. 
 
 REPORT EXTRACTS
 {kb}
-{cost_text(d)}{ffb_text(d)}{block_text(d)}"""
+{top_text(d)}{cost_text(d)}{ffb_text(d)}{block_text(d)}"""
     open(f"kb/{d['slug']}.txt", "w").write(txt); n += 1
 print(n, "report packs written")
 
@@ -142,6 +151,9 @@ for f in sorted(glob.glob("data/*.json")):
          + (f"; {yt['year']} months {yt.get('from',1)}-{yt['to']}: {yt['t']:,.0f} t" if yt else ""),
          "Palm age profile (ha): " + (", ".join(f"{c} {v:,.0f}" for c, v in ap) or "N/A")]
     if d.get("summary"): L.append("Key takeaways: " + " | ".join(d["summary"]))
+    T = d.get("top") or {}
+    if T.get("limits"): L.append("Top yield-limiting factors: " + " | ".join(f"{i}. {x['t']}" for i, x in enumerate(T["limits"][:5], 1)))
+    if T.get("pa"): L.append("Top PA issues: " + " | ".join(f"{i}. {x['t']}" for i, x in enumerate(T["pa"][:5], 1)))
     if rep: L.append(f"Actions raised before and still not done ({len(rep)}): " + " | ".join(x.get("item", "") for x in rep))
     if opn: L.append(f"New open actions ({len(opn)}): " + " | ".join(x.get("item", "") for x in opn))
     L.append(f"Full estate pack: {S['url']}/kb/{d['slug']}.txt")

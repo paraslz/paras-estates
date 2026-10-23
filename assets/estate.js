@@ -81,6 +81,9 @@ function render(){
  if(k.harvesters!=null)tiles.push(["Harvesters",`${k.harvesters}<small>${k.harvestersReq!=null?" / "+k.harvestersReq:""}</small>`,k.workers!=null?`workers ${k.workers}${k.workersReq!=null?" / "+k.workersReq:""}`:""]);
  if(k.manuringPct!=null&&tiles.length<5)tiles.push(["Manuring done",`${fmt(k.manuringPct)}<small>%</small>`,esc(k.manuringNote||"")]);
  $("kv").innerHTML=tiles.map(t=>`<div><div class="k">${t[0]}</div><div class="v">${t[1]}</div><div class="d">${t[2]}</div></div>`).join("")||`<p class="empty">No headline figures in the latest reports.</p>`;
+ (function(){const T=D.top||{},li=x=>`<li><b>${esc(x.t)}</b>${x.rep?' <span class="pill bad">Raised before</span>':''}${x.d?`<span class="td">${esc(x.d)}</span>`:''}${x.src?`<span class="ts">${esc(x.src)}</span>`:''}</li>`;let any=0;
+  [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5);if(L.length){any=1;$(id+"l").innerHTML=L.map(li).join("")}else $(id).hidden=true});
+  if(T.limitsSub)$("topLs").textContent=T.limitsSub;if(T.paSub)$("topPs").textContent=T.paSub;if(any)$("topWrap").hidden=false})();
  const sm=D.summary||[];if(sm.length)$("sum").innerHTML=sm.map(s=>`<li>${esc(s)}</li>`).join("");else $("sumCard").hidden=true;
  const bl=(D.blocks||[]).filter(b=>b.ytd!=null);
  if(bl.length){const hasEst=bl.some(b=>b.est!=null);$("cB1s").textContent=`t/ha, ${BP()}${D.blockSrc?" ("+D.blockSrc+")":""}, against ${hasEst?"estimate":prevP(BP())}`}else $("cB1").hidden=true;

@@ -291,6 +291,14 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 
 /* charts must shrink when the screen narrows (fold, rotate, desktop mode) */
 .card{grid-template-columns:minmax(0,1fr)}.two>*{min-width:0}.chart{min-width:0;overflow:hidden}.chart canvas{max-width:100%}
+
+/* top 5 lists on Overview */
+ol.toplist{margin:0;padding:0;list-style:none;counter-reset:t;display:grid;gap:12px}
+ol.toplist li{counter-increment:t;display:grid;grid-template-columns:28px minmax(0,1fr);column-gap:8px;line-height:1.4}
+ol.toplist li::before{content:counter(t);grid-row:span 3;width:24px;height:24px;border-radius:50%;background:var(--accent);color:var(--panel);font:600 13px var(--f-mono);display:grid;place-items:center;margin-top:1px}
+ol.toplist b{font-weight:600}ol.toplist .pill{justify-self:start;margin-top:2px}
+ol.toplist .td{grid-column:2;color:var(--fg);font-size:.94em}
+ol.toplist .ts{grid-column:2;color:var(--muted);font:12px var(--f-mono)}
 </style>
 </head>
 <body>
@@ -326,6 +334,10 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 
 
 <section role="tabpanel" id="t-overview">
+ <div class="two" id="topWrap" hidden>
+  <div class="card" id="topL"><h2>Top 5 yield-limiting factors</h2><p class="sub" id="topLs">Ranked by likely cost in lost crop, from the latest reports</p><ol class="toplist" id="topLl"></ol></div>
+  <div class="card" id="topP"><h2>Top 5 PA issues</h2><p class="sub" id="topPs">Main matters raised in the latest PA report</p><ol class="toplist" id="topPl"></ol></div>
+ </div>
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
  <div class="card" id="cB5"><h2>FFB production</h2><p class="sub">Estate FFB tonnes by full year, plus this year to date</p><div class="chart"><canvas id="ch5" aria-label="FFB tonnes by year"></canvas></div><p class="note" id="ch5n"></p></div>
  <div class="card" id="cB6"><h2>Palm age profile</h2><p class="sub" id="ch6s"></p><div class="agewrap"><div class="chart pie"><canvas id="chAge" aria-label="Planted area by palm age"></canvas></div><table class="bt aget"><tbody id="ageT"></tbody></table></div><p class="note" id="ageN"></p></div>
@@ -634,6 +646,9 @@ function render(){
  if(k.harvesters!=null)tiles.push(["Harvesters",`${k.harvesters}<small>${k.harvestersReq!=null?" / "+k.harvestersReq:""}</small>`,k.workers!=null?`workers ${k.workers}${k.workersReq!=null?" / "+k.workersReq:""}`:""]);
  if(k.manuringPct!=null&&tiles.length<5)tiles.push(["Manuring done",`${fmt(k.manuringPct)}<small>%</small>`,esc(k.manuringNote||"")]);
  $("kv").innerHTML=tiles.map(t=>`<div><div class="k">${t[0]}</div><div class="v">${t[1]}</div><div class="d">${t[2]}</div></div>`).join("")||`<p class="empty">No headline figures in the latest reports.</p>`;
+ (function(){const T=D.top||{},li=x=>`<li><b>${esc(x.t)}</b>${x.rep?' <span class="pill bad">Raised before</span>':''}${x.d?`<span class="td">${esc(x.d)}</span>`:''}${x.src?`<span class="ts">${esc(x.src)}</span>`:''}</li>`;let any=0;
+  [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5);if(L.length){any=1;$(id+"l").innerHTML=L.map(li).join("")}else $(id).hidden=true});
+  if(T.limitsSub)$("topLs").textContent=T.limitsSub;if(T.paSub)$("topPs").textContent=T.paSub;if(any)$("topWrap").hidden=false})();
  const sm=D.summary||[];if(sm.length)$("sum").innerHTML=sm.map(s=>`<li>${esc(s)}</li>`).join("");else $("sumCard").hidden=true;
  const bl=(D.blocks||[]).filter(b=>b.ytd!=null);
  if(bl.length){const hasEst=bl.some(b=>b.est!=null);$("cB1s").textContent=`t/ha, ${BP()}${D.blockSrc?" ("+D.blockSrc+")":""}, against ${hasEst?"estimate":prevP(BP())}`}else $("cB1").hidden=true;
