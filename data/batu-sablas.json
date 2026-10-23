@@ -5798,8 +5798,8 @@
  "blockGaps": "Month positions of the NK1 rounds in the revised 2026 programme (P98 and P02) are not legible; the original 2026 programme from Agro 2/2025 is given for reference. Months in the 2025 programme (Agro 1/2025) are read from garbled table positions. P11A circle-spray third-round month and the headed 'CIRP' (read as RP) column in the PA manuring table are uncertain. No leaf analysis for P98 and no 2026 leaf analysis yet (reassessment due, results in the next Agro report). No Ganoderma census figures (infection reported negligible/minimal). No block-level weeding quality grades. The fertiliser table in PA reads 'Compact B' for Mix B. Agro 1/2026 rat census table appears to copy the Agro 2/2025 table exactly. Reports use block names P98K/P02L; no block-level cost figures are printed.",
  "blockMap": "Dashboard ids map to the report fields as: P98 = field P98 / sub-block 'P98K' (74 ha); P02 = 'P02L' (74 ha); P11A/P11B/P12A/P12B/P13A/P13B are printed as 2011A, 2011B, 2012A ... in PA tables and as P11A... in Agro. Agro appendices group P11 and P12 (and P13) on one fertiliser line each.",
  "top": {
-  "limitsSub": "Ranked by likely cost in lost crop · PA 1/2026 and Agronomy 1/2026",
-  "paSub": "Main matters raised in PA Report 1/2026 (Jan–Dec 2025, visit May 2026)",
+  "limitsSub": "Biggest crop loss first · tap for detail",
+  "paSub": "From PA Report 1/2026 · tap for detail",
   "limits": [
    {
     "t": "Slow harvesting rounds",
