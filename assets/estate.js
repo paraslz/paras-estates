@@ -86,8 +86,8 @@ function render(){
   const open=(k,i)=>{K=k;I=i;show();$("tSheet").hidden=false;document.body.style.overflow="hidden";$("tsNext").focus({preventScroll:true})};
   const close=()=>{$("tSheet").hidden=true;document.body.style.overflow=""};
   [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5);if(!L.length){$(id).hidden=true;return}any=1;
-   $(id+"c").innerHTML=L.map((x,i)=>`<button type="button" class="chip${i>2?" w":""}" data-i="${i}"><i>${i+1}</i>${esc(x.s||x.t)}</button>`).join("");
-   $(id+"c").onclick=e=>{const b=e.target.closest(".chip");if(b)open(k,+b.dataset.i)}});
+   $(id+"c").innerHTML=L.map((x,i)=>`<button type="button" class="tchip${i>2?" w":""}" data-i="${i}"><i>${i+1}</i>${esc(x.s||x.t)}</button>`).join("");
+   $(id+"c").onclick=e=>{const b=e.target.closest(".tchip");if(b)open(k,+b.dataset.i)}});
   $("tSheet").onclick=e=>{if(e.target.closest("[data-x]"))close()};
   $("tsPrev").onclick=()=>{if(I>0){I--;show()}};$("tsNext").onclick=()=>{if(I<T[K].slice(0,5).length-1){I++;show()}};
   document.addEventListener("keydown",e=>{if(!$("tSheet").hidden){if(e.key=="Escape")close();if(e.key=="ArrowRight")$("tsNext").click();if(e.key=="ArrowLeft")$("tsPrev").click()}});

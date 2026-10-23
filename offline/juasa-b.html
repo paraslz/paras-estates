@@ -293,14 +293,14 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 .card{grid-template-columns:minmax(0,1fr)}.two>*{min-width:0}.chart{min-width:0;overflow:hidden}.chart canvas{max-width:100%}
 
 /* top 5 on Overview: tappable tags; tap opens a pop-up from the bottom */
-.topw{gap:12px}
-.topw .th{margin:0 0 7px;font:600 16px var(--f-body)}
-.chips{display:flex;flex-wrap:wrap;gap:6px}
-.chip{all:unset;box-sizing:border-box;cursor:pointer;display:inline-flex;gap:6px;align-items:center;max-width:100%;padding:6px 11px 6px 6px;border-radius:999px;border:1px solid var(--line);background:var(--bg);font:500 14.5px var(--f-body);color:var(--fg);line-height:1.2}
-.chip i{flex:none;font:600 11.5px var(--f-mono);font-style:normal;color:#fff;background:var(--bad);border-radius:50%;width:19px;height:19px;display:grid;place-items:center}
-.chip.w i{background:var(--warn)}
-.chip:hover{border-color:var(--accent)}.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.thint{margin:-4px 0 0;font-size:12.5px;color:var(--muted)}
+.topw{gap:10px;padding:12px 14px}
+.topw .th{margin:0 0 5px;font:600 12.5px var(--f-body);text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.topw .th span{text-transform:none;letter-spacing:0;font-weight:400}
+.tchips{display:flex;flex-wrap:wrap;gap:5px}
+.tchip{all:unset;box-sizing:border-box;cursor:pointer;display:inline-flex;gap:5px;align-items:center;max-width:100%;padding:3px 9px 3px 3px;border-radius:999px;border:1px solid var(--line);background:var(--bg);font:500 13.5px var(--f-body);color:var(--fg);line-height:1.2}
+.tchip i{flex:none;font:600 10.5px var(--f-mono);font-style:normal;color:#fff;background:var(--bad);border-radius:50%;width:17px;height:17px;display:grid;place-items:center}
+.tchip.w i{background:var(--warn)}
+.tchip:hover{border-color:var(--accent)}.tchip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .tsheet{position:fixed;inset:0;z-index:2147483000;display:grid;align-items:end;justify-items:center}
 .tsheet[hidden]{display:none}
 .tback{position:absolute;inset:0;background:rgba(0,0,0,.35)}
@@ -352,9 +352,8 @@ table.bt2 tbody th{text-transform:none;letter-spacing:0;font:600 13.5px var(--f-
 
 <section role="tabpanel" id="t-overview">
  <div class="card topw" id="topWrap" hidden>
-  <div id="topL"><h3 class="th">Top 5 yield-limiting factors</h3><div class="chips" id="topLc"></div></div>
-  <div id="topP"><h3 class="th">Top 5 PA issues</h3><div class="chips" id="topPc"></div></div>
-  <p class="thint">Tap a tag for the figures</p>
+  <div id="topL"><h3 class="th">Top 5 yield-limiting factors <span>· tap for figures</span></h3><div class="tchips" id="topLc"></div></div>
+  <div id="topP"><h3 class="th">Top 5 PA issues</h3><div class="tchips" id="topPc"></div></div>
  </div>
  <div class="tsheet" id="tSheet" hidden><div class="tback" data-x></div><div class="tbox" role="dialog" aria-modal="true" aria-labelledby="tsT"><div class="tgrab"></div><button type="button" class="tx" data-x aria-label="Close">×</button><div class="tsk" id="tsK"></div><h3 id="tsT"></h3><span class="pill bad" id="tsR" hidden>Raised before</span><p id="tsD"></p><div class="ts" id="tsS"></div><div class="tnav"><button type="button" id="tsPrev">‹ Prev</button><button type="button" id="tsNext">Next ›</button></div></div></div>
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
@@ -670,8 +669,8 @@ function render(){
   const open=(k,i)=>{K=k;I=i;show();$("tSheet").hidden=false;document.body.style.overflow="hidden";$("tsNext").focus({preventScroll:true})};
   const close=()=>{$("tSheet").hidden=true;document.body.style.overflow=""};
   [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5);if(!L.length){$(id).hidden=true;return}any=1;
-   $(id+"c").innerHTML=L.map((x,i)=>`<button type="button" class="chip${i>2?" w":""}" data-i="${i}"><i>${i+1}</i>${esc(x.s||x.t)}</button>`).join("");
-   $(id+"c").onclick=e=>{const b=e.target.closest(".chip");if(b)open(k,+b.dataset.i)}});
+   $(id+"c").innerHTML=L.map((x,i)=>`<button type="button" class="tchip${i>2?" w":""}" data-i="${i}"><i>${i+1}</i>${esc(x.s||x.t)}</button>`).join("");
+   $(id+"c").onclick=e=>{const b=e.target.closest(".tchip");if(b)open(k,+b.dataset.i)}});
   $("tSheet").onclick=e=>{if(e.target.closest("[data-x]"))close()};
   $("tsPrev").onclick=()=>{if(I>0){I--;show()}};$("tsNext").onclick=()=>{if(I<T[K].slice(0,5).length-1){I++;show()}};
   document.addEventListener("keydown",e=>{if(!$("tSheet").hidden){if(e.key=="Escape")close();if(e.key=="ArrowRight")$("tsNext").click();if(e.key=="ArrowLeft")$("tsPrev").click()}});
