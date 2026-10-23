@@ -53,6 +53,20 @@ ADVICE AND OUTLOOK: PA: use GIS census density for fertiliser, add 4 harvesters,
 
 DATA CAVEATS: rat damage Dec 2025 differs between PA and Agro; cost per t 193.10 vs 191.10; Ganoderma percentage and E2 hectares; baiting table hectares for F and G blocks appear swapped; soil and water conservation overspend; harvester counts 17 vs 20. See issues.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Long harvesting intervals: 15.32 rounds in 2025 vs 24 target (PA); intervals mostly 18 to 28 days in PM14F and PM15G in 2025 (Agro). Harvesters 17 vs 21 needed (Mar 2026). (PA 1/2026 · Agro 1/2026)
+2. Manuring late and behind: 2025 Mix B rounds up to 4 months late (completed Jan 2026); only 24% of the 2026 programme (168.15 of 689.49 mt) applied by Mar 2026. (Agro 1/2026 · PA 1/2026)
+3. Rat damage in PM14F and PM15G: Agro: 10.0 to 13.0% damage per block in Dec 2025 (PA says 8.94%); round-3 bait acceptance still 14% to 47%; no baiting Jan-Mar 2026. (Agro 1/2026 · PA 1/2026)
+4. Pruning behind in PM05E: PM05E pruned 61% in 2025 and 22% in Q1 2026; hanging dry fronds in PM05E1 and PM03C1. PM05E yield 18.73 t/ha in 2025 vs 23.02 in 2024 (-18.6%). (PA 1/2026 · Agro 1/2026)
+5. Hilly PM15G weak and overgrown: PM15G lowest yield at 21.14 t/ha in 2025; deficiency symptoms persist in hilly G3 and G4; bamboo, bracken and VOPs; about 5 ha of G3 rehabilitation left (Dec 2025). (Agro 1/2026 · PA 1/2026 s.12)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Q1 2026 crop 65% of estimate: 1,673.82 t FFB vs 2,572 t estimate, Jan-Mar 2026 (3.47 vs 5.33 t/ha); all four fields below estimate. (PA 1/2026 Table 27)
+2. Short of harvesters, few rounds: 17 harvesters vs 21 required (Mar 2026); 15.32 rounds vs 24 in 2025; no mechanised infield collection (EV Badang suggested). (PA 1/2026)
+3. Pruning behind in PM05E and PM03C1: Q1 2026 pruning only 22% in PM05E and 67% in PM03C1; PM05E 61% in 2025; under-pruned palms with hanging dry fronds. (PA 1/2026)
+4. Pay below minimum wage: Manurers earn RM64.40/day and PM05E harvesters RM63.00/day, below the RM65.38 minimum wage; PA asks for a fair rate. (PA 1/2026)
+5. PM15G3 rehab and hilly roads: About 5 ha of PM15G3 rehabilitation still to do at Dec 2025; hilly roads in PM15G2 and G3 need upgrading; 2026 road work not started. (PA 1/2026 s.12, 6.4.5)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, Tables 5, 6, 25, 28 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 70.75 / 69.77
   - Contract harvesting & collection: 44.61 / 44.29

@@ -47,6 +47,20 @@ RAINFALL (Agro Table 21 and PA Appendix A). Annual mm and rain days: 2023 3,470.
 
 CONCLUSIONS. PA 13: expedite recruitment of sprayers and manurers; train sprayers; continue manuring and finish by October; keep 14-day harvest interval, consider Electric Badang; eradicate Asystasia, Lalang and VOPs in immature areas. Agro 7 and 8: yield improving in young mature blocks; PM97I weak; ground management priority; fertiliser technique; second-half 2026 programme revised. PA overall: estate performance acceptable. Data cautions: see issues (PA 2025 annual FFB 6,493 t vs Agro 17.59 t/ha; rat census conflict; yield area basis; budget general charges per tonne).
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. PM97I old palms falling off: Planted 1997: 3.30 vs 5.62 t/ha (-41.3%), Jan–Mar 2026; 16.20 t/ha in 2025 vs 31.62. Only 18 rounds in 2025 and no fertiliser in 2025 (replanting deferred to 2028). (Agro 1/2026)
+2. Dry weather, unripe bunches: PA: bunches not ripening in dry weather. Jan–Mar 2026 rain 224 mm (Jan 54, Mar 49 mm); Agro expects the 2024 drought to depress yield. (PA 1/2026 · Agro 1/2026)
+3. 2026 manuring late and uneven: 25 of 38 rounds (66%) to May 2026; no Kieserite (due Mar). Agro: uneven spread and narrow bands. 2025 compound only 60% applied, RP 87%. (PA 1/2026 s.6.4 · Agro 1/2026)
+4. Weeds and creepers on palms: Selective spraying 69% estate-wide, Jan–May 2026. Mucuna climbing palms in PM22D/D2 and PM21C, Passiflora in PR24F; Lalang and VOPs in P22. (PA 1/2026 · Agro 1/2026)
+5. Palm stand falling: PM21C down to 122 SPH from 144 (-18%); PM18A 130 from 140 (-8%). Supplying still to be done in PR23E and PR24F. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 8% below budget: 4,021.26 t FFB vs 4,367 t budget, Jan–May 2026 (5.10 vs 5.54 t/ha), though +9% on 2025. Bunches not ripening in dry weather. (PA 1/2026 s.8)
+2. Cost per tonne over budget: RM422.10/t FFB vs RM392.62/t budget to date, Jan–May 2026; PA puts it down to yield below budget. General charges RM175.10/t vs 110.00. (PA 1/2026 s.9)
+3. Manurers and sprayers short: Manurers 4 vs 8 (recruit urgently), weeders 15 vs 17 in May 2026; 4 spraying workers promised by end June. (PA 1/2026 s.3)
+4. Low spraying output: Selective spraying 2.6 ha/man-day (very low), earning RM44.20/day vs RM65.38 basic; glyphosate 0.63 l/ha (high). Use Inter Pump or CDA; train sprayers. (PA 1/2026 s.6)
+5. Manuring 66% of rounds: 25 of 38 rounds applied to May 2026: late Mixture B delivery, no Kieserite (delivered in stages in June). Finish by October. (PA 1/2026 s.6.4)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5-7 and 9 (Cost of Production As At May 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 113.28 / 128.62
   - Harvesting labour: 86.73 / 99.78

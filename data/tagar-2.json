@@ -3898,5 +3898,76 @@
   ]
  },
  "blockGaps": "No Ganoderma census figures. No leaf analysis table in either report (Agro text only). No PA data on PM02C pests beyond 0% rats. Rat census not done in PM00A, PM01B, PM02C, PM12D before June. Harvest interval not printed for PM18F, PM20G, PM22H. No per-block year-to-date 2026 yield (estate only). PA PM18F kieserite dates (19.06.26-17.06.26) are printed backwards; PM12D second round dated 14.04.26-20.05.26 for a May application. PM16E second-round RP row has no date. Agro Table 15 header shows '2025 2026' labels where the second column is not a budget; the 'last year' column in the PA crop table is partly a budget, see estateWide yield. 2025 programmes are from Agro 1/2025 (grid-verified).",
- "blockMap": "Report ids equal dashboard ids. Agro 1/2026 block years: PM00A 2000, PM01B 2001, PM02C 2002, PM12D 2012, PM16E 2016, PM18F 2018, PM20G 2020, PM22H 2022; the PA area table prints different years (1995, 1995, 2000, 2000, 2001, 2002, 2012, 2022), treated as a typo. PM00A = old P00B + P00C (101 + 59.63 ha) and has sub-blocks A1/A2. PM12D has D1/D2; PM22H has H1 (52 ha) and H2 (44 ha). 2025 reports use P00A1/A2, P01B, P02C, P12D1/D2, P16E, P18F, PN20G, PR22H1/H2."
+ "blockMap": "Report ids equal dashboard ids. Agro 1/2026 block years: PM00A 2000, PM01B 2001, PM02C 2002, PM12D 2012, PM16E 2016, PM18F 2018, PM20G 2020, PM22H 2022; the PA area table prints different years (1995, 1995, 2000, 2000, 2001, 2002, 2012, 2022), treated as a typo. PM00A = old P00B + P00C (101 + 59.63 ha) and has sub-blocks A1/A2. PM12D has D1/D2; PM22H has H1 (52 ha) and H2 (44 ha). 2025 reports use P00A1/A2, P01B, P02C, P12D1/D2, P16E, P18F, PN20G, PR22H1/H2.",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage, poor crop recovery",
+    "s": "Short of harvesters",
+    "d": "26 harvesters vs 37 required (Jun 2026); intervals 15-24 days in Jan–Mar 2026. Incomplete harvesting and rotten bunches in P00 and P01 ravines; oxidised loose fruit in P02 and P12D.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old, tall palms in P00 and P01",
+    "s": "Old palms",
+    "d": "P00 yielded 12.09 t/ha in 2025 vs 14.65 in 2024; P01 14.63 vs 15.84. Tall palms, unterraced ravines; P00 (160.63 ha) to be replanted in 2027, P01B (68 ha) in 2028.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Rat damage across young blocks",
+    "s": "Rat damage",
+    "d": "Jun 2026 census: PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%, PR22H 19%; no follow-up census after baiting. No census at all in P00, P01, P02 (Agro, Mar 2026).",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low palm density, vacant points",
+    "s": "Low palm density",
+    "d": "120 SPH in P18F and P22H, 126 in P20G; P22 about 12% below the minimum. Infilling repeatedly recommended but not done.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Late manuring and bagworm",
+    "s": "Late manuring",
+    "d": "Kieserite only 23% (4.30 of 18.60 t) by Mar 2026 after late delivery; 2025 rounds one to two months late. Bagworm in P18: mean 18 larvae over about 20 ha (Feb 2026).",
+    "src": "Agro 1/2026 · PA 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 13% below budget",
+    "s": "Crop 13% short",
+    "d": "4,161.98 t FFB vs 4,805 t budget, Jan–Jun 2026; 5.67 t/ha vs 6.54 budget and 6.35 last year. Put down to the harvester shortage and low cropping season.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Short of harvesters and sprayers",
+    "s": "Worker shortage",
+    "d": "51 workers vs 67 required in Jun 2026: harvesters 26 vs 37, sprayers 4 vs 8. Indonesian workers no longer want to spray; PA advises a Bangladeshi spraying contractor.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvest rates set for machines",
+    "s": "Harvest rates",
+    "d": "Rates assume mechanical evacuation (2.5-3 t/man-day) but wheelbarrows are used; output 0.79 to 1.91 t/man-day, many earning below the RM65.38 basic. Revise rates.",
+    "src": "PA 2/2026"
+   },
+   {
+    "t": "No road grading or drain desilting",
+    "s": "Roads and drains",
+    "d": "None of 2,297 chains graded and no desilting done to Jun 2026, as rates are not finalised (high diesel price). Roads bumpy and eroded; PM12D drains badly silted.",
+    "src": "PA 2/2026"
+   },
+   {
+    "t": "Rats and bagworm in P18",
+    "s": "Rats, bagworm",
+    "d": "Rat baiting at P12, P16, P18, P20, P22 with no follow-up census. Bagworm at P18/F: 10.65 ha sprayed with Cypermethrin; trunk injection awaits DOA licence.",
+    "src": "PA 2/2026",
+    "rep": true
+   }
+  ]
+ }
 }

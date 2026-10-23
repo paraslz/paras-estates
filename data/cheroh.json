@@ -9609,5 +9609,79 @@
   ]
  },
  "blockGaps": "No cost of production in either report. PA tables give no block-level rat/Ganoderma counts beyond photos. Fertiliser month columns (Agro Appendix 1 for 2026 and Agro 1/2025 for 2025) are not legible in the text copy, so applications are listed in printed order with months only where the PA programme or text states them; P03G/P05H/P06I appendix items differ from the PA programme as noted. No block-level EFB/POME, drain or flood data. No new foliar sampling since Apr 2025 results. Agro 2/2025 outstanding-programme table has uncertain block assignment. Agro 1/2025 stated 2025 estate yield as 16.48 t/ha in table but 16.80 t/ha in text. PA PR numbers: PR23 106.33 ha vs Agro heading 112.0 ha. Contractor-level and estate-level labour, staff, rainfall and mechanisation items are not block data and omitted.",
- "blockMap": "Dashboard ids match PA/Agro block ids. Sub-blocks (P08K1-K3, P10L1-L2, P14O1-O2, P18S2) are folded into their parent block with the sub-block named in the row key. Agro names PR24 what the dashboard and PA call PR25 (PR24 was redesignated PR25). PR26 (replant of P96C + P97D, 146.10 ha) has no dashboard id, so its detail is repeated under both P96C and P97D. P18S rows refer to P18S2 (16.19 ha) unless stated."
+ "blockMap": "Dashboard ids match PA/Agro block ids. Sub-blocks (P08K1-K3, P10L1-L2, P14O1-O2, P18S2) are folded into their parent block with the sub-block named in the row key. Agro names PR24 what the dashboard and PA call PR25 (PR24 was redesignated PR25). PR26 (replant of P96C + P97D, 146.10 ha) has no dashboard id, so its detail is repeated under both P96C and P97D. P18S rows refer to P18S2 (16.19 ha) unless stated.",
+ "top": {
+  "limits": [
+   {
+    "t": "Manuring short for years",
+    "s": "Short manuring",
+    "d": "Only 54% of 2025 programme applied (705.56 of 1,295.50 t); 37% of 2026 programme to Apr 2026. Agro: yield probably hurt by inconsistent manuring over several years.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester shortage, long intervals",
+    "s": "Slow harvesting",
+    "d": "16 rounds in 2025 vs 24 needed; intervals 14–26 days in 2025, causing overripe bunches and loose fruit. Harvesters 34 vs 41 (Jun 2026).",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Weeding rounds behind",
+    "s": "Weeding behind",
+    "d": "Only one inter-row round in 2025. To Jun 2026 circle 73% (0.7 round) and selective 50%; sprayers 8 vs 12. Large VOPs in P03 and P05.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low palm stand, vacant points",
+    "s": "Low palm stand",
+    "d": "PR25 only 54 SPH (5,580 palms); PR23 uneven from palm losses. Interim census: P08K1 105 SPH, P08K2 103 SPH (−23%, −16%). Census incomplete.",
+    "src": "Agro 1/2026 · Agro 2/2025",
+    "rep": true
+   },
+   {
+    "t": "Cattle damage in young palms",
+    "s": "Cattle damage",
+    "d": "PR23 maturity delayed by cattle damage; PR25 palms badly defoliated, trenches ineffective. Owner to remove all cattle Jul or Aug 2026.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 21% below budget",
+    "s": "Crop 21% short",
+    "d": "7,103.62 t vs 8,964.88 t budget, Jan–Jun 2026; 8.74 vs 11.03 t/ha, though 35% above 6.46 t/ha for Jan–Jun 2025. Poor fruit sets in P03G and P08K.",
+    "src": "PA 1/2026 s.6"
+   },
+   {
+    "t": "Labour shortage the main issue",
+    "s": "Labour shortage",
+    "d": "54 workers vs 71 required (Jun 2026): harvesters 34 vs 41, drivers 3 vs 6, weeding 8 vs 12, manuring 5 vs 8. Two Field Supervisor posts vacant.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester earnings below basic wage",
+    "s": "Low harvester pay",
+    "d": "Earnings to Jun 2026 as low as RM46.02/day (P11M) and RM47.97 (P10L) vs RM65.39 basic; PA warns harvesters will leave.",
+    "src": "PA 1/2026 s.6.8"
+   },
+   {
+    "t": "Spraying slow and behind",
+    "s": "Slow spraying",
+    "d": "Circle 73% at 1.6 ha/man-day (earnings RM27.20); selective 50% at 2.7 ha/man-day vs 5–6 target, to Jun 2026. Advised again to use CDA.",
+    "src": "PA 1/2026 s.5",
+    "rep": true
+   },
+   {
+    "t": "No road grading done",
+    "s": "No road grading",
+    "d": "1,800 chains grading and 500 chains laterite budgeted, none done to Jun 2026 (diesel prices, no new rates). Deep gullies in P14O.",
+    "src": "PA 1/2026 s.5.5",
+    "rep": true
+   }
+  ]
+ }
 }

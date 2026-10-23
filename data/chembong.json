@@ -1886,5 +1886,77 @@
   ]
  },
  "blockGaps": "No costs in PA 1/2026 for Chembong. No block-level cost, no soil analysis, no Ganoderma census (none done). Leaf analysis sampling date not stated (Agro 2/2025). Months of the revised 2026 programme read from the 12-column layout and not confirmed in the PDF. Agro Appendix 2 (yield statistic) in Agro 1/2026 repeats the Agro 1/2025 figures, and Table 10 prints an estate total of 11.77 t/ha that does not match the 13.34 t/ha implied by the monthly production table. PA 1/2026 yield table appears to repeat 2023/2024 data under 2024/2025 headings. The pruning/inter-row/circle quality tick tables and solar area acreage columns could not be read. Pests/diseases for P90 are not described in either report.",
- "blockMap": "Dashboard ids P90, P02, P03 are printed P1990 / P90B, P2002 / P02C and P2003 / P03D in the reports. The Agro blocking table (in acres) uses P85/A, P90/B, P02/C, P03/D: P85/A is not a dashboard block (fully converted to solar)."
+ "blockMap": "Dashboard ids P90, P02, P03 are printed P1990 / P90B, P2002 / P02C and P2003 / P03D in the reports. The Agro blocking table (in acres) uses P85/A, P90/B, P02/C, P03/D: P85/A is not a dashboard block (fully converted to solar).",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage, slow rounds",
+    "s": "Slow harvesting",
+    "d": "2025 rounds: P02 13 (54%), P03 17 (71%) vs 24. Intervals up to 26 days Oct 2025–Mar 2026; over 10% overripe bunches on P03 platforms (Apr 2026).",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "P90 old palms barely harvested",
+    "s": "P90 abandoned",
+    "d": "P90 (36.99 ha, 1990, palms over 55 ft) yielded 0.35 t/ha in 2025 vs 1.32 in 2024; 0.5 round in 2025, none Jan–Mar 2026. Replanting deferred pending solar decision.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring not started",
+    "s": "Manuring not started",
+    "d": "No 2026 manuring in P02 and P03 by the Apr 2026 visit, partly from uncertainty over the solar project; applicators were at Perhentian Tinggi.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Jun–Jul 2025 drought",
+    "s": "2025 drought",
+    "d": "Jun 84 mm and Jul 49 mm in 2025; Agro expects the drought hurt palms. 2025 yield 13.34 t/ha vs 14.76 in 2024.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Ganoderma untreated in P02 and P03",
+    "s": "Ganoderma",
+    "d": "Ganoderma symptoms (rotting roots, stem decay, unopened spears) in P02 and P03; no census, de-boling or treatment done yet.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop well below budget",
+    "s": "Crop well short",
+    "d": "13.34 t/ha vs 22.40 t/ha budget, Jan–Dec 2025. Low cropping season at visit, many male flowers.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "Few rounds, short harvester days",
+    "s": "Short harvester days",
+    "d": "15 harvesting rounds vs 24 budgeted in 2025, average interval 17 days. Harvesters work about 6 hours a day; should work 9.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester numbers thin",
+    "s": "Harvester shortage",
+    "d": "Only 2 harvesters in Dec 2025 (1:42 ha); 4 by May 2026 after recruiting 2. Group MD wants 6 permanent harvesters. 8 workers vs 14 required.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "P90 future undecided",
+    "s": "P90 undecided",
+    "d": "P90 status undecided (solar project planned); blanket sprayed, one harvester picking where possible, no pruning for a long time.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Sprayer output and VOPs",
+    "s": "Spraying, VOPs",
+    "d": "Mist blower 4 ha/man-day (potential 6); no daily costing book yet. Regenerating Tetracera and remaining VOPs to be sprayed next round.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

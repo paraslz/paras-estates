@@ -37,6 +37,20 @@ IMMATURE AND REPLANT (PA): PR24 V3-V4 126.7 ha cost RM116,863 to date (RM922/ha 
 
 RAINFALL (Agro): average annual 2,827 mm with about 12 rainy days a month, about 18 effective working days a month; June averages about 153 mm. No year-by-year record for Juasa B in either report.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Harvester shortage, slow rounds: Harvesters 44 of 60 (Jun 2026); 8.7 rounds vs 12 to June, interval 16 days; outturn 68%. Overripe 5-16% in fresh bunches (Agro). (PA 2/2026 · Agro 1/2026)
+2. Flooding and waterlogging: 613.90 ha (40%) flood-prone, worst in P99I3/I7/I8, P15N and P00J1; PR22/T2 palms died after three plantings; P16P1 and P15N4 waterlogged. (Agro 1/2026 · PA 2/2026)
+3. Old palms and low palm stand: 45% of area over 26 years (693.3 ha); stand averages 125 SPH vs 138 in Juasa A. Juasa B yield 9.73 t/ha in 2025 vs 17.42 for Juasa A. (Agro 1/2026)
+4. Heavy rat damage, no barn owls: Fresh rat damage 22-30% (May 2026) in P04L, P15N, P16P, P20R, P22T; only one baiting round done; no barn owl boxes. (PA 2/2026 · Agro 1/2026)
+5. Manuring well behind: Only 39% of 2026 programme (404.03 of 1,023.00 mt) by May 2026: Mix B 32%, RP 15%; Mix B and RP arrived late, applied in July. Leaf P low to moderately low. (Agro 1/2026 · PA 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 26% below budget (A+B): Juasa A+B: 14,032.23 t FFB vs 18,899 t budget, Jan-Jun 2026 (6.53 vs 8.79 t/ha); PA blames harvester shortage, flooding and a low-crop season. (PA 2/2026 s.8)
+2. Harvesters 16 short: 44 harvesters vs 60 required (Jun 2026), 12 still short after July hires; 8.7 rounds vs 12; outturn 68%; only 1 Badang (9 planned). (PA 2/2026 s.3, 7)
+3. Persistent flooding: PR22/T2 redeclared PR22/TB: palms died after three plantings from persistent flooding; left vacant until flooding is solved. Early-year floods delayed spraying. (PA 2/2026 s.2.5)
+4. Pruning far behind: Progressive pruning 1,145.47 of 6,462.60 ha (18%) to June 2026; corrective backlog 94.12 ha of 110.57 ha still to do. (PA 2/2026 s.6.6)
+5. Rat damage 22-30%: Fresh rat damage 22-30% in May 2026 with only one baiting round; PA says continue baiting until below 10% and census every 3 months. (PA 2/2026 s.6.7)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026 (Juasa A+B combined), from PA Report 2/2026, Sections 5-9 (General Charges, Upkeep, Harvesting, Crop, Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 91.83 / 87.97
   - Supervision: 0.00 / 0.62

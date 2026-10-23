@@ -8,6 +8,7 @@ read = lambda p: open(p, encoding="utf-8").read()
 CSS, CHART, COST, EST, BYO, NAV, BLK, SITEJS = (read(p) for p in ("assets/style.css", "assets/vendor/chart.umd.min.js",
                                                   "assets/cost.js", "assets/estate.js", "assets/byoai.js", "assets/nav.js", "assets/blockdetail.js", "assets/site.js"))
 BRAND = read("assets/brand.js")
+TOP5 = read("assets/top5.js") if os.path.exists("assets/top5.js") else ""
 safe = lambda js: js.replace("</script", "<\\/script")
 tag = lambda js: f"<script>{safe(js)}</script>"
 
@@ -20,6 +21,7 @@ def common(h):
     h = h.replace('<script src="/assets/site.js"></script>', tag(SITEJS))
     h = h.replace('<script src="/assets/brand.js"></script>', tag(BRAND))
     h = h.replace('<script src="/assets/blockdetail.js"></script>', tag(BLK))
+    h = h.replace('<script src="/assets/top5.js"></script>', tag(TOP5))
     h = re.sub(r'<a class="fld" id="offl"[^>]*>.*?</a>', "", h, flags=re.S)
     h = h.replace('href="/"', f'href="{SITE}/"').replace('href="/group.html"', f'href="{SITE}/group.html"')
     return h

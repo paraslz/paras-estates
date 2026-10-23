@@ -10512,5 +10512,72 @@
   ]
  },
  "blockGaps": "PA reports give no block-level yield, only division totals and per-year-of-planting bunch weight and harvester output. No block-level circle/spray chemical data beyond division averages. Ganoderma: no census, so no % infected or palm counts in either PA or Agro. Foliar analysis available only from Apr 2025 sampling (Agro 2/2025); P98A1, P98E1 and P98E2 were not in the leaf-sampling tables; new 2026 sampling still pending. Agro 1/2026 appendix 'prune/sanitation' and weeding quality tick-tables read as Good for every block. Rat baiting Apr 2026 blocks not itemised. 2025 programme in fertPrev is the Agro 1/2025 recommendation (no amendment per that report); PA 1/2026 applied-month tables differ in Mix A/B labels for P06D1, P06D2, P03C. Agro 1/2026 and PA 1/2026 disagree on Kema 2025 yield (26.12 vs 26.53 t/ha) and on Ganoderma severity at Kema.",
- "blockMap": "Dashboard ids match the PA and Agro ids for Timur A (P02B1, P02B2, P06D1, P06D2), Timur B (P98A1, P02B3, P03C; Agro Table 1 calls P03C 'P03 C1') and Kema (P98E1, P98E2, P09F1, P09F2, P08G1-G3). Kema block P18H appears as PR18A, P18A or H1 in the reports. Two PA reports are used: PA 1/2026 Timur A & B (visit 10 Jun 2026, period Jan-Dec 2025) and PA 1/2026 Kema (visit 9 Jun 2026). Agro 1/2026 visit 14 May 2026; Agro 2/2025 (visit 18 Nov 2025) and Agro 1/2025 are the previous reports."
+ "blockMap": "Dashboard ids match the PA and Agro ids for Timur A (P02B1, P02B2, P06D1, P06D2), Timur B (P98A1, P02B3, P03C; Agro Table 1 calls P03C 'P03 C1') and Kema (P98E1, P98E2, P09F1, P09F2, P08G1-G3). Kema block P18H appears as PR18A, P18A or H1 in the reports. Two PA reports are used: PA 1/2026 Timur A & B (visit 10 Jun 2026, period Jan-Dec 2025) and PA 1/2026 Kema (visit 9 Jun 2026). Agro 1/2026 visit 14 May 2026; Agro 2/2025 (visit 18 Nov 2025) and Agro 1/2025 are the previous reports.",
+ "top": {
+  "limits": [
+   {
+    "t": "Rats above threshold",
+    "s": "Rat damage",
+    "d": "Apr 2026 census above 10% in P02B2, P02B3 (11%), P08G1, P08G2 (12%), P08G3 (11%). P18H 4.20 vs 5.81 t/ha Jan–Apr 2026 (-27.7%), linked to rats.",
+    "src": "Agro 1/2026 · PA 1/2026 Kema"
+   },
+   {
+    "t": "Old palms awaiting replanting",
+    "s": "Old palms",
+    "d": "44% ageing and 15% very old. P98A1 lowest 2025 yield (22.36 t/ha); P98E1/E2 (77.95 ha) replanting deferred to 2027, P98A1 in 2028.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Ganoderma in Kema block G",
+    "s": "Ganoderma",
+    "d": "Many infected palms in Kema, particularly block G, mostly upper stem rot; sporadic at P98A1 (PA). Agro calls it negligible. No census done.",
+    "src": "PA 1/2026 Kema · Agro 1/2026"
+   },
+   {
+    "t": "2026 fertiliser cut back",
+    "s": "Fertiliser cut",
+    "d": "2026 programme revised for fertiliser prices and limited stock: P02B Oct NK1 round dropped; P08G/P09F/P18H Aug and Nov Mix B cut to 1,500 g/palm.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Low leaf N, mild K deficiency",
+    "s": "Low N, K",
+    "d": "2025 leaf sampling: suboptimal N in P02B2, P02B3, P03C, P06D1, P06D2, P08G3; mild K deficiency in P08G3 and P03C (May 2026).",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Cost per tonne far over budget",
+    "s": "Cost/t over budget",
+    "d": "Jan–Dec 2025: Timur RM311/t vs RM185 budget; Kema RM294.00/t vs RM236.82, mainly unbudgeted Head Office general charges.",
+    "src": "PA 1/2026 Timur · Kema s.9"
+   },
+   {
+    "t": "General charges heavily overspent",
+    "s": "General charges",
+    "d": "Jan–Dec 2025: Timur about 312% over; Kema RM1,038,551.86 vs RM572,162.19 (82% over). Unbudgeted Head Office items; Pinfosys not implemented.",
+    "src": "PA 1/2026 Timur · Kema s.5"
+   },
+   {
+    "t": "2026 crop likely below budget",
+    "s": "Low 2026 crop",
+    "d": "Low-cropping season at the June 2026 visits; Timur Jan–May 2026 yield down 1 to 2 t/ha vs 2025; both divisions expect to miss the 2026 budget.",
+    "src": "PA 1/2026 Timur · Kema"
+   },
+   {
+    "t": "Harvesters short, low output",
+    "s": "Harvesters short",
+    "d": "Timur 19 vs 20 and Kema 18 vs 20 harvesters (Dec 2025); 2006 plantings cut 107 bunches in about 6 hours vs 159 potential.",
+    "src": "PA 1/2026 Timur · Kema"
+   },
+   {
+    "t": "Road grading and desilting behind",
+    "s": "Roads, drains",
+    "d": "2025: Timur no grading vs 1,000 chains budgeted; Kema 344.18 of 2,000 chains; grading suspended (diesel). No drain desilting in either division.",
+    "src": "PA 1/2026 Timur · Kema",
+    "rep": true
+   }
+  ]
+ }
 }

@@ -4009,5 +4009,76 @@
   ]
  },
  "blockGaps": "No block-level leaf or soil analysis printed in either report (Agro only says leaf analysis was suboptimal in the Group MD column; palm appearance acceptable with no deficiency symptoms). No block-level rat baiting (none done) or Ganoderma treatment beyond the census. No P05E (E2) fertiliser programme, palm count or Ganoderma census. Programme months for A3/A4/B3 and C3-C6 KIE, B5, D1-D3 and D5 later rounds read from column positions of a garbled appendix; 2025 C2/C3 months aligned to the B5 pattern. Agro 2/2025 not used for the 2025 programme (Agro 1/2025 gives it and says it was unchanged). PA monthly manuring cumulative percentages and PA Table 23 (mechanisation) columns partly garbled. PA Ganoderma table has a C2 row that matches Insan Jaya C1 data, and D5 repeats D1's palm and affected counts. PA refers to 'PM 03M' and the Agro 1/2025 to 'C01' (not Darabif blocks), kept as printed. PM05E harvest interval series after Feb 2025 in Agro looks unreliable (4 days). Yield 2025 total differs between PA (21.02 t/ha on 1,627 ha) and Agro (20.94 t/ha on 1,647 ha).",
- "blockMap": "Dashboard ids P03A, P03B, P03C, P03D and P05E equal the reports' PM03/A-D and PM05/E blocks. Sub-blocks (A1-A5, B1-B5, C2-C6, D1-D5, E2) are shown inside their block with the sub-block id in the text. P05E here is only E2 (20 ha, Lipis Jaya Plantation land managed by Darabif); Insan Jaya's PM05E (E1+E2, 118 ha) is in the insan-jaya file. Appendix 1 rows labelled C1, E1 and E2 belong to Insan Jaya and were not used here."
+ "blockMap": "Dashboard ids P03A, P03B, P03C, P03D and P05E equal the reports' PM03/A-D and PM05/E blocks. Sub-blocks (A1-A5, B1-B5, C2-C6, D1-D5, E2) are shown inside their block with the sub-block id in the text. P05E here is only E2 (20 ha, Lipis Jaya Plantation land managed by Darabif); Insan Jaya's PM05E (E1+E2, 118 ha) is in the insan-jaya file. Appendix 1 rows labelled C1, E1 and E2 belong to Insan Jaya and were not used here.",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage, slow rounds",
+    "s": "Slow harvesting",
+    "d": "2025 rounds 16.26 (C, 68%) to 19.72 (B, 82%) vs 24; intervals up to 39 days (A, Jan 2025). C and D yields fell 29.8% and 26.8% in 2025.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring late and bunched",
+    "s": "Late manuring",
+    "d": "Most 2025 rounds 2–3 months late; 8 kg/palm broadcast Dec 2025–Jan 2026. 2026 only 26% done (480.95 of 1,847.70 mt) to Mar 2026.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Under-pruning, dry fronds",
+    "s": "Under-pruning",
+    "d": "2025 pruning 79% in D and 87% in A; dried hanging fronds in A1, A2, C6, D1 obstruct harvesting.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "Ganoderma in PM03D",
+    "s": "Ganoderma",
+    "d": "1,545 palms infected in 974 ha (1.19%, Mar 2026); highest D3 2.70%, D4 2.37%. Fallen palms not de-boled.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Waterlogging in PM03D4",
+    "s": "Waterlogging",
+    "d": "Prolonged waterlogging in low-lying D4 after floods; outflow blocked in neighbouring Felda Merchong. Flood-prone D3 palms had less vigour (Mar 2025).",
+    "src": "PA 1/2026 · Agro 1/2025"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 14% below budget",
+    "s": "Crop 14% short",
+    "d": "34,207.33 t vs 39,862 t budget, Jan–Dec 2025; 21.02 vs 24.50 t/ha. OER 14.91% vs 19.02% budget. Jan–Mar 2026 on estimate (100.62%).",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Short of harvesters",
+    "s": "Harvester shortage",
+    "d": "61 harvesters vs 74 needed (1 per 27 ha vs 1:22); 93 workers vs 113 (Mar 2026), down 3 since last visit.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring behind",
+    "s": "Late manuring",
+    "d": "480.95 of 1,847.70 mt applied (26%) to Mar 2026, with only 8 manuring workers; expand semi-mechanised (Badang) application.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low harvester and machine output",
+    "s": "Low harvester output",
+    "d": "PM03A 1.74 t/man-day, RM60.90/day (3.69 t/ha, 78.76% of estimate, Jan–Mar 2026). Badang 9.17 t/day vs 12–15 potential.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Dried fronds and under-pruning",
+    "s": "Under-pruning",
+    "d": "2025 pruning 91% (10.90 of 12 rounds), D only 79%; hanging dried fronds in A1, A2, C6, D1 to be removed.",
+    "src": "PA 1/2026"
+   }
+  ]
+ }
 }

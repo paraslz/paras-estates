@@ -57,6 +57,20 @@ FERTILISER PROGRAMME 2026 (Agro Appendix 1, revised, kg per palm; layout hard to
 
 RAINFALL (Agro Appendix 3). Annual mm and rain days: 2021 2,680.0 mm, 159 days; 2022 3,039.0, 172; 2023 3,446.0, 122; 2024 2,846.0, 153; 2025 2,272.5, 158. 2026 January to April 805.5 mm over 48 days (Jan 83.0, Feb 137.5, Mar 119.0, Apr 466.0).
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Manuring short for years: Only 54% of 2025 programme applied (705.56 of 1,295.50 t); 37% of 2026 programme to Apr 2026. Agro: yield probably hurt by inconsistent manuring over several years. (Agro 1/2026)
+2. Harvester shortage, long intervals: 16 rounds in 2025 vs 24 needed; intervals 14–26 days in 2025, causing overripe bunches and loose fruit. Harvesters 34 vs 41 (Jun 2026). (Agro 1/2026 · PA 1/2026)
+3. Weeding rounds behind: Only one inter-row round in 2025. To Jun 2026 circle 73% (0.7 round) and selective 50%; sprayers 8 vs 12. Large VOPs in P03 and P05. (PA 1/2026 · Agro 1/2026)
+4. Low palm stand, vacant points: PR25 only 54 SPH (5,580 palms); PR23 uneven from palm losses. Interim census: P08K1 105 SPH, P08K2 103 SPH (−23%, −16%). Census incomplete. (Agro 1/2026 · Agro 2/2025)
+5. Cattle damage in young palms: PR23 maturity delayed by cattle damage; PR25 palms badly defoliated, trenches ineffective. Owner to remove all cattle Jul or Aug 2026. (PA 1/2026 · Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 21% below budget: 7,103.62 t vs 8,964.88 t budget, Jan–Jun 2026; 8.74 vs 11.03 t/ha, though 35% above 6.46 t/ha for Jan–Jun 2025. Poor fruit sets in P03G and P08K. (PA 1/2026 s.6)
+2. Labour shortage the main issue: 54 workers vs 71 required (Jun 2026): harvesters 34 vs 41, drivers 3 vs 6, weeding 8 vs 12, manuring 5 vs 8. Two Field Supervisor posts vacant. (PA 1/2026)
+3. Harvester earnings below basic wage: Earnings to Jun 2026 as low as RM46.02/day (P11M) and RM47.97 (P10L) vs RM65.39 basic; PA warns harvesters will leave. (PA 1/2026 s.6.8)
+4. Spraying slow and behind: Circle 73% at 1.6 ha/man-day (earnings RM27.20); selective 50% at 2.7 ha/man-day vs 5–6 target, to Jun 2026. Advised again to use CDA. (PA 1/2026 s.5)
+5. No road grading done: 1,800 chains grading and 500 chains laterite budgeted, none done to Jun 2026 (diesel prices, no new rates). Deep gullies in P14O. (PA 1/2026 s.5.5)
+
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2021 (Jan–Dec): 13,397.77 t (Agronomy Report 1/2026 Appendix 2 Yield Statistic)
 2022 (Jan–Dec): 14,498.37 t (Agronomy Report 1/2026 Appendix 2)

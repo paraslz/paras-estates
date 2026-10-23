@@ -2300,5 +2300,77 @@
   ]
  },
  "blockGaps": "No leaf analysis results (foliar analysis planned 2026, not in reports). No Ganoderma census counts/percentages, no rat census %, no bagworm census in either report. Agro Appendix 4 and PA photos not extractable. Block-level spraying and manuring months for P25B 2026 compound rounds not legible. 2025 fertiliser programme only starts in May 2025 (takeover Mar 2025); previous management's 2024/2025 records unavailable. Jan 2026 tonnage differs between PA (343.06 MT) and Agro (355.80 MT); P25B/E area labels inconsistent.",
- "blockMap": "Dashboard ids P15A, P99C, P02D, P25B, P25E map 1:1. Reports split blocks into sub-blocks (P15A1-A2, P99C1-C2, P02D1-D2, P25B1-B2) which are kept in row text. PA 'P26E' and 'P15C' are typos for P25E and P15A. P25B area is 67.00 ha (Agro, PA text) but 66.00 ha in the PA table. Agro 1/2026 is the only report with block-level rainfall/census; PA 1/2026 Jan-Apr 2026."
+ "blockMap": "Dashboard ids P15A, P99C, P02D, P25B, P25E map 1:1. Reports split blocks into sub-blocks (P15A1-A2, P99C1-C2, P02D1-D2, P25B1-B2) which are kept in row text. PA 'P26E' and 'P15C' are typos for P25E and P15A. P25B area is 67.00 ha (Agro, PA text) but 66.00 ha in the PA table. Agro 1/2026 is the only report with block-level rainfall/census; PA 1/2026 Jan-Apr 2026.",
+ "top": {
+  "limits": [
+   {
+    "t": "Severe drought",
+    "s": "Drought",
+    "d": "740 mm over 93 rain days, Jul 2025–Apr 2026; Jan 2026 29 mm, Mar 13 mm. Severe moisture deficit; no EFB mulch budget this year.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old, tall palms",
+    "s": "Old palms",
+    "d": "71.03% of mature area is palms over 24 years; 32% of planted area over 26 years and taller than 45 feet. Replanting programme not finalised.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "Late manuring after 2 years unfed",
+    "s": "Late manuring",
+    "d": "64.26 of 164.60 mt (40%) of the Jan–Jun 2026 programme applied by Apr; Mix A 21% (Jan), 0% (Apr). Skipped 2 years before takeover; K and mild N deficiency in P15A2.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Corrective pruning unfinished",
+    "s": "Under-pruning",
+    "d": "P99C 80.98% and P02D 88.83% pruned, Jan–Apr 2026. Under-pruned fronds obstructed harvesting; 2025 rounds 19 (P99C) and 18 (P02D) vs 20.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester shortage hit P15A",
+    "s": "Harvester shortage",
+    "d": "P15A 334.62 vs 515.00 mt estimate (-180.38), Jan–Apr 2026; only 1 harvest round in January (50%) due to harvester shortage.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 11.59% below estimate",
+    "s": "Crop 11.59% short",
+    "d": "1,556.03 mt FFB vs 1,760.00 mt estimate, Jan–Apr 2026 (6.43 t/ha); P15A the main shortfall at -180.38 mt.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Manuring 40% of first half",
+    "s": "Manuring behind",
+    "d": "64.26 of 164.60 mt applied by April 2026; Mix A delayed by late delivery (Apr Mix A 0 of 23.50 t). Consider Mechanical Buffalo or Timac.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Corrective pruning unfinished",
+    "s": "Pruning behind",
+    "d": "About 15% of P99C and P02D still under corrective pruning (215.13 of 242.08 ha pruned); circle raking needed after pruning.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Severe moisture deficit",
+    "s": "Moisture deficit",
+    "d": "740 mm over 93 rain days in 10 months to Apr 2026. Soft grass cover, frond stacking, stop and cambered bunds, sandbag bunds every 250 m.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Waterlogging in replant P25B",
+    "s": "P25B waterlogging",
+    "d": "Stagnant water in low-lying areas and terraces: herringbone drains at 2-palm intervals. 1,021 dead palms supplied; P25E at 135 SPH vs 148.",
+    "src": "PA 1/2026"
+   }
+  ]
+ }
 }

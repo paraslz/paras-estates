@@ -5998,5 +5998,80 @@
   ]
  },
  "blockGaps": "Reports read in full: PA 1/2026 (visit 23 Apr 2026, review Jan-Dec 2025), Agro 1/2026 (visit 14 May 2026), Agro 1/2025 (9 Apr 2025, source of the 2025 programme) and Agro 2/2025 (8 Oct 2025, source of the original 2026 programme and Sep 2025 status). Not found: any block-level pest census figures (no census since 2025), any Ganoderma census count or %, any leaf or soil analysis (Agro says sampling unnecessary because palms are over 23 years old and estate expected to be sold), block-level 2025 weeding record in PA (PA gives estate totals only), block-level tonnes for Jan-Apr 2026, any rat census or baiting data. Report inconsistencies: (1) PA 1/2026 says unfinished 2025 manuring is NOT carried forward; Agro 1/2026 says carry forward remaining Mix B (and skip final NK1 on P97A). (2) PA corrective-pruning table prints the estate total as 67% and P97/A2 as 24%; 119.47 of 395.59 ha is 30.2% and 20.41 of 78.24 ha is 26.1%. (3) PA progressive-pruning programme total prints 1,167.23 ha; the block rows add to 1,162.73 ha. (4) PA weeding record prints palm-circle budget 1,191.73 ha but the text says 1,190.73 ha. (5) Agro Tables 7 and 8 use areas of 99.1/79.6/91.5/8.5/13.6/1.4 ha (total 399.2) versus PA/area statement 99.06/78.24/90.69/8.54/13.64/1.32 (396.91). (6) Agro 1/2026 gives the previous visit as 8 Nov 2025 whereas Agro 2/2025 is dated 8 Oct 2025. (7) PA May 2025 NK1 for P97/A1 is 26.45 t (same as January) although the programme rate is 1,500 g versus 2,000 g in January; shown as printed. (8) PA basic wage RM65.38/day in text and RM65.39 in the harvesting-rate table. (9) Table 9 in Agro 1/2025 gives different 2023 yields (for example P97/A1 17.87 t/ha) from Appendix 2 (19.27 t/ha); Appendix 2 used. (10) Agro 1/2026 programme month layout read from the table columns Jan to Nov; it agrees with the dashboard fert strings and the PA 2025 record. Dashboard note checks: all block notes agree with the reports. Dashboard P97/A1 and A2 fert strings omit the 'withdraw if replanting' marking on the May round, which the report prints.",
- "blockMap": "Dashboard ids P97/A1, P97/A2, P98/B, P00/C1, P00/C2, P01/D, P06/E, P11/F map 1:1 to report ids (written P97A1 etc. in Agro text). Where text says P97A, P97 or P00 it is applied to the relevant sub-blocks and said so."
+ "blockMap": "Dashboard ids P97/A1, P97/A2, P98/B, P00/C1, P00/C2, P01/D, P06/E, P11/F map 1:1 to report ids (written P97A1 etc. in Agro text). Where text says P97A, P97 or P00 it is applied to the relevant sub-blocks and said so.",
+ "top": {
+  "limits": [
+   {
+    "t": "Slow harvesting and poor crop recovery",
+    "s": "Slow harvesting",
+    "d": "13 rounds vs 16 budgeted, 17-day interval, Jan–Aug 2026; 17 of 20 harvesters. P98 interval 34 days in Apr 2026; crop recovery about 60% of target in most fields in 2025 (Agro).",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring behind, no workers",
+    "s": "Late manuring",
+    "d": "75% of hectares manured to Aug 2026 with no manuring workers (0 of 3); fertiliser received but not applied in P98/B, P00/C1, P00/C2. Programme also cut for fertiliser prices.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old palms in descending yield",
+    "s": "Old palms",
+    "d": "57.2% of palms are over 25 years old. P98/B fell to 14.90 t/ha in Jan–Aug 2026 from 16.57 t/ha in Jan–Aug 2025. P97 replanting tentatively 2027, not finalised.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Pruning backlog hides bunches",
+    "s": "Under-pruning",
+    "d": "Maintenance pruning 707.71 of 2,381.46 ha (30%) to Aug 2026; none in P98/B or P00/C2. Hanging fronds hid bunches in P00/C2 (Agro, May 2026).",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooding in P01/D and P06/E",
+    "s": "Flooding P01, P06",
+    "d": "High water table cuts crop recovery; P06/E 11.21 t/ha in Jan–Dec 2025, well below potential. No drain desilting to Aug 2026 (diesel price); to be done before November.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Short of 11 workers",
+    "s": "Labour short",
+    "d": "23 of 34 workers in Aug 2026: harvesters 17 of 20, pruners 0 of 4, manuring 0 of 3. 5 Bangladeshi manuring workers due in October.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvesting rounds behind budget",
+    "s": "Slow harvesting",
+    "d": "13 rounds vs 16 budgeted, Jan–Aug 2026; 17-day interval; outturn 78% from high harvester turnover. Loose fruit left uncollected at platforms.",
+    "src": "PA 2/2026 s.6",
+    "rep": true
+   },
+   {
+    "t": "Spraying far behind, short workdays",
+    "s": "Spraying behind",
+    "d": "Circle 34% and selective 24% to Aug 2026; sprayers work 4–5.5 hours and refuse more. Inter-rows not satisfactory: woodies, abundant VOPs. Replace or redeploy sprayers.",
+    "src": "PA 2/2026"
+   },
+   {
+    "t": "Manuring slow and short of workers",
+    "s": "Manuring slow",
+    "d": "732.69 of 972.26 ha (75%) to Aug 2026; no manuring workers, sprayers used instead. Output 25 bags/man-day vs 30 target; fertiliser received but not applied.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Pruning well behind programme",
+    "s": "Pruning behind",
+    "d": "Maintenance 707.71 of 2,381.46 ha (30%) to Aug 2026; corrective 91%, balance in P98/B and P00/C2 due by December. Fractured fronds on many palms.",
+    "src": "PA 2/2026",
+    "rep": true
+   }
+  ]
+ }
 }

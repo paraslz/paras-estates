@@ -6088,5 +6088,74 @@
   ]
  },
  "blockGaps": "Not found: any block-level rat baiting rounds; no Ganoderma census counts or percentages (census not yet done, only qualitative); no block-level bagworm counts; no leaf analysis for P93E2, P95F, PR24C, PR25D; no 2026 leaf results (due 2026); soil analysis none; no block-level EFB/POME data; harvest over-ripe and loose-fruit percentages not printed. Extraction caveats: fertiliser programme month cells are read from the table layout, so the month placement is a best reading while the g/palm values are exact; PA/Agro intervals tables print two numbers per month and April 2026 second figure is cut off; Agro 2/2025 intro says visit 23 Oct 2025 while Agro 1/2026 says 23 Sept 2025. Report inconsistencies: PR25D label 94 ha vs 60 ha; CRF/RP dose reversed between text and appendix; NK2 is tabled for 26.00 MT but absent from the 2026 appendix; Agro rat table 2025 differs from Sep 2025 census; P13A1 highest-yield text (21.15) vs table (22.82); P93E2 2025 yield 7.30 vs appendix 2.64 t/ha; P93E2 replant year 2026 (table) vs 2027 (PA). Programme 2025 taken from Agro 1/2025 Appendix 1.",
- "blockMap": "Report fields P13A/B/C in the Agronomy fertiliser programme = dashboard P13A1/P13A2/P13A3 (programme rows shared). PA harvester-rate row P13-A and PA circle/selective rows by field map straight to P13A1/A2/A3. Agro P93E = P93E2 (34 ha, E1 replanted 2025 = PR25D). Estate-wide yield, harvesting and other rows are in estateWide.yield/harvesting/other (extra keys beyond manuring/spraying/pests)."
+ "blockMap": "Report fields P13A/B/C in the Agronomy fertiliser programme = dashboard P13A1/P13A2/P13A3 (programme rows shared). PA harvester-rate row P13-A and PA circle/selective rows by field map straight to P13A1/A2/A3. Agro P93E = P93E2 (34 ha, E1 replanted 2025 = PR25D). Estate-wide yield, harvesting and other rows are in estateWide.yield/harvesting/other (extra keys beyond manuring/spraying/pests).",
+ "top": {
+  "limits": [
+   {
+    "t": "Long harvesting intervals",
+    "s": "Slow harvesting",
+    "d": "Intervals mostly 18 to 23 days in Jan–Mar 2026, over 20 days in most mature areas; 4 harvesters short (Mar 2026). Over-ripe bunches at P05H and P13A2.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring running late",
+    "s": "Late manuring",
+    "d": "Only 158.59 of 767.28 t (20%) applied by Mar 2026; kieserite 24.40 t delivered but 0% applied; RP 0 of 74.45 t.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Poor crop recovery in old blocks",
+    "s": "Old blocks",
+    "d": "P93E2 0.41 vs 5.18 t/ha (-92%) and P95F 2.79 vs 3.30 t/ha (-15%), Jan–Mar 2026; P93E2 had only 2 rounds and no harvesters assigned.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Ganoderma spreading",
+    "s": "Ganoderma",
+    "d": "Ganoderma widespread, fruiting bodies in P05H and P01G; palm density declining. Census and deboling (1.5 m pits) still to be done.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Rats in P18B and P13A3",
+    "s": "Rats",
+    "d": "2025 census P18B 20 to 21.5 and P13A3 10 to 11.5 (Agro); no 2026 census by Mar 2026. Barn owls: 3 of 36 boxes occupied (8.3%), Sep 2025.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Cost per tonne well over budget",
+    "s": "Cost/t over budget",
+    "d": "RM309.39/t FFB vs RM237.49/t budget, Jan–Dec 2025, because the crop budget was missed and general charges overspent.",
+    "src": "PA 1/2026 s.9"
+   },
+   {
+    "t": "General charges 62% overspent",
+    "s": "General charges",
+    "d": "RM1,611,566.10 vs RM993,951.00 budget, Jan–Dec 2025 (Pinfosys under-budgeting); Estate Manager to monitor and explain 2026 overspends.",
+    "src": "PA 1/2026 s.5"
+   },
+   {
+    "t": "Crop 8% below budget",
+    "s": "Crop 8% short",
+    "d": "11,489.06 t FFB vs 12,471 t budget, Jan–Dec 2025 (18.80 vs 20.41 t/ha); put down to a harvester shortage early in 2025.",
+    "src": "PA 1/2026 s.8"
+   },
+   {
+    "t": "Harvesters work short days",
+    "s": "Short harvester days",
+    "d": "Harvesters work only 5 to 6 hours (PA asks for 9); P05H earnings RM64.05 vs RM65.39 basic wage; interval 16 days.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Ganoderma census and deboling due",
+    "s": "Ganoderma",
+    "d": "Ganoderma widespread (fruiting bodies in P05H, P01G); census and deboling of fallen palms advised in blocks not due for replanting within 2 years.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

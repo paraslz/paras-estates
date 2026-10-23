@@ -49,6 +49,20 @@ FERTILISER PROGRAMME, REVISED 2026 (Agronomy 1/2026 Appendix 1, grams per palm, 
 PA RAT CENSUS (PA 2/2026 table, before baiting): June 2026 PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%, PR22H 19%; earlier PM16E 16% Jan and 14% Feb, PM18F 18% Jan and Feb, PM20G 15% Mar, PR22H 15% Feb and 17% Mar. Baiting (ha) June: PM12D 40, PM16E 42.06, PM18F 75.50, PM20G 105.82, PR22H 96.
 YIELD PERIODS: block yields in this pack are Jan-Mar 2026 (Agronomy Table 16) versus Jan-Mar 2025; estate yield Jan-Mar 2026 2.54 t/ha (2.57 in Jan-Mar 2025). Estate FFB yield 5.67 t/ha is Jan-Jun 2026 (PA); 2025 full year 13.59 t/ha and 2024 14.32 t/ha (Agronomy Table 15).
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Harvester shortage, poor crop recovery: 26 harvesters vs 37 required (Jun 2026); intervals 15-24 days in Jan–Mar 2026. Incomplete harvesting and rotten bunches in P00 and P01 ravines; oxidised loose fruit in P02 and P12D. (PA 2/2026 · Agro 1/2026)
+2. Old, tall palms in P00 and P01: P00 yielded 12.09 t/ha in 2025 vs 14.65 in 2024; P01 14.63 vs 15.84. Tall palms, unterraced ravines; P00 (160.63 ha) to be replanted in 2027, P01B (68 ha) in 2028. (Agro 1/2026)
+3. Rat damage across young blocks: Jun 2026 census: PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%, PR22H 19%; no follow-up census after baiting. No census at all in P00, P01, P02 (Agro, Mar 2026). (PA 2/2026 · Agro 1/2026)
+4. Low palm density, vacant points: 120 SPH in P18F and P22H, 126 in P20G; P22 about 12% below the minimum. Infilling repeatedly recommended but not done. (Agro 1/2026)
+5. Late manuring and bagworm: Kieserite only 23% (4.30 of 18.60 t) by Mar 2026 after late delivery; 2025 rounds one to two months late. Bagworm in P18: mean 18 larvae over about 20 ha (Feb 2026). (Agro 1/2026 · PA 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 13% below budget: 4,161.98 t FFB vs 4,805 t budget, Jan–Jun 2026; 5.67 t/ha vs 6.54 budget and 6.35 last year. Put down to the harvester shortage and low cropping season. (PA 2/2026 s.8)
+2. Short of harvesters and sprayers: 51 workers vs 67 required in Jun 2026: harvesters 26 vs 37, sprayers 4 vs 8. Indonesian workers no longer want to spray; PA advises a Bangladeshi spraying contractor. (PA 2/2026)
+3. Harvest rates set for machines: Rates assume mechanical evacuation (2.5-3 t/man-day) but wheelbarrows are used; output 0.79 to 1.91 t/man-day, many earning below the RM65.38 basic. Revise rates. (PA 2/2026)
+4. No road grading or drain desilting: None of 2,297 chains graded and no desilting done to Jun 2026, as rates are not finalised (high diesel price). Roads bumpy and eroded; PM12D drains badly silted. (PA 2/2026)
+5. Rats and bagworm in P18: Rat baiting at P12, P16, P18, P20, P22 with no follow-up census. Bagworm at P18/F: 10.65 ha sprayed with Cypermethrin; trunk injection awaits DOA licence. (PA 2/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5-7 and 9 (cost of production table, p.43) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 89.10 / 94.12
   - Harvesting labour: 63.71 / 65.91

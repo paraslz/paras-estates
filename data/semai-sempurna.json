@@ -4227,5 +4227,77 @@
   ]
  },
  "blockGaps": "Leaf analysis tables (Agro 2/2026 Appendix 2) are images, so only the narrative findings are included. PA manuring table month columns are garbled: Mix A/Mix B placement for P06A and P09B was inferred from the programme, and the trailing round 3 entries (2.00 Sep, 2.25 Sep, 1.50 Jul) are unclear. Agro pruning/sanitation and weeding grading tables (good/fair/poor ticks) are not readable. Agro 2025 harvest interval and rat census month columns are garbled in extraction. No block-level split for manuring tonnage, chemical use, or costs. No new Ganoderma or palm census since 2024; SPH values look block averages. Barn owl box count falls from 112 (Dec 2025) to 67 (Jun 2026) unexplained. Previous Agro for the 2026 programme is Agro 1/2026 (13 Jan 2026) and it names P10E as a Ganoderma field (no such block). Agro Table 10 and PA round counts differ (12 vs 11.8).",
- "blockMap": "Dashboard ids P06A, P09B, P10C, P11D, P11E match the report field blocks (reports print PM 06A, 09B etc.). Reports also give sub-blocks A1-A3, B1-B5, C1-C3, D1-D3, E1-E3; these are shown inside each block's rows, with block totals from the reports. Planting years: 2006, 2009, 2010, 2011 (D), 2011 (E). Harvester pay is printed by planting year, so P11D and P11E share the 2011 row."
+ "blockMap": "Dashboard ids P06A, P09B, P10C, P11D, P11E match the report field blocks (reports print PM 06A, 09B etc.). Reports also give sub-blocks A1-A3, B1-B5, C1-C3, D1-D3, E1-E3; these are shown inside each block's rows, with block totals from the reports. Planting years: 2006, 2009, 2010, 2011 (D), 2011 (E). Harvester pay is printed by planting year, so P11D and P11E share the 2011 row.",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage",
+    "s": "Few harvesters",
+    "d": "23 harvesters vs 28 required in June 2026 (20 on 8 Jul per Agro). Jan–Jun 2026 yield 8.72 t/ha vs 10.22 last year; 4 of 5 blocks down, e.g. P11D -20.62%, P09B -19.82%.",
+    "src": "PA 2/2026 s.3, 8 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Rat damage above threshold",
+    "s": "Rat damage",
+    "d": "Apr–May 2026 census 12–19% vs 10% threshold (P11E 19%); still 14–19% in June after 3 baiting rounds. P06A not baited.",
+    "src": "Agro 2/2026 · PA 2/2026 s.6.6",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma spreading, P06A worst",
+    "s": "Ganoderma",
+    "d": "2024 census: 6.04% of palms infected or collapsed, P06A 22.33% (4,660 palms). Palm stand down to 84,058 (126 SPH) from 88,892 (-5%); census not updated, deboling slow.",
+    "src": "Agro 2/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Dry months in 2026",
+    "s": "Dry spells",
+    "d": "837.50 mm over 39 rain days, Jan–Jun 2026; March 0.00 mm, June 25.50 mm. Agro warns prolonged dry weather may lower FFB in coming months.",
+    "src": "Agro 2/2026 s.5.8"
+   },
+   {
+    "t": "Low leaf magnesium",
+    "s": "Low Mg",
+    "d": "Leaf samples (Apr 2026) show Mg out of the desired range, especially P06A and P11E; kieserite 750 g/palm added for P11E in the 2027 programme.",
+    "src": "Agro 2/2026 s.4.3"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 21% below budget",
+    "s": "Crop 21% short",
+    "d": "5,829.97 t FFB vs 7,380.00 t budget, Jan–Jun 2026 (8.72 vs 11.04 t/ha); blamed on harvester shortage, low productivity and a low-cropping first half.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM265.22/t FFB vs RM243.01/t budget to date, Jan–Jun 2026; upkeep the main overrun at RM117.56/t vs RM95.08/t.",
+    "src": "PA 2/2026 s.9"
+   },
+   {
+    "t": "Harvesters short and underpaid",
+    "s": "Harvesters short",
+    "d": "23 harvesters vs 28 required (5 due by end Aug). All earn below the RM65.38 basic wage (e.g. RM51.15/day, 2009 planting); PA warns of turnover.",
+    "src": "PA 2/2026 s.3, 7",
+    "rep": true
+   },
+   {
+    "t": "Rat damage extensive",
+    "s": "Rat damage",
+    "d": "PA census: P11E 18% (1,779 of 10,092 palms) vs 10% threshold; 3 baiting rounds in P09B–P11E, none in P06A. Quarterly census and baiting above 10%.",
+    "src": "PA 2/2026 s.6.6",
+    "rep": true
+   },
+   {
+    "t": "Low spraying output, chemical records",
+    "s": "Spraying output",
+    "d": "Circle spraying 3.0 ha/man-day (5 achievable); glyphosate recorded as 1.9 pumps/ha, PA says about 4. Time and motion study and a VOP eradication round ordered.",
+    "src": "PA 2/2026 s.6.2–6.3",
+    "rep": true
+   }
+  ]
+ }
 }

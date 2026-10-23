@@ -55,6 +55,20 @@ RAINFALL (PA Appendix 1 and Agro Appendix 4): 2021 2,440.40 mm, 100 days; 2022 3
 
 DATA CAVEATS: Agro Table 10 quotes 2024 as 18.07 t/ha (4% growth) while PA and Agro appendices give 17.69 t/ha (6% growth). Agro Table 10 shows P93E on 94 ha with 7.30 t/ha for 2025, which only works on 34 ha (Appendix 2 gives 2.64 t/ha on 94 ha). Agro 7.1 says P13A1 had the highest yield at 21.15 t/ha but P05H is 21.15 and P13A1 is 22.82. PA labour table shows no spraying shortage while text says short 4. PA says harvesters adequate (31 vs 31) but the crop shortfall is blamed on harvester shortage; Agro says short 4 in March 2026. Harvest interval 16 days (PA) versus mostly over 20 days (Agro). Rounds 23 (PA) versus average 22 (Agro). PA says no rat damage; Agro census shows about 21% in P18B. Replanting of P93E2 is 2027 in PA but 2026 in Agro Table 2.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Long harvesting intervals: Intervals mostly 18 to 23 days in Jan–Mar 2026, over 20 days in most mature areas; 4 harvesters short (Mar 2026). Over-ripe bunches at P05H and P13A2. (Agro 1/2026)
+2. 2026 manuring running late: Only 158.59 of 767.28 t (20%) applied by Mar 2026; kieserite 24.40 t delivered but 0% applied; RP 0 of 74.45 t. (Agro 1/2026)
+3. Poor crop recovery in old blocks: P93E2 0.41 vs 5.18 t/ha (-92%) and P95F 2.79 vs 3.30 t/ha (-15%), Jan–Mar 2026; P93E2 had only 2 rounds and no harvesters assigned. (Agro 1/2026)
+4. Ganoderma spreading: Ganoderma widespread, fruiting bodies in P05H and P01G; palm density declining. Census and deboling (1.5 m pits) still to be done. (PA 1/2026 · Agro 1/2026)
+5. Rats in P18B and P13A3: 2025 census P18B 20 to 21.5 and P13A3 10 to 11.5 (Agro); no 2026 census by Mar 2026. Barn owls: 3 of 36 boxes occupied (8.3%), Sep 2025. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Cost per tonne well over budget: RM309.39/t FFB vs RM237.49/t budget, Jan–Dec 2025, because the crop budget was missed and general charges overspent. (PA 1/2026 s.9)
+2. General charges 62% overspent: RM1,611,566.10 vs RM993,951.00 budget, Jan–Dec 2025 (Pinfosys under-budgeting); Estate Manager to monitor and explain 2026 overspends. (PA 1/2026 s.5)
+3. Crop 8% below budget: 11,489.06 t FFB vs 12,471 t budget, Jan–Dec 2025 (18.80 vs 20.41 t/ha); put down to a harvester shortage early in 2025. (PA 1/2026 s.8)
+4. Harvesters work short days: Harvesters work only 5 to 6 hours (PA asks for 9); P05H earnings RM64.05 vs RM65.39 basic wage; interval 16 days. (PA 1/2026)
+5. Ganoderma census and deboling due: Ganoderma widespread (fruiting bodies in P05H, P01G); census and deboling of fallen palms advised in blocks not due for replanting within 2 years. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5–9 (General Charges, Upkeep & Cultivation, Harvesting & Collection tables; Production Cost table 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 75.59 / 73.16
   - Harvesting labour: 48.00 / 47.66

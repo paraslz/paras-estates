@@ -6121,5 +6121,75 @@
   ]
  },
  "blockGaps": "No block-level (sub-block) split for harvester gang output or cost; PA gives per-planting-year rates which are mapped to blocks. Block cost items (upkeep) are only estate-wide. 2025 fertiliser programme for PM17C and PM19D (and PR21F E3) is not printed in Agro 1/2025 appendices (only P15, P16, P20 E1/E2, PR21-23); the 2/2025 appendix is the original 2026 programme (differs from the revised 2026 programme: e.g. P15 Kieserite replaced by AS, RP quantities changed). Appendix 3 tracking map is an image. PA and Agro rat census figures differ between Mar and May (both shown).",
- "blockMap": "Dashboard ids map 1:1 to the report fields (PM15A..PR23H). PA uses PM21F and Agro uses PR21F/PM22G/PM23H interchangeably; sub-blocks (A1-A4, B1-B5, C1-C3, D1-D2, E1-E3, F1-F3, G1-G4, H1-H2) are kept inside the row text. PM15A is split in the PA/Agro 2025 yield tables into PM15A (165.40 ha) and PM15A (TR) 49.50 ha (terrace); shown combined here."
+ "blockMap": "Dashboard ids map 1:1 to the report fields (PM15A..PR23H). PA uses PM21F and Agro uses PR21F/PM22G/PM23H interchangeably; sub-blocks (A1-A4, B1-B5, C1-C3, D1-D2, E1-E3, F1-F3, G1-G4, H1-H2) are kept inside the row text. PM15A is split in the PA/Agro 2025 yield tables into PM15A (165.40 ha) and PM15A (TR) 49.50 ha (terrace); shown combined here.",
+ "top": {
+  "limits": [
+   {
+    "t": "Dry weather, unripe bunches",
+    "s": "Dry weather",
+    "d": "PA: many bunches not ripening in the dry spell. Jan–May 2026 rain 717 mm; January only 65 mm, March 54.5 mm. Jan–May 2026 yield 5.47 t/ha vs 7.14 same period 2025.",
+    "src": "PA 1/2026 s.8 · Agro 1/2026"
+   },
+   {
+    "t": "Rat damage, baiting incomplete",
+    "s": "Rat damage",
+    "d": "May 2026 census: PM20E 19%, PM21F 18%, PM16B and PM17C 13% vs 10% threshold (Agro, Mar: PM16B 25%). No baiting yet in PR21F, PR22G, B1, B4, C3; PM20E only round 1.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "2026 manuring late",
+    "s": "Late manuring",
+    "d": "Only 41 of 72 rounds applied to May 2026 (57%): late Mix B, no Kieserite (0 of 66.45 t by Mar). Second-half programme cut for fertiliser price; N and P low in mature fields (Nov 2025).",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "Weeds behind on sprayer shortage",
+    "s": "Weeds, creepers",
+    "d": "Circle spraying 74% and selective 71% of programme, Jan–May 2026 (PM20E 50%); weeders 8 vs 12. Mucuna climbing palms at PR22G G1; Hedyotis and Asystasia in inter-rows.",
+    "src": "PA 1/2026 s.6.2",
+    "rep": true
+   },
+   {
+    "t": "Close-planted palms not thinned",
+    "s": "Close planting",
+    "d": "Close planting and etiolated palms in hilly areas, especially PM16B and PM15A; thinning recommended but not done, and no new palm census.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 25% below budget",
+    "s": "Crop 25% short",
+    "d": "6,245.10 t FFB vs 8,375 t budget to date, Jan–May 2026 (5.47 vs 7.34 t/ha); 23% below 2025. Many bunches unripe in dry weather.",
+    "src": "PA 1/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM408.78/t FFB vs RM316.15/t budget, Jan–May 2026; general charges RM179.80/t vs 86.06 after unbudgeted Head Office directors' fees.",
+    "src": "PA 1/2026 s.5, 9"
+   },
+   {
+    "t": "Harvesters and sprayers short",
+    "s": "Labour short",
+    "d": "65 workers vs 77 required (May 2026); weeders 8 vs 12. PA wants harvesters at 1:20 ha, i.e. 62 vs 48 now: about 14 more by July.",
+    "src": "PA 1/2026 s.3",
+    "rep": true
+   },
+   {
+    "t": "Spraying behind, output very low",
+    "s": "Spraying behind",
+    "d": "Circle 74% and selective 71% of programme, Jan–May 2026. Circle output 1.8 ha/man-day; sprayers work about 4 hours. Use CDA or Inter Pump; no Ally in circles.",
+    "src": "PA 1/2026 s.6.2",
+    "rep": true
+   },
+   {
+    "t": "Manuring 57% of rounds",
+    "s": "Manuring behind",
+    "d": "41 of 72 rounds applied to May 2026: late Mix B delivery, AS dose revised, no Kieserite for April. Complete by October; semi-mechanise (35-40 bags/day).",
+    "src": "PA 1/2026 s.6.4"
+   }
+  ]
+ }
 }

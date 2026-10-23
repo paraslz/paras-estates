@@ -51,6 +51,20 @@ RAINFALL (Agro Appendix 2, group record): 2023 157 rain days, 2,965 mm; 2025 mon
 
 DATA CAVEATS: PA harvesting cost RM68.64 vs RM82.29 per t; PA yield 21.02 t/ha (1,627 ha) vs Agro 20.94 t/ha (1,647 ha); PA 2025 manuring 86% vs Agro 100%; harvester requirement 74 vs 76; Ganoderma table PM03/C2 listed as 55 ha vs 89 ha; rainfall totals. See issues.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Harvester shortage, slow rounds: 2025 rounds 16.26 (C, 68%) to 19.72 (B, 82%) vs 24; intervals up to 39 days (A, Jan 2025). C and D yields fell 29.8% and 26.8% in 2025. (Agro 1/2026)
+2. Manuring late and bunched: Most 2025 rounds 2–3 months late; 8 kg/palm broadcast Dec 2025–Jan 2026. 2026 only 26% done (480.95 of 1,847.70 mt) to Mar 2026. (Agro 1/2026 · PA 1/2026)
+3. Under-pruning, dry fronds: 2025 pruning 79% in D and 87% in A; dried hanging fronds in A1, A2, C6, D1 obstruct harvesting. (PA 1/2026 · Agro 1/2026)
+4. Ganoderma in PM03D: 1,545 palms infected in 974 ha (1.19%, Mar 2026); highest D3 2.70%, D4 2.37%. Fallen palms not de-boled. (PA 1/2026 · Agro 1/2026)
+5. Waterlogging in PM03D4: Prolonged waterlogging in low-lying D4 after floods; outflow blocked in neighbouring Felda Merchong. Flood-prone D3 palms had less vigour (Mar 2025). (PA 1/2026 · Agro 1/2025)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 14% below budget: 34,207.33 t vs 39,862 t budget, Jan–Dec 2025; 21.02 vs 24.50 t/ha. OER 14.91% vs 19.02% budget. Jan–Mar 2026 on estimate (100.62%). (PA 1/2026)
+2. Short of harvesters: 61 harvesters vs 74 needed (1 per 27 ha vs 1:22); 93 workers vs 113 (Mar 2026), down 3 since last visit. (PA 1/2026)
+3. 2026 manuring behind: 480.95 of 1,847.70 mt applied (26%) to Mar 2026, with only 8 manuring workers; expand semi-mechanised (Badang) application. (PA 1/2026)
+4. Low harvester and machine output: PM03A 1.74 t/man-day, RM60.90/day (3.69 t/ha, 78.76% of estimate, Jan–Mar 2026). Badang 9.17 t/day vs 12–15 potential. (PA 1/2026)
+5. Dried fronds and under-pruning: 2025 pruning 91% (10.90 of 12 rounds), D only 79%; hanging dried fronds in A1, A2, C6, D1 to be removed. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, Tables 6, 7, 26, 29 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 82.29 / 79.40
   - Contract harvesting & collection: 43.03 / 43.00

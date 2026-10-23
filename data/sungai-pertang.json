@@ -9406,5 +9406,78 @@
   "yph": 11.58,
   "prevSame": null,
   "src": "Agronomy Report 2/2026 Table 13 (mature 1,030 ha)"
+ },
+ "top": {
+  "limits": [
+   {
+    "t": "Poor crop recovery in old fields",
+    "s": "Poor crop recovery",
+    "d": "Ravines missed, bunches rotting on palms, loose fruit left in P98–P02; output under 1.5 mt/man-day. Jan–Aug 2026: P98 8.05, P00 9.71 t/ha vs 11.58 estate.",
+    "src": "Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring far behind programme",
+    "s": "Late manuring",
+    "d": "502.06 of 979.29 mt due by Jul 2026 applied (51%; 43% of year); no RP received. 2025 was only 32% of programme. Year's programme will not be finished.",
+    "src": "Agro 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Under-pruned tall palms",
+    "s": "Pruning backlog",
+    "d": "Dry hanging fronds in ravines of P98–P04 block harvesters; only 22% of fields pruned in 2025. P98 still on round 2/12 at Aug 2026.",
+    "src": "Agro 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Stand density falling",
+    "s": "Low stand",
+    "d": "Drone census Q1 2026: average 123 SPH (was 129); P00 112, P04 108. P19A only 62 SPH (unplantable slopes) and 5.19 t/ha Jan–Aug 2026.",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "K and Mg low in prime fields",
+    "s": "K & Mg deficiency",
+    "d": "Leaf K and Mg below optimum in P09, P15, P16 (Jul 2026): Mg 0.25, 0.23, 0.24%. Mg yellowing in P15 and P16.",
+    "src": "Agro 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 23.34% below estimate",
+    "s": "Crop 23% short",
+    "d": "3,816.45 mt FFB vs 4,978.62 mt estimate, Jan–Mar 2026 (3.71 t/ha).",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Manuring delayed",
+    "s": "Late manuring",
+    "d": "204.80 mt applied vs 337.95 mt programmed by Mar 2026; estate must expedite.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low harvester productivity",
+    "s": "Harvester output",
+    "d": "1.46 mt/man-day, Jan–Mar 2026 (P98 only 1.02); 53 of 57 harvesters. March interval 14–20 days; verify records, keep under 15 days.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Corrective pruning unfinished",
+    "s": "Pruning backlog",
+    "d": "438.60 of 664 ha (66.05%) corrective pruning in fields over 17 years by Mar 2026; P04 21%, P09 18%.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Drains before monsoon",
+    "s": "Drains, roads",
+    "d": "Desilt drains in low-lying areas before the monsoon; add scupper drains, humps and sumps on roads.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
  }
 }

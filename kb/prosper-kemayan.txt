@@ -38,6 +38,20 @@ PESTS AND GANODERMA: Rat damage below 3% (PA); Agro Q1/Q2 2.25-3.50%, under 10% 
 
 RAINFALL: 2022 1,685.0 mm/120 days; 2023 1,850.5/123; 2024 2,212.0/149; 2025 2,025.0/151; 2026 Jan-Jun 694.5 mm/57 days (Jan 13, Mar 30 and Jun 65.5 mm were very low; Agro flags water stress).
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma: heavy palm losses: Main yield-reducing factor: 190.70 ha already vacant; 2,189 infected and 21,048 fallen palms in 974.82 ha (Jul 2026). PA says 17% of palms dead or infested. (Agro 2/2026 · PA 1/2026)
+2. 2026 manuring running late: Only 547.40 of 1,073.45 mt (52%) applied to June 2026; Mix A (0 of 173.70 mt) and Mix B (0 of 199.00 mt) not applied; manuring workers 4 vs 8. (Agro 2/2026 · PA 1/2026)
+3. Dry spell in 2026: Only 694.5 mm rain Jan–Jun 2026 (Jan 13.0, Mar 30.0, Jun 65.5 mm); Agro links the May–June water stress to 8.82 t/ha vs 11.50 t/ha in Jan–Jun 2025 (-23.3%). (Agro 2/2026)
+4. All palms over 20 years old: All 974.82 ha over 20 years; P99A (182.26 ha) over 26 years, 8.30 vs 10.52 t/ha Jan–Jun 2026 vs 2025. Replanting for 2027/2028 still to be finalised. (Agro 2/2026 · PA 1/2026)
+5. Harvesters short, delays in P05C: 46 harvesters vs 48 required (31 May 2026) at 1.28 t/day vs 2.00 target; delayed harvesting and over-ripe bunches in P05C (-35.9% Jan–Jun 2026). (PA 1/2026 · Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 10% below budget: 7,078.90 mt FFB (7.26 t/ha) Jan–May 2026, 10% below the 8,664.77 mt budget; every field below estimate, P05C 6.40 vs 10.42 t/ha. (PA 1/2026)
+2. Cost per tonne over budget: RM292.76/t FFB vs RM286.61/t budget to Apr 2026; general charges RM121.25/t vs 100.49 (21% over). (PA 1/2026)
+3. Head office fees and security overspent: Jan–Apr 2026: head office/agency fees RM200,475.05 (+67%), security RM57,183.43 (+87%, extra night watchman), paid leave +58%, consultant fees +42%. (PA 1/2026)
+4. Low harvester productivity: 1.28 t/day per harvester vs 2.00 t target, Jan–May 2026; earnings below minimum wage (estate to verify); 46 harvesters vs 48 required. (PA 1/2026 s.8.3)
+5. Manuring late, P05C Ganoderma not begun: 491.65 of 955.15 mt 1H programme (52%) to May 2026; Mix A and Mix B nil (late delivery). P05C Ganoderma deboling and mounding budgeted but not started. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Apr 2026 (cost to 30 Apr 2026), from PA Report 1/2026, sections 5-7 and 10 (Tables 6, 7, 16, 20; Appendix 2) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 67.80 / 69.21
   - Harvesting: 45.71 / 47.60

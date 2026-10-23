@@ -81,17 +81,7 @@ function render(){
  if(k.harvesters!=null)tiles.push(["Harvesters",`${k.harvesters}<small>${k.harvestersReq!=null?" / "+k.harvestersReq:""}</small>`,k.workers!=null?`workers ${k.workers}${k.workersReq!=null?" / "+k.workersReq:""}`:""]);
  if(k.manuringPct!=null&&tiles.length<5)tiles.push(["Manuring done",`${fmt(k.manuringPct)}<small>%</small>`,esc(k.manuringNote||"")]);
  $("kv").innerHTML=tiles.map(t=>`<div><div class="k">${t[0]}</div><div class="v">${t[1]}</div><div class="d">${t[2]}</div></div>`).join("")||`<p class="empty">No headline figures in the latest reports.</p>`;
- (function(){const T=D.top||{},NM={limits:"Yield-limiting factor",pa:"PA issue"};let any=0,K=null,I=0;
-  const show=()=>{const L=T[K].slice(0,5),x=L[I];$("tsK").textContent=`${NM[K]} ${I+1} of ${L.length}`;$("tsT").textContent=x.t;$("tsR").hidden=!x.rep;$("tsD").textContent=x.d||"";$("tsS").textContent=x.src||"";$("tsPrev").disabled=I==0;$("tsNext").disabled=I==L.length-1};
-  const open=(k,i)=>{K=k;I=i;show();$("tSheet").hidden=false;document.body.style.overflow="hidden";$("tsNext").focus({preventScroll:true})};
-  const close=()=>{$("tSheet").hidden=true;document.body.style.overflow=""};
-  [["limits","topL"],["pa","topP"]].forEach(([k,id])=>{const L=(T[k]||[]).slice(0,5);if(!L.length){$(id).hidden=true;return}any=1;
-   $(id+"c").innerHTML=L.map((x,i)=>`<button type="button" class="tchip${i>2?" w":""}" data-i="${i}"><i>${i+1}</i>${esc(x.s||x.t)}</button>`).join("");
-   $(id+"c").onclick=e=>{const b=e.target.closest(".tchip");if(b)open(k,+b.dataset.i)}});
-  $("tSheet").onclick=e=>{if(e.target.closest("[data-x]"))close()};
-  $("tsPrev").onclick=()=>{if(I>0){I--;show()}};$("tsNext").onclick=()=>{if(I<T[K].slice(0,5).length-1){I++;show()}};
-  document.addEventListener("keydown",e=>{if(!$("tSheet").hidden){if(e.key=="Escape")close();if(e.key=="ArrowRight")$("tsNext").click();if(e.key=="ArrowLeft")$("tsPrev").click()}});
-  if(any)$("topWrap").hidden=false})();
+ if(window.renderTop5)renderTop5(document.getElementById("top5"),D.top);
  const sm=D.summary||[];if(sm.length)$("sum").innerHTML=sm.map(s=>`<li>${esc(s)}</li>`).join("");else $("sumCard").hidden=true;
  const bl=(D.blocks||[]).filter(b=>b.ytd!=null);
  if(bl.length){const hasEst=bl.some(b=>b.est!=null);$("cB1s").textContent=`t/ha, ${BP()}${D.blockSrc?" ("+D.blockSrc+")":""}, against ${hasEst?"estimate":prevP(BP())}`}else $("cB1").hidden=true;

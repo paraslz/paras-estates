@@ -9108,5 +9108,75 @@
   ]
  },
  "blockGaps": "Not legible in the text extraction: per-block ticks of the good/fair/poor pruning, sanitation, inter-row and circle quality tables (Agro Tables, p.20 and p.25), so no quality grading per block is given beyond narrative. No block-level manuring tonnage is printed in either report (only estate totals), no costs (Pinfosys being set up), no leaf/soil analysis in Agro 1/2026 (the March 2025 leaf results in Agro 2/2025 are used, reassessment due 2026), no Ganoderma or rat census in 2026 except P18G rats (Jan 2026). Months for the 2025 programme (Agro 1/2025) and a few of the 2026 programme rounds (PR23L2, PR26Q) were read from garbled table column positions - verify in the PDF. The previous-year programme is taken from Agro 1/2025 (visit 17 Mar 2025) because Agro 2/2025 only carries the original 2026 programme; Agro 2/2025 Table 7 (outstanding fertiliser) and Table 11 text were partly garbled. PR25P (31.43 ha) appears in Agro palm density table but not on the dashboard. PA and Agro differ on the PR24M age (19 vs 12 months).",
- "blockMap": "Dashboard ids match the area statement except: P98D3 is printed D3 / PD3 / P11D3 / P00D3; PR23L2 is printed PR24L2 (PA area) and PR25L2 (Agro 2025 and appendix) - it is the older 2023 planting plus about 3 ha (3.24 ha, 16 acres) of ex-P05L replanted Nov 2025; PR24M is printed P24M / P01M; P05O printed P050; PR26Q printed P26Q / PR16Q. Agro 1/2026 lists a block PR25P (31.43 ha, 4,274 palms) in its palm density table that is not on the dashboard. P01I and P02K share one fertiliser line in the appendix ('P02K (+P01I)') and one Ganoderma/EFB narrative."
+ "blockMap": "Dashboard ids match the area statement except: P98D3 is printed D3 / PD3 / P11D3 / P00D3; PR23L2 is printed PR24L2 (PA area) and PR25L2 (Agro 2025 and appendix) - it is the older 2023 planting plus about 3 ha (3.24 ha, 16 acres) of ex-P05L replanted Nov 2025; PR24M is printed P24M / P01M; P05O printed P050; PR26Q printed P26Q / PR16Q. Agro 1/2026 lists a block PR25P (31.43 ha, 4,274 palms) in its palm density table that is not on the dashboard. P01I and P02K share one fertiliser line in the appendix ('P02K (+P01I)') and one Ganoderma/EFB narrative.",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvesting rounds short in 2025",
+    "s": "Short rounds",
+    "d": "2025 averaged 19 rounds (79.95% of target); P11D2 and P05O only 15. Main-crop yield fell from 25.48 to 22.32 t/ha (2024 to 2025); Agro also cites dry Jul–Sep 2025.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma spreading, no census",
+    "s": "Ganoderma",
+    "d": "Major concern; infection level unknown without a census. 11,294 palms mounded to Mar 2026. D3 yield fell 51% (23.15 to 11.27 t/ha, 2025); D1/D3 replant in 2027 not confirmed.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring running late",
+    "s": "Late manuring",
+    "d": "Only 89.30 of 452.85 t applied (20%) by 25 Mar 2026; compound and NK1 deliveries delayed. Programme cut for fertiliser prices; 2025 RP in P11D2, P15E, P05J, P05L over 2 months late.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Potassium deficiency in P09 blocks",
+    "s": "K deficiency",
+    "d": "Mild K deficiency in P09A, P09B and localised P18G (Mar 2026). Leaf K deficient in P11D2, P15E, P16F, P05J and P05L (Mar 2025 sampling).",
+    "src": "Agro 1/2026 · Agro 2/2025"
+   },
+   {
+    "t": "Rat damage, census not kept up",
+    "s": "Rat damage",
+    "d": "P18G census showed 31.92% damage in Jan 2026 (baited). Rat damage also seen in P11D2, P15 and P16 with no census done; quarterly census advised.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 36% below estimate",
+    "s": "Crop 36% short",
+    "d": "1,026.18 mt FFB vs 1,599.85 mt estimate, Jan–Mar 2026, and 10% below last year's 1,158.79 mt. Yield 3.38 t/ha.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Harvester output and numbers low",
+    "s": "Harvester shortfall",
+    "d": "1.68 mt per harvester manday vs target above 2.00 (Jan–Mar 2026). 10 harvesters (1 per 30 ha); PA wants 20 workers incl. 14 harvesters as area grows.",
+    "src": "PA 1/2026 s.4"
+   },
+   {
+    "t": "Compound late in PR23N and PR24M",
+    "s": "Late compound",
+    "d": "Jan 2026 compound (0.35 mt) not delivered or applied by Mar 2026; PA says it must be applied immediately.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Palm census and Ganoderma control",
+    "s": "Census, Ganoderma",
+    "d": "No palm or Ganoderma census yet. 11,294 palms mounded and 2,310 fallen palms de-boled to Mar 2026; continue mounding and de-boling.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Roads need patching",
+    "s": "Road repairs",
+    "d": "Only 15 backhoe hours used in Jan–Mar 2026 (diesel costs). Roads in P98D1 and P05L need patching and scupper drains; PA suggests a tractor grader.",
+    "src": "PA 1/2026"
+   }
+  ]
+ }
 }

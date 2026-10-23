@@ -46,6 +46,19 @@ VEHICLES (PA): Toyota Hilux WB 472 H and Mazda 1-ton lorry WGK 6856, fair condit
 RAINFALL (Agronomy 1/2026): 2021 1,548 mm/68 days; 2022 2,241/77; 2023 2,101/97; 2024 1,388/88; 2025 2,618/161.
 COST OF PRODUCTION: neither report contains general charges, upkeep cost or cost-per-tonne tables.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma and low density in old palms: P98 (144.47 ha) lowest at 12.52 t/ha in Jan–Dec 2025, 84 palms/ha, severe Ganoderma. Infection spreading (P04); no census done as of Jul 2026. (Agro 1/2026 · Agro 2/2026)
+2. Late harvesting and poor crop recovery: Intervals 16/17 days in Jul 2026: 5% over-ripe in P89/07/13, 4% in P06; over 10% in P05 (Feb 2026). P04 fell to 19.63 from 23.14 t/ha (2025 vs 2024). (Agro 2/2026 · Agro 1/2026)
+3. 2026 manuring late or unknown: 0 of 217.05 t applied by Feb 2026; no H1 2026 records in Jul 2026. 2025 rounds over two months late in most blocks; P05 Oct round 6%. (PA 1/2026 · Agro 2/2026)
+4. Rat damage in P89/07/13, P21, PR23: Significant rat-damaged bunches in P89/07/13; P21 and PR23 attacked despite two baiting rounds; rat-killed palms replaced in PR26 (Jul 2026). (Agro 2/2026)
+5. Under-pruning in P06, over-pruning P21: P06 still under-pruned, hindering harvesting (Jul 2026); P21 and PR23 over-pruned with long frond butts trapping loose fruit. 2025: 434.73 of 1,148.84 ha (39%). (Agro 2/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Weeding behind, one sprayer only: Selective 533.68 ha (54%) in 2025; none in Jan–Feb 2026 as workers planted seedlings. Only 1 sprayer (PA wants 3); glyphosate overspray on inter-rows. (PA 1/2026 s.5.1)
+2. 2026 manuring not started: 0 of 217.05 t received or applied by Feb 2026. 2025: 164.42 of 185.53 t (89%), declared complete after revision. (PA 1/2026)
+3. Harvesting slow, low productivity: Intervals 15-18 days, 2.0 rounds in Feb 2026 (target below 15 days). Tall-palm output 1.09 to 2.44 t/man-day in 2025; no mechanisation, Electric Badang suggested. (PA 1/2026 s.6.7)
+4. Pruning behind, under-pruned blocks: 434.73 of 1,148.84 ha (1.5 of 4 rounds, printed 39%) in 2025; dried hanging fronds in P04, P05 and P06 from under-pruning. (PA 1/2026 s.5.6.3)
+
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2006 (Jan–Dec): 4,759.37 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)
 2007 (Jan–Dec): 5,594.95 t (Agronomy Report 1/2026 (24 Feb 2026), Appendix 2 Yield Statistic)

@@ -72,6 +72,20 @@ Upkeep to May RM73,220 vs RM141,445 budget (RM685/ha vs RM1,324); since start RM
 RAINFALL
 Agro annual: 2021 3,038.5 mm (122 days listed), 2022 3,353 mm (151), 2023 4,242 mm (143), 2024 2,548 mm (120), 2025 3,169.5 mm (152); Jan-Mar 2026 275.5 mm (20 days). Dry Feb-Jul 2024 may depress yield in following 1-2 years. PA appendix: 2024 2,241 mm (115 days), 2025 3,169.5 mm (152), Jan-May 2026 717 mm (39 days); January 2026 only 65 mm.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Dry weather, unripe bunches: PA: many bunches not ripening in the dry spell. Jan–May 2026 rain 717 mm; January only 65 mm, March 54.5 mm. Jan–May 2026 yield 5.47 t/ha vs 7.14 same period 2025. (PA 1/2026 s.8 · Agro 1/2026)
+2. Rat damage, baiting incomplete: May 2026 census: PM20E 19%, PM21F 18%, PM16B and PM17C 13% vs 10% threshold (Agro, Mar: PM16B 25%). No baiting yet in PR21F, PR22G, B1, B4, C3; PM20E only round 1. (PA 1/2026 · Agro 1/2026)
+3. 2026 manuring late: Only 41 of 72 rounds applied to May 2026 (57%): late Mix B, no Kieserite (0 of 66.45 t by Mar). Second-half programme cut for fertiliser price; N and P low in mature fields (Nov 2025). (PA 1/2026 · Agro 1/2026)
+4. Weeds behind on sprayer shortage: Circle spraying 74% and selective 71% of programme, Jan–May 2026 (PM20E 50%); weeders 8 vs 12. Mucuna climbing palms at PR22G G1; Hedyotis and Asystasia in inter-rows. (PA 1/2026 s.6.2)
+5. Close-planted palms not thinned: Close planting and etiolated palms in hilly areas, especially PM16B and PM15A; thinning recommended but not done, and no new palm census. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 25% below budget: 6,245.10 t FFB vs 8,375 t budget to date, Jan–May 2026 (5.47 vs 7.34 t/ha); 23% below 2025. Many bunches unripe in dry weather. (PA 1/2026 s.8)
+2. Cost per tonne over budget: RM408.78/t FFB vs RM316.15/t budget, Jan–May 2026; general charges RM179.80/t vs 86.06 after unbudgeted Head Office directors' fees. (PA 1/2026 s.5, 9)
+3. Harvesters and sprayers short: 65 workers vs 77 required (May 2026); weeders 8 vs 12. PA wants harvesters at 1:20 ha, i.e. 62 vs 48 now: about 14 more by July. (PA 1/2026 s.3)
+4. Spraying behind, output very low: Circle 74% and selective 71% of programme, Jan–May 2026. Circle output 1.8 ha/man-day; sprayers work about 4 hours. Use CDA or Inter Pump; no Ally in circles. (PA 1/2026 s.6.2)
+5. Manuring 57% of rounds: 41 of 72 rounds applied to May 2026: late Mix B delivery, AS dose revised, no Kieserite for April. Complete by October; semi-mechanise (35-40 bags/day). (PA 1/2026 s.6.4)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5-7 and 9 (Cost of Production As At May 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 91.06 / 90.52
   - Harvesting labour: 67.81 / 63.45

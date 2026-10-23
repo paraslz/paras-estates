@@ -14322,5 +14322,76 @@
   ]
  },
  "blockGaps": "No Ganoderma, basal stem rot, bagworm, nettle caterpillar, porcupine or elephant data in either report (Ganoderma census not yet done; Juasa A only has rat, barn owl and Oryctes/rhinoceros beetle data). No soil analysis; foliar analysis only for K1-K3, 11M, A1-A3, R1-R3, S1-S3 and it is dated Mar-May 2025 (App. 2a), nothing for C, D, H6, 13M, T3, U, V, W. No per-block spraying chemical records, EFB/POME split by block for 2026 (only a combined 2,059 MT for P93D4 and P24V2), no block-level cost, no per-block yield before 2025 (only Jan-May 2025 vs Jan-May 2026; the annual 2021-2025 yields are estate-level). PA rat-census sheet has no date and no U, V, W, C, D, H6, K3, 13M entries; Agro rat census is by main block (K = K1-K2 only). Agro report text is cut off at page 80 in Drive text view; Tables 15-17, section 8-9, appendices were read from the downloaded PDF (108 pages). Agro 2025 programme for W blocks not applicable (planted Feb 2026; ex-P93E1/E3/E4). The * footnote for P01K1 8,000 g is not printed in the 2026 appendix. PA vs Agro conflicts kept as printed (circle/selective text vs table, manuring '8 of 8 rounds' vs 73%, T3/U/V fertiliser doses). Agro Table 11 labels the first row P93C (read as P92C).",
- "blockMap": "Dashboard ids = PA/Agro sub-blocks. Agro tables use short ids (C3, D1, K1, 11M, 13M, A1, R1, S1, T3, U1, V1, W1) which map 1:1 to P92C3, P93D1, P01K1, P11M, P13M, P19A1, P20R1, P21S1, P22T3, PR23U1, PN24V1, PR25W1. The PA prints grouped rows (P92 C3-4, P93 D1-6, P01 K1-3 / K2-3, PN23U1-4, PR24 V1-2, PR25 W1-3) for spraying, pruning, harvesting rates and immature sections: where a group row applies, every member block carries it and the label names the group. The PA calls the 2023, 2024 and 2025 plantings PN23/PR24/PR25 (dashboard: PR23U, PN24V, PR25W). Juasa A and B are in one Agro report: only Juasa A (Table 1, 13 main blocks, 33 sub-blocks, 1,537.34 ha) is used. Agro Table 11 prints 'P93C' for what is evidently P92C."
+ "blockMap": "Dashboard ids = PA/Agro sub-blocks. Agro tables use short ids (C3, D1, K1, 11M, 13M, A1, R1, S1, T3, U1, V1, W1) which map 1:1 to P92C3, P93D1, P01K1, P11M, P13M, P19A1, P20R1, P21S1, P22T3, PR23U1, PN24V1, PR25W1. The PA prints grouped rows (P92 C3-4, P93 D1-6, P01 K1-3 / K2-3, PN23U1-4, PR24 V1-2, PR25 W1-3) for spraying, pruning, harvesting rates and immature sections: where a group row applies, every member block carries it and the label names the group. The PA calls the 2023, 2024 and 2025 plantings PN23/PR24/PR25 (dashboard: PR23U, PN24V, PR25W). Juasa A and B are in one Agro report: only Juasa A (Table 1, 13 main blocks, 33 sub-blocks, 1,537.34 ha) is used. Agro Table 11 prints 'P93C' for what is evidently P92C.",
+ "top": {
+  "limits": [
+   {
+    "t": "Severe rat damage",
+    "s": "Rat damage",
+    "d": "PA census 17% to 33% per sub-block vs 10% threshold (worst P19A3, 33%); estate stopped baiting when uptake fell below 30%, with no post-baiting census.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old palms and low palm stand",
+    "s": "Old palms, low SPH",
+    "d": "25% of area over 26 years (389.94 ha), only 2% prime-age; stand averages 138 SPH vs 148 target. 234.70 ha being replanted in 2026.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooding and no drain desilting",
+    "s": "Flooding",
+    "d": "316.95 ha (21%) flood-prone; no drain desilting Jan-Jun 2026 (excavators on replant felling); PR23 has many vacant points from flooding, 846 palms supplied.",
+    "src": "Agro 1/2026 · PA 2/2026"
+   },
+   {
+    "t": "Pruning lagging, harvesters short",
+    "s": "Pruning lag",
+    "d": "Pruning 64% of programme to June 2026 as harvesters are short (43 of 46); dry hanging fronds in P93D, P01K1-2 and P11M.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Phosphate short, leaf P low",
+    "s": "Low phosphate",
+    "d": "Rock phosphate only 94.15 of 220.00 MT (43%) applied to May 2026; leaf P low to moderately low. PA saw fertiliser in half circles only.",
+    "src": "Agro 1/2026 · PA 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 26% below budget (A+B)",
+    "s": "Crop 26% short",
+    "d": "Juasa A+B: 14,032.23 t FFB vs 18,899 t budget, Jan-Jun 2026 (6.53 vs 8.79 t/ha); PA blames harvester shortage, flooding and a low-crop season.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Sprayers short, low output",
+    "s": "Sprayer shortage",
+    "d": "14 sprayers vs 26 required (Jun 2026); 3.5 ha/man-day, earning RM52.56/day, below the RM65.38 basic; Ally not needed in circles.",
+    "src": "PA 2/2026 s.3, 6.3",
+    "rep": true
+   },
+   {
+    "t": "Rat damage very extensive",
+    "s": "Rat damage",
+    "d": "Sub-block census 17% to 33% vs 10% threshold; over 588.40 ha bait take fell to 11% by round 4.",
+    "src": "PA 2/2026 s.6.7"
+   },
+   {
+    "t": "Harvesters short, pruning slow",
+    "s": "Harvesters, pruning",
+    "d": "Harvesters 43 vs 46 (Jun 2026); 9.4 rounds vs 12 (A+B, Jan-Jun 2026); pruning 64% of programme. PA wants longer working hours.",
+    "src": "PA 2/2026 s.3, 6.6, 7",
+    "rep": true
+   },
+   {
+    "t": "No assistant in charge",
+    "s": "No assistant",
+    "d": "Assistant-in-charge Mr Tomi resigned from June 2026; Senior Manager managing directly; replacement needed.",
+    "src": "PA 2/2026"
+   }
+  ]
+ }
 }

@@ -49,6 +49,8 @@ built-in API Ask, no ChatGPT/Gemini.
 Tabs: Overview · Blocks · Money · Field & people · Actions (with count) · Reports.
 
 - **Overview (in this order):**
+  0. Top 5 yield-limiting factors and Top 5 PA issues as two rows of short numbered tags (1–3 red, 4–5 amber);
+     tapping a tag opens a bottom pop-up with the figures, period and source, with Prev/Next (`top`, tools/EXTRACT_TOP.md).
   1. Yield per hectare by full year (line) plus current year to date as a separate point, with a note
      naming the months covered and the same months last year.
   2. FFB production (bar): estate tonnes by full year plus this year to date in a different colour,
@@ -139,3 +141,5 @@ UMB (paraslz/paraslz-umb-paras) and Far East (paraslz/parasIz-fareast-paras) run
 - The front page (index.html) also has the Ask AI bubble, using the group pack (body data-slug="group").
 
 - Block detail must be readable on a phone: after extracting, apply tools/TIDY_BLOCKS.md (tables, stat cards, ≤4 short bullets; merge repeated rows; hide rows already in the yield chart; never change a figure).
+
+- Top 5 lists (`top`): after rebuilding an estate, write them per tools/EXTRACT_TOP.md (figures as printed, ranked by likely crop lost / importance; PA issues from the PA report only).

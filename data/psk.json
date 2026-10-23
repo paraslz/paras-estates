@@ -5277,5 +5277,76 @@
   ]
  },
  "blockGaps": "PA 2/2026 has no block yield, no block-level Ganoderma counts, no weed species per block beyond photo captions, no leaf analysis (latest leaf results are Sep 2025, Agro 2/2025; Agro 1/2026 has none). Months of the 2025/2026 fertiliser tables are not legible in the extracted text, so only dose sequences are given, plus the PA 2026 schedule months. Pruning and weeding good/fair/poor rating tables are tick marks not captured. Rat census figures conflict: Agro Dec 2025 2-4% vs PA Mar-Jun 2026 10-20%. The PA 'Rat baiting' % column meaning is not explained in the text. Table figures printed as is where percentages are internally inconsistent (e.g. B pruning 23%, A yield -226%). Agro 1/2026 and 1/2025 give different 2024 base yields per block (period vs 12-month basis). Corrective pruning backlog totals 1,298.63 ha in the PA table vs '626 ha carried forward from 2025' in PA text. No H rat census; no H foliar. Rainfall for Feb-Dec 2026 not in reports.",
- "blockMap": "Dashboard ids PM05A, PM05B, PM05C, PM05D, PM06E, PM06F, PM19H equal the report block ids ('PM 05 A' etc). Reports also use sub-blocks A1-A6, B1-B5, C1-C6, D1-D3, E1-E6, F1-F6 (kept inside the rows). PA 2/2026 (29 Jul 2026, Jan-Jun 2026) has block tables for manuring, spraying, pruning, rat census and bunch weight but no block yield; yield by block comes from Agro 1/2026 (12 Feb 2026, full-year 2025 and Jan 2026). Agro 1/2026 also carries the 2026 fertiliser programme; the 2025 programme is from Agro 1/2025 (20 Mar 2025). Agro 2/2025 (24 Sep 2025) supplies leaf analysis."
+ "blockMap": "Dashboard ids PM05A, PM05B, PM05C, PM05D, PM06E, PM06F, PM19H equal the report block ids ('PM 05 A' etc). Reports also use sub-blocks A1-A6, B1-B5, C1-C6, D1-D3, E1-E6, F1-F6 (kept inside the rows). PA 2/2026 (29 Jul 2026, Jan-Jun 2026) has block tables for manuring, spraying, pruning, rat census and bunch weight but no block yield; yield by block comes from Agro 1/2026 (12 Feb 2026, full-year 2025 and Jan 2026). Agro 1/2026 also carries the 2026 fertiliser programme; the 2025 programme is from Agro 1/2025 (20 Mar 2025). Agro 2/2025 (24 Sep 2025) supplies leaf analysis.",
+ "top": {
+  "limits": [
+   {
+    "t": "Severe harvester shortage",
+    "s": "Harvester shortage",
+    "d": "52 harvesters vs 83 required (June 2026), 66 in July (17 short); 10.2 rounds vs 12 budgeted Jan–Jun 2026; intervals up to 49 days (A) and 50 days (B) in Jan 2026.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooded, low-lying peat",
+    "s": "Flooded peat",
+    "d": "Much of the estate is low-lying peat that floods; water now recedes in about 60 days. Peat block PM05A yielded 7.85 t/ha in 2025, the lowest; leaning palms, early bunch rot.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Fertiliser behind programme",
+    "s": "Late manuring",
+    "d": "2025 Mix B only 74% applied; 2026 only 2,872.90 of 5,039.74 ha manured to June and EFB 54.11 of 624.70 ha. Agro links low bunch weight to 2 years of deviations.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Rat damage well above threshold",
+    "s": "Rat damage 18%",
+    "d": "Census Mar–Jun 2026: 18% damage overall (A and B 20%, D, E, F 17%, C 14%) vs 10% threshold; 3 baiting rounds done to June.",
+    "src": "PA 2/2026"
+   },
+   {
+    "t": "Old palms, thinning stand",
+    "s": "Old palms, low stand",
+    "d": "All palms over 20 years except part of P19H. 2025 census: 114 (PM05B) to 131 (PM05A) palms/ha vs 136 before; PM05B 38,100 palms vs 45,560.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 44% below budget",
+    "s": "Crop 44% short",
+    "d": "8,765.54 t FFB vs 15,573 t estimate, Jan–Jun 2026; 4.38 t/ha vs 7.79 budget and 5.45 last year (-20%). OER 15.82% vs 18.51%.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM389.93/t FFB vs RM320.56/t budget, Jan–Jun 2026, because crop is below budget; spending itself underspent (general charges 35% under).",
+    "src": "PA 2/2026"
+   },
+   {
+    "t": "Harvester and worker shortage",
+    "s": "Labour shortage",
+    "d": "78 workers vs 140 required (June 2026); harvesters 52 vs 83, still 17 short in July; pruning 2 of 21. PA calls it the main problem.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Extensive rat damage",
+    "s": "Rat damage 18%",
+    "d": "Rat census Mar–Jun 2026: 18% overall, A and B 20%. Continue baiting in H2, census every 3 months, bait above 10%.",
+    "src": "PA 2/2026"
+   },
+   {
+    "t": "Flooding unresolved, no mounding",
+    "s": "Flooding, mounding",
+    "d": "Prolonged flooding: UMB water management help needed. Mounding 27,484 palms budgeted, none done to June 2026.",
+    "src": "PA 2/2026",
+    "rep": true
+   }
+  ]
+ }
 }

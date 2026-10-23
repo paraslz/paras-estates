@@ -3003,5 +3003,77 @@
   ]
  },
  "blockGaps": "No block-level yield for PR24E (immature). No block split in PA for circle/selective spraying chemicals (given estate-wide). Leaf analysis tables (Agro 2/2025 Appendix 2) and pruning progress table (Table 5) are images/blank in extracted text, so leaf nutrient values and pruning ha per block not available; Agro 1/2026 appendix layout for P99 revised programme is ambiguous (read as Feb and Jun only). Rat census month columns for PR24E not clear. Agro 1/2026 harvesting interval table only has Jan 2026. Agro 1/2026 ABW/TBN table not repeated (latest ABW from PA, Dec 2025).",
- "blockMap": "Report block ids map 1:1 to dashboard ids: P1999 A = P99A, P2013 B = P13B, P2016 C = P16C, P2018 D (ex-P86, 126.02 acres) = P18D, PR 2024 E (replant of ex-P87 & P00; fertiliser programme split PR24A / PR24B) = PR24E. Agro 1/2026 and 1/2025 Table 1 use the same ids."
+ "blockMap": "Report block ids map 1:1 to dashboard ids: P1999 A = P99A, P2013 B = P13B, P2016 C = P16C, P2018 D (ex-P86, 126.02 acres) = P18D, PR 2024 E (replant of ex-P87 & P00; fertiliser programme split PR24A / PR24B) = PR24E. Agro 1/2026 and 1/2025 Table 1 use the same ids.",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma losses in P99",
+    "s": "Ganoderma P99",
+    "d": "121 of 1,477 palms infected in P99 (census Sep 2025, unchanged Feb 2026); stand down to 114 SPH vs 132 estate average. Deboling of fallen palms only ad hoc.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring behind schedule",
+    "s": "Late manuring",
+    "d": "Only 14% of the 2026 programme done by Feb 2026; P99 and P18 Mix B round 1 and PR24 compound round 1 outstanding (late delivery). Narrow-band application in P18, and in P13 in Sep 2025.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Tall, under-pruned palms in P99",
+    "s": "Tall palms P99",
+    "d": "P99 yield 33.60 t/ha in 2025 vs 35.65 in 2024 (-5.8%). Palms over 50 ft: ripe bunches missed under dry hanging fronds; under-pruned sections need touch-up pruning.",
+    "src": "Agro 1/2026 · Agro 2/2025"
+   },
+   {
+    "t": "Magnesium and potassium deficiency",
+    "s": "Mg & K deficiency",
+    "d": "Sporadic Mg deficiency (orange fronds) on terraces in P13 and P16, leaf Mg below range in Aug 2025, improving with kieserite; mild K deficiency in places in P18.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Close-planted palms in P16",
+    "s": "P16 close planting",
+    "d": "Etiolated palms in close-planted sections of P16 (60.65 ha); selective thinning advised but no progress as at Feb 2026. 5% unripe bunches on platforms in P16.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Ganoderma census and deboling",
+    "s": "Ganoderma census",
+    "d": "PA wants a formal Ganoderma census and deboling of all fallen palms; deboling so far ad hoc. P99 has 121 infected of 1,477 palms.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester output below target",
+    "s": "Harvester output",
+    "d": "2.32 t/man-day in P13 and 2.19 in P16 in 2025 vs PA target of 2.5 t/man-day (GMD earlier asked for above 3.0).",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Fire and Oryctes in PR24 replant",
+    "s": "PR24 fire, Oryctes",
+    "d": "Fire from neighbouring smallholdings hit about 6 ha of PR24 in Feb 2026; no palms died. Oryctes still noticeable after 13 rounds of cypermethrin.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "PR24 supplying not finished",
+    "s": "PR24 supplying",
+    "d": "200 palms supplied to Dec 2025; more seedlings needed; supplying to be completed this financial year.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low manuring output",
+    "s": "Manuring output",
+    "d": "Wheelbarrow output 20 bags/man-day vs 25 target at RM2.20/bag (RM44/day); manurers 1 of 2, covered by Sg. Beranang workers.",
+    "src": "PA 1/2026"
+   }
+  ]
+ }
 }

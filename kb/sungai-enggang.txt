@@ -62,6 +62,20 @@ RAINFALL (Agro). 2022 3,604.7 mm/191 days; 2023 4,359.0/196; 2024 3,264.0/142; 2
 
 PA CONCLUSIONS. High harvester turnover; need adequate field upkeep workers for immature areas; mature field condition well controlled, raise sprayer productivity; eradicate VOPs in immature areas; expedite delayed pruning. Agro conclusions: harvesting interval and under-pruning are the two key issues; rats in young and immature plantings need monitoring.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Long harvesting intervals: 16.6 rounds vs 24 budget in 2025; intervals often over 20 days on palms over 50 ft. Harvesters 84 of 94 (Dec 2025), 73 by Apr 2026. Over-ripe bunches in D3, D4, F1, G2. (PA 1/2026 · Agro 1/2026)
+2. Pruning backlog in old fields: 8,398 of 17,306 ha pruned in 2025 (49%): P96D 11%, P96C 16%, P96B 29%. Dry hanging fronds hide bunches and obstruct harvesting. (PA 1/2026 · Agro 1/2026)
+3. Old, tall palms in P96: 57% of area over 26 years. 2025 yield P96C 13.05 and P96D 14.16 t/ha; P96D stand fell to 120–138 SPH. Only 125.17 ha due for replant in 2027. (Agro 1/2026)
+4. N, P and Mg low in P02F and P03G: May 2025 leaf: N deficient in F1, F2, F4 and G2; Mg deficient in F1 and G2; P low. Orange spotting (K) in P03G low-lying areas (May 2026). (Agro 2/2025 · Agro 1/2026)
+5. Rat damage in PR23I: 22% of palms damaged (6,657 of 30,102) in May 2026, up from 13% in Dec 2025; I2 and I3 at 27%. Rebaited; post-census needed. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 23% below budget: 34,353.43 t FFB vs 44,433 t budget, Jan–Dec 2025: 15.88 vs 20.54 t/ha, put down to the harvester shortage. (PA 1/2026 s.8)
+2. Harvesters short, earn below wage: 84 vs 94 harvesters (Dec 2025); high turnover. PM96 harvesters earn RM57.28/day and PM03 RM41.00 vs RM65.39 basic wage. (PA 1/2026)
+3. Pruning only half done: 8,398 of 17,306 ha (49%) to Dec 2025; P96D 11%, P96C 16%. Shortfall due to the harvester shortage. (PA 1/2026)
+4. Low sprayer productivity: 3.7 ha/man-day vs 5 (circle) and 6 (selective) possible; RM20/ha rate should be about RM15. Circle spraying 84% of programme in 2025. (PA 1/2026)
+5. Immature upkeep and VOPs: Eradicate VOPs in immature areas. Field workers short at Dec 2025: manuring 7 vs 15, weeding 27 vs 31. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5, 6, 7 and 9 (Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 67.06 / 66.85
   - Harvesting labour: 48.66 / 48.89

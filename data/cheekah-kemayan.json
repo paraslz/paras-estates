@@ -581,5 +581,76 @@
    "planted": "Jul 2025 – Jun 2026",
    "status": "Replant · just planted"
   }
- ]
+ ],
+ "top": {
+  "limits": [
+   {
+    "t": "Over-aged palms, none in prime",
+    "s": "Old palms",
+    "d": "42% (644.7 ha) over 26 years and 20.4% (314.0 ha) aged 20–25 in 2026; none in prime 8–19 years. Yield 15.37 t/ha in 2025 vs 19.63 in 2020 (−21.7%).",
+    "src": "Agro Jul 2026"
+   },
+   {
+    "t": "Ganoderma spreading, no census",
+    "s": "Ganoderma",
+    "d": "No census in 2025 or up to Jul 2026; last (Aug 2024) found 9,792 dead palms (7%). Premature frond snapping and small canopies put down to early Ganoderma.",
+    "src": "Agro Jul 2026 · Agro Jan 2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring half done",
+    "s": "Late manuring",
+    "d": "341.8 of 681.15 t applied (50%) by Jul 2026: NK2 3%, ARP 0%. Mix B 2–4 months late, NK2 2 months, after catching up the 2025 carry-forward.",
+    "src": "Agro Jul 2026"
+   },
+   {
+    "t": "Harvester gap and crop left in field",
+    "s": "Crop losses",
+    "d": "49 harvesters vs 55 needed (May 2026). Overripe bunches P99D4 15%, P95A 14%; rotten or uncollected bunches in P01E5, P01E2, P21A1 (Jan–Jun 2026).",
+    "src": "Agro Jul 2026 · PA 1/2026"
+   },
+   {
+    "t": "Flood-prone fields, drains not desilted",
+    "s": "Flooding, drains",
+    "d": "129.91 ha flood-prone (P98C, P99D, P01E low-lying). No de-silting in 2024; 54.24 chains in 2025, P21A only.",
+    "src": "Agro Jul 2026 · Agro Jan 2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 16% below budget",
+    "s": "Crop 16% short",
+    "d": "6,569.39 mt FFB vs 7,831.04 mt budget, Jan–May 2026; 5.72 t/ha vs 6.81 (5.65 same period 2025). P01E 7.21 vs 9.53 t/ha estimate.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Short of harvesters",
+    "s": "Harvester shortage",
+    "d": "49 harvesters vs 55 required (−6), 1 per 25 ha vs 1:22 recommended; 91 workers vs 97. 6 absconded in 5 months to May 2026.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Manuring behind on delivery",
+    "s": "Late manuring",
+    "d": "346.10 mt applied = 54% of 1st-half programme to May 2026, held up by fertiliser delivery. Semi-mechanised (Timac) manuring suggested again.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Barn owl boxes broken, few used",
+    "s": "Barn owls failing",
+    "d": "155 nests, 6% occupancy, 143 damaged (May 2026). Box cleaning asked for since PA 1/2024, never done.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "No vehicle records, tractor down",
+    "s": "Vehicle records",
+    "d": "Tractor Landini DT90 broken down; still no vehicle running records, asked for since PA 2/2024.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

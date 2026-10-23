@@ -5287,5 +5287,75 @@
   ]
  },
  "blockGaps": "No per-block year-to-date 2026 yield in the PA (estate only). No leaf analysis in 2026 (Agro 1/2026 says sampling follows at the second visit); the leaf table is from Agro 2/2025 (Oct/Nov 2025) and has no analysis for PM95E, PM96F, PM97G, PM22L, PR23B, PR24C, PR25E. No harvest interval printed for PR23B-PR25E. No Ganoderma census figures. Rat census not given for PM95E-PM97G, PM05H in Agro. PM15A circle spray figures (158.08 ha done = 100% of 193.58) and the printed -74% for PM05H and 30% for PM20K do not match their own figures; shown as printed with the recalculated value. Immature blocks have no manuring-progress dates in the PA. The 2025 fertiliser programme is from Agro 1/2025 (Agro 2/2025 carries the 2026 draft).",
- "blockMap": "Report ids equal dashboard ids except: PR25E = PR25 E2/E4 (Agro calls it PR25E, PA calls it PR25/E2,E4, 66.07 ha). PM15A has a terrace part (PM15A TR 55.70 ha in PA, 20.70 ha in spray tables, A1-A3) and PM19J has PM19J TR 1.80 ha (J2); both are shown inside the parent block. PA area for PM15A is 158.58 + 55.70 ha; Agro Table 12 uses 193.58 + 20.70 ha."
+ "blockMap": "Report ids equal dashboard ids except: PR25E = PR25 E2/E4 (Agro calls it PR25E, PA calls it PR25/E2,E4, 66.07 ha). PM15A has a terrace part (PM15A TR 55.70 ha in PA, 20.70 ha in spray tables, A1-A3) and PM19J has PM19J TR 1.80 ha (J2); both are shown inside the parent block. PA area for PM15A is 158.58 + 55.70 ha; Agro Table 12 uses 193.58 + 20.70 ha.",
+ "top": {
+  "limits": [
+   {
+    "t": "Old palms in a low-crop phase",
+    "s": "Old palms",
+    "d": "21% of palms are over 25 years old; PA puts the Jan–May 2026 shortfall down to late ripening in old plantings. PM05H fell from 5.13 to 2.94 t/ha (Jan–Mar 2025 vs 2026).",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "2026 manuring running late",
+    "s": "Late manuring",
+    "d": "Only 26 of 77 rounds (34%) done to May 2026: Kieserite due in March arrived in June, and only 4 of 8 manurers. 2026 programme also cut back on fertiliser pricing.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "Field labour shortage",
+    "s": "Labour short",
+    "d": "95 workers vs 114 required in May 2026, incl. harvesters 63 vs 71 and weeders 21 vs 26; worker ratio 1:18 vs 1:12 to 1:15.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Uneven harvesting and fruit losses",
+    "s": "Harvest gaps",
+    "d": "Nearly 23 rounds in 2025 vs a minimum of 24; Mar 2026 intervals 9 to 20 days (PM15A 16 to 20). Loose fruit left at P95E-5 and P20/K2; long stalks alarming.",
+    "src": "Agro 1/2026 · PA 1/2026"
+   },
+   {
+    "t": "Rats and new bagworm attack",
+    "s": "Rats, bagworm",
+    "d": "Rat damage hit 19% in PM20K in Feb 2026 (threshold 10%); 5% in PM18I and PM19J in May. Bagworm found at P15 in June 2026; census just starting.",
+    "src": "Agro 1/2026 · PA 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 18% below budget",
+    "s": "Crop 18% short",
+    "d": "9,458.11 t FFB vs 11,579 t budget, Jan–May 2026; 6.44 t/ha vs 7.88 budget and 7.54 last year. Only the 2020–2022 plantings had good fruit set.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Short of harvesters and field workers",
+    "s": "Worker shortage",
+    "d": "95 of 114 workers in May 2026: harvesters short 8, weeders short 5, manurers 4 vs 8. PA asks to recruit harvesters, sprayers and manurers immediately.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring only a third done",
+    "s": "Manuring behind",
+    "d": "26 of 77 rounds (34%) to May 2026: no Kieserite stock until June, plus labour shortage. Broadcasting only 23 bags/man-day; use wheelbarrows or semi-mechanise.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Low sprayer productivity",
+    "s": "Slow spraying",
+    "d": "8 pumps per man-day vs 12 potential; sprayers work about 6.5 hours vs 8. Circle spraying 85% of programme to May 2026 as workers were sent to Simpai 2. Switch to CDA.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Bagworm at P15; rat census overdue",
+    "s": "Pest follow-up",
+    "d": "Bagworm infestation at P15 (June 2026): census, then Methamidophos above 10 larvae per frond. Rat baiting done but no follow-up census; needed every 3 months.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

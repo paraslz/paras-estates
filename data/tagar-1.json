@@ -7073,5 +7073,77 @@
   ]
  },
  "blockGaps": "Agro 2/2026 gives block yield only as t/ha to August (Table 11), no block tonnes; monthly production (Table 12), pruning and weeding progress and harvester numbers appear only as charts without values, so no figures were taken from them. No 2026 monthly tonnes. No Ganoderma census figures. No harvester rate rows for PM20I and PR22K; no 2025 yield figure for PR22K or PR23L/PR25M (immature). Several PA manuring rows have no dates (kieserite everywhere) and PM19H R2 and PM21J RP dates are misprinted. PA lists RP 1,500 g for PM16F/PM17G against 1,750 g in the Agro programme. The Agro 2026 programme lists carry-forward Mix amounts from 2025 for Jan/Feb. 2025 programmes are from Agro 1/2025 (grid-verified) and are shown as printed there; Agro 1/2026 lists them as incomplete at year end.",
- "blockMap": "Report ids equal dashboard ids. The 2025 reports use older ids: PM01 to PM01A, PM04/PM05 to PM04B/PM05C, PM07, PM11, PM16, PM17, PM19A/B to PM19H, PN20 to PM20I, PN21 to PM21J, PN22K1/K2 to PR22K, PR23L1/L2 to PR23L, PR24M1 to PR25M (ex-P99 replant, Dec 2024-Dec 2025). Agro 1/2026 'yield' table is full-year 2025 vs 2024. Agro 2/2026 uses PM22K for PR22K in Table 11, PM19A/PM19B, PN20, PN21, PN22K1/K2, PR23L1/L2 and PR25M1/M2 in the 2027 programme."
+ "blockMap": "Report ids equal dashboard ids. The 2025 reports use older ids: PM01 to PM01A, PM04/PM05 to PM04B/PM05C, PM07, PM11, PM16, PM17, PM19A/B to PM19H, PN20 to PM20I, PN21 to PM21J, PN22K1/K2 to PR22K, PR23L1/L2 to PR23L, PR24M1 to PR25M (ex-P99 replant, Dec 2024-Dec 2025). Agro 1/2026 'yield' table is full-year 2025 vs 2024. Agro 2/2026 uses PM22K for PR22K in Table 11, PM19A/PM19B, PN20, PN21, PN22K1/K2, PR23L1/L2 and PR25M1/M2 in the 2027 programme.",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage, long intervals",
+    "s": "Slow harvesting",
+    "d": "51 harvesters vs 78 required (Jun 2026); intervals over 20 days at the Sep 2026 visit, over 30 in some older blocks. Over-ripe bunches on platforms: P05 11%, P11 20%, P19 20%.",
+    "src": "PA 2/2026 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Old blocks in steep decline",
+    "s": "Old blocks falling",
+    "d": "Jan–Aug 2026 vs 2025: PM01A 5.69 vs 8.91 t/ha (-36.2%), PM05C -26.8%, PM04B -24.4%, PM07D -23.6%. Steep, poorly terraced ground; P01 to be replanted within three years.",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "2026 manuring up to six months late",
+    "s": "Late manuring",
+    "d": "To Aug 2026: Mix B 48%, CIRP 39%, kieserite 0% applied, mainly from labour shortage; programme will not finish in 2026. Leaf Mg not yet optimal in young mature blocks.",
+    "src": "Agro 2/2026 · PA 2/2026"
+   },
+   {
+    "t": "Under-pruning backlog",
+    "s": "Under-pruning",
+    "d": "No pruning progress to Aug 2026 in P01A1-4, P07D1, P11E1, P16F, P17G. Corrective pruning: 225 ha due from 2025, only 59 ha done; hampers harvesting in old blocks.",
+    "src": "Agro 2/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Rat damage in young mature blocks",
+    "s": "Rat damage",
+    "d": "Aug 2026 census: P19H2 13.39%, P21J1 14.85%, P21J2 16.02%; baiting only in June with no follow-up. Cattle damage also continues in P19 and P21.",
+    "src": "Agro 2/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 34% below budget",
+    "s": "Crop 34% short",
+    "d": "8,393.44 t FFB vs 12,693 t budget, Jan–Jun 2026; 5.37 t/ha vs 8.12 budget and 6.47 last year. Put down to the harvester shortage and early-year low crop.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne well over budget",
+    "s": "Cost/t over budget",
+    "d": "RM469.86/t FFB vs RM331.03/t budget, Jan–Jun 2026, due to low crop. General charges overspent 43% (RM1,870,488.13 vs RM1,312,314) on unbudgeted Head Office charges.",
+    "src": "PA 2/2026 s.5, s.9"
+   },
+   {
+    "t": "Harvesters short and work short days",
+    "s": "Harvester shortage",
+    "d": "51 harvesters vs 78 required; 9.4 rounds to Jun 2026 vs 12 budgeted, 18-day interval. Harvesters work only 4 to 5 hours; turnover driven by low earnings.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Sprayers short and unsupervised",
+    "s": "Spraying behind",
+    "d": "10 sprayers vs 20; circle spraying 60% of budget to Jun 2026. Sprayers do 6 pumps a day vs 9 potential and work about 4.5 hours; Assistants not supervising.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Rats and corrective pruning lagging",
+    "s": "Rats, pruning",
+    "d": "Extensive rat damage: one baiting round in P19, P21 and P22 not enough. Corrective pruning 225 ha from 2025 with 59 ha done; 271 ha for 2026 with 72 ha done, due by October.",
+    "src": "PA 2/2026",
+    "rep": true
+   }
+  ]
+ }
 }

@@ -5117,5 +5117,75 @@
   ]
  },
  "blockGaps": "PA census table gives rat damage % for only E3, E4 and F2; no rat census for mature blocks or D in PA; Agro Mar 2026 rat table (Table 14) is identical to the Nov 2025 RB table (likely carried over). PA D1-D3 pruning rows repeat C-block numbers. P97I 2024 yield is 31.62 (Agro 1/2026) vs 12.46 (Agro 1/2025). P18A foliar row merged in extraction. 2026 month placement for P97I, PR25G not legible; PR24F/PR25G 2025 months not legible. PA cover says period Jan-Dec 2025 but tables are to May 2026. PA tracking-map and photo captions not extracted.",
- "blockMap": "Dashboard ids P97I, P18A, P20B, P21C, P22D, PR23E, PR24F, PR25G map to report ids PM97I, PM18A, PR20B/PM20B, PR21C/PM21C, PR22D/PM22D, PR23E, PR24F, PR25G (replant, called 'PR25 G FE / G1' in PA and 'GTR 2025 FE' in Agro). Sub-blocks (I1-I2, A1-A2, B1-B3, C1-C4, D1-D3, E1-E5, F1-F4, G1-G2) are kept in row text. PA also lists 'FE' parcels (PM97i/I1 FE 7.58 ha, PR24 F1 FE 36.30 ha, F2-F4 FE 49.30 ha) not separately split by the reports."
+ "blockMap": "Dashboard ids P97I, P18A, P20B, P21C, P22D, PR23E, PR24F, PR25G map to report ids PM97I, PM18A, PR20B/PM20B, PR21C/PM21C, PR22D/PM22D, PR23E, PR24F, PR25G (replant, called 'PR25 G FE / G1' in PA and 'GTR 2025 FE' in Agro). Sub-blocks (I1-I2, A1-A2, B1-B3, C1-C4, D1-D3, E1-E5, F1-F4, G1-G2) are kept in row text. PA also lists 'FE' parcels (PM97i/I1 FE 7.58 ha, PR24 F1 FE 36.30 ha, F2-F4 FE 49.30 ha) not separately split by the reports.",
+ "top": {
+  "limits": [
+   {
+    "t": "PM97I old palms falling off",
+    "s": "PM97I old palms",
+    "d": "Planted 1997: 3.30 vs 5.62 t/ha (-41.3%), Jan–Mar 2026; 16.20 t/ha in 2025 vs 31.62. Only 18 rounds in 2025 and no fertiliser in 2025 (replanting deferred to 2028).",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Dry weather, unripe bunches",
+    "s": "Dry weather",
+    "d": "PA: bunches not ripening in dry weather. Jan–Mar 2026 rain 224 mm (Jan 54, Mar 49 mm); Agro expects the 2024 drought to depress yield.",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "t": "2026 manuring late and uneven",
+    "s": "Late manuring",
+    "d": "25 of 38 rounds (66%) to May 2026; no Kieserite (due Mar). Agro: uneven spread and narrow bands. 2025 compound only 60% applied, RP 87%.",
+    "src": "PA 1/2026 s.6.4 · Agro 1/2026"
+   },
+   {
+    "t": "Weeds and creepers on palms",
+    "s": "Weeds, creepers",
+    "d": "Selective spraying 69% estate-wide, Jan–May 2026. Mucuna climbing palms in PM22D/D2 and PM21C, Passiflora in PR24F; Lalang and VOPs in P22.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Palm stand falling",
+    "s": "Palm stand loss",
+    "d": "PM21C down to 122 SPH from 144 (-18%); PM18A 130 from 140 (-8%). Supplying still to be done in PR23E and PR24F.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 8% below budget",
+    "s": "Crop 8% short",
+    "d": "4,021.26 t FFB vs 4,367 t budget, Jan–May 2026 (5.10 vs 5.54 t/ha), though +9% on 2025. Bunches not ripening in dry weather.",
+    "src": "PA 1/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM422.10/t FFB vs RM392.62/t budget to date, Jan–May 2026; PA puts it down to yield below budget. General charges RM175.10/t vs 110.00.",
+    "src": "PA 1/2026 s.9"
+   },
+   {
+    "t": "Manurers and sprayers short",
+    "s": "Labour short",
+    "d": "Manurers 4 vs 8 (recruit urgently), weeders 15 vs 17 in May 2026; 4 spraying workers promised by end June.",
+    "src": "PA 1/2026 s.3",
+    "rep": true
+   },
+   {
+    "t": "Low spraying output",
+    "s": "Spraying output",
+    "d": "Selective spraying 2.6 ha/man-day (very low), earning RM44.20/day vs RM65.38 basic; glyphosate 0.63 l/ha (high). Use Inter Pump or CDA; train sprayers.",
+    "src": "PA 1/2026 s.6",
+    "rep": true
+   },
+   {
+    "t": "Manuring 66% of rounds",
+    "s": "Manuring behind",
+    "d": "25 of 38 rounds applied to May 2026: late Mixture B delivery, no Kieserite (delivered in stages in June). Finish by October.",
+    "src": "PA 1/2026 s.6.4"
+   }
+  ]
+ }
 }

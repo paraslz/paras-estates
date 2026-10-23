@@ -47,6 +47,20 @@ PA 2025 MANURING DETAIL (scheduled month and tonnes, then month applied): P99A M
 
 GMD COMMENTS ON PREVIOUS REPORTS AND REPLIES: PA 2/2025 GMD asked for 5.0 ha/man-day circle spraying, semi-mechanical manuring to reach the RM65.38 minimum wage, a Ganoderma census and deboling, motor-grader road maintenance, use of the backhoe for drains, consistent progressive pruning, harvester productivity above 3.0 t/man-day, and in PR24 noxious weed control, cypermethrin for Oryctes and supplying by year end. PA 1/2026 replies: circles satisfactory; wheelbarrows to reach 25 bags/man-day; Ganoderma census to start; roads satisfactory; no drain issues; crop only 0.1% below budget; P13 and P16 productivity to improve; PR24 fire-affected palms to recover; Oryctes reduced; supplying to finish this financial year; estate generally well managed. Agro 2/2025 GMD comments covered no replanting in 2026, improved manuring, avoiding narrow-band application, P99 pruning delays, avoiding over-spraying, rat monitoring, P18 cattle intrusion, PR24 ablation, Oryctes control and vegetation, and strict adherence to the fertiliser programme. Agro 1/2026 replies: replanting programme not finalised; PR24 needs supplying; 2025 manuring done without significant delays, but early 2026 hit by late delivery; P99 still under-pruned; P18 cattle intrusion unresolved; ablation quality needs improving; Oryctes still noticeable; vegetation suboptimal where there is no legume cover; yield trending up in early 2026; fertiliser programme revised.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma losses in P99: 121 of 1,477 palms infected in P99 (census Sep 2025, unchanged Feb 2026); stand down to 114 SPH vs 132 estate average. Deboling of fallen palms only ad hoc. (Agro 1/2026 · PA 1/2026)
+2. 2026 manuring behind schedule: Only 14% of the 2026 programme done by Feb 2026; P99 and P18 Mix B round 1 and PR24 compound round 1 outstanding (late delivery). Narrow-band application in P18, and in P13 in Sep 2025. (Agro 1/2026)
+3. Tall, under-pruned palms in P99: P99 yield 33.60 t/ha in 2025 vs 35.65 in 2024 (-5.8%). Palms over 50 ft: ripe bunches missed under dry hanging fronds; under-pruned sections need touch-up pruning. (Agro 1/2026 · Agro 2/2025)
+4. Magnesium and potassium deficiency: Sporadic Mg deficiency (orange fronds) on terraces in P13 and P16, leaf Mg below range in Aug 2025, improving with kieserite; mild K deficiency in places in P18. (Agro 1/2026)
+5. Close-planted palms in P16: Etiolated palms in close-planted sections of P16 (60.65 ha); selective thinning advised but no progress as at Feb 2026. 5% unripe bunches on platforms in P16. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Ganoderma census and deboling: PA wants a formal Ganoderma census and deboling of all fallen palms; deboling so far ad hoc. P99 has 121 infected of 1,477 palms. (PA 1/2026)
+2. Harvester output below target: 2.32 t/man-day in P13 and 2.19 in P16 in 2025 vs PA target of 2.5 t/man-day (GMD earlier asked for above 3.0). (PA 1/2026)
+3. Fire and Oryctes in PR24 replant: Fire from neighbouring smallholdings hit about 6 ha of PR24 in Feb 2026; no palms died. Oryctes still noticeable after 13 rounds of cypermethrin. (PA 1/2026)
+4. PR24 supplying not finished: 200 palms supplied to Dec 2025; more seedlings needed; supplying to be completed this financial year. (PA 1/2026)
+5. Low manuring output: Wheelbarrow output 20 bags/man-day vs 25 target at RM2.20/bag (RM44/day); manurers 1 of 2, covered by Sg. Beranang workers. (PA 1/2026)
+
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2020 (Jan–Dec): 2,968.75 t (Agronomy Report 1/2024 Appendix 2 Crop Statistics (19.28 t/ha))
 2021 (Jan–Dec): 3,486.78 t (Agronomy Report 2/2025 Appendix 3 Crop Statistics (22.63 t/ha))

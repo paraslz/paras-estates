@@ -54,6 +54,20 @@ CONCLUSIONS. PA Timur: well managed; recruit harvesters and sprayers, review pie
 
 KNOWN INCONSISTENCIES (see issues list): Ganoderma extent; PA Timur 19.77 t/ha 2024 base and 29% gain; Appendix 2a totals; Kema 406.19 vs 412.70 ha; weeding completion; rat status; roads; replanting plans; barn owl 80% vs 61%; COP basis; Timur labour table; thinning total; harvest interval.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Rats above threshold: Apr 2026 census above 10% in P02B2, P02B3 (11%), P08G1, P08G2 (12%), P08G3 (11%). P18H 4.20 vs 5.81 t/ha Jan–Apr 2026 (-27.7%), linked to rats. (Agro 1/2026 · PA 1/2026 Kema)
+2. Old palms awaiting replanting: 44% ageing and 15% very old. P98A1 lowest 2025 yield (22.36 t/ha); P98E1/E2 (77.95 ha) replanting deferred to 2027, P98A1 in 2028. (Agro 1/2026)
+3. Ganoderma in Kema block G: Many infected palms in Kema, particularly block G, mostly upper stem rot; sporadic at P98A1 (PA). Agro calls it negligible. No census done. (PA 1/2026 Kema · Agro 1/2026)
+4. 2026 fertiliser cut back: 2026 programme revised for fertiliser prices and limited stock: P02B Oct NK1 round dropped; P08G/P09F/P18H Aug and Nov Mix B cut to 1,500 g/palm. (Agro 1/2026)
+5. Low leaf N, mild K deficiency: 2025 leaf sampling: suboptimal N in P02B2, P02B3, P03C, P06D1, P06D2, P08G3; mild K deficiency in P08G3 and P03C (May 2026). (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Cost per tonne far over budget: Jan–Dec 2025: Timur RM311/t vs RM185 budget; Kema RM294.00/t vs RM236.82, mainly unbudgeted Head Office general charges. (PA 1/2026 Timur · Kema s.9)
+2. General charges heavily overspent: Jan–Dec 2025: Timur about 312% over; Kema RM1,038,551.86 vs RM572,162.19 (82% over). Unbudgeted Head Office items; Pinfosys not implemented. (PA 1/2026 Timur · Kema s.5)
+3. 2026 crop likely below budget: Low-cropping season at the June 2026 visits; Timur Jan–May 2026 yield down 1 to 2 t/ha vs 2025; both divisions expect to miss the 2026 budget. (PA 1/2026 Timur · Kema)
+4. Harvesters short, low output: Timur 19 vs 20 and Kema 18 vs 20 harvesters (Dec 2025); 2006 plantings cut 107 bunches in about 6 hours vs 159 potential. (PA 1/2026 Timur · Kema)
+5. Road grading and desilting behind: 2025: Timur no grading vs 1,000 chains budgeted; Kema 344.18 of 2,000 chains; grading suspended (diesel). No drain desilting in either division. (PA 1/2026 Timur · Kema)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025 (Timur + Kema combined), from PA Report 1/2026 Timur A & B (sections 5–9) + PA Report 1/2026 Kema Division (sections 5–9); combined by summing RM amounts / combined FFB (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 106.05 / 106.01
   - Harvesting labour: 47.86 / 47.19 *

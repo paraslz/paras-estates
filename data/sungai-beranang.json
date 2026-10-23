@@ -6711,5 +6711,77 @@
   ]
  },
  "blockGaps": "PA 1/2026 contains no cost or general-charges tables for this estate. June 2026 harvesting-interval record (Table 9) and the Dec 2025 table are photographs of handwritten sheets and were not transcribed. Ganoderma: no census, no counts. Foliar analysis of Jul 2025 prints no status ratings; PR23I not sampled. PA lists no oil palm 2025 application for P97A and P99B although Agro 1/2025 programmed NK1 2,000 g in Feb and Aug. PA manuring quantities are tonnes per block, not g per palm; no application-quality assessment this visit. PA 2025 table lists two 2004 bunch-weight rows (second probably 2005). R14 rubber yield (+231%) flagged by Agro as unreliable. NK1 2026 progress (0%) conflicts with P01C not being listed as outstanding.",
- "blockMap": "Dashboard ids match the PA and Agro ids: oil palm P97A, P99B, P01C, P04D, P05E, P13F, P18G1-G3 (Agro often cites P97, P99, P01, P04, P05, P13, P18 or P18A for the whole field); PR21H = PA 'PR21/H' = Agro 'PR21B / P21H' (declared mature Jan 2026); PR23I = PA 'PR23' = Agro 'PR23C / P23' (rubber to oil palm); rubber R06, R07, R14 (mature) and R21 (immature, ex oil palm). Reports used: PA 1/2026 (visit 20 Feb 2026, Jan-Dec 2025), Agro 1/2026 (visit 25 Jun 2026), Agro 2/2025 (visit 17 Dec 2025) and Agro 1/2025 for the 2025 programme."
+ "blockMap": "Dashboard ids match the PA and Agro ids: oil palm P97A, P99B, P01C, P04D, P05E, P13F, P18G1-G3 (Agro often cites P97, P99, P01, P04, P05, P13, P18 or P18A for the whole field); PR21H = PA 'PR21/H' = Agro 'PR21B / P21H' (declared mature Jan 2026); PR23I = PA 'PR23' = Agro 'PR23C / P23' (rubber to oil palm); rubber R06, R07, R14 (mature) and R21 (immature, ex oil palm). Reports used: PA 1/2026 (visit 20 Feb 2026, Jan-Dec 2025), Agro 1/2026 (visit 25 Jun 2026), Agro 2/2025 (visit 17 Dec 2025) and Agro 1/2025 for the 2025 programme.",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage, slow rounds",
+    "s": "Slow harvesting",
+    "d": "19 rounds vs 24 budget in 2025, average interval 23 days, with 10 of 19 harvesters. Jan–May 2026 intervals up to 27 days; most fields under 12 rounds in Jan–Jun 2026.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old P97/P99 ravines, replant stalled",
+    "s": "Old ravine palms",
+    "d": "P97 2.95 and P99 3.04 t/ha in Jan–Jun 2026 vs 6.08 and 5.89 (-51.5%, -48.4%): crop lost in untended ravines. Replant land preparation on hold (diesel price).",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "2026 manuring well behind",
+    "s": "Late manuring",
+    "d": "Only 50.27 of 339.80 MT applied (15%) by Jun 2026, due to labour shortage; RP and compound not received. Kieserite for Mg-deficient P18 and PR21 not applied.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Low palm stand",
+    "s": "Low stand",
+    "d": "Drone census 2026: estate 103 SPH; P99 76, P13 70 and PR23 90 SPH. Vacant points to be verified and supplied.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma with no census",
+    "s": "Ganoderma",
+    "d": "Ganoderma in P01, P05 and P18; no formal census, only ad hoc deboling. Both reports ask for a census.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Oil palm crop below budget",
+    "s": "Crop 3% short",
+    "d": "18.07 t/ha vs 18.61 t/ha budget and 20.40 in 2024 (-11.42%), Jan–Dec 2025; mainly the harvester shortage. 19 rounds vs 24 budgeted.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Workers short, high turnover",
+    "s": "Labour shortage",
+    "d": "23 of 37 oil palm workers (Dec 2025): harvesters 10 of 19, sprayers 2 of 6, manurers 3 of 5. Tappers 11 of 16. High turnover is the main issue.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Rubber yield 38% below budget",
+    "s": "Rubber 38% short",
+    "d": "611 kg/ha vs 982 kg/ha budget, 2025 (927 in 2024). No stimulant on R06/R07; poor tapping (panel wounding, uneven spot marking).",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Spraying and pruning behind",
+    "s": "Upkeep behind",
+    "d": "2025: circle spraying 369.04 of 700.58 ha (53%), pruning 579.76 of 1,082.12 ha (54%); fractured fronds in P04. Both held back by worker shortage.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Road grading stalled",
+    "s": "Roads not graded",
+    "d": "Only 193.97 of 1,200 chains graded in 2025; the contractor stopped over the RM10/chain rate.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

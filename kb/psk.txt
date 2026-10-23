@@ -51,6 +51,20 @@ RAINFALL (Agro Appendix 2). 2023: 4,215.5 mm (stated 180 rain days; monthly rows
 
 ADVISORS' BOTTOM LINE. PA: recruit harvesters and sprayers, switch to Inter Pumps, raise pumps per manday and hours worked, clear the pruning backlog, start mounding, train the new Assistants, and fix prolonged flooding. Agro: keep strictly to the fertiliser programme, since deviations over two years have depressed yield and bunch weight; shorten harvest intervals; speed up census; maintain barn owl boxes.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Severe harvester shortage: 52 harvesters vs 83 required (June 2026), 66 in July (17 short); 10.2 rounds vs 12 budgeted Jan–Jun 2026; intervals up to 49 days (A) and 50 days (B) in Jan 2026. (PA 2/2026 · Agro 1/2026)
+2. Flooded, low-lying peat: Much of the estate is low-lying peat that floods; water now recedes in about 60 days. Peat block PM05A yielded 7.85 t/ha in 2025, the lowest; leaning palms, early bunch rot. (Agro 1/2026 · PA 2/2026)
+3. Fertiliser behind programme: 2025 Mix B only 74% applied; 2026 only 2,872.90 of 5,039.74 ha manured to June and EFB 54.11 of 624.70 ha. Agro links low bunch weight to 2 years of deviations. (PA 2/2026 · Agro 1/2026)
+4. Rat damage well above threshold: Census Mar–Jun 2026: 18% damage overall (A and B 20%, D, E, F 17%, C 14%) vs 10% threshold; 3 baiting rounds done to June. (PA 2/2026)
+5. Old palms, thinning stand: All palms over 20 years except part of P19H. 2025 census: 114 (PM05B) to 131 (PM05A) palms/ha vs 136 before; PM05B 38,100 palms vs 45,560. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 44% below budget: 8,765.54 t FFB vs 15,573 t estimate, Jan–Jun 2026; 4.38 t/ha vs 7.79 budget and 5.45 last year (-20%). OER 15.82% vs 18.51%. (PA 2/2026 s.8)
+2. Cost per tonne over budget: RM389.93/t FFB vs RM320.56/t budget, Jan–Jun 2026, because crop is below budget; spending itself underspent (general charges 35% under). (PA 2/2026)
+3. Harvester and worker shortage: 78 workers vs 140 required (June 2026); harvesters 52 vs 83, still 17 short in July; pruning 2 of 21. PA calls it the main problem. (PA 2/2026)
+4. Extensive rat damage: Rat census Mar–Jun 2026: 18% overall, A and B 20%. Continue baiting in H2, census every 3 months, bait above 10%. (PA 2/2026)
+5. Flooding unresolved, no mounding: Prolonged flooding: UMB water management help needed. Mounding 27,484 palms budgeted, none done to June 2026. (PA 2/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5-9 (General charges, Upkeep, Harvesting tables, Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 71.77 / 81.53
   - Harvesting labour: 47.51 / 50.60

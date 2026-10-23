@@ -49,6 +49,20 @@ AGRO PRUNING AND PALM CONDITION: 95.8 ha of pruning pending in P00A, P09C and P1
 
 DATA CAVEATS: PA 2/2026 general charges RM/t (112.38) does not reconcile to its RM table (118.20 implied). The drain table's to-date chains look like RM values. Fogging text says 2 rounds, table 1. Ex-excavation area figures (103 ha, remaining 53 ha, 80 ha replanting) are not consistent. Palm census and harvester productivity differ between the PA and Agro reports.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Far fewer bunches after 2025 dry spell: Bunch numbers -47.2% Jan–May 2026 vs 2025; yield 4.76 vs 7.87 t/ha. Dry spell May-Jul 2025 (98.0, 124.0, 35.5 mm) linked to bunch abortion; P19J bunches -69.1%, P18I -60.1%. (Agro 1/2026)
+2. Harvester shortage, low output: 61 harvesters, short 17 (Jun 2026); 0.70 to 1.22 t/man-day to May. Over-ripe bunches above 5% in P06B and P12F. 78 harvesters by Sep 2026, now adequate. (Agro 1/2026 · PA 2/2026)
+3. 2026 manuring running late: To May 2026: Mix A 35%, Mix B 44%, kieserite and RP 0% after late deliveries; 2025 rounds 1 to 4 months late. Jun 2025 leaf sampling showed major nutrients down. (Agro 1/2026 · PA 2/2026)
+4. Under-pruned ravines left unharvested: 95.8 ha pruning pending in P00A, P09C, P12F (May 2026); tall ravine palms not harvested regularly. P09C fell to 16.00 t/ha in 2025 (19.42 in 2024), P12F to 15.67 (19.23). (Agro 1/2026 · PA 2/2026)
+5. Bagworm across 307.0 ha: 307.0 ha affected in 2026; Jul census counts P11E 1,891, P17H 1,833, P18I 887 before treatment. Fresh attack at P16/G in Sep 2026, census in progress. (PA 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 31% below budget: 12,621.25 t FFB vs 18,405 t budget, Jan–Jul 2026; 8.15 t/ha vs 11.89 budget and 11.09 last year (27% below). Low 1H cropping and harvester shortage. (PA 2/2026 s.8)
+2. Cost per tonne over budget: RM298.92/t FFB vs RM253.05 budget, Jan–Jul 2026, high on low crop. Water supply +118%: tractors carted water after mill effluent contaminated the source. (PA 2/2026 s.5, s.9)
+3. Harvester rounds and turnover: 11.8 of 14 budgeted rounds, 17-day interval (Jan–Jul 2026); harvesters 68 vs 76 in Jul, 78 by Sep. Raise earnings to cut turnover; phase out 2 small contractors. (PA 2/2026)
+4. Road grading stalled: 1,448.80 of 3,837 chains graded to Jul 2026; contractor stopped over low rates. Roads bumpy with ruts on hills; 645 t crusher run budgeted, none bought. (PA 2/2026)
+5. Bagworm and Ganoderma follow-up: Bagworm on 307.0 ha; fresh attack at P16/G, census in progress. Ganoderma sporadic but no census done and deboling insufficient; census and debole all fallen palms. (PA 2/2026 s.6)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jul 2026, from PA Report 2/2026, sections 5, 6, 7 and 9 (Cost of Production as at July 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 74.75 / 73.87
   - Harvesting: 52.43 / 52.54

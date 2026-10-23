@@ -5853,5 +5853,77 @@
   ]
  },
  "blockGaps": "Not found: foliar values for P96B, P96C, P96D, P97E (foliar appendix is an image; only F, G and H1 tables are in the text); leaf results for PR23I/PR24J; soil analysis; bagworm census counts (only qualitative); Ganoderma counts; rat damage census for P20H in 2026 (none done) and mature blocks Q1 2026; harvesting intervals 2026 per block (not tabled); over-ripe percentages; EFB per block for 2026. Extraction caveats: 2025/2026 fertiliser programme month cells are read from table layout (nine cells printed for ten months in the P96D rows; Appendix 1e for immature blocks is headed 2025 but holds the revised 2026 rates); manuring completion months from the PA table. Report inconsistencies: P96B 2025 diff -15.1% vs 13.94 to 13.85 t/ha; PA says estate yield +12% vs 2024 while Agro says -13.2%; Agro 1/2026 EFB table caption 2025 vs PA 78%; barn owl P02F unoccupied 18 vs 9; rat census Q3/Q4 2025 differs between Agro 2/2025 and Agro 1/2026; rat baiting threshold stated as 20% (Agro 1/2026 platform basis) vs 10% (PA, Agro 2/2025); PA lists capital expenditure transferred to Prosper Group; replant sub-block labels B4-B8 vs B3-B7; PR25K planting completed Dec 2025 (Agro) vs Feb 2026 (PA); visit dates PA 25 May 2026, Agro 21 May 2026 (previous 16 Dec 2025), Agro 2/2025 16 Dec 2025 (previous 19 Jun 2025), Agro 1/2025 19 Jun 2025. Programme 2025 from Agro 1/2025 Appendix 1.",
- "blockMap": "Dashboard ids = report block ids (P96B = PA/Agro P96/B sub-blocks B1-B9 (PA label) or B1-B7 (Agro Table 2); likewise C1-C10, D1-D9, E1-E10, F1-F5, G1-G2, H1; PR23I = I1-I4; PR24J = J1-J5; PR25K = ex-P96B replanting). Sub-block figures are listed inside the block rows. Extra keys estateWide.yield/harvesting/other hold estate-level items."
+ "blockMap": "Dashboard ids = report block ids (P96B = PA/Agro P96/B sub-blocks B1-B9 (PA label) or B1-B7 (Agro Table 2); likewise C1-C10, D1-D9, E1-E10, F1-F5, G1-G2, H1; PR23I = I1-I4; PR24J = J1-J5; PR25K = ex-P96B replanting). Sub-block figures are listed inside the block rows. Extra keys estateWide.yield/harvesting/other hold estate-level items.",
+ "top": {
+  "limits": [
+   {
+    "t": "Long harvesting intervals",
+    "s": "Slow harvesting",
+    "d": "16.6 rounds vs 24 budget in 2025; intervals often over 20 days on palms over 50 ft. Harvesters 84 of 94 (Dec 2025), 73 by Apr 2026. Over-ripe bunches in D3, D4, F1, G2.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Pruning backlog in old fields",
+    "s": "Pruning backlog",
+    "d": "8,398 of 17,306 ha pruned in 2025 (49%): P96D 11%, P96C 16%, P96B 29%. Dry hanging fronds hide bunches and obstruct harvesting.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old, tall palms in P96",
+    "s": "Old palms",
+    "d": "57% of area over 26 years. 2025 yield P96C 13.05 and P96D 14.16 t/ha; P96D stand fell to 120–138 SPH. Only 125.17 ha due for replant in 2027.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "N, P and Mg low in P02F and P03G",
+    "s": "Nutrient deficiency",
+    "d": "May 2025 leaf: N deficient in F1, F2, F4 and G2; Mg deficient in F1 and G2; P low. Orange spotting (K) in P03G low-lying areas (May 2026).",
+    "src": "Agro 2/2025 · Agro 1/2026"
+   },
+   {
+    "t": "Rat damage in PR23I",
+    "s": "Rats in immature",
+    "d": "22% of palms damaged (6,657 of 30,102) in May 2026, up from 13% in Dec 2025; I2 and I3 at 27%. Rebaited; post-census needed.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 23% below budget",
+    "s": "Crop 23% short",
+    "d": "34,353.43 t FFB vs 44,433 t budget, Jan–Dec 2025: 15.88 vs 20.54 t/ha, put down to the harvester shortage.",
+    "src": "PA 1/2026 s.8"
+   },
+   {
+    "t": "Harvesters short, earn below wage",
+    "s": "Harvester shortage",
+    "d": "84 vs 94 harvesters (Dec 2025); high turnover. PM96 harvesters earn RM57.28/day and PM03 RM41.00 vs RM65.39 basic wage.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Pruning only half done",
+    "s": "Pruning 49%",
+    "d": "8,398 of 17,306 ha (49%) to Dec 2025; P96D 11%, P96C 16%. Shortfall due to the harvester shortage.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low sprayer productivity",
+    "s": "Sprayer output",
+    "d": "3.7 ha/man-day vs 5 (circle) and 6 (selective) possible; RM20/ha rate should be about RM15. Circle spraying 84% of programme in 2025.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Immature upkeep and VOPs",
+    "s": "Immature upkeep",
+    "d": "Eradicate VOPs in immature areas. Field workers short at Dec 2025: manuring 7 vs 15, weeding 27 vs 31.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

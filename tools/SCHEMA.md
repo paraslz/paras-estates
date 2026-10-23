@@ -96,3 +96,8 @@ On a financial-year site (e.g. UMB, fyStart 5) charts label years "FY2025/26" an
  "ffbProd": {"years": [{"year": 2026, "label": "FY2025/26", "t": 0, "src": "..."}],   // FULL financial years only
              "monthly": {"2026": [May..Apr]}, "ytd": {"year": 2027, "from": 1, "to": 2, "t": 0}}   // FY month numbers: 1 = May … 12 = Apr
  An 11-month FY total is NOT a full year: put it in ytd (if no newer figure) or notes. Calendar-year data (rainfall) keeps plain "year".
+
+## top (Overview: Top 5 yield-limiting factors and Top 5 PA issues)
+`top: {limits:[{t,s,d,src,rep?}], pa:[{t,s,d,src,rep?}]}` — up to 5 each, ranked. `s` is the short tag shown on
+the Overview, `t` the pop-up title, `d` the detail with printed figures and periods. Rules in tools/EXTRACT_TOP.md.
+Optional `limitsSub` / `paSub` override the pop-up sub-line. Missing or empty → the block is hidden.

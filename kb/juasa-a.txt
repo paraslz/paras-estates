@@ -53,6 +53,20 @@ NURSERY (PA Section 11, Agro Section 3): 44,000 Yangambi (ML161) and 5,000 three
 
 OTHER: Vehicle running (Hilux, A+B) RM18,803.51 vs budget RM27,336. Capex RM3,600 spent (fibre boat, 19 January 2026) vs RM6,000 budget.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Severe rat damage: PA census 17% to 33% per sub-block vs 10% threshold (worst P19A3, 33%); estate stopped baiting when uptake fell below 30%, with no post-baiting census. (PA 2/2026 · Agro 1/2026)
+2. Old palms and low palm stand: 25% of area over 26 years (389.94 ha), only 2% prime-age; stand averages 138 SPH vs 148 target. 234.70 ha being replanted in 2026. (Agro 1/2026 · PA 2/2026)
+3. Flooding and no drain desilting: 316.95 ha (21%) flood-prone; no drain desilting Jan-Jun 2026 (excavators on replant felling); PR23 has many vacant points from flooding, 846 palms supplied. (Agro 1/2026 · PA 2/2026)
+4. Pruning lagging, harvesters short: Pruning 64% of programme to June 2026 as harvesters are short (43 of 46); dry hanging fronds in P93D, P01K1-2 and P11M. (PA 2/2026 · Agro 1/2026)
+5. Phosphate short, leaf P low: Rock phosphate only 94.15 of 220.00 MT (43%) applied to May 2026; leaf P low to moderately low. PA saw fertiliser in half circles only. (Agro 1/2026 · PA 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 26% below budget (A+B): Juasa A+B: 14,032.23 t FFB vs 18,899 t budget, Jan-Jun 2026 (6.53 vs 8.79 t/ha); PA blames harvester shortage, flooding and a low-crop season. (PA 2/2026 s.8)
+2. Sprayers short, low output: 14 sprayers vs 26 required (Jun 2026); 3.5 ha/man-day, earning RM52.56/day, below the RM65.38 basic; Ally not needed in circles. (PA 2/2026 s.3, 6.3)
+3. Rat damage very extensive: Sub-block census 17% to 33% vs 10% threshold; over 588.40 ha bait take fell to 11% by round 4. (PA 2/2026 s.6.7)
+4. Harvesters short, pruning slow: Harvesters 43 vs 46 (Jun 2026); 9.4 rounds vs 12 (A+B, Jan-Jun 2026); pruning 64% of programme. PA wants longer working hours. (PA 2/2026 s.3, 6.6, 7)
+5. No assistant in charge: Assistant-in-charge Mr Tomi resigned from June 2026; Senior Manager managing directly; replacement needed. (PA 2/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026 (Juasa A+B combined), from PA Report 2/2026, Sections 5-9 (General Charges, Upkeep, Harvesting, Crop, Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 91.83 / 87.97
   - Supervision: 0.00 / 0.62

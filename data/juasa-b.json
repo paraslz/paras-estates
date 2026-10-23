@@ -14271,5 +14271,79 @@
   ]
  },
  "blockGaps": "No Ganoderma, basal stem rot or bagworm census figures in either report (Ganoderma census not yet done; PA saw no other pests). No per-sub-block palm census (Agro Table 5 and PA rat census are by main block). No block-level bunch weight or bunch count (PA gives bunch weight by planting year only; mapped to blocks by planting year). No separate Juasa B production tonnage for 2026 (PA crop table is the 2,149.17 ha base); no block-level harvester output. Rat census has no figures for P93F, P97H, P99I, P00J, PR24V, PN22T2 (PN22T2 only inside the P22T census). Foliar results printed only for P15N1-N4, P16P1-P2, P04L, P20R4 (sample dates 2025; no rating or deficiency call per block); none for F, H, I, J, T, V. No block-level circle/selective split for sub-blocks (PA and Agro Table 12 are by main block). Agro Table 12 prints circle round 1 only for some blocks. No Agro 'visit' per-block spraying chemicals, only estate rates. 2025 fertiliser programme taken from Agronomy Report 1/2025 (visit for 2-2024, Jan 2025) because Appendix 1b in the 8 Jan 2026 report (1/2026 visit for 2-2025) is headed 2025/2026 inconsistently and carries draft 2026 quantities; the 2025 table lists T2 as one 62.1 ha row and has no PR26 row (PN22T2 shown from the T2 row). Agro Appendix 3b 'T2' reading (flooded 40.50 ha = PN22T2 portion) is an interpretation. Culvert dates 10-11 July 2026 appear in a report for a 24-25 Jun visit (as printed). Foliar sampling dates printed 6/3/2025 and 17/5/2025 read as dd/mm/yyyy.",
- "blockMap": "Dashboard ids match the Agro sub-block ids (Table 17, Appendix 1b/3b) except: PN22T2 = PA 'PN22 T2' / 'PR22/TB' and Agro 'P24TB' (40.27 ha) / '\"T2-supply palms\" 40.5 ha' / Appendix 3b 'T2' (62.10 ha incl. P22T2 21.63 + 40.47); PR26X5-X6 = PA 'PR26/X5-X6' (60 ha) = Agro 'P97H2 & P97H3 replanting 2026' (ex-P97H2/H3, still listed in Table 17 for Jan-May yield). PA tables use main blocks (PM93F, PM97H, PM99I, PM00J, PM04L, PM15N, PM16P, PM20R, PM22T, PN22T2, PR24V) so the same main-block row is shown under each sub-block; PA rat census 'P22T' (268.40 ha) = T2+T4+T5+T6 + PN22T2; PA PM22T manuring lists sub-blocks as 1,2,4,5 which match T2,T4,T5,T6 by hectares (21.63, 75.9, 58.1, 72.3). Agro Table 17 also covers the 1,365.03 ha total (includes H2/H3)."
+ "blockMap": "Dashboard ids match the Agro sub-block ids (Table 17, Appendix 1b/3b) except: PN22T2 = PA 'PN22 T2' / 'PR22/TB' and Agro 'P24TB' (40.27 ha) / '\"T2-supply palms\" 40.5 ha' / Appendix 3b 'T2' (62.10 ha incl. P22T2 21.63 + 40.47); PR26X5-X6 = PA 'PR26/X5-X6' (60 ha) = Agro 'P97H2 & P97H3 replanting 2026' (ex-P97H2/H3, still listed in Table 17 for Jan-May yield). PA tables use main blocks (PM93F, PM97H, PM99I, PM00J, PM04L, PM15N, PM16P, PM20R, PM22T, PN22T2, PR24V) so the same main-block row is shown under each sub-block; PA rat census 'P22T' (268.40 ha) = T2+T4+T5+T6 + PN22T2; PA PM22T manuring lists sub-blocks as 1,2,4,5 which match T2,T4,T5,T6 by hectares (21.63, 75.9, 58.1, 72.3). Agro Table 17 also covers the 1,365.03 ha total (includes H2/H3).",
+ "top": {
+  "limits": [
+   {
+    "t": "Harvester shortage, slow rounds",
+    "s": "Slow harvesting",
+    "d": "Harvesters 44 of 60 (Jun 2026); 8.7 rounds vs 12 to June, interval 16 days; outturn 68%. Overripe 5-16% in fresh bunches (Agro).",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooding and waterlogging",
+    "s": "Flooding",
+    "d": "613.90 ha (40%) flood-prone, worst in P99I3/I7/I8, P15N and P00J1; PR22/T2 palms died after three plantings; P16P1 and P15N4 waterlogged.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Old palms and low palm stand",
+    "s": "Old palms, low SPH",
+    "d": "45% of area over 26 years (693.3 ha); stand averages 125 SPH vs 138 in Juasa A. Juasa B yield 9.73 t/ha in 2025 vs 17.42 for Juasa A.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Heavy rat damage, no barn owls",
+    "s": "Rat damage",
+    "d": "Fresh rat damage 22-30% (May 2026) in P04L, P15N, P16P, P20R, P22T; only one baiting round done; no barn owl boxes.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring well behind",
+    "s": "Late manuring",
+    "d": "Only 39% of 2026 programme (404.03 of 1,023.00 mt) by May 2026: Mix B 32%, RP 15%; Mix B and RP arrived late, applied in July. Leaf P low to moderately low.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 26% below budget (A+B)",
+    "s": "Crop 26% short",
+    "d": "Juasa A+B: 14,032.23 t FFB vs 18,899 t budget, Jan-Jun 2026 (6.53 vs 8.79 t/ha); PA blames harvester shortage, flooding and a low-crop season.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Harvesters 16 short",
+    "s": "Harvester shortage",
+    "d": "44 harvesters vs 60 required (Jun 2026), 12 still short after July hires; 8.7 rounds vs 12; outturn 68%; only 1 Badang (9 planned).",
+    "src": "PA 2/2026 s.3, 7",
+    "rep": true
+   },
+   {
+    "t": "Persistent flooding",
+    "s": "Flooding",
+    "d": "PR22/T2 redeclared PR22/TB: palms died after three plantings from persistent flooding; left vacant until flooding is solved. Early-year floods delayed spraying.",
+    "src": "PA 2/2026 s.2.5",
+    "rep": true
+   },
+   {
+    "t": "Pruning far behind",
+    "s": "Pruning 18% done",
+    "d": "Progressive pruning 1,145.47 of 6,462.60 ha (18%) to June 2026; corrective backlog 94.12 ha of 110.57 ha still to do.",
+    "src": "PA 2/2026 s.6.6",
+    "rep": true
+   },
+   {
+    "t": "Rat damage 22-30%",
+    "s": "Rat damage",
+    "d": "Fresh rat damage 22-30% in May 2026 with only one baiting round; PA says continue baiting until below 10% and census every 3 months.",
+    "src": "PA 2/2026 s.6.7",
+    "rep": true
+   }
+  ]
+ }
 }

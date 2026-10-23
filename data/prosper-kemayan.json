@@ -4543,5 +4543,75 @@
   ]
  },
  "blockGaps": "Reports give manuring progress, weeding progress and costs by whole block only in part, not per block per fertiliser (the PA 1/2026 Table 11 is estate-wide by month; Agro Table 4 estate-wide by type). Months in the 2025, 2026 and 2027 fertiliser tables are inferred from the column layout of the extracted text (the 2026 programme table lost its dashes, so only the round sequence is stated). Pruning rating tables (good/fair/poor per sub-block) and weeding rating tables in Agro 1/2026 and 2/2026 are tick marks not captured in the text, so sub-block ratings are not available; Agro 2/2026 foliar appendix images (Appendix 2) not read, only the Table 7 values. Agro 2/2026 bagworm table has no figures for P99A and P04B. Ganoderma census tables give only the number infected and fallen palms; no % infected per block or treatment totals. Agro 2/2026 sampling date for leaf analysis not printed. Inconsistencies noted: P05C 2024 yield 24.55 vs 21.55 t/ha; P06D FFB 1,780.20 vs 1,780.26 MT; Agro 1/2026 says 2025 yield decline -10.89% but its table shows -7.81%. PA 1/2026 contains no block-level census/palm counts or leaf data.",
- "blockMap": "Dashboard ids P99A, P04B, P05C, P06D are the whole-block ids used in both reports. The Agronomy reports also work at sub-block level: P99A = A1, A2, A3; P04B = B1 to B6; P05C = C1 to C6; P06D = D1 to D5. Sub-block ids are kept inside the rows. PA 1/2026 tables are by whole block (and sometimes on the old pre-exclusion hectarage: 210.89 / 388.30 / 279.93 / 286.40 ha, versus current planted 182.26 / 310.31 / 234.68 / 247.57 ha; rows say which). Block area in these reports = actual planted area after excluding 190.70 ha of Ganoderma vacant land. 2026 fertiliser month columns are partly inferred from the table column layout (see _gaps)."
+ "blockMap": "Dashboard ids P99A, P04B, P05C, P06D are the whole-block ids used in both reports. The Agronomy reports also work at sub-block level: P99A = A1, A2, A3; P04B = B1 to B6; P05C = C1 to C6; P06D = D1 to D5. Sub-block ids are kept inside the rows. PA 1/2026 tables are by whole block (and sometimes on the old pre-exclusion hectarage: 210.89 / 388.30 / 279.93 / 286.40 ha, versus current planted 182.26 / 310.31 / 234.68 / 247.57 ha; rows say which). Block area in these reports = actual planted area after excluding 190.70 ha of Ganoderma vacant land. 2026 fertiliser month columns are partly inferred from the table column layout (see _gaps).",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma: heavy palm losses",
+    "s": "Ganoderma",
+    "d": "Main yield-reducing factor: 190.70 ha already vacant; 2,189 infected and 21,048 fallen palms in 974.82 ha (Jul 2026). PA says 17% of palms dead or infested.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "2026 manuring running late",
+    "s": "Late manuring",
+    "d": "Only 547.40 of 1,073.45 mt (52%) applied to June 2026; Mix A (0 of 173.70 mt) and Mix B (0 of 199.00 mt) not applied; manuring workers 4 vs 8.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Dry spell in 2026",
+    "s": "Dry spell",
+    "d": "Only 694.5 mm rain Jan–Jun 2026 (Jan 13.0, Mar 30.0, Jun 65.5 mm); Agro links the May–June water stress to 8.82 t/ha vs 11.50 t/ha in Jan–Jun 2025 (-23.3%).",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "All palms over 20 years old",
+    "s": "Old palms",
+    "d": "All 974.82 ha over 20 years; P99A (182.26 ha) over 26 years, 8.30 vs 10.52 t/ha Jan–Jun 2026 vs 2025. Replanting for 2027/2028 still to be finalised.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvesters short, delays in P05C",
+    "s": "Harvester shortage",
+    "d": "46 harvesters vs 48 required (31 May 2026) at 1.28 t/day vs 2.00 target; delayed harvesting and over-ripe bunches in P05C (-35.9% Jan–Jun 2026).",
+    "src": "PA 1/2026 · Agro 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 10% below budget",
+    "s": "Crop 10% short",
+    "d": "7,078.90 mt FFB (7.26 t/ha) Jan–May 2026, 10% below the 8,664.77 mt budget; every field below estimate, P05C 6.40 vs 10.42 t/ha.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM292.76/t FFB vs RM286.61/t budget to Apr 2026; general charges RM121.25/t vs 100.49 (21% over).",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Head office fees and security overspent",
+    "s": "HO fees, security",
+    "d": "Jan–Apr 2026: head office/agency fees RM200,475.05 (+67%), security RM57,183.43 (+87%, extra night watchman), paid leave +58%, consultant fees +42%.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Low harvester productivity",
+    "s": "Low harvester output",
+    "d": "1.28 t/day per harvester vs 2.00 t target, Jan–May 2026; earnings below minimum wage (estate to verify); 46 harvesters vs 48 required.",
+    "src": "PA 1/2026 s.8.3"
+   },
+   {
+    "t": "Manuring late, P05C Ganoderma not begun",
+    "s": "Late manuring",
+    "d": "491.65 of 955.15 mt 1H programme (52%) to May 2026; Mix A and Mix B nil (late delivery). P05C Ganoderma deboling and mounding budgeted but not started.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

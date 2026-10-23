@@ -47,6 +47,20 @@ CONCLUSIONS. PA: few issues; circles and inter-rows satisfactory; focus on spray
 
 PERIODS. Estate yields: Jan-Dec 2025 = 13.34 t/ha (1,627.55 t); Jan-Dec 2024 = 14.76 t/ha; Jan-Mar 2026 = 2.98 t/ha (363.00 t) vs Jan-Mar 2025 = 2.50 t/ha (304.40 t). Block yields on the dashboard are Jan-Dec 2025 vs Jan-Dec 2024 (Agro Table 10). Budget yield 22.40 t/ha is for Jan-Dec 2025 (PA 6.1). Note Jul and Aug 2025 monthly production are both shown as 146.74 t in Agro Appendix 3 (total still sums to 1,627.55 t).
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Harvester shortage, slow rounds: 2025 rounds: P02 13 (54%), P03 17 (71%) vs 24. Intervals up to 26 days Oct 2025–Mar 2026; over 10% overripe bunches on P03 platforms (Apr 2026). (Agro 1/2026)
+2. P90 old palms barely harvested: P90 (36.99 ha, 1990, palms over 55 ft) yielded 0.35 t/ha in 2025 vs 1.32 in 2024; 0.5 round in 2025, none Jan–Mar 2026. Replanting deferred pending solar decision. (Agro 1/2026)
+3. 2026 manuring not started: No 2026 manuring in P02 and P03 by the Apr 2026 visit, partly from uncertainty over the solar project; applicators were at Perhentian Tinggi. (Agro 1/2026)
+4. Jun–Jul 2025 drought: Jun 84 mm and Jul 49 mm in 2025; Agro expects the drought hurt palms. 2025 yield 13.34 t/ha vs 14.76 in 2024. (Agro 1/2026)
+5. Ganoderma untreated in P02 and P03: Ganoderma symptoms (rotting roots, stem decay, unopened spears) in P02 and P03; no census, de-boling or treatment done yet. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop well below budget: 13.34 t/ha vs 22.40 t/ha budget, Jan–Dec 2025. Low cropping season at visit, many male flowers. (PA 1/2026 · Agro 1/2026)
+2. Few rounds, short harvester days: 15 harvesting rounds vs 24 budgeted in 2025, average interval 17 days. Harvesters work about 6 hours a day; should work 9. (PA 1/2026)
+3. Harvester numbers thin: Only 2 harvesters in Dec 2025 (1:42 ha); 4 by May 2026 after recruiting 2. Group MD wants 6 permanent harvesters. 8 workers vs 14 required. (PA 1/2026)
+4. P90 future undecided: P90 status undecided (solar project planned); blanket sprayed, one harvester picking where possible, no pruning for a long time. (PA 1/2026)
+5. Sprayer output and VOPs: Mist blower 4 ha/man-day (potential 6); no daily costing book yet. Regenerating Tetracera and remaining VOPs to be sprayed next round. (PA 1/2026)
+
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2020 (Jan–Dec): 2,638.65 t (Agronomy Report 1/2026 Appendix 2 Yield Statistic)
 2021 (Jan–Dec): 1,644.91 t (Agronomy Report 1/2026 Appendix 2 and Appendix 3 Monthly Production)

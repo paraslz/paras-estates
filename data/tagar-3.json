@@ -6905,5 +6905,75 @@
   ]
  },
  "blockGaps": "Not found: leaf nutrient numbers (both Agro appendices carry the foliar analysis as an image); soil analysis; bagworm and rat census month placement and before/after labelling are not resolved in the extracted tables; bagworm threshold not printed; no Ganoderma census counts or percentages (census not done) and no block-level Ganoderma data in PA; Table 8 actual harvesting intervals at 17 Jun 2026 is a chart (not extracted); harvesting intervals for P18I/P19J not tabled; over-ripe and loose-fruit percentages only for P06B and P12F (>5% Jun 2026; >20% Dec 2025) and P00A (>20% Dec 2025); pruning charts not extracted. Report inconsistencies: PA says yield 7% above 2024 but table 18.21 vs 18.89 t/ha is -3.6%; PA rat table and Agro rat tables do not align by period; P17H 87.45 ha vs 93 ha; Agro blocking table sums to 1,542.65 ha with P09C 248 ha and P12F 167.3 ha vs 278 ha and 137.30 ha elsewhere (PA actuals show a separate 30 ha under P09C on a Mix B/KIE/RP 1,750 g sequence); P09C pruning 94% printed vs 233/278 = 84%; P18I 2025 Mix B 2nd round printed 2,250 g but MT matches 2,000 g; subsurface 2026 cancelled (PA) yet still in the revised programme for P06; Agro text says kieserite not applied in P09C although the appendix has no kieserite for P09; programme months for 2025/2026 (fertNow/fertPrev) are read from the table layout. Programme 2025 from Agro 1/2025 Appendix 1; the visit dates for Agro 1/2025, 2/2025 and 1/2026 are Jul 9 2025, Dec 10 2025 and Jun 17 2026;  PA 2/2026 (visit 15 Sep 2026, Jan–Jul 2026) replaced PA 1/2026 rows; it has no block yields, so block t/ha remain Agro 1/2026 Jan–May 2026. PA 2/2026 manuring table lists Jul–Sep 2026 applications without dates; per-block manuring progress bars remain from Agro 1/2026 (to May). Bagworm census unit not stated.",
- "blockMap": "Dashboard ids = PA field ids without the PM prefix. Agro report sub-blocks map as: P00A = P00A1+P00A2 (programme P00A/P00B); P06B = P06B1+P06B2 (programme P06A 84 ha, P06B 120 ha); P09C = P09C1+P09C2 (programme P09A/P09B); P10D = programme P10C; P11E = P11E1+P11E2 (programme P11A/P11C); P12F = P12F1+P12F2 (programme P12B/P12D/P12E); P16G, P17H, P18I (P18I1/I2), P19J (P19J1/J2) = programme P16-P19. The 80 ha vacant PN25K area is not a dashboard block and is in estateWide.other. Extra keys estateWide.yield/harvesting/other hold estate-level items."
+ "blockMap": "Dashboard ids = PA field ids without the PM prefix. Agro report sub-blocks map as: P00A = P00A1+P00A2 (programme P00A/P00B); P06B = P06B1+P06B2 (programme P06A 84 ha, P06B 120 ha); P09C = P09C1+P09C2 (programme P09A/P09B); P10D = programme P10C; P11E = P11E1+P11E2 (programme P11A/P11C); P12F = P12F1+P12F2 (programme P12B/P12D/P12E); P16G, P17H, P18I (P18I1/I2), P19J (P19J1/J2) = programme P16-P19. The 80 ha vacant PN25K area is not a dashboard block and is in estateWide.other. Extra keys estateWide.yield/harvesting/other hold estate-level items.",
+ "top": {
+  "limits": [
+   {
+    "t": "Far fewer bunches after 2025 dry spell",
+    "s": "Low bunch numbers",
+    "d": "Bunch numbers -47.2% Jan–May 2026 vs 2025; yield 4.76 vs 7.87 t/ha. Dry spell May-Jul 2025 (98.0, 124.0, 35.5 mm) linked to bunch abortion; P19J bunches -69.1%, P18I -60.1%.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Harvester shortage, low output",
+    "s": "Short of harvesters",
+    "d": "61 harvesters, short 17 (Jun 2026); 0.70 to 1.22 t/man-day to May. Over-ripe bunches above 5% in P06B and P12F. 78 harvesters by Sep 2026, now adequate.",
+    "src": "Agro 1/2026 · PA 2/2026"
+   },
+   {
+    "t": "2026 manuring running late",
+    "s": "Late manuring",
+    "d": "To May 2026: Mix A 35%, Mix B 44%, kieserite and RP 0% after late deliveries; 2025 rounds 1 to 4 months late. Jun 2025 leaf sampling showed major nutrients down.",
+    "src": "Agro 1/2026 · PA 2/2026"
+   },
+   {
+    "t": "Under-pruned ravines left unharvested",
+    "s": "Ravine crop losses",
+    "d": "95.8 ha pruning pending in P00A, P09C, P12F (May 2026); tall ravine palms not harvested regularly. P09C fell to 16.00 t/ha in 2025 (19.42 in 2024), P12F to 15.67 (19.23).",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Bagworm across 307.0 ha",
+    "s": "Bagworm",
+    "d": "307.0 ha affected in 2026; Jul census counts P11E 1,891, P17H 1,833, P18I 887 before treatment. Fresh attack at P16/G in Sep 2026, census in progress.",
+    "src": "PA 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 31% below budget",
+    "s": "Crop 31% short",
+    "d": "12,621.25 t FFB vs 18,405 t budget, Jan–Jul 2026; 8.15 t/ha vs 11.89 budget and 11.09 last year (27% below). Low 1H cropping and harvester shortage.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM298.92/t FFB vs RM253.05 budget, Jan–Jul 2026, high on low crop. Water supply +118%: tractors carted water after mill effluent contaminated the source.",
+    "src": "PA 2/2026 s.5, s.9"
+   },
+   {
+    "t": "Harvester rounds and turnover",
+    "s": "Harvesting behind",
+    "d": "11.8 of 14 budgeted rounds, 17-day interval (Jan–Jul 2026); harvesters 68 vs 76 in Jul, 78 by Sep. Raise earnings to cut turnover; phase out 2 small contractors.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Road grading stalled",
+    "s": "Poor roads",
+    "d": "1,448.80 of 3,837 chains graded to Jul 2026; contractor stopped over low rates. Roads bumpy with ruts on hills; 645 t crusher run budgeted, none bought.",
+    "src": "PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Bagworm and Ganoderma follow-up",
+    "s": "Bagworm, Ganoderma",
+    "d": "Bagworm on 307.0 ha; fresh attack at P16/G, census in progress. Ganoderma sporadic but no census done and deboling insufficient; census and debole all fallen palms.",
+    "src": "PA 2/2026 s.6",
+    "rep": true
+   }
+  ]
+ }
 }

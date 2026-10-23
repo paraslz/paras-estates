@@ -49,6 +49,20 @@ GROUP MD COMMENTS ON AGRO 1/2026 (with agronomist replies, Agro 2/2026): replant
 
 ROADS, DRAINS, MECHANISATION (PA 1/2026). 2,553 chains graded; desilt drains before monsoon; scupper drains, humps and sumps; mini crawler or motorised wheelbarrow for evacuation and manuring.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Poor crop recovery in old fields: Ravines missed, bunches rotting on palms, loose fruit left in P98–P02; output under 1.5 mt/man-day. Jan–Aug 2026: P98 8.05, P00 9.71 t/ha vs 11.58 estate. (Agro 2/2026)
+2. Manuring far behind programme: 502.06 of 979.29 mt due by Jul 2026 applied (51%; 43% of year); no RP received. 2025 was only 32% of programme. Year's programme will not be finished. (Agro 2/2026 · Agro 1/2026)
+3. Under-pruned tall palms: Dry hanging fronds in ravines of P98–P04 block harvesters; only 22% of fields pruned in 2025. P98 still on round 2/12 at Aug 2026. (Agro 2/2026 · Agro 1/2026)
+4. Stand density falling: Drone census Q1 2026: average 123 SPH (was 129); P00 112, P04 108. P19A only 62 SPH (unplantable slopes) and 5.19 t/ha Jan–Aug 2026. (Agro 2/2026)
+5. K and Mg low in prime fields: Leaf K and Mg below optimum in P09, P15, P16 (Jul 2026): Mg 0.25, 0.23, 0.24%. Mg yellowing in P15 and P16. (Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 23.34% below estimate: 3,816.45 mt FFB vs 4,978.62 mt estimate, Jan–Mar 2026 (3.71 t/ha). (PA 1/2026)
+2. Manuring delayed: 204.80 mt applied vs 337.95 mt programmed by Mar 2026; estate must expedite. (PA 1/2026)
+3. Low harvester productivity: 1.46 mt/man-day, Jan–Mar 2026 (P98 only 1.02); 53 of 57 harvesters. March interval 14–20 days; verify records, keep under 15 days. (PA 1/2026)
+4. Corrective pruning unfinished: 438.60 of 664 ha (66.05%) corrective pruning in fields over 17 years by Mar 2026; P04 21%, P09 18%. (PA 1/2026)
+5. Drains before monsoon: Desilt drains in low-lying areas before the monsoon; add scupper drains, humps and sumps on roads. (PA 1/2026)
+
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2025 monthly: Jul 2,032.36; Aug 2,079.98; Sep 2,023.22; Oct 2,275.48; Nov 1,862.78; Dec 1,881.56
 2026 monthly: Jan 1,424.92; Feb 1,168.78; Mar 1,260.24; Apr 1,687.82; May 1,515.52; Jun 1,552.10; Jul 1,565.86; Aug 1,847.28

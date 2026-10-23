@@ -3420,5 +3420,77 @@
   ]
  },
  "blockGaps": "No rat census or baiting data for P03C1 or P05E (the census covers F and G only). No block-level leaf or soil analysis in either report. No weeding table text for 2025 beyond the garbled Agro Table 15 (round columns read by position, which conflicts with PA on whether P05E had 3 inter-row rounds: PA 3.0 rounds, Agro only P03C). PA Table 12 monthly manuring split by fertiliser is garbled; 2025 per-block application dates are not given. 2026 programme months for F1-F4 later rounds and 2025 C1 are read from column positions. E2 is 26 ha in the blocking table and 46 ha in the 2025 appendix and PA Ganoderma table (kept as printed); Ganoderma percentage printed as 0.010/0.009 while text says 0.009%. PA cost of production text says RM191.10 and table RM193.10; PA road grading text 784.57 vs table 748.57 chains. Agro Jan 2026 F interval printed '16-14'. Agro 2/2025 not used for the 2025 programme because Agro 1/2025 gives it. No bunch count or bunch weight in either report.",
- "blockMap": "Dashboard ids P03C1, P05E, P14F and P15G equal the reports' PM03/C1, PM05/E (E1+E2, 118 ha), PM14/F (F1-F4, 164 ha) and PM15/G (G1-G4, 146 ha). Sub-blocks are shown inside the block with the sub-block id. Insan Jaya rows in the shared Agronomy appendix are labelled C1 (printed in the Darabif list), E1, E2, F1-F4 and G1-G4; Darabif's own rows were not used here. The rat baiting tables label F and G the wrong way round; rows were reassigned by hectares and palm counts."
+ "blockMap": "Dashboard ids P03C1, P05E, P14F and P15G equal the reports' PM03/C1, PM05/E (E1+E2, 118 ha), PM14/F (F1-F4, 164 ha) and PM15/G (G1-G4, 146 ha). Sub-blocks are shown inside the block with the sub-block id. Insan Jaya rows in the shared Agronomy appendix are labelled C1 (printed in the Darabif list), E1, E2, F1-F4 and G1-G4; Darabif's own rows were not used here. The rat baiting tables label F and G the wrong way round; rows were reassigned by hectares and palm counts.",
+ "top": {
+  "limits": [
+   {
+    "t": "Long harvesting intervals",
+    "s": "Long intervals",
+    "d": "15.32 rounds in 2025 vs 24 target (PA); intervals mostly 18 to 28 days in PM14F and PM15G in 2025 (Agro). Harvesters 17 vs 21 needed (Mar 2026).",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring late and behind",
+    "s": "Late manuring",
+    "d": "2025 Mix B rounds up to 4 months late (completed Jan 2026); only 24% of the 2026 programme (168.15 of 689.49 mt) applied by Mar 2026.",
+    "src": "Agro 1/2026 · PA 1/2026"
+   },
+   {
+    "t": "Rat damage in PM14F and PM15G",
+    "s": "Rat damage",
+    "d": "Agro: 10.0 to 13.0% damage per block in Dec 2025 (PA says 8.94%); round-3 bait acceptance still 14% to 47%; no baiting Jan-Mar 2026.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Pruning behind in PM05E",
+    "s": "PM05E pruning",
+    "d": "PM05E pruned 61% in 2025 and 22% in Q1 2026; hanging dry fronds in PM05E1 and PM03C1. PM05E yield 18.73 t/ha in 2025 vs 23.02 in 2024 (-18.6%).",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Hilly PM15G weak and overgrown",
+    "s": "Hilly PM15G",
+    "d": "PM15G lowest yield at 21.14 t/ha in 2025; deficiency symptoms persist in hilly G3 and G4; bamboo, bracken and VOPs; about 5 ha of G3 rehabilitation left (Dec 2025).",
+    "src": "Agro 1/2026 · PA 1/2026 s.12"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Q1 2026 crop 65% of estimate",
+    "s": "Crop 65% of est.",
+    "d": "1,673.82 t FFB vs 2,572 t estimate, Jan-Mar 2026 (3.47 vs 5.33 t/ha); all four fields below estimate.",
+    "src": "PA 1/2026 Table 27"
+   },
+   {
+    "t": "Short of harvesters, few rounds",
+    "s": "Harvester shortage",
+    "d": "17 harvesters vs 21 required (Mar 2026); 15.32 rounds vs 24 in 2025; no mechanised infield collection (EV Badang suggested).",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Pruning behind in PM05E and PM03C1",
+    "s": "Pruning behind",
+    "d": "Q1 2026 pruning only 22% in PM05E and 67% in PM03C1; PM05E 61% in 2025; under-pruned palms with hanging dry fronds.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Pay below minimum wage",
+    "s": "Pay below min. wage",
+    "d": "Manurers earn RM64.40/day and PM05E harvesters RM63.00/day, below the RM65.38 minimum wage; PA asks for a fair rate.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "PM15G3 rehab and hilly roads",
+    "s": "PM15G3 and roads",
+    "d": "About 5 ha of PM15G3 rehabilitation still to do at Dec 2025; hilly roads in PM15G2 and G3 need upgrading; 2026 road work not started.",
+    "src": "PA 1/2026 s.12, 6.4.5",
+    "rep": true
+   }
+  ]
+ }
 }
