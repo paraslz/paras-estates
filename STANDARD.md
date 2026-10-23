@@ -143,3 +143,4 @@ UMB (paraslz/paraslz-umb-paras) and Far East (paraslz/parasIz-fareast-paras) run
 - Block detail must be readable on a phone: after extracting, apply tools/TIDY_BLOCKS.md (tables, stat cards, ≤4 short bullets; merge repeated rows; hide rows already in the yield chart; never change a figure).
 
 - Top 5 lists (`top`): after rebuilding an estate, write them per tools/EXTRACT_TOP.md (figures as printed, ranked by likely crop lost / importance; PA issues from the PA report only).
+- Group/front-page Ask reads the group pack plus the ALL-ESTATES pack (kb/all-N.txt, ~90 KB parts listed in kb/all.json, built by tools/build_kb.py): every estate's full report extracts without block-by-block tables, so group answers draw on all estate files.

@@ -1,0 +1,480 @@
+PARAS ALL-ESTATES PACK — Prosper group — part 1 of 6
+HOW TO USE THIS FILE (instructions for the AI assistant)
+- This is one part of the ALL-ESTATES pack: the full report extracts for every estate in the group (KPIs, top 5 issues,
+  costs, FFB production, field findings, actions), from the latest PARAS PA and Agronomy reports. Block-by-block tables
+  are left out; for those, open the estate's own pack (link given per estate).
+- Read every part listed before answering. Use ONLY these extracts. Cite estate and report for each figure.
+- Always state the period a yield or tonnage covers. Money in RM; fertiliser in grams per palm. Do not guess.
+
+===== ESTATE: batu-sablas =====
+Full pack incl. block detail: https://prosper-paras.netlify.app/kb/batu-sablas.txt
+PARAS ESTATE REPORT PACK — Ladang Batu Sablas
+Company: Ria Gemilang Sdn Bhd · Group: Prosper
+Latest reports: PA Report 1/2026 (visit 2026-05-13); Agronomy Report 1/2026 (visit 2026-04-13)
+Dashboard: https://prosper-paras.netlify.app/estate.html?e=batu-sablas
+Full reports (Google Drive): https://drive.google.com/drive/folders/1Z5VOoTHb8O6zyhZoUk2QUAu9vl1TBXu7
+Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
+
+REPORT EXTRACTS
+LADANG BATU SABLAS, Ria Gemilang Sdn Bhd (Prosper group). Fact pack drawn from two reports. (1) PA Report 1/2026 (Planting Advisory Report, Planting Advisor Mr. Boey Chee Weng, visit 13 May 2026, reviewing January to December 2025). (2) Agronomy Report 1/2026 (Agronomist En. Muhammad Ghazali Abdul Ghani, Junior Agronomist, signed with Mr. Chong Kuan Ming, Senior Agronomist; visit 13 April 2026; follow-up to the 23 October 2025 visit; Manuring Programme 2026). Plantation Controller Dr. Chua Chin Kok (Agro). Senior Manager En. Zulkarnain Bin Barik. Estate Manager Mr. Robin A/L Sinnappanah. Period note: PA financial and crop figures cover Jan-Dec 2025; Agro yield figures cover full year 2025 and Jan-Mar 2026. Money in RM.
+
+AREA (PA 1/2026 section 2, no change in the area statement). Mature 464.0 ha (95.67%), total planted 464.0 ha, no immature. Unplanted (jungle) 8.00 ha (1.65%), labour quarters 13.0 ha (2.68%), total 484.99 ha. All planting material Yangambi DXP. Fields (ha): P98 1998 74; P02 2002 74; P11A 2011 47; P11B 2011 64; P12A 2012 44; P12B 2012 64; P13A 2013 51; P13B 2013 46. PA 2.2: no replanting plans for this estate. Agro (section 2, Tables 1-3): block system unchanged and suitable for leaf sampling. About 68% of area is prime-age palms; 16% aged 20-25 years and 16% over 26 years. Tentative replanting: P98 (74 ha) in 2028, P02 (74 ha) in 2029; fertiliser programme for P98 to cease in 2027. Agro text says P98 is about 1% of estate area, but its Table 2 shows 15.95% for each of P98 and P02 (74 of 464 ha). No recent palm census (Agro 2.5); density 136-140 palms/ha in P98, P02, P11, P12 and 119-121 palms/ha in P13 sub-blocks. Palms per field (Agro Table 3): P98K 10,064 (136/ha); P02L 10,064 (136); P11A 6,392 (136); P11B 8,960 (140); P12A 5,984 (136); P12B 8,704 (136); P13A 6,171 (121); P13B 5,474 (119).
+
+LABOUR (PA 1/2026 section 3, as of Dec 2025). Total workers 38 against 41 required (-3). Harvesters 23 against 23 required (ratio 1:20 ha, adequate). Manuring workers 3 of 3. Spraying workers 4 of 4. Spraying mandore 3 of 3. Manuring mandore 1 of 1. Drivers 2 of 2. Loaders 0 of 2 (short 2). Security guards 2 of 3 (short 1). Worker to planted ha ratio 1:12 ha, adequate. PA comment on labour in 2025 cycle: harvesters and field workers adequate. The Group MD asked that the contractor be guided on work arrangements, worker welfare and salary payment, and that estate management reduce harvester turnover. PA 12.1: harvesters should earn high wages through high productivity and work 9 hours a day; PA 7.7 says harvesters work only 5 to 6.5 hours. Agro 5.2: first-quarter 2026 intervals in old plantings were hurt by weather and lower harvester output during public holidays; Agro 6.4 mentions harvester absenteeism and weather disruptions.
+
+GENERAL CHARGES (PA section 5, Jan-Dec 2025). Actual RM724,081.03 against budget RM422,931.00, i.e. RM1,560.52/ha against RM911.49/ha. Management and supervision RM269,092.31 (budget RM187,660; RM579.94/ha vs RM404.44). Labour and amenities RM168,285.73 (budget RM160,895; RM362.68/ha vs RM346.76). Other expenditures RM261,124.01 (budget RM66,940; RM562.77/ha vs RM144.27). MSPO RM25,578.98 (budget RM7,436; RM55.13/ha vs RM16.03). PA 5.2: overspend caused by under-budgeting of certain account codes in Pinfosys against the old-system budget. PA 5.3: Estate Manager advised to monitor over-expenditure in 2026 and give reasons.
+
+UPKEEP AND CULTIVATION (PA section 6, Jan-Dec 2025). Total RM930,510 against RM960,331 budget (underspent 3%), RM2,005.41/ha vs RM2,069.68/ha. Per ha actual vs budget: weeding 203.29 vs 201.14; manuring 1,561.48 vs 1,491.59 (RM724,525 vs RM692,097); pest and disease 9.70 vs 69.85 (RM4,500 vs RM32,412); census and thinning 4.09 vs 11.94; drains 7.70 vs no budget (RM3,575); roads and bridges 94.50 vs 140.54; boundary, survey, fences 0.44 vs 30.71; pruning 124.22 vs 123.91. PA 6.4.1: fertiliser cost overspent because urea was bought on the Chairman's instruction to be applied in the field to deter cattle intrusion.
+
+WEEDING (PA, 2025). Circle spraying 1,244 ha (2.7 rounds, 100% of budget; 2 rounds for old plantings, 3 for younger mature). Circles generally clean except P02 (partly clean, some due for spraying). Method Inter pump; output 3.8 ha/man-day (normal at least 4.5; Group MD asked above 5.0); piece rate RM20/ha; earnings RM76/man-day; glyphosate 0.38 l/ha (2.3 pumps/ha); 8 pumps per man-day (could be 12). Selective spraying 1,244 ha (2.7 rounds, 100%). Inter-rows generally clean with some soft woodies and VOPs, but P02 not satisfactory (urgent selective spraying and VOP eradication required) and P98 had overgrown VOPs in a photo. Mist blower output 4 ha/man-day; RM20/ha; earnings RM80/man-day; Garlon 0.29 l/ha (2.3 pumps/ha); 10 pumps per man-day acceptable. Agro (Mar 2026, Tables 7 and 11): first round of inter-row spraying 100% complete in all fields; first circle round complete in P13 and in progress in P11, P12 and old plantings; quality acceptable, minimal broadleaf weeds, soft grasses predominant in P98 and P02; field maintenance satisfactory.
+
+MANURING 2025 (PA section 6.4 and Agro Table 4). PA: 2,414 ha or 100% of the 2,414 ha budget applied; fertiliser programme completed. Manuring by wheelbarrow, 30 bags/man-day, RM2.50/bag, earnings RM75/man-day (satisfactory). Agro Table 4 (2025): Mixture A required 130.70 t, 100%; Mixture B 301.85 t plus 66.90 t carried forward, 100%; kieserite 38.75 t, 100%; rock phosphate 62.10 t, 100%; total 533.40 t, 100%. Agro 3.1: manuring completed fully in 2025, but the second round of Mixture B for P12B was 3 months behind schedule.
+
+MANURING 2026 (Agro section 3, as of March 2026, Table 5). Required 579.45 t: NK1 110.60 t (45.25 t received and applied, 41%), Mixture B 375.00 t (99.45 t received, 93.80 t applied, 25%), kieserite 31.30 t (all received, 13.55 t applied, 43%), rock phosphate 62.55 t (none received or applied, 0%). Total received 176.00 t, balance to receive 403.45 t, applied 152.60 t (26%). Agro 3.3: first Mix B round done in P12A and P12B though 2 months behind schedule; kieserite completed for P13 by March; first NK1 application completed for P98 and P02. Agro: 2026 programme revised because of substantial fertiliser price rises and limited stock; 2027 programme to be drawn up after the field inspection in the second half of 2026.
+
+REVISED 2026 FERTILISER PROGRAMME (Agro Appendix 1, grams per palm; months read from the table layout). P98: NK1 2500 g. P02: NK1 2000 g (two 2000 g entries appear; months not legible). P11 and P12: Mix B 2250 g Jan, kieserite 750 g Mar, Mix B 2250 g Apr, rock phosphate 1500 g Jun, Mix B 2250 g Aug. P13: Mix B 2250 g Feb, kieserite 750 g Mar, Mix B 2250 g May, rock phosphate 1500 g Jun, Mix B 2250 g Sep. Mix B is 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28-30% P2O5; kieserite 27% MgO. Note: the Table 5 Mix B requirement of 375 t equals about 9.0 kg/palm over P11 to P13 (41,685 palms), while Appendix 1 shows 6.75 kg/palm, so the percentages in Table 5 may be measured against the pre-revision programme.
+
+PEST AND DISEASE. PA 6.5 (visit 13 May 2026): no rat damage seen; two rounds of cypermethrin sprayed at P11A, P11B, P13A and P13B for bagworm and no fresh infestations seen; Ganoderma minimal and sporadic (photos of upper stem rot and fruiting bodies in P02); cattle intrusion still unresolved, cattle suspected of carrying bagworm into the estate; PA group MD comment: stay vigilant and run bagworm census to find instar stage. Agro (13 April 2026): rat census (Table 8, 200 palms per block) new damage P11A 14 palms (printed 7.5%), P11B 18 (9.0%), P12A 12 (6.0%), P12B 12 (printed 6.5%), P13A 11 (printed 6.5%), P13B 13 (printed 6.6%); P98 11 (5.5%), P02 10 (5.0%). All below the 10% threshold; baiting not required; quarterly monitoring advised. Bagworm defoliation signs in P12 and P13, severity much reduced, empty pupal casings and inactive larvae; no pest control carried out in 2026 so far per estate records. Ganoderma negligible in old plantings. Mild Mg and K deficiency symptoms in P12B, P13A, P13B, with sporadic orange fronds in terrace and hilly areas (low cation exchange capacity); leaf analysis for 2026 to be reported next time.
+
+ROADS (PA): 2,000 chains grading budgeted at RM10/chain, none done (not effective without compaction; on hold due to diesel price; RM17/chain with compaction in 2026/27); roads acceptable (Agro: 2026 maintenance delayed by rain). No drain budget.
+
+PRUNING (PA section 6.8; Agro 4.6, 5.4). Progressive pruning 5,568 ha of 5,568 ha budgeted (100%), appearance satisfactory. Rates per palm per year: RM1.20 for 1998 and 2002, RM0.80 for 2011-2013. Agro: canopy standards acceptable, no over- or under-pruning; old plantings pruning improved significantly in Q1 2026.
+
+HARVESTING AND COLLECTION (PA section 7, Jan-Dec 2025). Cost RM660,986 against RM719,887 budget: RM74.72/t FFB against RM68.80/t. Harvesting labour RM377,266 (RM42.65/t vs 41.56); internal transport RM181,393 (RM20.51/t vs 19.24); incentive RM67,753 (RM7.66/t vs 8.00); top-up wages RM34,574 (RM3.91/t, no budget) for new harvesters. PA 7.2: 18.5 rounds achieved against 24 budgeted, extending intervals and causing crop loss. PA 7.3: interval averaged 13 days at the May 2026 visit, some blocks 17 days due to rain. Outturn 96%. Two mini dumpers (2 cutters and 1 collector) in use; the others broken and too costly to repair, so wheelbarrows used. Output per harvester 1.43-2.07 t/man-day by block (PA 7.6), earnings RM48.62-71.34/day vs basic wage RM65.39; rates RM34/t (2011-2013), RM41-42/t (1998, 2002). Agro 2025 rounds (Table 14, target 24): P98 13.0; P02 14.0; P11A 13.0; P11B 14.0; P12A 13.5; P12B 16.5; P13A 14.0; P13B 20.5; average 15.0 (62%). Rounds to March 2026 (Table 16): P98 4.5; P02 3.5; P11A 3.0; P11B 3.0; P12A 3.5; P12B 5.0; P13A 2.5; P13B 3.0; average 3.5 (58% of target). Harvest intervals in days, Jan / Feb / Mar 2026 (Tables 6 and 10): P11A 11-20, 17-20, 9-21; P11B 6-17, 10-22, 8-18; P12A 18-26, 14-23, 9-19; P12B 17-31, 10-24, 9-19; P13A 6-18, 8-25, 7-21; P13B 7-23, 10-18, 9-21; P98 13-28, 13-25, 21-28; P02 16-24, 16-28, 23-27. Agro asks for intervals of 15 days or less. No crop backlog seen in old plantings (no harvesting observed). Over-ripe bunches in P11B.
+
+CROP PRODUCTION (PA section 8, Jan-Dec 2025, 464 ha). FFB 8,845.68 t against annual budget 10,463 t; same period 2024 was 9,285.52 t. CPO 1,680.68 t (budget 1,987.97 t; 2024 1,764.25 t), OER 19.00%. Kernel 353.83 t, 4.00%. PA prints FFB yield 18.80 t/ha against budget 20.41 and 20.01 for 2024; CPO yield 3.62 t/ha. However FFB 8,845.68 t divided by 464 ha is 19.06 t/ha, which is the figure in Agro Table 13, and 10,463 t over 464 ha is 22.55 t/ha, not 20.41 (see data caveats). PA 8.3: shortfall mainly due to shortage of harvesters early in the year. PA 8.4: low cropping season, mostly male flowers. Bunch weights Dec 2024 to Dec 2025 (PA): 1998 23.4 to 20.2 kg; 2002 22.7 to 22.1; 2011 16.8 to 16.8; 2012 15.9 to 16.6; 2013 12.9 to 16.0. Weight loss attributed to over-ripe bunches from extended intervals; the 2013 jump needs investigation.
+
+YIELD PERFORMANCE (Agro section 6). Table 13, full-year yield t/ha 2024 to 2025 (change): P98 17.98 to 16.60 (-7.7%); P02 18.33 to 18.13 (-1.1%); P11A 21.36 to 18.58 (-13.0%); P11B 22.41 to 18.83 (-16.0%); P12A 22.62 to 20.97 (-7.3%); P12B 19.37 to 18.08 (-6.7%); P13A 19.67 (Appendix 19.62) to 21.23 (+8.2%); P13B 20.10 to 22.50 (+11.9%); estate 20.01 to 19.06 (-4.7%). Estate yield history t/ha (Appendix 2a): 2021 16.99; 2022 14.98; 2023 15.55; 2024 20.01; 2025 19.06. Estate FFB: 2021 7,882.98 t; 2022 6,949.55; 2023 7,213.05; 2024 9,285.52; 2025 8,845.66. Table 15, Jan-Mar 2026 vs Jan-Mar 2025 t/ha: P98 3.17 vs 5.02 (-36.9%); P02 3.74 vs 3.86 (-3.1%); P11A 5.95 vs 4.31 (+38.1%); P11B 5.32 vs 4.11 (+29.4%); P12A 6.07 vs 5.60 (+8.4%); P12B 4.14 vs 3.99 (+3.8%); P13A 4.10 vs 5.02 (-18.3%); P13B 5.09 vs 5.50 (-7.5%); estate 4.54 vs 4.60 (-1.3%), 2,106.76 t. Monthly FFB 2026: Jan 784.64 t, Feb 513.29 t, Mar 808.83 t. Agro 4.3: first three months of 2026 were 4.54 t/ha, March the highest at 1.74 t/ha, other months said to be under 1.5 t/ha (but January is 784.64 t, about 1.69 t/ha). Agro 6.1: yield fell 4.7% in 2025 with most sub-blocks lower except P13A and P13B. Agro 6.3: Q1 2026 1.3% lower than Q1 2025 due to a drastic fall in P98 and P13A. Agro 6.2 and 6.5: crop recovery suboptimal due to harvesting frequency; agronomic condition of old and prime palms acceptable; bagworm to be watched.
+
+PRODUCTION COST (PA section 9, Jan-Dec 2025). Total RM2,315,577 = RM261.78/t FFB against RM201.00/t budget (budget total RM2,103,089). General charges RM81.86/t vs RM40.42; upkeep and cultivation RM105.19/t vs RM91.78; harvesting and collection RM74.72/t vs RM68.80. PA 9.1: cost high because the crop budget was not achieved (and general charges overspent). Production cost table prints budget upkeep RM960,301 and harvesting RM719,857, while sections 6 and 7 show RM960,331 and RM719,887.
+
+RAINFALL (PA Appendix 1 and Agro Appendix 3). Total mm and rain days: 2021 1,871.00 mm, 128 days; 2022 2,369.00, 116; 2023 2,335.00, 145; 2024 2,256.10, 165; 2025 2,313.00, 130. 2026 to March: Jan 32.00 mm (2 days), Feb 219.00 (8), Mar 133.00 (7), total 384.00 mm in 17 days.
+
+DATA CAVEATS. (1) PA prints 18.80 t/ha for 2025; arithmetic and Agro give 19.06 t/ha. (2) PA budget yield 20.41 t/ha does not match 10,463 t over 464 ha (22.55 t/ha); on tonnes FFB was 15.5% below budget, not 8%. (3) PA says no replanting plans; Agro schedules P98 in 2028 and P02 in 2029. (4) Rounds in 2025: 18.5 (PA) vs 15.0 (Agro). (5) P02 inter-rows unsatisfactory in PA (May) but acceptable in Agro (April). (6) Rat census percentages in Agro Table 8 do not match counts for P11A, P12B, P13A, P13B. (7) Agro Table 13 shows P13A 2024 yield 19.67, Appendix 2a gives 19.62.
+
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Slow harvesting rounds: 15.0 rounds in 2025 vs 24 target (Agro; PA says 18.5); intervals up to 28 days in Jan–Mar 2026. Overripe bunches: 1998 bunch weight fell from 23.4 to 20.2 kg (Dec 2024 → Dec 2025). (Agro 1/2026 · PA 1/2026)
+2. 2026 manuring running late: Only 152.60 of 579.45 t applied (26%) by Mar 2026; 403.45 t not yet received; rock phosphate 0%. Programme cut back because of fertiliser prices. (Agro 1/2026)
+3. Old palms in P98 and P02: 32% of area is over 20 years old. P98 yielded 3.17 t/ha in Jan–Mar 2026 vs 5.02 t/ha in Jan–Mar 2025 (-36.9%). Replanting set for 2028 (P98) and 2029 (P02). (Agro 1/2026)
+4. Potassium and magnesium deficiency: Mild Mg and K deficiency in P12B, P13A, P13B; orange fronds on terraced and hilly areas (low cation exchange capacity). (Agro 1/2026)
+5. Bagworm and cattle intrusion: Bagworm defoliation in P12 and P13 (now much reduced); cattle intrusion still unresolved and suspected of bringing bagworm in. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Cost per tonne well over budget: RM261.78/t FFB vs RM201.00/t budget, Jan–Dec 2025, mainly because the crop budget was missed. (PA 1/2026 s.9)
+2. Crop 15.5% below budget: 8,845.68 t FFB vs 10,463 t budget, Jan–Dec 2025; put down to a harvester shortage early in the year. (PA 1/2026 s.8)
+3. General charges overspent: RM1,560.52/ha vs RM911.49/ha budget, Jan–Dec 2025 (Pinfosys under-budgeting); manager to monitor and explain overspends in 2026. (PA 1/2026 s.5)
+4. Harvesters work short days: Harvesters work only 5–6.5 hours (PA asks for 9); only 2 mini dumpers working, the rest broken, so wheelbarrows are used. (PA 1/2026 s.7, 12.1)
+5. Weeds in P02 and cattle unresolved: P02 inter-rows not satisfactory: urgent selective spraying and VOP clearing needed. Cattle intrusion still unresolved; urea bought to deter cattle pushed manuring over budget. (PA 1/2026 s.6)
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5–9 (General Charges, Upkeep & Cultivation, Harvesting & Collection tables; Production Cost table 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 74.72 / 68.80
+  - Harvesting labour: 42.65 / 41.56
+  - Internal transport: 20.51 / 19.24
+  - Harvesting incentive: 7.66 / 8.00
+  - Top-up wages: 3.91 / N/A
+Upkeep & cultivation: 105.19 / 91.78
+  - Weeding: 10.66 / 8.92 *
+  - Manuring: 81.91 / 66.15 *
+  - Pest & disease: 0.51 / 3.10 *
+  - Census & thinning out: 0.21 / 0.53 *
+  - Drains: 0.40 / 0.00 *
+  - Roads & bridges: 4.96 / 6.23 *
+  - Boundary, survey, fences: 0.02 / 1.36 *
+  - Pruning: 6.52 / 5.49 *
+General charges: 81.86 / 40.42
+  - Management & supervision: 30.42 / 17.94 *
+  - Labour & amenities: 19.02 / 15.38 *
+  - Other expenditures: 29.52 / 6.40 *
+  - MSPO: 2.89 / 0.71 *
+Total operating cost: 261.78 / 201.00
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2021 (Jan–Dec): 7,882.98 t (Agronomy Report 1/2026 Appendix 2(a)/2(b))
+2022 (Jan–Dec): 6,949.55 t (Agronomy Report 1/2026 Appendix 2(a)/2(b))
+2023 (Jan–Dec): 7,213.05 t (Agronomy Report 1/2026 Appendix 2(a)/2(b))
+2024 (Jan–Dec): 9,285.52 t (PA Report 1/2026 Section 8 (same figure in Agronomy 1/2026 App 2a/2b))
+2025 (Jan–Dec): 8,845.68 t (PA Report 1/2026 Section 8 Crop Production table (Jan-Dec 2025))
+2025 monthly: Jan 673.28; Feb 694.85; Mar 765.53; Apr 663.45; May 806.38; Jun 718.92; Jul 917.86; Aug 701.25; Sep 768.16; Oct 747.63; Nov 688.68; Dec 699.67
+2026 monthly: Jan 784.64; Feb 513.29; Mar 808.83
+2026 Jan–Mar: 2,106.76 t (Agronomy Report 1/2026 Table 15 / Appendix 2(a) and 2(b) (Jan-Mar 2026, 4.54 t/ha))
+
+===== ESTATE: cheekah-kemayan =====
+Full pack incl. block detail: https://prosper-paras.netlify.app/kb/cheekah-kemayan.txt
+PARAS ESTATE REPORT PACK — Ladang Cheekah Kemayan
+Company: Kosfarm Development Sdn Bhd · Group: Prosper
+Latest reports: PA Report 1/2026 (visit 2026-06-24); Agronomy Report Jul 2026 (visit 2026-07-30)
+Dashboard: https://prosper-paras.netlify.app/e/cheekah-kemayan.html
+Full reports (Google Drive): https://drive.google.com/drive/folders/1lzGiAsALFRWMI2DA7UVeqaMDzoYl0SiC
+Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
+
+REPORT EXTRACTS
+ESTATE: Ladang Cheekah Kemayan, Kosfarm Development Sdn Bhd (Prosper group). Advisor: PARAS. Oil palm mill located on the estate. Terrain flat to undulating; 5-yr avg rainfall ~2,000 mm / 145 rain days. Low-lying fields P98C, P99D, P01E flood-prone (Felda water crosses to Sungai Serting). Neighbours: Ladang Bukit Jin, Felda Triang Selatan, smallholders. Field names: P95A, P97B (felled 2025), P98C, P99D, P01E, P21A, PR23B, PR24B, PR25B. There is NO block called 90B or similar.
+
+=== REPORT A: PA Report 1/2025 (visit 19 Mar 2025, reviews Jan–Dec 2024). Planting Advisor: Adnan bin Mustafa. Estate Manager: Shamsul bin Mohamad Sahib. Visiting Senior Manager: Mat Zin bin Mat Akil ===
+Area Dec 2024: mature 1,316.34 ha; immature 74.80 (P23B); replanting in progress 148.80 (PR24B); total oil palm 1,539.94; title 1,642.83. Fields: P95A 19.02ha SPH116; P97B 80.72 SPH66; P98C 335.29 SPH121; P99D 317.20 SPH124; P01E 314.33 SPH126; P21A 249.78 SPH136.
+Staff: 14 incl. Estate Manager Shamsul (53), Asst Mgrs Mohd Zulkifly, Mohd Murshidi; 6 field conductors.
+Labour Dec 2024: 80 workers (12 checkroll, 68 contract) vs requirement 106 (−26); ratio 1:19 ha. Harvesters 40 + 11 infield collectors = 51 (req 48+11); ratio 1 harvester:26 ha. Weeding mature 4 (req 7), manuring 2 (req 7). Feb 2025: 89 workers vs 93 required; 48 harvesters, ratio 1:25 ha.
+Contractors Dec 2024: SK Bintang (P97B/P01E 395.05ha, 25 vs 19 req), Koo Development (P95A/P98C, 19 vs 23), Raishatun Enterprise (P99D, 15 vs 17), Zian Zian Plantation (FFB transport).
+General charges 2024: RM1,926,089 = RM1,250.76/ha vs budget RM1,570.83 (−20%). Staff quarters 647% over (repairs); bonus 98% over.
+Upkeep & cultivation 2024: RM1,443,662 = RM1,096.72/ha vs budget 1,832.38. Weeding RM181.80/ha (budget 223.45); manuring RM769.85/ha (budget 1,352.78, 57%); pruning RM86.43/ha.
+Weeding 2024: circle 75% of 4,539 ha programme; selective 75% of 4,647.6 ha. Productivity 3.3–4.5 ha/manday (target >5). Contract rate RM38/ha circle, RM39/ha selective.
+Manuring 2024: programme 923.80 mt, delivered 796.60, applied 674.20 mt (72%). RP and MOP 100%, Kieserite 31%, Compact B 75%. Delay: worker shortage, flooding. Feb 2025 progress 52%.
+Pests 2024: Ganoderma census Aug 2024 — dead palms 9,792 (7%), healthy density 132/ha. By field dead palms: P95A 294 (12%), P97B 3,752 (41%), P98C 2,573 (6%), P99D 1,387 (3%), P01E 1,786 (4%). Bagworm 3% (Jul 2024). Rat baiting P21A 2 rounds, P23B 1 round. Barn owl boxes 155 (81 good, 74 damaged), 51 occupied, 63% occupancy of good boxes; no cleaning records.
+Roads 2024: grading 1,229.77 chains @RM10; lateriting 4" 331.66 ch @RM95.
+Harvesting 2024: intervals 12–15 days; productivity 2.0–2.5 t/manday tall palms, P21A 1.0 t/manday @RM90/t; earnings RM68–90/manday; 12 machines (Timac 2, Agrostar 8, TF 2). H&C cost RM64.53/t FFB vs budget 64.96.
+Crop 2024: FFB 21,165.61 mt vs budget 20,563.52 (+3%); YPH 17.03 vs 15.62; CPO 4,259 t; kernel 1,120.81 t; OER 19%, KER 5%. 2023 actual: 20,212.86 mt, YPH 16.63. P21A young mature: 452.82 mt, 1.81 t/ha (60% of estimate).
+Cost of production 2024: RM229.79/t FFB vs budget RM295.40 (−22%).
+P23B immature (planted Aug 2023, DxP Yangambi FELDA, 148/ha): cost from start RM11,062.87/ha. PR24B: planted Oct–Dec 2024, 22,285 palms, 149/ha; cost from start RM4,569.31/ha; watermelon intercrop; Apogonia attack sprayed.
+Nursery: pre-nursery 68,315 seedlings, culling 11.16%, RM6.68/seedling; main nursery 148,815, culling 12%; total culling 23.13%; RM10.18/seedling.
+
+=== REPORT B: PA Report 2/2025 (visit 24 Dec 2025, reviews Jan–Nov 2025; costs to Oct 2025). Planting Advisor: Mohd Sufian bin Yusoff. Estate Manager: Norrafiuddin bin Yusoff (transferred in 1 Sep 2025). Regional Senior Manager: Mat Zin bin Mat Akir ===
+Area Nov 2025: mature 1,208.76 ha (down from 1,316.34 after P97B + part P98C replanted as PR25B); immature 225.37 (PR23B 74.80, PR24B 150.57); replanting PR25B 109.25; total 1,543.38. P98C 308.43 ha.
+Staff: 13, including 7 field conductors (1 per 220 ha — on the high side).
+Labour Nov 2025: 89 workers (17 checkroll, 72 contract) vs requirement 91; ratio 1:17 ha. FFB harvesters 49 (req 49). Driver/loader 5 (req 8), weeding 12 (req 15), manuring 5 (req 6). In 11 months: 29 received, 11 repatriated, 19 absconded, 2 transferred. Contractors 7: Horizon Enterprise, Koo Development (12 vs 18), Zulfathun Enterprise (8 vs 14), Iman CS, Zian-Zian Plantation, Desmond Agro, DD Koniya.
+General charges to Oct 2025: RM993.59/ha vs budget 1,324.50 (−25%).
+Upkeep to Oct 2025: RM1,029.19/ha vs 1,229.52. Weeding 169.76; manuring 744.05 (budget 842.28); pruning 81.21.
+Weeding: circle 89% (3,286 ha); selective 74% (2,863 ha), delayed by unstable worker availability.
+Manuring Jan–Nov 2025: ordered 936.95 mt, received 795.50, applied 749.55 mt (80%). Delay: delivery issue and rain. Advisor says resume after rainy season. Agronomist wanted completion by October.
+Pests: no rat baiting 2025; barn owl 115 nests, 35% occupancy, 124 damaged. Bagworm ~30 ha in P98C. Ganoderma >5% in tall palms; deboling to be expedited.
+Roads: grading 1,583 chains. Drains: 54.24 chains desilted in P21A.
+Harvesting: interval 14–19 days, 19 rounds in 11 months. H&C RM76.18/t vs budget 70.76. 10 machines with 49 harvesters; 1.55 t/harvester/day, 9 t/machine/day.
+Crop Jan–Nov 2025: FFB 16,445.28 mt vs budget 18,629.50 (−12%); YPH 14.30 vs 16.20. By field (actual/estimate mt/ha): P95A 19.47/18.51, P98C 15.70/18.53, P99D 16.69/19.00, P01E 17.04/19.00, P21A 6.16/6.65. Forecast close 2025: YPH 16.
+Cost of production to Oct 2025: RM223.63/t vs budget 241.22 (GC 71.75, U&C 74.70, H&C 76.18).
+P23B 24 months, cost to maturity RM12,622.18/ha; 280 palms supplied. P24B 12 months, 22,285 palms, RM7,634/ha, EFB mulch 60%. PR25B: cambered bund 270 chains, planting began Nov 2025, cost RM3,161.15/ha.
+Nursery: total culling 11.29%; RM9.31/seedling.
+
+=== REPORT C: PA Report 1/2026 (visit 24 Jun 2026, reviews Jan–May 2026; costs to Apr 2026). Planting Advisor: Mohd Sufian bin Yusoff. Plantation Controller: Dr Chua Chin Kok. Senior Manager: Mat Zin bin Mat Akir. Estate Manager: Norrafiuddin bin Yusoff ===
+Area 31 May 2026: mature 1,208.76 ha (P95A 19.02 SPH116; P98C 308.43 SPH121; P99D 317.20 SPH124; P01E 314.33 SPH126; P21A 248.78 SPH136); immature 334.62 (PR23B 74.80, PR24B 150.57, PR25B 109.25, SPH145); total planted 1,543.38; nursery 14.70. Next replanting 2027: P98C blocks 1–3, ~183 ha.
+Staff: 13. Irawanbudiyasa promoted to Junior Asst Manager Jan 2026; 2 new field conductors Feb/Mar 2026.
+Labour 31 May 2026: 91 workers (15 checkroll, 76 contract) vs requirement 97 (−6); ratio 1:17 ha. FFB HARVESTERS 49 vs requirement 55 (−6); ratio 1 harvester:25 ha (recommended 1:22). Driver/loader 3 (req 6), weeding 15 (req 16), manuring 8 (req 7), mandore 2, watchman 2, general workers 12 (req 9). In 5 months: 8 received, 5 repatriated, 1 transferred, 6 absconded.
+Contractors: Horizon Enterprise (645.42 ha, 34 vs 39), Koo Development (172.17 ha, 15 vs 11), Zulfathun (183.12 ha, 7 vs 11), Zian-Zian (207.05 ha, 10 vs 13), DD Koniya (immature 334.62 ha, 10 vs 11), estate/casual 15.
+General charges to Apr 2026: RM652,309 = RM439.60/ha vs budget 501.53 (−12%). Exec salaries +15%, bonus +82%, EPF +27%, consultant fees +31%, electricity +29%.
+Upkeep to Apr 2026: RM408.69/ha vs 447.61. Weeding 75.81; manuring 274.04; pest 1.08; pruning 24.71 (−35%).
+Weeding to May 2026: circle 1,149.29 ha (82% of to-date programme); selective 1,419.34 ha (89%). Productivity 4 ha/manday, earnings RM72–76.
+Manuring 2026 to May: 101 mt of 2025 fertiliser brought forward, applied Feb 2026. Ordered 546.50 mt, applied 346.10 mt = 54% of 1st half programme. Delay: fertiliser delivery issue. Manual: 11 bags/manday (<1kg dose), 25 bags (>1kg). EFB 50 mt/ha budgeted for P95A, none applied yet.
+Pests: rat <10% threshold, no baiting in mature. Barn owl 155 nests, 6% occupancy, 143 damaged. Bagworm: no live larvae (May 2026). Ganoderma table (as printed): P95A 294 dead (12%), P98C 3,752 (9%), P99D 2,573 (6%), P01E 1,387 (4%); total 8,006 (6%), SPH 126. [Integrity note: these rows appear to be the Aug 2024 census shifted up one field.]
+Roads: grading & compaction 1,648 of 2,550 chains. Lateriting 180 chains budget.
+Pruning: 3,676.20 ha done of 3,977.90 programme.
+Harvesting: interval 14–17 days, 10 rounds in 5 months; >90% ripe. H&C RM76.28/t vs budget 91.71 (annual 74.30). Harvester t/day: P95A 1.57, P98C 1.73, P99D 1.89, P01E 1.68, P21A 0.94; avg 1.61. Earnings RM65.52–73.71/day. Rates RM39/t tall palms, RM74/t P21A. 9 machines (Timac 1, Agrostar 7, Toughfar 1).
+Crop Jan–May 2026: FFB 6,569.39 mt vs budget 7,831.04 (−16%); YPH 5.72 vs 6.81; same period 2025: 5.65. By field actual/estimate mt/ha: P95A 6.60/7.39, P98C 5.59/7.40, P99D 6.67/7.60, P01E 7.21/9.53, P21A 2.82/4.20.
+Cost of production to Apr 2026: RM266.08/t vs budget 286.48 (GC 98.36, U&C 91.44, H&C 76.28).
+P23B: 30 months, 148/ha, basal pruning 35 ha, scout harvesting 38.44 mt, cost to maturity RM13,569/ha. P24B: 16 months, ablation from Apr 2026, Oryctes attack, RM8,696/ha. PR25B: planting recently completed after cambered bund delays, 145/ha, 500g RP + 600g Fujicoat in hole, RM6,225/ha excl. planting material.
+Nursery (Prosper): 48,201 seedlings, 8,221 culled (17%), 13,507 sold/used, RM7.84/seedling. UMB nursery: 66,401, culling 14.3%, RM17.74/seedling.
+Vehicles: Tractor Landini DT90 broken down; no vehicle running records.
+
+=== REPORT D: Agronomy Report 1/2026 (visit 30 Jul 2026). Senior Agronomist: Lai Hong Heng ===
+Blocking Jul 2026: P95A 19.02, P98C 308.43, P99D 317.20, P01E 314.33, P21A 248.78, PR23B 74.80, PR24B 150.57, PR25B 109.25. Sub-blocks: P98C1 46.03, C2 62.89, C3 63.25, C4 63.29, C5 72.97; P99D1 52.13, D2 50.22, D3 58.40, D4 81.95, D5 74.50; P01E1 78.79, E2 56.18, E3 26.10, E4 49.86, E5 37.31, E6 32.50, E7 33.59; P21A1 59.08, A2 61.60, A3 65.70, A4 62.40.
+Palm census Nov 2025: P95A 2,214 palms 116/ha; P98C 37,559, 121/ha; P99D 39,319, 124/ha; P01E 39,727, 126/ha; P21A 35,969, 144/ha; PR23B 10,921, 146/ha; PR24B 21,716, 144/ha; PR25B 15,732, 144/ha. 3,371 palms supplied in 2025 (P21A, P23B, P24B).
+Age profile 2026: 42% (644.7 ha) over 26 years; 20.4% (314.0 ha) aged 20–25; none in prime 8–19 years.
+Ganoderma: NO Ganoderma census carried out in 2025 or up to July 2026. Tentative 2027 replant P98C1–3 = 172.2 ha; census recommended to justify. Ganoderma replant SOP: survey silty areas, cambered bunds in low-lying silt, deboling 1.5m holes left open 2–3 months, 29'x29' spacing (148/ha).
+Nursery: Curvularia outbreak reported 7 Jul 2026; recommend alternating Propineb/Mancozeb with Annex Combi, weekly spraying; recovering. CRF 50g Ekot per palm; NPK Yellow 20g at 6 months, 30g at 8 and 10 months.
+Manuring status July 2026: Mature NK2 programme 135.05 mt, applied 4.45 (3%); Mixture B 356.55, applied 270.6 (74%); ARP 67.95, applied 0 (0%). Immature Compound A 64.65, applied 42.35 (66%); Compound B 36.6, applied 24.4 (67%); ARP 20.35, 0. TOTAL 681.15 mt programme, 341.8 applied (50%). Delays: Mix B 2–4 months, NK2 2 months, compound 1–3 months. Reason: catching up FY2025 carry-forward (completed Feb 2026). Do not apply Nov–Dec or carry past Jan 2027. EFB P24B 49.92 mt/ha applied by June 2026. Fertiliser store wet floor worsened.
+2026 FERTILISER PROGRAMME (kg/palm): P95A5: NK2 2.00. P98C1, C2, C3: no manuring (replanting 2027). P98C4 and C5: Mix B 2.25. P99D1–D5: Mix B 2.00 + NK2 1.50. P01E1–E5: Mix B 2.00 + NK2 1.75. P01E6–E7: Mix B 2.00 + NK2 2.00. P21A1–A4: Mix B 1.75, Mix B 1.75, RP 2.00, Mix B 1.25, Mix B 1.50. P23B: Comp B 1.20, Comp B 1.20, RP 2.00, Comp B 1.20, Comp B 1.50. P24B: Comp A 0.90, 1.00, 1.00, RP 1.75, Comp A 1.00. P25B: Comp A 0.80, RP 1.50. New planting/supply: 600g CRF 20:6:14:3 + 500g RP in planting hole, nothing more up to 9 months. Mix B = 45% AS, 40% MOP, 14% Kieserite, 1% borate. NK2 = 60% SOA, 40% MOP. Comp A 14:13:9:2.5; Comp B 12:6:22:3.
+Harvesting: interval Jan–Jun 2026 12–18 days. Overripe bunches: P99D4 15%, P95A 14%, P21A4 6%. Rotten/uncollected bunches in P01E5, P01E2, P21A1.
+Pruning to July 2026: 73% (4,338 of 5,973 ha); P99D 61%, P21A 59%, P01E 96%. Poor pruning in P98C2, P98C3, P99D2, D4, D5. Premature frond snapping (Ganoderma). Epiphyte poisoning started Aug 2026 — use Garlon:diesel 1:10.
+Leaf nutrients: N, P, K, Mg normal to high — satisfactory. 129.91 ha flood-prone. No desilting in 2024 or 2025; new drains 8.60 ch P21A, 45.18 ch PR25B.
+Weeds: below standard; seed-producing weeds in P98C2–C4, P01E5; path spraying in P21A.
+Rats 2026: Apr 3%, May 2%, Jun 1% overall; PR24B 11% in Apr. Bukit Jin neighbour 34–65% damage. Barn owl: 12 boxes, 2 occupied, 16%. Rhinoceros beetle significant in PR25B (Cypermethrin); suggest Alika ZC trial.
+Yield history mt/ha: 2020 19.63, 2021 14.78, 2022 16.42, 2023 16.63, 2024 17.35, 2025 15.37 (−21.7% vs 2020). To June: 2025 7.37 vs 2026 6.93; bunch weight −6.4%. To June by field 2025→2026 YPH: P95A 10.94→7.74, P98C 7.78→6.99, P99D 8.75→8.30, P01E 9.33→8.74, P21A 2.63→3.81, P23B 0→1.31.
+Rainfall mm: 2021 1,790; 2022 1,991; 2023 2,009; 2024 2,224; 2025 2,067 (155 days). 2026 Jan–May 560 mm.
+
+
+
+=== REPORT E: PA Report 1/2024 (visit 6 & 11 Mar 2024, reviews Jan–Dec 2023 and Jan–Feb 2024). Planting Advisor: Adnan bin Mustafa. Estate Manager: Shamsul bin Mohamad Sahib. First PARAS visit; previous visit Apr 2022 by Mah Phak Weng (Budi JS Plantations) ===
+Area Mar 2024: mature 1,316.34 ha (P95A 19.02, P97B 80.72, P98C 335.29, P99D 317.20, P01E 314.33, P21A 249.78); P23B 74.80 immature; PR24B 148.80 replanting. P21A declared mature Mar 2024 at 30 months — PA said it should be "immature harvesting"; budget 3.0 t/ha.
+Crop 2023: FFB 20,212.86 mt vs budget 21,697.92 (−6.8%); YPH 16.63 vs budget 17.85; 2022: 20,490.62 mt, 16.42 t/ha. CPO 3,793.95 t, OER 18.77%, KER 5.69%. Harvesting rounds 2023: 20.59 (optimum 24), due to early-year rain and severe under-pruning.
+Cost of production 2023: RM239.68/t vs budget RM321.29 (GC 54.66, U&C 109.40, H&C 75.61 per t).
+General charges 2023: RM1,104,925.56 = RM672.57/ha vs budget RM1,441.17. Bonus RM319,814 vs RM141,440 budget.
+Upkeep 2023 (mature 1,247.86 ha): RM1,772.08/ha vs 2,015.70. Weeding 205.48; manuring 1,077.66 (budget 1,395.66); pruning RM431.34/ha vs 152.71 (corrective pruning backlog cleared, 1,234.72 ha); bridges & culverts RM55,085 vs RM2,076 budget — PA asked for justification; roads 5.63 vs 125.61.
+H&C 2023 RM75.60/t vs budget 79.72.
+Manuring 2023: NK1 68% (out of stock), MOP 82%; Agronomist says programme ultimately fully completed but 2–5 months late.
+Labour Feb 2024: 105 workers vs 114 required (−11); 60 harvesters (49 cutters + 11 infield collectors) = 1:22 ha. 4 contractors: SK Bintang (P01E), Koo Development (P95A/P98C), Raishatun Enterprise (P97B/P99D), Deluar Husin (P21A, P23B).
+Ganoderma table (PA 1/2024): healthy 162,702, dead 1,546 (0.95%), SPH 134 — yet PA also says "no record of Ganoderma census".
+Barn owl 2023: 142 boxes, 45 occupied (32%), no cleaning records. No de-silting in 2023.
+P23B planted Aug–Oct 2023, 135/ha (target 148), cost from start RM11,925/ha. PR24B felled/chipped 12,447 palms; watermelon intercrop ~100 ha at RM400/ha/season.
+Nursery: 69,251 seeds pre-nursery; 41,257 main nursery.
+
+=== REPORT F: PA Report 2/2024 (visit 25 Sep 2024, reviews Jan–Aug 2024). Planting Advisor: Adnan bin Mustafa ===
+Harvesting area revised to 1,219.59 ha (by palm stand): P95A 16.77, P97B 47.43, P98C 302.06, P99D 302.68, P01E 300.87, P21A 249.78.
+Labour Aug 2024: 92 workers vs 94 required; 49 harvesters incl. infield collectors (38 cutters + 11 collectors), 1:25–27 ha.
+General charges to Aug 2024: RM650.82/ha vs RM1,047.24 budget (−38%); quit rent RM253,776 not yet paid.
+Upkeep to Aug 2024: RM842.12/ha vs 1,276.95. Manuring RM601.76 vs 931.79.
+Weeding to Aug 2024: circle 49% of annual programme; selective 64%.
+Manuring to Aug 2024: 461.85 mt of 738.70 mt to-date programme (63%); 540.15 of 952.35 mt annual (45–49%). 223.45 mt Compact B outstanding.
+Ganoderma census Aug 2024: dead palms P95A 294 (12%), P97B 3,752 (41%), P98C 2,573 (6%), P99D 1,387 (3%), P01E 1,786 (4%); total 9,792 (7%), SPH 132.
+Barn owl Aug 2024: 155 boxes, 81 good, 74 damaged, 51 occupied (63% of good); no cleaning.
+No rat census in 2024 (last Q2 2023, 4%).
+Harvesting to Aug 2024: RM66.67/t vs budget 59.24; productivity 1.77 t/manday (P95A 2.28, P97B 1.70, P98C 2.01, P99D 1.87, P01E 1.69, P21A 0.73). 11 gangs. Earnings RM60–112/day.
+Crop Jan–Aug 2024: 16,057.84 mt declared = 13.17 t/ha vs budget 16,033.42 mt (13.15). BUT cost of production uses 16,890.63 mt from the estate's Pinfosys accounts; estate explained the earlier crop declaration was "misleading". Concluding remarks state 15.17 t/ha (body says 13.17).
+Cost of production to Aug 2024: RM191.64/t vs budget RM264.57 (GC 59.34, U&C 65.63, H&C 66.67).
+P21A to Aug 2024: 277.99 mt = 1.11 t/ha vs estimate 583.86 mt (2.34 t/ha), 47%.
+P23B: 136/ha, cost from start RM8,242/ha. PR24B: cost RM2,311/ha; planting planned Sep 2024.
+Nursery: pre-nursery culling 11.16%, main nursery 148,815 transplanted, culling 12%; oldest batch 21.02%; herbicide damage to Batch 4.
+
+=== REPORT G: Agronomy Report 1/2024 (visit 8 Apr 2024). Agronomist: Lai Hong Heng ===
+Palm census (2023): P95A 130/ha, P97B 126, P98C 132, P99D 138, P01E 138, PR23B 144. No annual Ganoderma census done.
+Manuring 2023: programme 1,038.25 mt, applied 858.40 (83% of draft); delays 2–5 months (P01E2–3 MOP 3 months; P21A RP 5 months). To Mar 2024: 53%. Poor application quality: caked Mix B lumps in P01E4; MOP in clumps/narrow bands in P98C3, P98C4.
+Harvesters Mar 2024: 60 vs 64 required. Harvesting intervals 2023 up to 30+ days early in year, under 20 days from May 2023.
+Leaf/vigour: weak vigour and premature frond snapping in P99D2–D5, P01E2–E5, P98C1–C4 — resembling early Ganoderma (basal stem rot).
+Ecofert (liquid N fertiliser) quantity discrepancy between reports — estate to verify.
+Weeding 2023: circle 88%, interrow 82%. Cyperus malaccensis in P01E1, P98C1, P98C4, P97B1; overspray in P98C5.
+Rat damage 2023: 3–6% (P98C 6%). No Q1 2024 rat/bagworm census. Bagworm signs P01E6, P01E7.
+Low-lying / flood-prone area (ha, % of sub-block): P97B1 1.02 (2%); P98C3 6.33 (10%), C4 6.33 (10%), C5 2.19 (3%); P99D1 10.43 (20%), D2 7.53 (15%); P01E1 23.64 (30%), E2 16.85 (30%), E3 18.27 (70%), E4 4.99 (10%), E5 1.87 (5%), E6 1.63 (5%), E7 3.36 (10%); P21A1 24.03 (40%), A2 2.46 (4%). Total 130.93 ha (17%).
+P21A scout harvest from Feb 2024; 6,582 palms supplied by Mar 2024 (density 132/ha too low).
+Yield 2022→2023 by field (t/ha): P95A 22.41→17.19, P97B 12.26→16.24, P98C 14.97→15.33, P99D 17.00→17.94, P01E 18.27→16.95; estate 15.70→16.63. Jan–Mar 2024 vs 2023: −27% (5.52→4.01 t/ha).
+Yield history (t/ha) 2021: P95A 3.73, P97B 12.37, P98C 15.11, P99D 14.10, P01E 14.34, estate 14.78.
+2024 FERTILISER PROGRAMME (kg/palm): P95A5: MOP 2.0 (Mar) + NK1 2.0 (Sep). P97B: being replanted. P98C1–C5: MOP 2.25 (Mar) + NK1 2.25 (Sep). P99D1: Mix B 2.0 (Feb), 1.75 (May), 2.0 (Aug), 1.75 (Oct). P99D2–D5: NK1 1.5 (Jan), MOP 2.25 (Apr), NK1 1.5 (Aug). P01E1–E7: Mix B 1.75 (Feb), MOP 2.25 (May), Mix B 1.75 (Jul), Kieserite 0.75 (Sep). PR21A (P21A): Mix B 1.2, 1.5, RP 2.0, Mix B 1.5, 1.5. PR23: Compound 0.80, RP 1.50, Compound 0.90. (PA 2/2024 and Agronomy 2/2024 show Compact B was actually used in place of NK1/Mix B in 2024.)
+Replanting programme: 2023 74.80 ha (P23B), 2024 148.80 ha (P97B2–B5), 2025 172.63 ha planned (P97B1, B5, P95A5, P98C1).
+
+=== REPORT H: Agronomy Report 2/2024 (visit 21 Nov 2024). Junior Agronomist: Ghazali bin Abdul Ghani; checked by Senior Agronomist Chong Kuan Ming ===
+Palm census Oct 2024 (palm stand/ha): P95A 132, P97B 112, P98C 134, P99D 130, P01E 132, P21A 136, PR23B 136. Planted area by census 1,443.19 ha.
+Manuring 2024 to Oct: 580.85 of 889.40 mt (64%); MOP and NK2 100%, Compact B 48%, RP 79%, Kieserite 0%. Labour shortage mid-2024. Quality in P98C4 acceptable (24 bags/worker).
+Harvesting intervals exceeded 20 days Apr–Sep 2024 (up to 25 days in P97B, 23 in P98C/P99D/P01E); 51 harvesters Oct 2024.
+Leaf nutrients 2024 (P01E): N normal–high, P normal–high, Mg high, K marginally low in E6 and E7; K and Mg deficiency symptoms in E1, E2, E6, E7.
+No Ganoderma census progress. No EFB in 2024. Ecofert applied (stopped Oct 2024).
+Barn owl 155 boxes, 63% occupancy, 74 poor.
+P21A scout harvest 369.11 mt (1.48 t/ha) to Oct; 1,500 palms supplied Feb–Aug 2024; Oryctes 2–5%.
+P23B infilled 555 palms; Oryctes rose to 21% (Aug) then 13% (Oct).
+PR24B planting started end Nov 2024 at 148/ha.
+Yield to Oct, 2023 vs 2024 (t/ha): P95A 13.94→19.45, P97B 14.03→14.49, P98C 13.15→16.55, P99D 14.85→19.00, P01E 14.42→18.40; total 11.73→14.90 (+27%). Harvesting rounds to Oct 17.75 (89% of target).
+Monthly FFB (mt): 2020 total 25,620.49; 2021 19,282.57; 2022 20,490.62; 2023 20,212.86; 2024 Jan–Oct 19,267.84.
+2025 FERTILISER PROGRAMME (kg/palm): mature blocks unchanged from 2024 (P95A5 MOP 2.0 + NK1 2.0; P98C MOP 2.25 + NK1 2.25; P99D1 Mix B ×4; P99D2–D5 NK1 1.5, MOP 2.25, NK1 1.5; P01E Mix B 1.75, MOP 2.25, Mix B 1.75, Kieserite 0.75). PR21A: Mix B 1.5, 1.5, RP 2.0, Mix B 1.5, 1.75. PR23B: Compound 1.0, 1.0, RP 1.75, Compound 1.2, 1.2. PR24: Compound 0.80, RP 1.50, Compound 0.90. Agronomy 1/2025 later added 1.5 kg/palm Ammonium Sulfate in Oct 2025 for P95A, P98C, P99D, P01E (to replace stopped Ecofert).
+
+=== REPORT I: Agronomy Report 1/2025 (visit 20 Aug 2025). Senior Agronomist: Lai Hong Heng. Estate Manager still Shamsul ===
+Manuring 2024 final: programme 903.50 mt, applied 755.40 (84%); Kieserite 31%, Mix B 75%; completed Jan 2025. 2025 to Jul: 515.8 of 776.53 mt (66%). Fertiliser lumps/too close to palm base in P01E1.
+Palm census "July 2024": P95A 116/ha, P98C 121, P99D 124, P01E 126 (previous 136 each); P21A 136; PR23B 145; PR24B 145.
+Supplies: 15,939 palms in 2024 (13,514 in PR24B), 8,671 to Jul 2025.
+Rat damage 2025: PR23B 20% Q1; mature 1–2%.
+Barn owl: 155 boxes, 65% occupancy; cleaning not done (boxes hard to reach).
+Ganoderma census planned to begin Sep 2025.
+Crop losses significant: rotten bunches uncollected in P98C4, P01E6, P01E7; incomplete loose fruit.
+Pruning to Jul 2025: 42% of programme. Mounding in P01E2, P01E3 ravines.
+No de-silting in 2024.
+EFB 2025 to Jul: P95A 312 mt (50 mt/ha, 33% area), PR24B 2,318 mt.
+Sub-block yield Jan–Jul 2024 → Jan–Jul 2025 (t/ha): P95A5 15.92→12.59. P98C1 10.39→11.22, C2 13.29→12.12, C3 12.58→10.53, C4 12.97→8.57, C5 13.25→7.86 (P98C 12.49→9.88). P99D1 14.95→12.06, D2 14.11→11.16, D3 15.42→12.14, D4 13.30→9.58, D5 14.86→10.61 (P99D 14.46→10.93). P01E1 11.53→9.63, E2 11.56→10.20, E3 15.67→8.42, E4 13.64→11.30, E5 14.00→11.77, E6 18.49→15.54, E7 15.85→14.50 (P01E 13.66→11.28). P21A1 0.77→3.50, A2 1.01→3.52, A3 0.68→3.30, A4 0.89→2.83. Estate 11.07→9.13.
+Harvesting rounds: 2024 83% of target (P95A 100%, P97B 79%, P98C 81%, P99D 86%, P01E 90%, P21A 73%); 2025 to Jul 89%.
+P21A significant over-pruning; path spraying. PR24B leaf-eating caterpillar defoliation, now controlled. PR25B: about 200 palms planted by Jul 2025; ~30 ha watermelon integration.
+
+=== REPORT J: Agronomy Report 1/2026, visit for 2-2025 (visit 20 Jan 2026). Senior Agronomist: Lai Hong Heng. Estate Manager: Norrafiuddin. Plantation Controller: Dr Chua Chin Kok ===
+Estate has no updated palm census since July 2024 (P95A 116, P98C 121, P99D 124, P01E 126, P21A 136, PR23B 148, PR24B 146).
+Manuring 2025 final: programme 1,065.5 mt, applied 902.65 (86%): NK1 78%, Mix B 92%, MOP 100%, Kieserite 0%, RP 100%, immature compound 63%, RP 39%. Delays from flooding and Mix B factory breakdown. NK caking in store; bags not on pallets. Extra 1.5 kg AS not yet applied (supplier delay; planned Mar 2026). Manuring contractor cannot sustain semi-mechanised machinery cost.
+De-silting: none in 2024; 54.24 chains in 2025 (P21A only) — insufficient.
+Pruning 2025 to Jul: 91% (P95A 100, P98C 86, P99D 87, P01E 100). Less acceptable pruning in P98C1, C3, C4, P99D1, D2, D4. Epiphytes in P99D1.
+Crop recovery improved, but uncollected bunches/loose fruit still in P99D1, P98C5, P98C4. Harvest rounds 2025: 92% of target.
+Leaf nutrients 2025: N mostly high, P high, K normal–high, Mg high — nutrient supply not limiting; small canopies attributed to early Ganoderma and site (silty subsoil).
+Rat damage 2025 Q3–Q4: 1–4%. Bagworm defoliation in P01E6, P01E7 (late larval stage); drone spraying suggested for large infestations; avoid trunk injection.
+Full-year yield by field 2024 → 2025 (t/ha, bunch weight kg, bunches/palm): P95A 24.94 (23.09 kg, 8) → 20.86 (23.95, 7); P97B 25.84 (23.80, 6) → felled; P98C 20.41 (23.73, 9) → 16.91 (23.64, 7); P99D 21.85 (25.05, 11) → 17.91 (24.34, 9); P01E 20.90 (23.70, 11) → 18.28 (23.77, 9); P21A 1.81 (2.03, 15) → 6.67 (2.82, 12). Estate 17.35 → 15.37 t/ha (harvested basis 1,219.6 → 1,150.3 ha).
+2025 replanting PR25B: felling done; cambered bund 83%; planting 38% (started Oct 2025); expected completion Feb 2026. New drains: PR24B 262.76 of 460 chains (2024); PR25B 157.54 of 400 chains (2025).
+Original 2026 FERTILISER PROGRAMME (kg/palm): P95A5 NK2 2.00 ×2. P98C1–C3 none (replant 2027). P98C4–C5 Mix B 2.25 + NK2 2.25. P99D1–D5 Mix B 2.00 + NK2 1.50 + NK2 1.75. P01E1–E5 Mix B 2.00 + NK2 1.75 + Kieserite 0.75 + NK2 1.75; P01E6–E7 Mix B 2.00 + NK2 2.00 + Kieserite 0.75 + NK2 2.00. P21A Mix B 1.75, 1.75, RP 2.00, Mix B 1.75, 1.75. P23B Comp B 1.20, 1.20, RP 2.00, Comp B 1.20, 1.50. P24B Comp A 0.90, 1.00, 1.00, RP 1.75, Comp A 1.00. P25B Comp A 0.80, RP 1.50. (Agronomy Jul 2026 later amended this down — see Report D.)
+
+=== STAFF / ADVISOR HISTORY ===
+Estate Manager: Shamsul bin Mohamad Sahib (from Dec 2022 to Aug 2025); Norrafiuddin bin Yusoff from 1 Sep 2025. Planting Advisor: Adnan bin Mustafa (PA 1/2024, 2/2024, 1/2025); Mohd Sufian bin Yusoff (PA 2/2025, 1/2026). Agronomist: Lai Hong Heng (1/2024, 1/2025, Jan 2026, Jul 2026); Ghazali bin Abdul Ghani with Chong Kuan Ming (2/2024).
+
+=== RECURRING UNRESOLVED ACTIONS ===
+Ganoderma census: requested at every agronomy visit since 2-2023 and by PA in 1/2024; never done as of Jul 2026.
+Drain de-silting: none 2023, none 2024, 54 chains 2025 (P21A only).
+Barn owl box cleaning: requested since PA 1/2024; never done.
+Marking last fertilised palm: raised Agronomy 1/2025, Jan 2026, Jul 2026; unresolved.
+Semi-mechanised manuring: raised PA 1/2024, Agronomy 1/2025, GMD, PA 1/2026; not implemented.
+Path spraying in P21A: raised Agronomy 1/2024, 1/2025, Jan 2026, Jul 2026; still seen.
+Vehicle running-cost records: raised PA 2/2024 onwards; not started.
+Bridges & culverts RM55,855 (2023) breakdown: asked by PA 1/2024 and GMD; no answer recorded.
+
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Over-aged palms, none in prime: 42% (644.7 ha) over 26 years and 20.4% (314.0 ha) aged 20–25 in 2026; none in prime 8–19 years. Yield 15.37 t/ha in 2025 vs 19.63 in 2020 (−21.7%). (Agro Jul 2026)
+2. Ganoderma spreading, no census: No census in 2025 or up to Jul 2026; last (Aug 2024) found 9,792 dead palms (7%). Premature frond snapping and small canopies put down to early Ganoderma. (Agro Jul 2026 · Agro Jan 2026)
+3. 2026 manuring half done: 341.8 of 681.15 t applied (50%) by Jul 2026: NK2 3%, ARP 0%. Mix B 2–4 months late, NK2 2 months, after catching up the 2025 carry-forward. (Agro Jul 2026)
+4. Harvester gap and crop left in field: 49 harvesters vs 55 needed (May 2026). Overripe bunches P99D4 15%, P95A 14%; rotten or uncollected bunches in P01E5, P01E2, P21A1 (Jan–Jun 2026). (Agro Jul 2026 · PA 1/2026)
+5. Flood-prone fields, drains not desilted: 129.91 ha flood-prone (P98C, P99D, P01E low-lying). No de-silting in 2024; 54.24 chains in 2025, P21A only. (Agro Jul 2026 · Agro Jan 2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 16% below budget: 6,569.39 mt FFB vs 7,831.04 mt budget, Jan–May 2026; 5.72 t/ha vs 6.81 (5.65 same period 2025). P01E 7.21 vs 9.53 t/ha estimate. (PA 1/2026)
+2. Short of harvesters: 49 harvesters vs 55 required (−6), 1 per 25 ha vs 1:22 recommended; 91 workers vs 97. 6 absconded in 5 months to May 2026. (PA 1/2026)
+3. Manuring behind on delivery: 346.10 mt applied = 54% of 1st-half programme to May 2026, held up by fertiliser delivery. Semi-mechanised (Timac) manuring suggested again. (PA 1/2026)
+4. Barn owl boxes broken, few used: 155 nests, 6% occupancy, 143 damaged (May 2026). Box cleaning asked for since PA 1/2024, never done. (PA 1/2026)
+5. No vehicle records, tractor down: Tractor Landini DT90 broken down; still no vehicle running records, asked for since PA 2/2024. (PA 1/2026)
+
+OPERATING COST PER TONNE FFB (RM/t), Jan–Apr 2026, from PA Report 1/2026, section 9 (Table 19), Table 16, Table 7, Appendix 2 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 76.28 / 91.71
+  - Harvesting: 52.16 / 65.72
+  - Internal transport: 17.93 / 21.05
+  - Others (incentive): 1.19 / 4.94
+  - Top up wages: 5.00 / N/A
+Upkeep & cultivation: 91.44 / 91.84
+  - Weeding: 16.96 / 16.31 *
+  - Manuring: 61.32 / 58.58 *
+  - Pest & disease: 0.24 / 2.16 *
+  - Census & thinning out: 0.13 / 0.19 *
+  - Drains: 0.13 / 0.48 *
+  - Bridges & culverts: 0.28 / 0.30 *
+  - Roads: 6.74 / 6.24 *
+  - Boundaries / survey: 0.11 / N/A *
+  - Pruning: 5.53 / 7.58 *
+General charges: 98.36 / 102.93
+  - Salaries – exec & staff: 29.85 / 23.84 *
+  - Quit rent: 14.91 / 17.55 *
+  - Bonus – exec & staff: 15.85 / 7.97 *
+  - Recruitment expenses: 4.41 / 10.59 *
+  - Welfare: 5.06 / 6.49 *
+  - Paid leave: 5.90 / 4.29 *
+  - Electricity supply: 5.99 / 2.40 *
+  - EPF – exec & staff: 4.65 / 3.35 *
+  - Upkeep lines: 1.32 / 2.91 *
+  - Security: 0.00 / 3.95 *
+  - Fringe benefits: 0.00 / 3.92 *
+  - Staff transport / reimbursement: 1.13 / 2.59 *
+  - Office expenses: 1.46 / 1.85 *
+  - Other (15 items): 7.84 / 11.24 *
+Total operating cost: 266.08 / 286.48
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2020 (Jan–Dec): 25,620.49 t (Agronomy Report 2/2024 Appendix 3(b) Monthly Yield Record (total 1st+2nd half))
+2021 (Jan–Dec): 19,282.57 t (Agronomy Report 2/2024 Appendix 3(b))
+2022 (Jan–Dec): 20,490.62 t (Agronomy Report 2/2024 Appendix 3(b))
+2023 (Jan–Dec): 20,212.86 t (Agronomy Report 2/2024 Appendix 3(b); PA Report 2/2024 Section 8 (last year 12 months))
+2024 (Jan–Dec): 21,165.61 t (PA Report 1/2025 Section 8 (FFB until December 2024))
+2026 Jan–May: 6,569.39 t (PA Report 1/2026 Table 18 Summary of FFB Production as of 31/05/2026 (budget 7,831.04 t; same period 2025 yield 5.65 t/ha))
+
+===== ESTATE: chembong =====
+Full pack incl. block detail: https://prosper-paras.netlify.app/kb/chembong.txt
+PARAS ESTATE REPORT PACK — Ladang Chembong
+Company: Jubilant Rewards Sdn Bhd · Group: Prosper
+Latest reports: Planting Advisory Report 01/2026 (visit 2026-05-13); Agronomy Report 1/2026 (visit 2026-04-13)
+Dashboard: https://prosper-paras.netlify.app/estate.html?e=chembong
+Full reports (Google Drive): https://drive.google.com/drive/folders/1VmLeMrTjotVcLTH3jq1NpUHdIzWIZvPu
+Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
+
+REPORT EXTRACTS
+LADANG CHEMBONG (Jubilant Rewards Sdn Bhd, Prosper group). Estate Manager Mr Robin A/L Sinnappanah; Senior Manager En. Zulkarnain Bin Barik; Plantation Controller Dr Chua Chin Kok; Junior Assistant Manager Vivekgan A/L Gopal (joined estate 10/04/2025). Planting Advisor Mr Boey Chee Weng. Agronomists Muhammad Ghazali Abdul Ghani (Junior) and Chong Kuan Ming (Senior).
+
+SOURCES. (1) PA 1/2026 = Planting Advisory Report 01/2026, visit 13 May 2026, review period January to December 2025. It has no cost sections (no general charges, upkeep cost, harvesting cost or cost of production tables). (2) Agro 1/2026 = Agronomy Report 1/2026, visit 13 April 2026 (previous agronomy visit 24 October 2025), data to March 2026.
+
+AREA (PA 1/2026). Total estate 209.2 ha: mature oil palm 121.97 ha (P1990 36.99 ha, P2002 12.58 ha, P2003 72.4 ha); new solar project 69.14 ha; housing complex, vacant areas and roads 11.82 ha; Kementerian Belia dan Sukan (KBS) 6.27 ha. No immature or replant area. No change in area. P90 status undecided; company reportedly planning a solar project; blanket spraying done on P90 as recommended by the agronomist; one harvester deployed to harvest where possible; no pruning for a long time.
+AREA (Agro 1/2026). Blocking unchanged. About 69% of planted area is palms aged 20 to 25 years, 31% over-aged palms over 26 years. Final replanting decision for P90 not made; portions earmarked for solar panels; initial meeting and site visit for the solar project end January 2026. Acreage table: original 506.07 ac; 189.2 ac converted to solar (2015 12.1, 2016 5.9, 2017 171.2); 15.5 ac taken by KBS; remaining P90/B 91.40 ac (SPA 48), P02/C 30.25 ac (SPA 55), P03/D 178.90 ac (SPA 55). Palm census (unchanged, not updated): P1990 4,366 palms, 118 SPH; P2002 1,596 palms, 133 SPH (arithmetic gives 127); P2003 9,504 palms, 132 SPH. Estate advised to update census and combine with Ganoderma census.
+
+LABOUR (PA 1/2026). Table: harvesters/pruners required 9, actual 4 (-5); loaders/drivers 1/1; field workers weeding/manuring required 2, actual 0; estate checkroll workers required 1, actual 2; security guard 1/1; total required 14, actual 8, difference shown -4 (arithmetic -6). Text: harvesters required 4 at 1:20 ha excluding P90; only 2 available as of December 2025 (1:42 ha), short of 2. As of May 2026, 2 new harvesters recruited, 4 available and adequate. Weeding and manuring assisted by workers from Batu Sablas Estate. Worker ratio 1:15 ha, satisfactory. GMD earlier said permanent harvesters should be kept at 6 and an additional harvester must be recruited immediately. Staff: Manager plus Jr Assistant Manager, no change, adequate.
+LABOUR (Agro 1/2026). Estate short of three harvesters at April visit; fertiliser applicators were deployed from Perhentian Tinggi Estate in 2025 and at the visit were doing sub-soil application at Perhentian Tinggi.
+
+WEEDING (PA 1/2026, 2025). Circle spraying 243.94 ha (2 rounds) = 100% of budget; circles clean; Inter Pump output 4.5 ha/man-day; piece rate RM20/ha; earnings RM90/man-day. Selective spraying 243.94 ha (2 rounds) = 100%; inter-rows clean; Tetracera regenerating; remaining VOPs to eradicate; mist blower output 4 ha/man-day, potential 6; piece rate RM20/ha; earnings RM80/man-day. No daily costing book yet.
+WEEDING (Agro 1/2026). 2025 weeding completed as planned. As of March 2026 no inter-row or circle weeding done; inter-row weeding seen in progress in P02 at visit. Vegetation acceptable, soft grasses, minimal competition.
+
+MANURING (PA 1/2026, 2025). 84.98 ha of 84.98 ha budgeted applied (P02 and P03; P90 not manured). Schedule: rounds Feb, May, Aug, Nov; actual March, June, Aug, Nov. Wheelbarrow application 25 bags/man-day; piece rate RM2.50/bag; earnings RM62.50/man-day, below basic wage RM65.38/day; suggested to raise the rate in line with new RM1,700/month salary scale.
+MANURING (Agro 1/2026). 2025: NK1 at 2.00 kg/palm (2,000 g) broadcast, four rounds on P02 and P03, recorded completed Jan, May, Aug and Nov 2025, no delays. Original 2026 programme: Mixture A 2.25 kg (2,250 g) Feb and Aug, NK1 2.00 kg (2,000 g) May and Nov. Not started as of March 2026 due to uncertainty over the solar project. Revised 2026 programme (Appendix 1, kg/palm): P90 nil; P02 and P03 MIX A 2.00 kg (2,000 g), NK1 1.75 kg (1,750 g), MIX A 2.00 kg (2,000 g). NK1 = 50% AS : 50% MOP. Mixture A = 45% SOA : 0% RP : 40% MOP : 15% kieserite.
+
+PEST AND DISEASE. PA: no rat or bagworm issues; Ganoderma sporadic in P02 and P03; deboling not done yet. Agro: rat damage census 2025 below 20% platform basis (P2002 5.62%, 5.27%, 5.33%, 5.12% by quarter; P2003 7.83%, 7.41%, 7.16%, 7.36%); Q1 2026 P2002 5.31%, P2003 6.90%; no baiting needed, keep monitoring. No leaf-eating pests. Ganoderma symptoms in old plantings, no census or treatment carried out; advised detailed census and deboling of severely affected or dead palms in P02 and P03, pits 1.5 m x 1.5 m x 1.5 m.
+
+ROADS AND DRAINS (PA). 300 chains budgeted for grading, none done (manager says grading without compaction not effective, volume too small for contractor). Roads satisfactory with minor damage. No drain issues, no drain budget.
+
+PRUNING. PA: 84.98 ha of 84.98 ha progressively pruned to December 2025 (P02 12.58, P03 72.4), satisfactory; cost RM1.20/palm/year. Agro: pruning acceptable in P02 and P03; P90 under-pruned.
+
+CROP (PA 1/2026, as reported). Table labelled 2024 vs 2025: P1990 6.79 to 1.32 t/ha (-80%); P2002 22.39 to 20.56 (-8%); P2003 18.48 to 20.61 (+11.5%); estate 15.34 to 14.76 (-4%); production 1,871.07 t to 1,799.89 t. Says 14.76 t/ha is 34% below budget 22.40 t/ha. Harvesting rounds 15 against budget 24. Interval averaged 17 days. Outturn 95%. Evacuation: 1 Badang (2 cutters, 1 collector) and 1 mini dumper (1 cutter, 1 collector). Bunch weights Dec 2024 vs Dec 2025: 2002 21.5 to 21.3 kg; 2003 21.1 to 21.6 kg. Harvesting rate RM48/t; output 1.95 t/man-day (2002) and 1.87 (2003); earnings RM93.60 and RM89.76 vs basic RM65.38. Manual loading tractor grabber 5.82 t/day at RM7.00, earning RM40.74. Harvesters work about 6 hours a day; should work 9. Low cropping season, many male flowers.
+CROP (Agro 1/2026). Monthly production 2025 totals 1,627.55 t = 13.34 t/ha; 2024 1,799.89 t = 14.76 t/ha; 2023 1,871.07 t = 15.34 t/ha; 2022 1,411.65 t = 11.57; 2021 1,644.91 t = 13.49; 2020 2,638.65 t = 21.63 (Appendix 2). Block yields 2024 vs 2025: P90 1.32 to 0.35; P02 20.56 to 15.33; P03 20.61 to 19.63; decline 9.6%. 2025 harvesting rounds: P90 0.5 (2%), P02 13 (54%), P03 17 (71%). Q1 2026: 363.00 t, 2.98 t/ha vs 2.50 t/ha Q1 2025 (+19.2%); P90 0.0, P02 3.95 (+48.5%), P03 4.33 (+21.6%); rounds 5.5 of 6 for P02 and P03, P90 zero. 2026 monthly: Jan 169.82, Feb 80.85, Mar 112.33 t. Harvesting intervals Oct 2025 to Mar 2026 ranged up to 26 days (P02 Oct-25 11-26; P03 Oct-25 19-25, Nov/Dec/Jan up to 25), exceeding 15 days; over 10% overripe bunches on P03 platforms; loose fruit collection acceptable.
+NOTE ON CONFLICT: the PA 2025 figures (1,799.89 t, 14.76 t/ha) equal the Agronomy report's 2024 figures; the Agronomy monthly data show 2025 = 1,627.55 t, 13.34 t/ha. The dashboard uses the Agronomy figure.
+
+RAINFALL (both reports agree). 2025: 2,436 mm, 124 days (low Jan 80, Jun 84, Jul 49 mm; high Apr 451, Nov 448 mm). 2024 2,481 mm/148 days; 2023 2,451/140; 2022 3,123/169; 2021 2,570/137. Jan to Mar 2026: 332 mm, 16 days. Agro says the June to July 2025 drought likely hurt palms; heavy April and November rain disrupted work.
+
+CONCLUSIONS. PA: few issues; circles and inter-rows satisfactory; focus on sprayer and harvester productivity; retain harvesters through higher earnings. Agro: 2025 yield declined; early 2026 improved; crop recovery must improve; 2026 programme revised.
+
+PERIODS. Estate yields: Jan-Dec 2025 = 13.34 t/ha (1,627.55 t); Jan-Dec 2024 = 14.76 t/ha; Jan-Mar 2026 = 2.98 t/ha (363.00 t) vs Jan-Mar 2025 = 2.50 t/ha (304.40 t). Block yields on the dashboard are Jan-Dec 2025 vs Jan-Dec 2024 (Agro Table 10). Budget yield 22.40 t/ha is for Jan-Dec 2025 (PA 6.1). Note Jul and Aug 2025 monthly production are both shown as 146.74 t in Agro Appendix 3 (total still sums to 1,627.55 t).
+
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Harvester shortage, slow rounds: 2025 rounds: P02 13 (54%), P03 17 (71%) vs 24. Intervals up to 26 days Oct 2025–Mar 2026; over 10% overripe bunches on P03 platforms (Apr 2026). (Agro 1/2026)
+2. P90 old palms barely harvested: P90 (36.99 ha, 1990, palms over 55 ft) yielded 0.35 t/ha in 2025 vs 1.32 in 2024; 0.5 round in 2025, none Jan–Mar 2026. Replanting deferred pending solar decision. (Agro 1/2026)
+3. 2026 manuring not started: No 2026 manuring in P02 and P03 by the Apr 2026 visit, partly from uncertainty over the solar project; applicators were at Perhentian Tinggi. (Agro 1/2026)
+4. Jun–Jul 2025 drought: Jun 84 mm and Jul 49 mm in 2025; Agro expects the drought hurt palms. 2025 yield 13.34 t/ha vs 14.76 in 2024. (Agro 1/2026)
+5. Ganoderma untreated in P02 and P03: Ganoderma symptoms (rotting roots, stem decay, unopened spears) in P02 and P03; no census, de-boling or treatment done yet. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop well below budget: 13.34 t/ha vs 22.40 t/ha budget, Jan–Dec 2025. Low cropping season at visit, many male flowers. (PA 1/2026 · Agro 1/2026)
+2. Few rounds, short harvester days: 15 harvesting rounds vs 24 budgeted in 2025, average interval 17 days. Harvesters work about 6 hours a day; should work 9. (PA 1/2026)
+3. Harvester numbers thin: Only 2 harvesters in Dec 2025 (1:42 ha); 4 by May 2026 after recruiting 2. Group MD wants 6 permanent harvesters. 8 workers vs 14 required. (PA 1/2026)
+4. P90 future undecided: P90 status undecided (solar project planned); blanket sprayed, one harvester picking where possible, no pruning for a long time. (PA 1/2026)
+5. Sprayer output and VOPs: Mist blower 4 ha/man-day (potential 6); no daily costing book yet. Regenerating Tetracera and remaining VOPs to be sprayed next round. (PA 1/2026)
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2020 (Jan–Dec): 2,638.65 t (Agronomy Report 1/2026 Appendix 2 Yield Statistic)
+2021 (Jan–Dec): 1,644.91 t (Agronomy Report 1/2026 Appendix 2 and Appendix 3 Monthly Production)
+2022 (Jan–Dec): 1,411.65 t (Agronomy Report 1/2026 Appendix 3 Monthly Production (sum of months; Appendix 2 prints 1,239.48 - see notes))
+2023 (Jan–Dec): 1,871.07 t (Agronomy Report 1/2026 Appendix 2 and 3)
+2024 (Jan–Dec): 1,799.89 t (Agronomy Report 1/2026 Appendix 2 and 3)
+2025 (Jan–Dec): 1,627.55 t (Agronomy Report 1/2026 Appendix 3 Monthly Production (total, 13.34 t/ha))
+2025 monthly: Jan 95.04; Feb 97.12; Mar 112.24; Apr 124.97; May 174.70; Jun 179.29; Jul 146.74; Aug 146.74; Sep 126.75; Oct 135.84; Nov 179.87; Dec 108.25
+2026 monthly: Jan 169.82; Feb 80.85; Mar 112.33
+2026 Jan–Mar: 363.00 t (Agronomy Report 1/2026 Appendix 3 (Jan-Mar 2026, 2.98 t/ha; Jan-Mar 2025 304.40 t))
+
+===== ESTATE: cheroh =====
+Full pack incl. block detail: https://prosper-paras.netlify.app/kb/cheroh.txt
+PARAS ESTATE REPORT PACK — Ladang Cheroh
+Company: Vibrant Point Sdn Bhd · Group: Prosper
+Latest reports: PA Report 1/2026 (visit 2026-07-21); Agronomy Report 1/2026 (visit 2026-05-18)
+Dashboard: https://prosper-paras.netlify.app/estate.html?e=cheroh
+Full reports (Google Drive): https://drive.google.com/drive/folders/1FYTxAKqnDYX5lZ1BcuEDGUHk4bqbbJ_a
+Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
+
+REPORT EXTRACTS
+LADANG CHEROH, Vibrant Point Sdn Bhd (Prosper group). Fact pack drawn from two reports. (1) PA Report 1/2026 (Planting Advisory, visit 21 July 2026, review period January to June 2026, visited by Mr. Boey Chee Weng, Planting Advisor). (2) Agronomy Report 1/2026 (visit 18 May 2026, first agronomy visit of the year, last agronomy visit 28 October 2025; Agronomist En. Muhammad Ghazali Abdul Ghani, signed with Senior Agronomist Mr. Chong Kuan Ming). Plantation Controller Dr. Chua Chin Kok; Senior Manager En. Mat Zin Bin Mat Akir; Estate Manager Mr. Thivakaran A/L Kanan. The PA report contains no production cost (RM per tonne) tables, so no cost of production is available for Cheroh in these two reports.
+
+AREA (PA 1/2026, area statement as at June 2026). Total estate 1,212.52 ha. Total oil palm 1,168.65 ha = mature 813.08 ha + immature PR23 106.33 ha + PR25 (replanted 2025) 103.14 ha + PR26 replanting 146.10 ha. Durian 0.81 ha and 1.62 ha; housing/road 2.50 ha; pond, river reserves and steep slope 2.00 ha; vacant unplantable 36.94 ha. Mature fell from 980.22 ha to 813.08 ha because 146.10 ha (P96C 65.97 ha and P97D 80.13 ha) was cleared for replanting in 2026. PA 2.2 says immature rose from 209.47 ha to 355.57 ha (this includes PR26). P18S area was cut from 37.23 ha to 16.19 ha because 21.04 ha was declared unplantable (steep terrain, difficult access). Mature blocks (ha): P00E 29.95; P03G 64.00; P05H 74.91; P06I 108.86; P07J 57.87; P08K 193.80 (K1 93.08, K2 63.13, K3 37.59); P10L 67.18 (L1 12.14, L2 55.04); P11M 33.99; P13N 12.14; P14O 90.25 (O1 23.07, O2 67.18); P15P 63.94; P18S 16.19. Years of planting: P96C 1996, P97D 1997/1998, P00E 2000, P03G 2003, P05H 2005, P06I 2006, P07J 2007, P08K 2008, P10L 2010, P11M 2011, P13N 2013, P14O 2014, P15P 2015, P18S 2018, PR23 2023, PR24/PR25 2024 to 2025.
+Agronomy Report 1/2026 Table 1 (blocking, updated December 2025) shows total 1,197.89 ha (PR24 at 111.34 ha and P18S at 37.23 ha); Agro Table 3 (palm density) shows current total 1,189.69 ha with PR24 at 103.14 ha, which equals the PA total of 1,168.65 ha plus the 21.04 ha P18S declared unplantable. Palm density is 136 palms per ha in every mature block (Agro Table 3), total palms 138,890, average SPH 117. PR24 (called PR25 by the PA) has only 54 SPH (5,580 palms, previously 50 SPH on 111.34 ha). PR23 has not reached target stand; census needs completing. Palm age (Agro 2.3): about 41% of the estate is prime age 10 to 19 years, 21% is over 20 years, 3% over 26 years. Replanting programme (Agro Table 2): 146.10 ha in 2026 (P96C and P97D, 12.28% of estate); 50.99 ha in 2027 (P00E and P18S1; P18S1 prioritised because of steep terrain); nothing in 2028 and 2029.
+
+LABOUR (PA 1/2026, as at June 2026). Required 69 and available 52 (-17); with 2 security, 71 required and 54 available. Harvesters/pruners 41 required vs 34 (-7). Drivers 6 vs 3 (-3). Weeding 12 vs 8 (-4). Manuring 8 vs 5 (-3). General 2 vs 2. Harvester ratio is 1:24 ha against the 1:20 ha required (41); because FFB is evacuated by wheelbarrow only, the PA advised revising the ratio to 1:17 ha. Workers to planted ha is 1:15 against an ideal 1:12 for an estate with much replanting. HR is recruiting harvesters and field workers. Staff: Asst. Manager Mr. Abd Halid bin Othman; Jr. Asst. Manager Mr. Mhuniandy A/L Balan; Field Supervisors Mr. Wan Asri and Mr. Muhammad Fidzuan; two Field Supervisor posts vacant (Mr. Thanesh resigned Oct 2025). PA concluding remark: labour shortage is the main issue. Agro 4.1.2: shortage of four harvesters in December 2025.
+
+CROP (PA 1/2026 section 6, January to June 2026). FFB 7,103.62 t vs budget to date 8,964.88 t; annual budget 18,854.30 t; same period 2025 6,333.31 t; full year 2025 16,153.64 t. CPO 1,402.96 t (OER 19.75% vs 19.00% budget); palm kernel 337.42 t (4.75% vs 5.00%). Yield Jan to Jun 2026 8.74 t/ha on 813.08 ha mature, 21% below the budget to date of 11.03 t/ha, but 35% above 6.46 t/ha for Jan to Jun 2025 (on 980.22 ha). Annual budget yield 23.19 t/ha; 2025 full year 16.48 t/ha. Poor fruit sets at many blocks (P03G no bunches, P08K poor); good fruit sets at P15P and P18S. Harvesting rounds to June: 11 against 12 budgeted; average interval 16 days; outturn 91%. Estate is in a low cropping season.
+Bunch weights June 2025 vs June 2026 (PA 6.6, kg): 2000 23 to 21.8; 2003 23 to 22.3; 2005 23.8 to 22.9; 2006 21.7 to 20.8; 2007 22.2 to 20.9; 2008 21.7 to 19.9; 2010 18.8 to 17.9; 2011 17.9 to 17.2; 2013 11.0 to 9.9; 2014 9.8 to 9.3; 2015 9.7 to 9.3; 2018 4.7 to 5.11. PA 6.7 calls the disparity huge and asks the estate to investigate, suggesting inaccurate bunch counting.
+Harvesting rates (PA 6.8, to June 2026; rate per tonne, output t/man-day, average earnings per day versus basic wage RM65.39): P96C RM50, 1.76, RM88.00; P97D RM50, 1.80, RM90.00; P00E RM51, 1.73, RM88.23; P03G RM41, 1.42, RM58.22; P05H RM40, 1.57, RM62.80; P06I RM40, 1.68, RM67.20; P07J RM40, 1.30, RM52.00; P08K RM40, 1.46, RM58.40; P10L RM39, 1.23, RM47.97; P11M RM39, 1.18, RM46.02; P13N RM39, 1.26, RM49.14; P14O RM39, 1.46, RM56.94; P15P RM39, 1.34, RM52.26; P18S RM66, 1.63, RM107.58. PA 6.9 and 6.10: productivity and earnings are low, harvesters will leave if low earnings persist; estate told to raise with the Resident Director.
+Monthly FFB (Agro Appendix 2, tonnes): 2026 Jan 1,491.59; Feb 1,051.12; Mar 1,116.66; Apr 1,345.69; Jan to Apr 5,005.06 vs 3,589.83 for Jan to Apr 2025 (derived from monthly 2025 figures 661.91, 657.56, 990.96, 1,279.40). Implied May plus June 2026 crop is 2,098.56 t (7,103.62 less 5,005.06). Annual FFB: 2021 13,397.77 t; 2022 14,498.37; 2023 17,335.36; 2024 16,401.14; 2025 16,153.64. 
+
+YIELD BY BLOCK (Agronomy Report 1/2026). Table 11, year 2025 vs 2024 t/ha: P96C 12.13 (11.70, +3.7%); P97D 8.51 (11.77, -27.7%); P00E 17.66 (15.25, +15.8%); P03G 19.98 (21.09, -5.3%); P05H 21.86 (19.62, +11.4%); P06I 12.67 (11.88, +6.7%); P07J 16.88 (19.73, -14.4%); P08K 19.29 (17.82, +8.2%); P10L 16.35 (15.76, +3.7%); P11M 15.23 (13.01, +17.1%); P13N 19.13 (19.58, -2.3%); P14O 18.01 (22.45, -19.8%); P15P 18.39 (23.80, -22.7%); P18S 12.96 (13.48, -3.8%); total 16.48 (17.01, -3.1%) on 984.72 ha. Text 7.1 says 16.80 t/ha, which disagrees with the table 16.48 (the table matches PA last year 16.48). Average 16 harvesting rounds in 2025 against 24 needed.
+Table 12, January to April 2026 vs same period 2025, t/ha: P96C 2.42 vs 2.42 (+0.04%); P97D 0.84 vs 2.09 (-59.75%); P00E 6.31 vs 4.82 (+30.73%); P03G 5.72 vs 4.85 (+17.96%); P05H 6.29 vs 4.40 (+42.87%); P06I 5.46 vs 2.53 (+115.67%); P07J 5.97 vs 4.07 (+46.66%); P08K 5.59 vs 4.15 (+34.77%); P10L 6.01 vs 3.21 (+87.34%); P11M 5.29 vs 3.02 (+74.97%); P13N 5.78 vs 3.91 (+47.76%); P14O 6.09 vs 4.24 (+43.52%); P15P 6.38 vs 4.46 (+43.19%); P18S 3.15 vs 3.48 (-9.55%); estate 5.11 vs 3.66 (+39.22%). Agro 7.3: only P97D and P18S were down.
+Cumulative harvesting rounds to April 2026 (Agro Table 13; table caption wrongly says Jan to Feb 2025): estate 6.67 rounds, 83% of target of 8; P11M and P18S 8.0 (100%); P05H 6.5; P07J 7.0; P10L 7.0; P13N 7.0; P00E 5.5 (69%); P03G 5.0 (75%). Agro 7.6: yield is probably hurt by inconsistent manuring over several years.
+
+HARVESTING INTERVAL (Agro 4.1). 2025 intervals ranged 14 to 26 days, most fields 16 to 21 days; causes were rain and a shortage of four harvesters in December 2025. Target is 15 days or less. January 2026 several blocks above 20 days; February to April improved (Table 8 April 2026 shows roughly 10 to 16 days). Prolonged intervals in old plantings caused over-ripe bunches and loose fruit; P06I and P10 crop quality acceptable, loose fruit collection improved.
+
+UPKEEP AND CULTIVATION, MATURE (PA 1/2026 section 5, to 30 June 2026).
+Circle spraying: 594.09 ha (0.7 round) or 73% of 813.08 ha budgeted (1 round); behind because of sprayer shortage. Done with CKS, output 1.6 ha/man-day (2.9 at last visit), piece rate RM17/ha, earnings RM27.20/man-day vs basic RM65.38; glyphosate 1.6 litre/ha (13 pumps/ha). Estate again advised to use CDA to reach 5 ha/man-day. Circles generally clean.
+Selective spraying: 813.08 ha (1 round) or 50% of 1,626.16 ha (2 rounds). Mist blower, output 2.7 ha/man-day (target 5.0 to 6.0 as in other group estates), piece rate RM19/ha, earnings RM51.30/day; Garlon 0.86 litre/ha (1.9 pumps/ha, low); 10 pumps/man-day vs benchmark 12. Inter-rows much improved, mostly free of woodies; remaining VOPs, Lalang and Tetracera to be eradicated next round.
+Manuring: PA 5.3 reports programmes fully completed to June 2026 by wheelbarrow, 26 bags/man-day (target 35), RM2.30/bag, earnings RM59.80/day vs RM65.38 basic. Latest rounds: P10L Mix B round 3 82% (June); P14O round 3 25%; other round 3 and 4 not yet due.
+Pest and disease (PA): rat damage minimal; Ganoderma fruiting bodies on only 1 palm (P10L); cattle owner said he would remove all cattle in July or August 2026.
+Roads (PA 5.5): 1,800 chains grading and 500 chains laterite budgeted; none done to June because of high diesel prices and no new rates from the company; budget rate RM19/chain grading and RM105/chain surfacing; no backhoe rental; roads bumpy with deep gullies (P14O). PA advises at least road camber this year. Drains: no budget and no issues.
+Pruning (PA 5.7): progressive pruning 3,515.94 ha or 97% of 3,609.94 ha budgeted (the table total row prints 95%); P00E none (replanting 2027); corrective pruning at P06I and P10L2 completed June 2026 at RM2/palm. Progressive pruning cost per ha per year: P03G and P05H RM120; P06I to P10L RM100; P11M to P15P RM85; P18S RM60.
+
+AGRONOMY, MATURE (Agro 1/2026 sections 3 and 4).
+Fertiliser 2025 (Table 5): only 54% of the programme applied (705.56 of 1,295.50 t required; Mix B 55%, NK1 100%, kieserite 92%, RP 2%, compound 50%, AS 57%), blamed on labour turnover and late deliveries. 2026 to April (Table 6): 37% done (455.52 t applied; Mix B 35%, NK1 32%, Mix A 100%, RP 15%, compound 38%, kieserite 89%, AS 75%); Mix A completed after the second-half programme was revised for price rises and limited stock. Agro 3.4 says deliveries have generally been satisfactory. Application at P06I seen: NK1 2.0 kg/palm, 4 applicators, 91 bags, 22 to 23 bags each, quality satisfactory; store tidy with pallets.
+Pruning: 2025 progressive pruning 100% in prime mature blocks; corrective pruning P06I only 23% and P10L2 27% in 2025 (43% and 85% by April 2026); very old P96C, P97D, P00E only 30% because palm height; P18S 60%. First progressive round complete by April in P03G, P05H, P07J, P08K, P10L1, P11M, P13N, P14O, P15P, P18S. Under-pruning seen at P06I; etiolated palms at P03.
+Palm nutrition: mild potassium and magnesium deficiency in P05, P08, P14O2, P13N; kieserite applied March 2026. Waterlogging minimal.
+Weeding: 2025 only one inter-row round in all fields; two circle rounds in P03G, P08K, P11M, P13N, P14O, P18S. 2026 first inter-row round done Jan to Apr in most blocks (P03G and P15P in progress); first circle round only P00E and P08K. Weeds mainly soft grasses, some Hedyotis verticillata and large VOPs, especially P03 and P05; circles in P00E and P03G need attention.
+Pest and disease: rat damage 1.87% to 3.90% through 2025 and 2.30% to 3.90% in April 2026, below threshold, no baiting advised (highest P06I and P07J 3.90%). No leaf-eating pest outbreak. Ganoderma symptoms (fruiting bodies, unopened spears) in some palms in P03 and P06; deboling of dead or advanced palms advised.
+
+IMMATURE AND REPLANTING.
+PR23 (106.33 ha; Agro heading says 112.0 ha) (PA 7.1, Agro 5): circle spraying 252.66 ha (2.4 rounds) or 82% of 318 ha (3 rounds); selective 174 ha (1.6 rounds) or 55%; fertiliser 2 of 2 rounds; soft woodies well controlled but overgrown VOPs as large as the palms and Lalang dominant; supplying to finish by October 2026; basal pruning and scout harvesting expected from September. Agro: palms about 28 months old, vigour satisfactory after cattle recovery, bunches forming; stand uneven because of losses; 850 supply palms planted in PR23 (PR23A 200, PR23B 650) plus 340 in PR24 in January 2026 (total 1,190, Table 4). Agro inter-row weeding: two of six budgeted rounds done in 2026; 2025 circle weeding 73% (five rounds).
+PR25/C and D (PA heading 111.34 ha; area statement 103.14 ha; Agro calls it PR24): circle spraying 309 ha (3 rounds) or 100%; selective 119 ha (1.1 rounds) or 39%, with woodies and Lalang remaining; fertiliser 2 of 3 rounds, short because of late supplier delivery; 6 rounds of cypermethrin against Oryctes, damage minimal; 1,000 palms supplied to date. Agro: planting completed October 2025; Oryctes and Apogonia signs; no rhinoceros beetle census though biweekly foliar spraying since January (continue until below 10% threshold); cattle intrusion still seen and trenches ineffective, fencing to be considered.
+PR26 (146.10 ha, P96C and P97D): felling and chipping done Feb to Apr 2026 (satisfactory), terraces 16 ft wide being rebuilt (Paras GIS elevation study May 2026), blanket spraying began July 2026 with woodies and VOPs dominant, patches of jungle trees in ravines still to fell; cover planting and palm planting expected September 2026; steep roads should be realigned. Planting-hole manuring: 600 g controlled release fertiliser (20:6:14:3) plus 500 g RP; no manuring up to 9 months after planting.
+
+FERTILISER PROGRAMME 2026 (Agro Appendix 1, revised, kg per palm; layout hard to read). Mixture B is 45% SOA, 40% MOP, 14% kieserite, 1% borate; NK1 50% AS 50% MOP. Mature blocks mainly Mix B 2.25 kg rounds, RP 1.50 kg and Mix B 1.50 kg in the second half (P10L to P15P); P18S Mix B 2.00 kg, RP 2.00 kg, Mix B 1.50 kg; PR23 Mix B 1.50 kg, RP 2.00 kg; PR25 compound 0.80, 0.90 and 1.00 kg with RP 1.50 kg. The 2027 programme will be in the next agronomy report.
+
+RAINFALL (Agro Appendix 3). Annual mm and rain days: 2021 2,680.0 mm, 159 days; 2022 3,039.0, 172; 2023 3,446.0, 122; 2024 2,846.0, 153; 2025 2,272.5, 158. 2026 January to April 805.5 mm over 48 days (Jan 83.0, Feb 137.5, Mar 119.0, Apr 466.0).
+
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Manuring short for years: Only 54% of 2025 programme applied (705.56 of 1,295.50 t); 37% of 2026 programme to Apr 2026. Agro: yield probably hurt by inconsistent manuring over several years. (Agro 1/2026)
+2. Harvester shortage, long intervals: 16 rounds in 2025 vs 24 needed; intervals 14–26 days in 2025, causing overripe bunches and loose fruit. Harvesters 34 vs 41 (Jun 2026). (Agro 1/2026 · PA 1/2026)
+3. Weeding rounds behind: Only one inter-row round in 2025. To Jun 2026 circle 73% (0.7 round) and selective 50%; sprayers 8 vs 12. Large VOPs in P03 and P05. (PA 1/2026 · Agro 1/2026)
+4. Low palm stand, vacant points: PR25 only 54 SPH (5,580 palms); PR23 uneven from palm losses. Interim census: P08K1 105 SPH, P08K2 103 SPH (−23%, −16%). Census incomplete. (Agro 1/2026 · Agro 2/2025)
+5. Cattle damage in young palms: PR23 maturity delayed by cattle damage; PR25 palms badly defoliated, trenches ineffective. Owner to remove all cattle Jul or Aug 2026. (PA 1/2026 · Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 21% below budget: 7,103.62 t vs 8,964.88 t budget, Jan–Jun 2026; 8.74 vs 11.03 t/ha, though 35% above 6.46 t/ha for Jan–Jun 2025. Poor fruit sets in P03G and P08K. (PA 1/2026 s.6)
+2. Labour shortage the main issue: 54 workers vs 71 required (Jun 2026): harvesters 34 vs 41, drivers 3 vs 6, weeding 8 vs 12, manuring 5 vs 8. Two Field Supervisor posts vacant. (PA 1/2026)
+3. Harvester earnings below basic wage: Earnings to Jun 2026 as low as RM46.02/day (P11M) and RM47.97 (P10L) vs RM65.39 basic; PA warns harvesters will leave. (PA 1/2026 s.6.8)
+4. Spraying slow and behind: Circle 73% at 1.6 ha/man-day (earnings RM27.20); selective 50% at 2.7 ha/man-day vs 5–6 target, to Jun 2026. Advised again to use CDA. (PA 1/2026 s.5)
+5. No road grading done: 1,800 chains grading and 500 chains laterite budgeted, none done to Jun 2026 (diesel prices, no new rates). Deep gullies in P14O. (PA 1/2026 s.5.5)
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+2021 (Jan–Dec): 13,397.77 t (Agronomy Report 1/2026 Appendix 2 Yield Statistic)
+2022 (Jan–Dec): 14,498.37 t (Agronomy Report 1/2026 Appendix 2)
+2023 (Jan–Dec): 17,335.36 t (Agronomy Report 1/2026 Appendix 2)
+2024 (Jan–Dec): 16,401.14 t (Agronomy Report 1/2026 Appendix 2)
+2025 (Jan–Dec): 16,153.64 t (Agronomy Report 1/2026 Appendix 2; PA Report 1/2026 Section 6 (last year 12 months))
+2025 monthly: Jan 661.91; Feb 657.56; Mar 990.96; Apr 1,279.40; May 1,355.21; Jun 1,388.27; Jul 1,607.92; Aug 1,539.15; Sep 1,463.40; Oct 1,702.11; Nov 1,640.80; Dec 1,866.95
+2026 monthly: Jan 1,491.59; Feb 1,051.12; Mar 1,116.66; Apr 1,345.69
+2026 Jan–Jun: 7,103.62 t (PA Report 1/2026 Section 6 Crop Production as at June 2026 (813.08 ha mature, 8.74 t/ha; budget to date 8,964.88 t; Jan-Jun 2025 6,333.31 t))
+

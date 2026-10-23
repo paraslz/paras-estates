@@ -7,7 +7,8 @@ HOW TO USE THIS FILE (instructions for the AI assistant)
 - Answer group questions (comparisons, rankings, totals, priorities, KPIs) using ONLY these extracts.
 - Lead with the direct answer, in short numbered points. Cite the estate and report for each figure.
 - Always state the period a yield or tonnage covers; estates' periods differ, so say so when comparing.
-- For detail on one estate (blocks, fertiliser, pests, line-by-line costs), open that estate's full pack (link given per estate).
+- The ALL-ESTATES pack (kb/all-1.txt, all-2.txt, ... listed in kb/all.json) holds every estate's full report extracts; read it for any question that needs more than these summaries.
+- For block-by-block detail on one estate, open that estate's full pack (link given per estate).
 - If the extracts do not contain the answer, say so plainly. Do not guess. Money in RM; fertiliser in grams per palm.
 
 GROUP TOTALS

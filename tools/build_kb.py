@@ -120,7 +120,8 @@ GRULES = """HOW TO USE THIS FILE (instructions for the AI assistant)
 - Answer group questions (comparisons, rankings, totals, priorities, KPIs) using ONLY these extracts.
 - Lead with the direct answer, in short numbered points. Cite the estate and report for each figure.
 - Always state the period a yield or tonnage covers; estates' periods differ, so say so when comparing.
-- For detail on one estate (blocks, fertiliser, pests, line-by-line costs), open that estate's full pack (link given per estate).
+- The ALL-ESTATES pack (kb/all-1.txt, all-2.txt, ... listed in kb/all.json) holds every estate's full report extracts; read it for any question that needs more than these summaries.
+- For block-by-block detail on one estate, open that estate's full pack (link given per estate).
 - If the extracts do not contain the answer, say so plainly. Do not guess. Money in RM; fertiliser in grams per palm."""
 
 def fmt(v, d=2):
@@ -173,3 +174,31 @@ ESTATES
 """ + "\n\n".join(G) + "\n"
 open("kb/group.txt", "w").write(gtxt)
 print("group pack written,", len(gtxt) // 1000, "KB")
+
+# ---- all-estates pack: every estate's full report extract (without block-by-block detail), split into parts ----
+# The group/front-page Ask tells Claude to read group.txt plus every part, so group answers draw on all estate files.
+PART_MAX = 90_000
+ARULES = """HOW TO USE THIS FILE (instructions for the AI assistant)
+- This is one part of the ALL-ESTATES pack: the full report extracts for every estate in the group (KPIs, top 5 issues,
+  costs, FFB production, field findings, actions), from the latest PARAS PA and Agronomy reports. Block-by-block tables
+  are left out; for those, open the estate's own pack (link given per estate).
+- Read every part listed before answering. Use ONLY these extracts. Cite estate and report for each figure.
+- Always state the period a yield or tonnage covers. Money in RM; fertiliser in grams per palm. Do not guess."""
+for old in glob.glob("kb/all-*.txt"): os.remove(old)
+cores = []
+for f in sorted(glob.glob("kb/*.txt")):
+    s = os.path.basename(f)[:-4]
+    if s == "group" or s.startswith("all-"): continue
+    t = open(f).read(); i = t.find("\nBLOCK DETAIL"); core = t[:i] if i > 0 else t
+    j = core.find("HOW TO USE THIS FILE"); k = core.find("REPORT EXTRACTS")
+    if j > 0 and k > j: core = core[:j] + core[k:]          # drop the per-estate instructions, keep header + extracts
+    cores.append(f"===== ESTATE: {s} =====\nFull pack incl. block detail: {S['url']}/kb/{s}.txt\n{core.strip()}\n")
+parts, cur = [], ""
+for c in cores:
+    if cur and len(cur) + len(c) > PART_MAX: parts.append(cur); cur = ""
+    cur += c + "\n"
+if cur: parts.append(cur)
+for n, p in enumerate(parts, 1):
+    open(f"kb/all-{n}.txt", "w").write(f"PARAS ALL-ESTATES PACK — {S.get('group','')} group — part {n} of {len(parts)}\n{ARULES}\n\n{p}")
+json.dump({"parts": len(parts)}, open("kb/all.json", "w"))
+print("all-estates pack:", len(parts), "parts,", sum(map(len, parts)) // 1000, "KB")

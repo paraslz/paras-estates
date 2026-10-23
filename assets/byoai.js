@@ -6,7 +6,11 @@
  const G=slug==="group";
  const DEF=G?"Give me a short summary of the group's latest position and the estates that need attention most.":"Give me a short summary of this estate's latest reports and the main issues to look out for.";
  const qEl=form.querySelector("input");
- const prompt=t=>`Please read this PARAS ${G?"group":"estate"} report pack and answer using only what it says, citing the report for each figure: ${url}\n\nMy question: ${(t||"").trim()||DEF}`;
+ let ALL=[];const base=window.__SITE__||location.origin;
+ if(G)fetch(base+"/kb/all.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{ALL=Array.from({length:j.parts||0},(_,i)=>`${base}/kb/all-${i+1}.txt`)}).catch(()=>{});
+ const prompt=t=>{const q=(t||"").trim()||DEF;
+  if(G&&ALL.length)return `Please answer from the PARAS report packs for this group. Before answering, open and read ALL of these files in full: first the group summary, then every all-estates part (each holds the full report extracts for several estates):\n${[url,...ALL].join("\n")}\nUse only what they say and cite the estate and report for each figure. For block-by-block detail, open that estate's own pack (linked inside).\n\nMy question: ${q}`;
+  return `Please read this PARAS ${G?"group":"estate"} report pack and answer using only what it says, citing the report for each figure: ${url}\n\nMy question: ${q}`};
  window.PARAS_ASK=t=>{window.open("https://claude.ai/new?q="+encodeURIComponent(prompt(t)),"_blank","noopener")};
  form.addEventListener("submit",e=>{e.preventDefault();e.stopImmediatePropagation();window.PARAS_ASK(qEl.value)},true);
  const send=document.getElementById("send");if(send)send.textContent="Ask in Claude ↗";
