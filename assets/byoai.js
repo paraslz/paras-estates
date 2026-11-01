@@ -8,9 +8,10 @@
  const qEl=form.querySelector("input");
  let ALL=[];const base=window.__SITE__||location.origin;
  if(G)fetch(base+"/kb/all.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{ALL=Array.from({length:j.parts||0},(_,i)=>`${base}/kb/all-${i+1}.txt`)}).catch(()=>{});
- const prompt=t=>{const q=(t||"").trim()||DEF;
-  if(G&&ALL.length)return `Please answer from the PARAS report packs for this group. Before answering, open and read ALL of these files in full: first the group summary, then every all-estates part (each holds the full report extracts for several estates):\n${[url,...ALL].join("\n")}\nUse only what they say and cite the estate and report for each figure. For block-by-block detail, open that estate's own pack (linked inside).\n\nMy question: ${q}`;
-  return `Please read this PARAS ${G?"group":"estate"} report pack and answer using only what it says, citing the report for each figure: ${url}\n\nMy question: ${q}`};
+ const WAIT="I haven't asked my question yet. Once you have read the files, just reply in one line that you're ready, then wait for my question (I may also upload files of my own).";
+ const prompt=t=>{const q0=(t||"").trim(),q=q0?"My question: "+q0:WAIT;
+  if(G&&ALL.length)return `Please answer from the PARAS report packs for this group. Before answering, open and read ALL of these files in full: first the group summary, then every all-estates part (each holds the full report extracts for several estates):\n${[url,...ALL].join("\n")}\nAnswer from what they say (plus any files I upload) and cite the estate and report for each figure. For block-by-block detail, open that estate's own pack (linked inside).\n\n${q}`;
+  return `Please read this PARAS ${G?"group":"estate"} report pack and answer from what it says (plus any files I upload), citing the report for each figure: ${url}\n\n${q}`};
  window.PARAS_ASK=t=>{window.open("https://claude.ai/new?q="+encodeURIComponent(prompt(t)),"_blank","noopener")};
  form.addEventListener("submit",e=>{e.preventDefault();e.stopImmediatePropagation();window.PARAS_ASK(qEl.value)},true);
  const send=document.getElementById("send");if(send)send.textContent="Ask in Claude ↗";
