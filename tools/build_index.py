@@ -13,6 +13,8 @@ def ffb(d):
         t += v; cum[i + 1] = round(t, 2)
     for x in fp.get("years", []):  # a printed full-year total runs to the last month of the year
         if x.get("year") == CUR and x.get("t") is not None: cum[12] = x["t"]
+    for y in fp.get("ytdEarlier") or []:  # older printed cumulatives, so the group total keeps a common month
+        if y.get("year") == CUR and y.get("from", 1) == 1: cum[y["to"]] = y["t"]
     y = fp.get("ytd")
     if y and y.get("year") == CUR and y.get("from", 1) == 1: cum[y["to"]] = y["t"]
     return {"years": {str(x["year"]): x["t"] for x in fp.get("years", [])}, "cum26": cum, "with": fp.get("combinedWith")}

@@ -57,6 +57,7 @@ Every yield figure must have its period. Every period must be exactly what the r
   "monthly": {"2025": [Jan..Dec or null], "2026": [Jan..Dec or null]},             // printed monthly tonnes
   "monthlySrc": "...",
   "ytd": {"year": 2026, "from": 1, "to": 5, "t": 7375.22, "src": "..."},           // latest printed cumulative tonnage this year
+  "ytdEarlier": [{"year": 2026, "from": 1, "to": 3, "t": 0, "src": "..."}],   // optional: the previous printed cumulative when an estate has no monthly tonnes, kept so the group total can still sum to that month
   "combinedWith": "other-slug",   // only when the ytd figure covers two estates/divisions (e.g. Juasa A+B); put it on one estate only
   "combinedNote": "plain sentence shown under the FFB chart on BOTH estates, e.g. 2026 to date is printed only for X and Y combined: 1,234 t, Jan–Jun 2026.",
   "notes": "conflicts, partial years (not shown to clients)"

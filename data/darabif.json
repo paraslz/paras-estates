@@ -3616,7 +3616,16 @@
    "t": 17251.85,
    "src": "PA Report 2-2026 Table 21 (Jan-Jul 2026, 1,627 ha basis; same period 2025 18,066.08)"
   },
-  "notes": "2024 monthly Jan-Nov sums to 36,415.56 (= printed Table 7 total) but December is blank, so it is NOT used as the annual figure; annual 2024 comes from the PA. Basis conflict: PA annual figures use 1,627 ha (exclude E2, 20 ha operated by Insan Jaya but charged to Darabif); the Q1 2026 table and Agro Table 7 use 1,647 ha (include E2). Agro gives 2025 yield 20.94 t/ha on 1,647 ha vs PA 21.02 t/ha. Conflict: Jan-Oct 2023 per PA 2-2024 is 27,554.10 but the Agro monthly sum Jan-Oct 2023 is 24,427.01; Oct 2023 (3,544.00) looks anomalous. Cumulative checkpoints (PA): Jan-May 2025 12,161.01; Jan-Oct 2025 27,549.20; Jan-May 2024 15,595.16; Jan-Oct 2024 33,229.28. 2026 Q1 block sums: A 1,268.09; B 2,228.95; C 2,152.21; D 2,037.05; E2 43.53. Agro D&IJ report is shared with Insan Jaya; figures kept separate. PA 2-2026 prints no monthly tonnage, so monthly stays empty. PA 2-2026 Table 21 confirms 2025 at 34,207.33 t. Cumulative checkpoint Jan-Jul 2025 18,066.08. Jan-Jul 2026 by field (Table 18): A 3,488.75; B 4,928.25; C 4,519.93; D 4,314.92, sum 17,251.85, excludes PM05E, while the Jan-Mar 2026 total 7,729.83 included E2 43.53."
+  "notes": "2024 monthly Jan-Nov sums to 36,415.56 (= printed Table 7 total) but December is blank, so it is NOT used as the annual figure; annual 2024 comes from the PA. Basis conflict: PA annual figures use 1,627 ha (exclude E2, 20 ha operated by Insan Jaya but charged to Darabif); the Q1 2026 table and Agro Table 7 use 1,647 ha (include E2). Agro gives 2025 yield 20.94 t/ha on 1,647 ha vs PA 21.02 t/ha. Conflict: Jan-Oct 2023 per PA 2-2024 is 27,554.10 but the Agro monthly sum Jan-Oct 2023 is 24,427.01; Oct 2023 (3,544.00) looks anomalous. Cumulative checkpoints (PA): Jan-May 2025 12,161.01; Jan-Oct 2025 27,549.20; Jan-May 2024 15,595.16; Jan-Oct 2024 33,229.28. 2026 Q1 block sums: A 1,268.09; B 2,228.95; C 2,152.21; D 2,037.05; E2 43.53. Agro D&IJ report is shared with Insan Jaya; figures kept separate. PA 2-2026 prints no monthly tonnage, so monthly stays empty. PA 2-2026 Table 21 confirms 2025 at 34,207.33 t. Cumulative checkpoint Jan-Jul 2025 18,066.08. Jan-Jul 2026 by field (Table 18): A 3,488.75; B 4,928.25; C 4,519.93; D 4,314.92, sum 17,251.85, excludes PM05E, while the Jan-Mar 2026 total 7,729.83 included E2 43.53.",
+  "ytdEarlier": [
+   {
+    "year": 2026,
+    "from": 1,
+    "to": 3,
+    "t": 7729.83,
+    "src": "PA Report 1-2026 Table 28 (Jan-Mar 2026)"
+   }
+  ]
  },
  "blockEstateWide": {
   "manuring": [
