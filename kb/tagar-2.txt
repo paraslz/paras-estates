@@ -1,6 +1,6 @@
 PARAS ESTATE REPORT PACK — Ladang Tagar 2
 Company: Tagar Properties Sdn Bhd · Group: Prosper
-Latest reports: PA Report 2/2026 (visit 2026-08-07); Agronomy Report 1/2026 (visit 2026-04-09)
+Latest reports: PA Report 2/2026 (visit 2026-08-07); Agronomy Report 2/2026 (visit 2026-09-29)
 Dashboard: https://prosper-paras.netlify.app/estate.html?e=tagar-2
 Full reports (Google Drive): https://drive.google.com/drive/folders/1HslQVTa_hphKnrne7Why3tsYMJaKXTJ1
 Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
@@ -16,45 +16,46 @@ HOW TO USE THIS FILE (instructions for the AI assistant)
 
 REPORT EXTRACTS
 LADANG TAGAR 2 (Tagar Properties Sdn Bhd, Prosper group) - FACT PACK
-Sources: PA Report 2/2026 (Planting Advisor Mr. Boey Chee Weng, visit 7 August 2026, review period January to June 2026) and Agronomy Report 1/2026 (Agronomist Mr. Chong Kuan Ming, visit 9 April 2026, previous visit 29 October 2025, Plantation Controller Dr. Chua Chin Kok). Senior Manager Mr. Paramaswarn a/l Thangavilu; Sr. Assistant in-charge En. Mohd Shalihuddin Bin Haron.
+Sources: PA Report 2/2026 (Planting Advisor Mr. Boey Chee Weng, visit 7 August 2026, review period January to June 2026) and Agronomy Report 2/2026 (Agronomist Mr. Chong Kuan Ming, visit 29 September 2026, previous visit 9 April 2026, cover letter 29 October 2026, Plantation Controller Dr. Chua Chin Kok). Senior Manager Mr. Paramaswarn a/l Thangavilu; Sr. Assistant in-charge En. Mohd Shalihuddin Bin Haron. GMD comments dated 4 November 2026: reply required within 2 weeks.
 
 AREA (PA 2/2026, as at June 2026): Title 770.49 ha. Planted 734.35 ha, all mature (95.31%). Roads 23.95 ha, TNB rentice 1.19 ha, buildings/others 11.00 ha. No immature, replanting or nursery. Mature area rose from 639.35 ha to 734.35 ha because PR22H (96 ha) was declared mature in 2026. PA says no replanting plans for 2026 and 2027. Blocks: PM00A 160.63 ha, PM01B 68.00, PM02C 31.80, PM12D 145.00, PM16E 42.06, PM18F 85.04, PM20G 105.82, PM22H 96.00. Planting years per Agronomy 1/2026: 2000, 2001, 2002, 2012, 2016, 2018, 2020, 2022 (the PA area table shows different years, treated as a typo). Planting material (PA/Agro): D/Hope or G/Hope, 101/IOI, AAR, DxP Special, DxP FELDA.
-Agronomy 1/2026: oldest P00 (22% of area, over 25 years) recommended for replanting in 2027 (160.63 ha), P01B in 2028 (68 ha), due to tall palms, yields below 15 t/ha and poor access in unterraced ravines. Prime plantings 37% vs 48% target; about 17% of palms over 20 years; young mature 27%. Palm census (GPS SPH): PM00A 128 and 122, PM01B 113, PM02C 132, PM12D 135 and 133, PM16E 136, PM18F 120, PM20G 126, PR22H 120. SPH low in P18F, P20G, P22H; infilling repeatedly recommended but not done. P22 SPH about 12% below minimum.
+Agronomy 2/2026: planted 734.35 ha (Table 1). P00 replanting tentatively 2027 (PM00A 160.63 ha), to be finalised early so manuring can be withdrawn; PM01B 68.00 ha in 2028 (Table 2). P00B and P00C are over 25 years, tall, under 15 MT/ha for years, with poor ravine access; to be replanted within five years. Palm census unchanged (GPS SPH): PM00A 128 and 122, PM01B 113, PM02C 132, PM12D 135 and 133, PM16E 136, PM18F 120, PM20G 126, PR22H 120. Density suboptimal, particularly P18 and P22 at 120 palms/ha; P22 about 12% below minimum. Infilling still pending; census vacant points in young mature areas.
 
-LABOUR (PA 2/2026, June 2026): Total workers 51 vs 67 required (short 16): 16 local estate check-roll, 2 foreign check-roll, 33 contract workers (all 26 harvesters, 4 sprayers and 2 driver/loaders are contract). Harvesters 26 vs 37 (short 11). Sprayers 4 vs 8 (short 4). Manuring 9 workers plus 1 mandore (adequate). Driver plus loader 2 vs 3. Worker ratio 1:14 ha vs ideal 1:12 ha. Text: harvesters required 37 at 1:20 ha; 28 available as at July (1:26 ha), short 9; since wheelbarrows are used with no machines, ratio should be 1:18 ha, i.e. 41 required, short 13; 2 recruits expected by 13/8/26 would still leave a shortage of 11. Contractors: KT Palm, Dhaanika, MD Enterprise, Monirul, CK Permai, AK Guhan, Rohani Osman. Advised to engage a Bangladeshi contractor for spraying; Indonesian workers no longer interested in spraying. Housing issue with Labour Department: no progress reported. Agronomy 1/2026 noted a shortage of six harvesters in Q1.
+LABOUR (PA 2/2026, June 2026): Total workers 51 vs 67 required (short 16): 16 local estate check-roll, 2 foreign check-roll, 33 contract workers (all 26 harvesters, 4 sprayers and 2 driver/loaders are contract). Harvesters 26 vs 37 (short 11). Sprayers 4 vs 8 (short 4). Manuring 9 workers plus 1 mandore (adequate). Driver plus loader 2 vs 3. Worker ratio 1:14 ha vs ideal 1:12 ha. Text: harvesters required 37 at 1:20 ha; 28 available as at July (1:26 ha), short 9; since wheelbarrows are used with no machines, ratio should be 1:18 ha, i.e. 41 required, short 13; 2 recruits expected by 13/8/26 would still leave a shortage of 11. Contractors: KT Palm, Dhaanika, MD Enterprise, Monirul, CK Permai, AK Guhan, Rohani Osman. Advised to engage a Bangladeshi contractor for spraying; Indonesian workers no longer interested in spraying. Housing issue with Labour Department: no progress reported. Agronomy 2/2026 says the labour situation improved this year, helping field maintenance, though several programmes stay behind schedule.
 STAFF (PA): no change; still short one office clerk for Pinfosys (Tagar 3 clerk assisting).
 
 COSTS (PA 2/2026, to June 2026). General charges RM586,902.89 vs to-date budget RM654,942 (annual RM1,309,806); RM799.21/ha vs RM891.87/ha; underspent 10%. Upkeep and cultivation RM627,355.08 vs RM745,782 (annual RM1,491,467); RM854.30/ha vs RM1,015.57/ha; underspent 16%. Upkeep RM/ha actual vs budget: weeding 112.89 vs 132.50; manuring 652.81 vs 703.01; pest and diseases 22.28 vs 29.27; census 0.19 vs 0.88; drains 3.04 vs 29.39; road 15.33 vs 59.77; bridges 4.34 vs 11.96; boundary 0.97 vs 2.88; pruning 42.45 vs 45.91. Harvesting and collection RM370,841.95 vs RM452,244; RM89.10/t vs RM94.12/t (harvesting labour 63.71, internal transport 25.28, top-up wages 0.12 RM/t). Cost of production RM380.85/t FFB vs to-date budget RM385.63 and annual budget RM358.04 (general 141.02 vs 136.30; upkeep 150.73 vs 155.21; harvesting 89.10 vs 94.12). Per tonne CPO RM2,038.17 vs RM2,020.68. PA: production cost satisfactory under the circumstances. Tractor (New Holland) RM26.96/hr vs RM26.57 budget. Capex budget RM86,000 (buildings 15,000; residential 44,000; GPS 2,000; water pump motor 10,000; desilting water pond 15,000) - nothing spent to June.
 
 CROP (PA 2/2026, to June 2026): FFB 4,161.98 t vs to-date budget 4,805 t and annual budget 10,350 t; same period last year 4,060.71 t; last year ANNUAL 12-MONTH BUDGET 12,230 t = 19.13 t/ha on 639.35 ha (this is last year's budget column, not an actual). Yield 5.67 t/ha vs 6.54 budget (13% below) and 6.35 same period last year (11% below, on a smaller 639.35 ha base). CPO 777.71 t, OER 18.69% vs 19.08% budget; kernel 208.09 t, KER 5.00%. Shortfall attributed to harvester shortage and low cropping season; crop picking up with good fruit sets in young mature blocks. Bunch weights June 2025 vs June 2026: 2000 planting 23.1 to 24.8 kg; 2001 24.3 to 23.5; 2002 20.7 to 21.1; 2012 20.2 to 21.8; 2016 13.8 to 15.7; 2018 11.1 to 13.6; 2020 7.2 to 9.7; 2022 2.0 to 4.2 kg.
-YIELD (Agronomy 1/2026): 2025 estate 13.59 t/ha vs 14.32 in 2024 (minus 5.09%) on 638.3 ha. 2025 by block (2024 in brackets): P00 12.09 (14.65), P01 14.63 (15.84), P02 19.92 (20.47), P12 13.06 (15.38), P16 20.72 (23.46), P18 14.65 (12.50), P20 10.34 (7.36). P22 immature harvesting under 2 t/ha with only 11 rounds. Q1 2026 2.54 t/ha vs 2.57 Q1 2025 (minus 1.3%): P00 2.76, P01 2.35, P02 3.42, P12 2.46, P16 4.23, P18 2.67, P20 2.62, P22 1.17. Yield-limiting factors: incomplete crop recovery, manuring deviations (up to four months late in 2024), upkeep delays, bagworm (P12, P16, P18), harvester shortage. Rainfall not limiting.
+YIELD (Agronomy 2/2026 Table 6 and Table 17): FFB Jan-Sep 2026 7,252.64 t. Monthly 2026: Jan 676.49, Feb 565.27, Mar 620.39, Apr 687.01, May 688.01, Jun 924.81, Jul 1,038.72, Aug 949.86, Sep 1,102.08 t. Total 2024 9,140.05 t; 2025 8,798.0 t as printed. Yield as of September 2026 10.51 t/ha vs 9.26 in 2025, up 13.40%, on 690.35 ha. By field, 2026 (2025) and change: P00 8.88 (8.78) 1.10%; P01 9.35 (10.74) -12.90%; P02 11.24 (14.56) -22.80%; P12 10.29 (9.59) 7.20%; P16 17.22 (14.77) 16.60%; P18 11.99 (10.81) 11.00%; P20 11.23 (7.39) 51.90%; P22 7.85 (1.46) 439.60% on 52.00 ha. Most fields well below expectation; P00, P01, P02, P12 and P18 low-yielding; P18, P20, P22 gains largely palm age. Yield-limiting factors named: harvesting delays (none reached the minimum 18 rounds as of September), incomplete crop recovery in P00 and P01 ravines, under-pruning, fertiliser deviations (Mix A, Mix B, RP late), bagworm, hilly P18F. Full-year 2025 13.59 t/ha, 2024 14.32 t/ha (Agronomy 1/2026).
 
-HARVESTING (PA): 11 rounds to June vs 12 budget; interval averaged 14 days; outturn 93%; cutter-and-carrier with wheelbarrows, no machines. Productivity t/man-day and earnings: PM00A 1.09 (RM61.04), PM01B 1.12 (60.48), PM02C 0.94 (50.76), PM12D 1.23 (45.51), PM16E 1.91 (64.94), PM18F 1.54 (70.84), PM20G 1.44 (92.16), PM22H 0.79 (62.41); basic wage RM65.38. Rates RM34-79/t. Rates were set for mechanical evacuation (2.5-3 t/man-day expected); PA suggests revising rates for wheelbarrows. Agronomy 1/2026: intervals Jan-Mar 15-24 days; incomplete harvesting and rotten bunches in ravines of P00 and P01; oxidised loose fruit in P02 and P12D; flood-prone parts of P12D unattended.
+HARVESTING (PA): 11 rounds to June vs 12 budget; interval averaged 14 days; outturn 93%; cutter-and-carrier with wheelbarrows, no machines. Productivity t/man-day and earnings: PM00A 1.09 (RM61.04), PM01B 1.12 (60.48), PM02C 0.94 (50.76), PM12D 1.23 (45.51), PM16E 1.91 (64.94), PM18F 1.54 (70.84), PM20G 1.44 (92.16), PM22H 0.79 (62.41); basic wage RM65.38. Rates RM34-79/t. Rates were set for mechanical evacuation (2.5-3 t/man-day expected); PA suggests revising rates for wheelbarrows. Agronomy 2/2026 intervals Jan to Aug 2026 (days): PM00A 19,18,15,15,17,16,15,16; PM01B 20,18,16,15,18,15,16,15; PM02C 24,19,17,14,18,16,18,16; PM12D 17,17,15,15,16,15,15,15; PM16E 17,16,22,15,16,15,15,16; PM18F 16,18,15,15,15,16,17,15; PM20G 16,16,14,15,16,15,15,15; recommended 15 days or less. Crop recovery improved but incomplete in P00 and P01 ravines: tall palms, inadequate pruning, slippery damaged roads, rotten bunches, palms not harvested regularly. Delays in P12 terraces; flood-prone P12D improved but several palms unattended. P18 at 16 days acceptable but many rat-damaged bunches. P20 many over-ripe bunches, loose fruit left, oxidised loose fruit. P22H1 no delay; P22H2 to be expedited.
 
-MANURING: PA - 1,787 ha of 1,973 ha budgeted fertilised to June; late NK Mixture and Kieserite delivery; 20 bags/man-day broadcasting; check-roll workers at RM65.38/day. Agronomy 1/2026 - 2025 programme 100% complete (NK1 211.60 t, Mix B 468.1 t, kieserite 18.60 t, RP 111.00 t) but one to two months late. As of March 2026: Mix A 100%, Mix B 91% (112.30 of 123.95 t), NK2 100%, kieserite 23% (4.30 of 18.60 t). Need at least 80 t per month from April to finish by November. 2026 programme revised for price increases and limited stock. Mixes: NK1 50AS:50MOP; NK2 60AS:40MOP; Mix A 45AS:40MOP:15KIE; Mix B 45AS:40MOP:14KIE:1 borate.
+MANURING: PA - 1,787 ha of 1,973 ha budgeted fertilised to June; late NK Mixture and Kieserite delivery; 20 bags/man-day broadcasting; check-roll workers at RM65.38/day. Agronomy 2/2026 as of September 2026 (required, received, applied t, %): Mix A 45.90, 45.90, 28.80, 63%; Mix B 413.15, 353.10, 336.55, 81.5%; NK1 21.40 100%; NK2 84.00 100%; kieserite 18.60 100%; RP 88.00, 84.00, 79.10, 90%. Outstanding: Mix A P01B and P02C (Aug); Mix B P12D (Sep), P16E (Jul), P18F (Aug); RP P20G and P22H (Sep). Finish by end November 2026. Kieserite about three months late in P18F and P20G. Mix A check in P01: 2 kg/palm (2,000 g), 20 bags/man-day, evenly spread to backslope, but small buckets and non-standard containers. 2.3 MT surplus CRF to go to Tagar 3. Mixes: NK1 50AS:50MOP; NK2 60AS:40MOP; Mix A 45AS:40MOP:15KIE; Mix B 45AS:40MOP:14KIE:1 borate.
 
-WEEDING (PA): Circle spraying 908 ha (1.2 rounds), 76% of 1,198 ha budgeted to June; 5.9 ha/man-day; RM13/ha; Glyphosate 0.61 l/ha. Selective spraying 1,388 ha (1.9 rounds), 95% of 1,468 ha; 7.4 ha/man-day; RM15/ha; Garlon 0.56 l/ha. Woodies and VOPs remain, neglected spot at P22/H, poor inter-rows at P02/C; supervision lacking. Agronomy 1/2026: circle weeding delays in P00, P02, P12; VOPs in P16; Clidemia in P02/P12; bracken and Stenochlaena in P01; P22 weeding 65% in 2025, circles 50%; first round inter-row 52 ha by March.
+WEEDING (PA): Circle spraying 908 ha (1.2 rounds), 76% of 1,198 ha budgeted to June; 5.9 ha/man-day; RM13/ha; Glyphosate 0.61 l/ha. Selective spraying 1,388 ha (1.9 rounds), 95% of 1,468 ha; 7.4 ha/man-day; RM15/ha; Garlon 0.56 l/ha. Woodies and VOPs remain, neglected spot at P22/H, poor inter-rows at P02/C; supervision lacking. Agronomy 2/2026: as of September inter-row acceptable, 2-3 rounds, third pending P00 and P02; circle well behind, only one round in P01, P02, P12 as of August, third overdue in P16; P22 inter-row 3 rounds, circle 2 rounds. Clidemia in P00, P02, P12; Ischaemum muticum in P01; Nephrolepis kept in P12 and P16; wild bitter gourd, Clidemia and volunteer palms in P18, P20, P22; Mucuna reduced in P22.
 
-PRUNING (PA): 1,725 ha of 2,202 ha budgeted pruned and paid; corrective pruning 80.89 ha needed (8.36 ha done) in P00, P01, P12, P18, P20, RM4.50/palm. Agronomy: 48 ha pending as of March (P00 30.5, P01 9.1, P02 0.8, P12 7.6, P16 0.2); P00 progress 63% to 81%, P01 81% to 87%.
+PRUNING (PA): 1,725 ha of 2,202 ha budgeted pruned and paid; corrective pruning 80.89 ha needed (8.36 ha done) in P00, P01, P12, P18, P20, RM4.50/palm. Agronomy 2/2026: 209 ha unpruned as of August 2026; behind in P00, P01, P02 with no significant improvement, P00 slowest; P02 77% (about 7 ha left), premature frond snapping; P12 and P16 over 95%; P18 86%, P20 77%; terraces of P12 under-pruned, repeatedly highlighted; abnormal palms in P12 and P16 not removed; over-pruning in P18 and P20; stacking unsatisfactory. Leaf analysis August 2026: no significant deficiency in mature fields; leaf Mg below optimal in P18 and P20; P16 Mg symptoms declined; K leaching on sandy soils. No corrective micronutrient needed. Foliar table not readable in this pack.
 
 ROADS AND DRAINS (PA): 2,297 chains grading budgeted (RM19/chain), none done because rates not finalised due to high diesel price; 320 t crusher run bought unbudgeted at RM38/t. Desilting 260 chains of 8x6x4 (RM46), 257.5 of 12x6x4 (RM51), 175.3 of 15x6x4 (RM77), none done.
 
-PESTS: Rats - PA: baiting rounds at P12 (1), P16, P18, P20, P22 (2); no follow-up census; continue baiting at P16, P18, P22. Agronomy: Q1 census P16 16%, P18 18%, P20 15%; no census in P00, P01, P02, P12; barn owl target 73 boxes. Bagworm - PA: 10.65 ha in P18/F sprayed with Cypermethrin; trunk injection licence awaiting DOA approval. Agronomy: Feb 2026 census P18 mean 18 larvae over about 20 ha. No new Ganoderma (PA). Cattle intrusion: court proceeding in September (PA).
+PESTS: Rats - PA: baiting rounds at P12 (1), P16, P18, P20, P22 (2); continue at P16, P18, P22. Agronomy 2/2026: census before baiting Jun 2026 PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%; after: PM18F 16%, 9%, 8% and PM20G 9%, 9%; threshold 10%; baited with Storm; coverage incomplete in P12 and P16 (40.00 and 42.06 ha); no census in older plantings; no census since July in P18, P20; extensive attack in P18. Barn owl: no records, no progress, 73 boxes. Bagworm - Agronomy 2/2026: Metisa plana in P18 and P20; census P18 Feb 18, Mar 15, Jun 20, P20 Jun 17, threshold reached June; only 10.65 ha P18F treated with cypermethrin, no follow-up; older and prime plantings 0. Trunk injection with Acephate, 1st to 4th instar; Dipel or Takumi by fogging or drone. PA: licence awaiting Department of Agriculture approval. No new Ganoderma (PA). Cattle intrusion persists in P22; court proceeding in September (PA).
 
-RAINFALL (Agronomy 1/2026): 2021 2,093 mm/132 days; 2022 2,595/157; 2023 2,856.5/169; 2024 3,149/197; 2025 2,737/146.
+RAINFALL (Agronomy 2/2026): Jan-Sep 2026 1,253 mm over 55 days; 2022 2,595/157; 2023 2,856.5/169; 2024 3,149/197; 2025 2,737/146; 2021 2,093/132 (Agronomy 1/2026).
 
-DATA NOTES: The PA crop table's last-year 12,230 t / 19.13 t/ha is the 2025 annual budget, not actual output; actual 2025 yield was 13.59 t/ha (Agronomy Table 15, 638.3 ha). PA 2/2026 text 6.8.1(b) says no follow-up rat census was done but its table shows June 2026 census values of 17-19%. Year-on-year yield per ha fall to June is due to the larger mature area; tonnage rose 2.5%.
+DATA NOTES: The PA crop table's last-year 12,230 t / 19.13 t/ha is the 2025 annual budget, not actual output. PA figures are Jan-Jun 2026 on 734.35 ha; Agronomy yields are Jan-Sep 2026 on 690.35 ha, with P22 at 52.00 ha, so they are not directly comparable. Year-on-year yield per ha fall to June in PA is due to the larger mature area; tonnage rose 2.5%. PA says no replanting in 2026 and 2027; Agronomy schedules 2027.
 
-FERTILISER PROGRAMME, REVISED 2026 (Agronomy 1/2026 Appendix 1, grams per palm, month): PM00A (P00A1 and P00A2) NK2 2000 g Jan and 2000 g May, to be withdrawn if replanted in 2027. PM01B and PM02C Mix A 1750 g Jan, NK1 1750 g Apr, Mix A 2000 g Aug. PM12D (D1 and D2) Mix B 2250 g Feb, Mix B 2250 g May, RP 1500 g Jun, Mix B 2250 g Sep. PM16E Mix B 2250 g Jan, kieserite 750 g Feb, Mix B 2250 g Apr, RP 2000 g May, Mix B 1500 g Jul, Mix B 1500 g Oct. PM18F Mix B 2250 g Feb, kieserite 750 g Mar, Mix B 2000 g May, RP 2000 g Jun, Mix B 1500 g Aug, Mix B 1500 g Nov. PM20G Mix B 2000 g Feb, kieserite 500 g Mar, Mix B 2000 g May, Mix B 1500 g Aug, RP 2000 g Sep, Mix B 1500 g Nov. PR22H1 Mix B 1500 g Feb, 1750 g May, 1500 g Aug, RP 2000 g Sep, Mix B 1500 g Nov; PR22H2 same but 1500 g in May. The 2026 programme was revised for price rises and limited stock; the 2027 programme comes after the second agronomy visit (tentatively September 2026). PA 2/2026 manuring table shows actual 2026 application dates (e.g. PM12D Mix B 11-27 Feb, kieserite PM16E 22-24 Feb; PM18F and PM20G Mix B Feb-Apr).
+FERTILISER PROGRAMME, REVISED 2026 (Agronomy 1/2026 Appendix 1, grams per palm, month): PM00A (P00A1 and P00A2) NK2 2000 g Jan and 2000 g May, to be withdrawn if replanted in 2027. PM01B and PM02C Mix A 1750 g Jan, NK1 1750 g Apr, Mix A 2000 g Aug. PM12D (D1 and D2) Mix B 2250 g Feb, Mix B 2250 g May, RP 1500 g Jun, Mix B 2250 g Sep. PM16E Mix B 2250 g Jan, kieserite 750 g Feb, Mix B 2250 g Apr, RP 2000 g May, Mix B 1500 g Jul, Mix B 1500 g Oct. PM18F Mix B 2250 g Feb, kieserite 750 g Mar, Mix B 2000 g May, RP 2000 g Jun, Mix B 1500 g Aug, Mix B 1500 g Nov. PM20G Mix B 2000 g Feb, kieserite 500 g Mar, Mix B 2000 g May, Mix B 1500 g Aug, RP 2000 g Sep, Mix B 1500 g Nov. PR22H1 Mix B 1500 g Feb, 1750 g May, 1500 g Aug, RP 2000 g Sep, Mix B 1500 g Nov; PR22H2 same but 1500 g in May.
+FERTILISER PROGRAMME 2027 (Agronomy 2/2026 Appendix 1, grams per palm): PM00A NK2 2000 g Jan, 2000 g May, 1500 g Sep, to be withdrawn if replanting in 2027/28. PM01B and PM02C Mix A 2000 g Jan, NK1 1750 g Apr, Mix A 2000 g Jul, NK1 1750 g Oct. PM12D Mix B 2250 g Feb, 2000 g May, RP 1500 g Jun, Mix B 2250 g Aug, 2000 g Nov. PM16E Mix B 2250 g Jan, kieserite 1000 g Feb, Mix B 2250 g Apr, RP 2000 g May, Mix B 2250 g Jul and Oct. PM18F Mix B 2250 g Feb, kieserite 750 g Mar, Mix B 2000 g May, RP 2000 g Jun, Mix B 2250 g Aug, 2000 g Nov. PM20G Mix B 2000 g Feb, kieserite 750 g Mar, Mix B 2000 g May and Aug, RP 2000 g Sep, Mix B 2000 g Nov. PR22H1 Mix B 1750 g Feb, kieserite 500 g Mar, Mix B 1750 g May and Aug, RP 2000 g Sep, Mix B 2000 g Nov. PR22H2 Mix B 1500 g Feb, kieserite 500 g Mar, Mix B 1500 g May, 1750 g Aug, RP 2000 g Sep, Mix B 1750 g Nov.
 PA RAT CENSUS (PA 2/2026 table, before baiting): June 2026 PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%, PR22H 19%; earlier PM16E 16% Jan and 14% Feb, PM18F 18% Jan and Feb, PM20G 15% Mar, PR22H 15% Feb and 17% Mar. Baiting (ha) June: PM12D 40, PM16E 42.06, PM18F 75.50, PM20G 105.82, PR22H 96.
-YIELD PERIODS: block yields in this pack are Jan-Mar 2026 (Agronomy Table 16) versus Jan-Mar 2025; estate yield Jan-Mar 2026 2.54 t/ha (2.57 in Jan-Mar 2025). Estate FFB yield 5.67 t/ha is Jan-Jun 2026 (PA); 2025 full year 13.59 t/ha and 2024 14.32 t/ha (Agronomy Table 15).
+YIELD PERIODS: block yields are Jan-Sep 2026 versus Jan-Sep 2025 (Agronomy 2/2026 Table 17). Estate 10.51 t/ha is Jan-Sep 2026; estate 5.67 t/ha is Jan-Jun 2026 (PA).
 
 TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
-1. Harvester shortage, poor crop recovery: 26 harvesters vs 37 required (Jun 2026); intervals 15-24 days in Jan–Mar 2026. Incomplete harvesting and rotten bunches in P00 and P01 ravines; oxidised loose fruit in P02 and P12D. (PA 2/2026 · Agro 1/2026)
-2. Old, tall palms in P00 and P01: P00 yielded 12.09 t/ha in 2025 vs 14.65 in 2024; P01 14.63 vs 15.84. Tall palms, unterraced ravines; P00 (160.63 ha) to be replanted in 2027, P01B (68 ha) in 2028. (Agro 1/2026)
-3. Rat damage across young blocks: Jun 2026 census: PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%, PR22H 19%; no follow-up census after baiting. No census at all in P00, P01, P02 (Agro, Mar 2026). (PA 2/2026 · Agro 1/2026)
-4. Low palm density, vacant points: 120 SPH in P18F and P22H, 126 in P20G; P22 about 12% below the minimum. Infilling repeatedly recommended but not done. (Agro 1/2026)
-5. Late manuring and bagworm: Kieserite only 23% (4.30 of 18.60 t) by Mar 2026 after late delivery; 2025 rounds one to two months late. Bagworm in P18: mean 18 larvae over about 20 ha (Feb 2026). (Agro 1/2026 · PA 2/2026)
+1. Harvest rounds and crop recovery: No field reached the minimum 18 rounds as of Sep 2026; intervals up to 24 days, Jan–Aug 2026. P00 and P01 ravines incomplete, rotten bunches. Harvesters 26 vs 37 (Jun 2026). (Agro 2/2026 · PA 2/2026 s.3)
+2. Under-pruning, older plantings: 209 ha unpruned as of Aug 2026. P00, P01, P02 behind with no significant improvement; dry hanging fronds obstruct harvesting. P18 86%, P20 77% as of Aug 2026. (Agro 2/2026)
+3. 2026 manuring running late: As of Sep 2026: Mix A 63%, Mix B 81.5%, RP 90%. Kieserite about three months late in P18F and P20G; leaf Mg below optimal in P18 and P20 (Aug 2026). (Agro 2/2026)
+4. Rat damage and bagworm: Rat census Jun 2026: PM12D 18%, PM16E 19%, PM18F 18%, PM20G 17%; none in older plantings. Bagworm Jun 2026: P18 20, P20 17; only 10.65 ha treated, no follow-up. (Agro 2/2026)
+5. Old palms and low palm density: Yield Jan–Sep 2026: P00 8.88, P01 9.35, P02 11.24 t/ha; P00 tall with poor ravine access. P18 and P22 only 120 palms/ha; infilling pending. (Agro 2/2026)
 
 TOP 5 PA ISSUES (main matters raised in the latest PA report)
 1. Crop 13% below budget: 4,161.98 t FFB vs 4,805 t budget, Jan–Jun 2026; 5.67 t/ha vs 6.54 budget and 6.35 last year. Put down to the harvester shortage and low cropping season. (PA 2/2026 s.8)
@@ -90,33 +91,39 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 2022 (Jan–Dec): 7,018.69 t (PA Report 1/2024 Section 8 same-period-last-year G.TOTAL)
 2023 (Jan–Dec): 7,784.45 t (PA Report 1/2024 Dec 2023 field table G.TOTAL (mature subtotal 7,518.05 + PR20A 266.40))
 2024 (Jan–Dec): 9,140.05 t (PA Report 1/2025 Crop Production table; agrees with PA 1/2026 same-period-last-year column)
-2025 (Jan–Dec): 8,675.13 t (PA Report 1/2026 Dec 2025 field table total (mature fields, 638.35 ha, 13.59 t/ha))
-2025 monthly: Dec 783.58
-2026 Jan–Jun: 4,161.98 t (PA Report 2/2026 Section 8 Crop Production (Jan-Jun 2026 actual todate))
+2025 (Jan–Dec): 8,798.00 t (Agronomy Report 2/2026 Table 6 total as printed (months add to 8,752.04))
+2024 monthly: Jan 789.48; Feb 666.73; Mar 730.66; Apr 787.99; May 748.35; Jun 780.47; Jul 862.06; Aug 902.82; Sep 813.40; Oct 724.82; Nov 722.55; Dec 610.72
+2025 monthly: Jan 598.33; Feb 628.80; Mar 661.25; Apr 721.36; May 652.63; Jun 789.22; Jul 766.19; Aug 711.40; Sep 817.96; Oct 814.08; Nov 776.43; Dec 814.39
+2026 monthly: Jan 676.49; Feb 565.27; Mar 620.39; Apr 687.01; May 688.01; Jun 924.81; Jul 1,038.72; Aug 949.86; Sep 1,102.08
+2026 Jan–Sep: 7,252.64 t (Agronomy Report 2/2026 Table 6, total Jan–Sep 2026; Jan–Jun adds to PA 4,161.98 t)
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
 [manuring] Coverage to Jun 2026: 1,787 ha of 1,973 ha budgeted fertilised; late delivery of NK mixture and kieserite (PA 2/2026)
 [manuring] Method: Broadcast, 20 bags per man-day; checkroll RM65.38/day (no piece rates for locals) (PA 2/2026)
-[manuring] Fertiliser to Mar 2026 (Agro Table 5): Mix A 21.40 of 42.80 t (100%); Mix B 112.30 of 123.95 t received/496.00 t programme (91% as printed); NK1 0 of 42.80 t; NK2 42.00 of 115.50 t (100%); KIE 4.30 of 18.60 t (23%); RP 0 of 111.00 t (Agro 1/2026)
-[manuring] Fertiliser 2025 (Agro Table 4): NK1 211.60 t 100%; Mix B/Compact B 468.1 t applied of 465.95 t received 100%; KIE 18.60 t 100%; RP 111.00 t 100%; most applications 1-2 months late (Agro 1/2026)
-[manuring] Target: At least 80 t per month from April (Agro 1/2026)
+[manuring] Fertiliser as of Sep 2026 (Table 4): Mix A 45.90 t required, 45.90 received, 28.80 applied, 63%; Mix B 413.15, 353.10, 336.55, 81.5%; NK1 21.40, 21.40, 21.40, 100%; NK2 84.00, 84.00, 84.00, 100%; kieserite 18.60, 18.60, 18.60, 100%; RP 88.00, 84.00, 79.10, 90%; CRF B/F 2.34 t, none applied (Agro 2/2026)
+[manuring] Outstanding as of Sep 2026 (Table 5): Mix A P01B Aug, P02C Aug; Mix B P12D Sep, P16E Jul, P18F Aug; RP P20G Sep, P22H Sep. To be completed by end November 2026 (Agro 2/2026)
+[manuring] Other manuring points: NK programmes in P00, P01, P02 completed without significant delay. Kieserite complete; P18F and P20G about three months late. 2.3 MT surplus CRF to go to Tagar 3. PRM consignment sampling not needed (Agro 2/2026)
+[manuring] 2027 programme: Mixtures as main source for all mature plantings; RP and kieserite for selected blocks; no micronutrient correction needed. Mix A 45AS:0RP:40MOP:15KIE; Mix B 45AS:0RP:40MOP:14KIE:1BOR; NK1 50AS:50MOP; NK2 60AS:40MOP (Agro 2/2026)
 [spraying] Spraying Jan–Jun 2026: 908 ha (1.2 rounds) = 76% of 1,198 ha (1.6 rounds) budgeted. Inter pump low volume, 5.9 ha per man-day, RM13/ha, RM76.70/day, glyphosate 0.61 L/ha (1 pump/ha), 7 pumps/day (5.8 hours) vs 9 potential | 1,388 ha (1.9 rounds) = 95% of 1,468 ha (2 rounds). Mist blower 7.4 ha per man-day, RM15/ha, RM111/day, Garlon 0.56 L/ha (1.6 pumps), 13 pumps/day (PA 2/2026)
-[pests] Rats: One round at P12, two rounds at P16, P18, P20, P22; no follow-up census (PA 2/2026)
-[pests] Rat control advice: Storm (flocoumafen 0.005%); replace consumed baits every 7 days until acceptance under 20%; platform-based census with 20% threshold in palms over 15 years (Agro) (Agro 1/2026)
-[pests] Barn owls: Project lacks records; 73 boxes needed in phases (1 per 40 ha, then 20 ha, then 10 ha) (Agro) (Agro 1/2026)
+[spraying] Mature blocks as of Sep 2026: Inter-row acceptable, 2–3 rounds done, third pending in P00 and P02. Circle significantly behind; second round overdue particularly P01 and P12. No significant improvement in palm circles (Agro 2/2026)
 [pests] Ganoderma: No new infections (PA); no census figures (PA 2/2026)
-[pests] Bagworm treatment: Trunk injection Methamidophos 48.5% or Monocrotophos 55% at 10 ml per palm for tall palms; Dipel (Bt) or Takumi (Flubendiamide) on foliage; treat 1st-4th instar (Agro) (Agro 1/2026)
-[pests] Cattle: Court proceeding in September; unresolved intrusion (Agro) (PA 2/2026)
+[pests] Rats: PA to Jun: one round at P12, two rounds at P16, P18, P20, P22. Agro: census not regular; none in older plantings. Bait at 10% threshold, replenish every 7 days until acceptance under 20%; platform census threshold 20% in palms over 15 years (Agro 2/2026)
+[pests] Barn owls: No records of boxes in the field; no progress. Census and repair existing, 73 boxes needed in phases: 1 per 40 ha, then 20 ha, then 10 ha (Agro 2/2026)
+[pests] Bagworm treatment advice: Trunk injection with Acephate at label dose, 1st–4th instar, not at pupae stage. Over 100 ha or mixed stages: fogging or drone with Dipel (Bt) or Takumi (Flubendiamide) (Agro 2/2026)
+[pests] Cattle: Intrusion persists in P22 (Agro); court proceeding in September (PA) (Agro 2/2026)
 [yield] Crop Jan–Jun 2026: FFB 4,161.98 t vs 4,805 t budget to date and 4,060.71 t same period 2025; yield 5.67 t/ha vs 6.54 budget (-13%) and 6.35 last year (-11%); annual budget 10,350 t, 14.09 t/ha; CPO extraction 18.69% (PA 2/2026)
 [yield] Caution on PA crop table: The columns headed 'last year' hold actual same period (4,060.71 t FFB, 6.35 t/ha) and 'annual 12 months budget' (12,230 t; 19.13 t/ha). The annual figure is a budget, not last year's actual. Actual full-year 2025 is 13.59 t/ha (Agro Table 15) (PA 2/2026)
-[yield] Estate yield 2025 vs 2024 (Agro): 14.32 to 13.59 t/ha (-5.09%) (Agro 1/2026)
-[yield] Estate Jan–Mar 2026 vs 2025 (Agro): 2.57 to 2.54 t/ha (-1.3%) (Agro 1/2026)
+[yield] Estate Jan–Sep 2026 vs 2025: 10.51 vs 9.26 t/ha, +13.40%, on 690.35 ha (Table 17). 7,252.64 t FFB Jan–Sep 2026 (Table 6) (Agro 2/2026)
+[yield] Yield comment: Most fields well below expectation; P00, P01, P02, P12, P18 flagged low-yielding. P18, P20, P22 gains largely palm age. None reached 18 harvesting rounds as of Sep 2026 (Agro 2/2026)
+[yield] Estate yield 2025 vs 2024: 14.32 to 13.59 t/ha (-5.09%) (Agro 1/2026)
 [harvesting] Rounds and outturn Jan–Jun 2026: 11 rounds vs 12 budgeted to Jun; current interval averaged 14 days; outturn 93%; cutter-and-carrier with wheelbarrows (PA 2/2026)
 [harvesting] Rates: Current rates were set for mechanical evacuation (2.5-3 t per man-day expected); PA says revise for wheelbarrows (PA 2/2026)
+[harvesting] Crop recovery as of Sep 2026: Suboptimal; intervals often over the recommended 15 days, particularly older plantings. Weeds in circles hurt loose fruit collection; volunteer palms show past misses (Agro 2/2026)
 [pruning] Progressive pruning: 1,725 of 2,202 ha budgeted (PA 2/2026)
 [pruning] Corrective pruning 2026: Mainly ravines in P00, P01, P12, P18, P20: 80.89 ha, 8.36 ha done, by harvesters, later a task force; RM4.50 per palm; progressive RM1.20/palm/year for 2000/01/02 plantings, RM0.80 for 2012-2020 and 2022 (PA 2/2026)
 [pruning] Fractured fronds: Cut at the fracture, do not prune the whole frond (PA 2/2026)
+[pruning] Backlog Aug 2026: 209 ha unpruned as of Aug 2026 (Agro). Clear soon; frond stacking unsatisfactory in under-pruned areas (Agro 2/2026)
 [labour] Workers (actual vs budget): 51 vs 67; harvesters 26 vs 37 at 1:20 ha (28 at July, short 9; at 1:18 ha need 41, short 13; 2 recruits expected by 13/8/26); sprayers 4 vs 8; manuring 9 workers plus 1 mandore; driver/loader 2 vs 3; ratio 1:14 vs 1:12; contractors KT Palm, Dhaanika, MD Enterprise, Monirul, CK Permai, AK Guhan, Rohani Osman; recommend a Bangladeshi contractor for spraying (PA 2/2026)
 [labour] Contractor allocation: KT Palm 243.82 ha; Dhaanika 109.24 ha; MD Enterprise 285.29 ha; Monirul 96.00 ha (PA 2/2026)
 [labour] Office: One office clerk short for Pinfosys (PA 2/2026)
@@ -125,281 +132,317 @@ ESTATE-WIDE FIELD NOTES
 [costs] Harvesting cost: RM370,841.95 vs RM452,244 (RM89.10/t vs RM94.12/t) (PA 2/2026)
 [costs] Cost of production: RM380.85/t FFB vs RM385.63 budget to date vs RM358.04 annual (RM2,038.17/t CPO) (PA 2/2026)
 [costs] Capex: Budget RM86,000, none spent; tractor NH BPD1250 609 hrs (PA 2/2026)
-[field] Area: Title 770.49 ha; planted 734.35 ha, all mature (639.35 ha last year); no immature; no replanting 2026-2027 (PA 2/2026)
 [field] Roads: Grading 2,297 chains budgeted, none done to Jun (rate not finalised due to diesel price, budget RM19/chain); 320 t crusher run unbudgeted at RM38/t; roads bumpy and eroded (PA 2/2026)
 [field] Drain desilting budget: Desilting budget 8'x6'x4' 260 chains (RM46), 12'x6'x4' 257.5 (RM51), 15'x6'x4' 175.3 (RM77); none done (PA 2/2026)
-[field] Age profile: Prime plantings 37% vs 48% target; about 17% of palms over 20 years; young mature 27% (Agro) (Agro 1/2026)
-[field] Rain 2025: 146 days, 2,737 mm (Agro 1/2026)
 [field] Housing: Labour Department housing issue: no progress reported (PA 2/2026)
+[field] Area: Title 770.49 ha; planted 734.35 ha, all mature (639.35 ha last year); no immature (PA). Replanting per Agro Table 2: 160.63 ha in 2027, 68.00 ha in 2028 (PA 2/2026)
+[field] Rain Jan–Sep 2026: 55 days, 1,253 mm (2025 full year 146 days, 2,737 mm) (Agro 2/2026)
 
 BLOCK PM00A (160.63 ha, planted 2000, Mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - NK2 · Jan: 100% — 22 Jan–14 Feb (PA 2/2026)
+  - NK2 · May: 100% — completed by Sep (Agro 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 33% (worked out) — 1 of 3 rds · 160.63 ha (PA 2/2026)
+  - Selective spray: 67% (worked out) — 2 of 3 rds · Jan, May (PA 2/2026)
 Manuring progress:
-  - NK2 May, 2,000 g: Scheduled, no date (PA 2/2026)
+  - Application method: Subsurface application most suitable for P00B (terrain, rainfall) but not possible due to labour constraints (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 321.26 ha; 2.00 rounds (Jan, May); completed 2nd round (PA 2/2026)
-  - Weeds and condition: Circles clean (PA photo); overgrown VOPs in ravines need poisoning; circles overgrown, first round incomplete in March (Agro) (PA 2/2026)
+  - Agro Sep 2026: Inter-row: 2–3 rounds done, third round pending. Clidemia hirta sporadic, slight inter-row delay. Inter-rows dominated by soft grasses (Agro 2/2026)
+  - Condition (PA): Clean circles and clean inter rows in photos (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - A1, A2: Jan: NK2 2,000 g; May: NK2 2,000 g; Sep: NK2 1,500 g; all to be withdrawn if replanting in 2027/28 (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - A1, A2: Jan: NK2 2,000 g (carry-forward); May: NK2 2,000 g; manuring to be withdrawn if replanted in 2027 (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - A1, A2: Jan, May, Sep: NK1 2,000 g each (Agro 1/2025)
 Pests & diseases:
-  - Rat census before treatment (%) Jan-Jun 2026: 0 in all months; after treatment always 0% (PA 2/2026)
-  - Agro Mar 2026: Rat census not done in this block (Agro 1/2026)
-  - Bagworm census Jan-Mar 2026: 0 (Agro 1/2026)
+  - Rat census 2026: No census in the older plantings; 0.00 ha baited Jan–Aug (Table 9). Platform-based census on freshly harvested bunches advised, threshold 20% (Agro 2/2026)
+  - Bagworm census Jan–Aug 2026: 0 before and after in every month; older and prime plantings under control (Table 10) (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 8.78 t/ha; Jan–Sep 2026 8.88 t/ha; difference +1.10% (P00 160.60 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 14.65 t/ha; 2025 12.09 t/ha; difference -17.48% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 2.42 t/ha; Jan-Mar 2026 2.76 t/ha; difference +13.9% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2000 planting: Jun 2025 23.1 kg (23,100 g); Jun 2026 24.8 kg (24,800 g) (PA 2/2026)
 Harvesting:
-  - Harvest interval (days) Jan / Feb / Mar 2026: 19 / 18 / 15 (Agro Table 7) (Agro 1/2026)
+  - Harvest interval (days) Jan–Aug 2026: 19 / 18 / 15 / 15 / 17 / 16 / 15 / 16 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM56/t; 1.09 t per man-day; earning RM61.04/day (basic wage RM65.38) | RM8.00/t; 7.83 t per day; earning RM62.64/day (PA 2/2026)
-  - Quality: Over-ripe bunches (not significant); ravines: incomplete harvest, rotten bunches and oxidised loose fruit (PA 2/2026)
+  - Crop recovery: Harvesting incomplete in ravines: tall palms, inadequate pruning, slippery damaged roads. Palms not harvested regularly, numerous rotten bunches, dry hanging fronds (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 160.63 ha programme; SPH 131; 89.96 ha done, 70.67 ha not done = 56.00%; RM0.92/palm, RM120/ha per cycle (PA 2/2026)
-  - Agro Mar 2026: Pruning 63% rising to 81%; 30.5 ha pending; corrective pruning of ravines (PA 2026 total 80.89 ha estate, 8.36 ha done) (PA 2/2026)
+  - Pruning Aug 2026: Behind schedule; slowest progress of the older plantings, no significant improvement since previous visit; under-pruned with excess dry hanging fronds in ravines and terraces; palms taller from etiolation (Agro 2/2026)
 Nutrients:
-  - K and leaf N, P: Mild K deficiency (confluent orange spotting) in sandy areas (Agro Mar 2026); leaf sampling Jul 2024 showed marginal N and P (Agro 1/2025) (Agro 1/2026)
+  - Leaf analysis Aug 2026: No significant deficiency or imbalance; no obvious symptoms except palms on sandy soils, where K leaching is higher (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 100 ha, 13,736 palms, 136 SPH (old) / 128 (latest); 53.42 ha, 7,262 palms, 136 / 122 (Agro 1/2026)
-  - Replanting: Recommended for 2027 (160.63 ha; P00B and P00C, 22% of area, over 25 years): tall palms, yields below 15 t/ha, poor ravine access, no terracing; withdraw manuring if replanted. Year per Agro 2000; PA area table shows a different year (treated as a typo). PM00A = old P00B + P00C (101 + 59.63 ha) (Agro 1/2026)
   - Drain and road budget 2026: 12x6x4 37.05 chains; 8x6x4 70.30 chains (as printed); none done to Jun | 321 chains; none done to Jun (PA 2/2026)
+  - Replanting: Table 2: 160.63 ha in 2027, tentative, to be finalised soon so manuring can be withdrawn early. P00B and P00C are over 25 years: excessive height, yields below 15 MT/ha, poor ravine access, no adequate terracing. PA says no replanting plans for 2026 and 2027 (Agro 2/2026)
+  - Palm census (Table 3): 100.00 ha, 13,736 palms, 136 SPH old / 128 latest GPS; 53.42 ha, 7,262 palms, 136 / 122 (Agro 2/2026)
 
 BLOCK PM01B (68.0 ha, planted 2001, Mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix A · Jan: 100% — 16–19 Jan (PA 2/2026)
   - NK1 · Apr: 100% — 9–24 Apr (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 33% (worked out) — 1 of 3 rds · 68.00 ha (PA 2/2026)
+  - Selective spray: 67% (worked out) — 2 of 3 rds · Feb, May (PA 2/2026)
 Manuring progress:
-  - NK1 Apr, 1,750 g: Applied 09.04.26-24.04.26; 4 workers, 20 bags per man-day, dosage 1,750 g, quality acceptable; ravine and platform difficulty, small buckets (Agro) (PA 2/2026)
+  - Mix A Aug, 2,000 g: Still in progress as of Sep 2026; outstanding (Table 5) (Agro 2/2026)
+  - Mix A quality check: Rate as recommended at 2 kg (2,000 g) per palm; 20 bags per man-day acceptable for terrain; spread evenly towards backslope. Small buckets need frequent refilling; non-standard containers risk uneven dose (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 136.00 ha; 2.00 (Feb, May) (PA 2/2026)
-  - Weeds and condition: Circles clean (PA); overgrown VOPs and ravine VOPs need poisoning; bracken and Stenochlaena (Agro); circles acceptable (Agro) (PA 2/2026)
+  - Agro Sep 2026: Circle: only one round as of Aug 2026, second overdue; excessive grass in circles. Ischaemum muticum dominant in sections, knapsack glyphosate advised; volunteer palms in circles (Agro 2/2026)
+  - Condition (PA): Clean circles and inter rows in photos; overgrown VOPs at ravines need poisoning (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - Programme: Jan: Mix A 2,000 g; Apr: NK1 1,750 g; Jul: Mix A 2,000 g; Oct: NK1 1,750 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - Programme: Jan: Mix A 1,750 g; Apr: NK1 1,750 g; Aug: Mix A 2,000 g (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - Programme: Jan, Apr, Jul, Oct: NK1 1,750 g each (Agro 1/2025)
 Pests & diseases:
-  - Rat census before treatment (%) Jan-Jun 2026: 0 in all months; after treatment always 0% (PA 2/2026)
-  - Agro Mar 2026: Rat census not done in this block (Agro 1/2026)
-  - Bagworm census Jan-Mar 2026: 0 (Agro 1/2026)
+  - Rat census 2026: No census in the older plantings; 0.00 ha baited Jan–Aug (Table 9). Platform-based census on freshly harvested bunches advised, threshold 20% (Agro 2/2026)
+  - Bagworm census Jan–Aug 2026: 0 before and after in every month; older and prime plantings under control (Table 10) (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 10.74 t/ha; Jan–Sep 2026 9.35 t/ha; difference -12.90% (P01 68.00 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 15.84 t/ha; 2025 14.63 t/ha; difference -7.61% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 3.09 t/ha; Jan-Mar 2026 2.35 t/ha; difference -23.9% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2001 planting: Jun 2025 24.3 kg (24,300 g); Jun 2026 23.5 kg (23,500 g) (PA 2/2026)
 Harvesting:
-  - Harvest interval (days) Jan / Feb / Mar 2026: 20 / 18 / 16 (Agro Table 7) (Agro 1/2026)
+  - Harvest interval (days) Jan–Aug 2026: 20 / 18 / 16 / 15 / 18 / 15 / 16 / 15 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM54/t; 1.12 t per man-day; earning RM60.48/day (basic wage RM65.38) | RM7.50/t; 11.4 t per day; earning RM85.50/day (PA 2/2026)
-  - Quality: Over-ripe bunches (not significant); ravines: incomplete harvest, rotten bunches and oxidised loose fruit (PA 2/2026)
+  - Crop recovery: Harvesting incomplete in ravines: tall palms, inadequate pruning, slippery damaged roads. Palms not harvested regularly, numerous rotten bunches, dry hanging fronds (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 68.0 ha programme; SPH 114; 56.18 ha done, 11.82 ha not done = 82.62%; RM1.06/palm, RM120/ha per cycle (PA 2/2026)
-  - Agro Mar 2026: 81% rising to 87%; 9.1 ha pending; corrective pruning of ravines (PA 2/2026)
+  - Pruning Aug 2026: Behind schedule, no significant improvement since previous visit; under-pruned with excess dry hanging fronds (Agro 2/2026)
 Nutrients:
-  - K and leaf N, P: Mild K deficiency (confluent orange spotting) in sandy areas (Agro Mar 2026); leaf sampling Jul 2024 showed marginal N and P (Agro 1/2025) (Agro 1/2026)
+  - Leaf analysis Aug 2026: No significant deficiency or imbalance; no obvious symptoms except palms on sandy soils, where K leaching is higher (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 70 ha, 7,720 palms, 136 / 113 (Agro 1/2026)
-  - Replanting: Recommended for 2028 (68 ha): tall palms, yields below 15 t/ha, poor ravine access, no terracing (Agro 1/2026)
   - Drain and road budget 2026: 8x6x4 27.50 chains; none done to Jun | 136 chains; none done to Jun (PA 2/2026)
+  - Replanting: Table 2: 68.00 ha in 2028 (Agro 2/2026)
+  - Palm census (Table 3): 70.00 ha, 7,720 palms, 136 SPH old / 113 latest GPS (Agro 2/2026)
+  - Yield: Year-to-date decline of more than 10%; named a low-yielding field to investigate (Agro 2/2026)
 
 BLOCK PM02C (31.8 ha, planted 2002, Mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix A · Jan: 100% — 29–30 Jan (PA 2/2026)
   - NK1 · Apr: 100% — 22–23 Apr (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 33% (worked out) — 1 of 3 rds · 31.80 ha (PA 2/2026)
+  - Selective spray: 67% (worked out) — 2 of 3 rds · Feb, Jun (PA 2/2026)
+Manuring progress:
+  - Mix A Aug, 2,000 g: Still in progress as of Sep 2026; outstanding (Table 5) (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 63.60 ha; 2.00 (Feb, Jun) (PA 2/2026)
-  - Weeds and condition: Circles due (PA photo) and some clean; outlying block woodies and VOPs not satisfactory; Clidemia in inter-rows; circles overgrown (Agro) (PA 2/2026)
+  - Agro Sep 2026: Circle: only one round as of Aug 2026. Inter-row third round pending. Overgrown weeds and Clidemia hirta need immediate attention; volunteer palms in circles (Agro 2/2026)
+  - Condition (PA): Inter rows at this outlying block not satisfactory: many overgrown woodies and VOPs due for spraying (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - Programme: Jan: Mix A 2,000 g; Apr: NK1 1,750 g; Jul: Mix A 2,000 g; Oct: NK1 1,750 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - Programme: Jan: Mix A 1,750 g; Apr: NK1 1,750 g; Aug: Mix A 2,000 g (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - Programme: Jan, Apr, Jul, Oct: NK1 1,750 g each (Agro 1/2025)
 Pests & diseases:
-  - Rat census before treatment (%) Jan-Jun 2026: 0 in all months; after treatment always 0% (PA 2/2026)
-  - Agro Mar 2026: Rat census not done in this block (Agro 1/2026)
-  - Bagworm census Jan-Mar 2026: 0 (Agro 1/2026)
+  - Rat census 2026: No census in the older plantings; 0.00 ha baited Jan–Aug (Table 9). Platform-based census on freshly harvested bunches advised, threshold 20% (Agro 2/2026)
+  - Bagworm census Jan–Aug 2026: 0 before and after in every month; older and prime plantings under control (Table 10) (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 14.56 t/ha; Jan–Sep 2026 11.24 t/ha; difference -22.80% (P02 31.80 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 20.47 t/ha; 2025 19.92 t/ha; difference -2.68% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 4.31 t/ha; Jan-Mar 2026 3.42 t/ha; difference -20.7% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2002 planting: Jun 2025 20.7 kg (20,700 g); Jun 2026 21.1 kg (21,100 g) (PA 2/2026)
 Harvesting:
-  - Harvest interval (days) Jan / Feb / Mar 2026: 24 / 19 / 17 (Agro Table 7) (Agro 1/2026)
+  - Harvest interval (days) Jan–Aug 2026: 24 / 19 / 17 / 14 / 18 / 16 / 18 / 16 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM54/t; 0.94 t per man-day; earning RM50.76/day (basic wage RM65.38) | RM7.50/t; 11.91 t per day; earning RM89.33/day (PA 2/2026)
-  - Loose fruit: Weeds in circles hamper loose fruit collection (P02A) (PA 2/2026)
+  - Crop recovery: Signs of harvesting delays observed (photos 17–18) (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 31.8 ha programme; SPH 142; 29.66 ha done, 2.14 ha not done = 93.27%; RM0.84/palm, RM120/ha per cycle (PA 2/2026)
-  - Agro Mar 2026: 98%; 0.8 ha pending; premature snapping fronds give an under-pruned appearance (PA 2/2026)
+  - Pruning Aug 2026: Best of the older plantings at 77%, about 7 ha outstanding. Premature frond snapping leaves dry hanging fronds; restrict pruning to desiccated fronds (Agro 2/2026)
+  - Fractured fronds (PA): Cut at the fracture, do not prune the whole frond (PA 2/2026)
+Nutrients:
+  - Leaf analysis Aug 2026: No significant deficiency or imbalance (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 30 ha, 4,516 palms, 136 / 132 (Agro 1/2026)
   - Road grading budget 2026: 90 chains; none done to Jun (PA 2/2026)
   - Location: Outlying block (PA 2/2026)
+  - Palm census (Table 3): 30.00 ha, 4,516 palms, 136 SPH old / 132 latest GPS (Agro 2/2026)
+  - Yield: Year-to-date decline of more than 10%; named a low-yielding field to investigate (Agro 2/2026)
 
 BLOCK PM12D (145.0 ha, planted 2012, Mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix B · Feb: 100% — 11–27 Feb (PA 2/2026)
-  - Mix B rd 2: 100% — 14 Apr–20 May (PA 2/2026)
+  - Mix B · May: 100% — 14 Apr–20 May (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 33% (worked out) — 1 of 3 rds · 145.00 ha (PA 2/2026)
+  - Selective spray: 33% (worked out) — 1 of 3 rds · Mar (PA 2/2026)
 Manuring progress:
-  - RP Jun, 1,500 g: Dated 29.06.26, in progress (PA 2/2026)
+  - Mix B Sep, 2,250 g: Third round yet to be completed as of Sep 2026 (Table 5) (Agro 2/2026)
+  - RP Jun, 1,500 g (Agro): Listed outstanding in para 3.3; started 29.06.26 per PA (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 145.00 ha; 1.00 (Mar) (PA 2/2026)
-  - Weeds and condition: Overgrown VOPs in ravines need poisoning; Clidemia in inter-rows; Nephrolepis encroaching; circles overgrown (Agro) (PA 2/2026)
+  - Agro Sep 2026: Circle: only one round as of Aug 2026, second overdue; excessive grass. Inter-row reported on schedule, but patches of overgrown broadleaf weeds. Nephrolepis retained in inter-rows, control where it enters circles or paths (Agro 2/2026)
+Fertiliser programme (next year) 2027:
+  - D1, D2: Feb: Mix B 2,250 g; May: Mix B 2,000 g; Jun: RP 1,500 g; Aug: Mix B 2,250 g; Nov: Mix B 2,000 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - D1, D2: Feb: Mix B 2,250 g; May: Mix B 2,250 g; Jun: RP 1,500 g; Sep: Mix B 2,250 g (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - D1, D2: Feb: Mix B 2,250 g; May: Mix B 2,250 g; Jun: RP 1,500 g; Aug: Mix B 2,250 g; Nov: Mix B 2,250 g (Agro 1/2025)
 Pests & diseases:
-  - Rat census and baiting Jan–Jun 2026: 0,0,0,0,0,18 (Jan to Jun); after treatment always 0% | Jun 40.00 ha (one round); no follow-up census (PA 2/2026)
-  - Agro Mar 2026: Rat census not done in this block (Agro 1/2026)
-  - Bagworm census Jan-Mar 2026: 0 (Agro 1/2026)
   - Bagworm 2025: Bagworm in this field was a significant yield-limiting factor (Agro 2025) (Agro 1/2026)
+  - Rat census and baiting 2026: Census: Jan–May 0%, Jun 18%, Jul–Aug 0%; 40.00 ha baited Jun with Storm. Above the 10% threshold; baiting did not cover the whole field, no census one month after; fresh damage still seen (Agro 2/2026)
+  - Bagworm census Jan–Aug 2026: 0 before and after in every month; older and prime plantings under control (Table 10) (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 9.59 t/ha; Jan–Sep 2026 10.29 t/ha; difference +7.20% (P12 145.00 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 15.38 t/ha; 2025 13.06 t/ha; difference -15.11% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 3.0 t/ha; Jan-Mar 2026 2.46 t/ha; difference -18.2% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2012 planting: Jun 2025 20.2 kg (20,200 g); Jun 2026 21.8 kg (21,800 g) (PA 2/2026)
 Harvesting:
-  - Harvest interval (days) Jan / Feb / Mar 2026: 17 / 17 / 15 (Agro Table 7) (Agro 1/2026)
+  - Harvest interval (days) Jan–Aug 2026: 17 / 17 / 15 / 15 / 16 / 15 / 15 / 15 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM37/t; 1.23 t per man-day; earning RM45.51/day (basic wage RM65.38) | RM7.50/t; 6.0 t per day; earning RM45.00/day (PA 2/2026)
-  - Flood-prone part: Unattended (PA 2/2026)
+  - Crop recovery: Harvesting delays in parts, notably terraces. Flood-prone areas improved but several palms remain unattended; dry hanging fronds reduce efficiency (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 145.0 ha programme; SPH 135; 137.4 ha done, 7.6 ha not done = 94.76%; RM0.63/palm, RM85/ha per cycle (PA 2/2026)
-  - Agro Mar 2026: 95%; 7.6 ha pending; under-pruned; frond stacking deteriorated; abnormal palms to poison (PA 2/2026)
+  - Pruning Aug 2026: Satisfactory, over 95% complete. Under-pruned in some terraces, repeatedly highlighted. Several abnormal palms, no action despite repeated advice (Agro 2/2026)
 Nutrients:
-  - K, B and leaf N, P: Mild K deficiency in sandy areas; boron deficiency (crinkled leaf) on very few palms (Agro Mar 2026); leaf sampling Jul 2024 showed marginal N and P (Agro 1/2025) (Agro 1/2026)
+  - Leaf analysis Aug 2026: No significant deficiency or imbalance (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 62.07 ha, 9,581 palms, 136 / 135; 74 ha, 10,064 palms, 136 / 133 (Agro 1/2026)
-  - Drainage: About 12 ha low-lying and flood-prone; vigour improved after drainage works; drains badly silted, no desilting done (excavator rates not finalised). Budget chains: 8x6x4 15.80; 12x6x4 47.35; 15x6x4 175.30 (PA 2/2026)
   - Road grading budget 2026: 435 chains; none done to Jun (PA 2/2026)
+  - Drainage: P12A low-lying sections about 12 ha: vigour further improved after drainage works, but outlets and collection drains silt up; desilt yearly. PA: badly silted, no desilting done. Budget chains 8x6x4 15.80; 12x6x4 47.35; 15x6x4 175.30 (Agro 2/2026)
+  - Palm census (Table 3): 62.07 ha, 9,581 palms, 136 / 135; 74.00 ha, 10,064 palms, 136 / 133 (Agro 2/2026)
 
 BLOCK PM16E (42.06 ha, planted 2016, Mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix B · Jan: 100% — 20–26 Jan (PA 2/2026)
   - Kieserite · Feb: 100% — 22–24 Feb (PA 2/2026)
   - Mix B · Apr: 100% — 16–26 May (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 67% (worked out) — 2 of 3 rds · 84.12 ha (PA 2/2026)
+  - Selective spray: 100% (worked out) — 3 of 3 rds · Feb, Apr, Jun (PA 2/2026)
 Manuring progress:
-  - RP May, 2,000 g: No date printed (PA 2/2026)
+  - Mix B Jul: Third round yet to be completed as of Sep 2026 (Table 5) (Agro 2/2026)
+  - RP May, 2,000 g: No date printed in PA; not listed outstanding by Agro (PA 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 126.18 ha; 3.00 (Feb, Apr, Jun) (PA 2/2026)
-  - Weeds and condition: Circles clean (PA); VOPs (Agro); circles acceptable (Agro) (PA 2/2026)
+  - Agro Sep 2026: Third circle round overdue as of Aug 2026; excessive grass in circles. Nephrolepis retained in inter-rows, control where it enters circles or paths (Agro 2/2026)
+  - Condition (PA): Clean circles; clean inter rows, Nephrolepis dominant (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - Programme: Jan: Mix B 2,250 g; Feb: kieserite 1,000 g; Apr: Mix B 2,250 g; May: RP 2,000 g; Jul: Mix B 2,250 g; Oct: Mix B 2,250 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - Programme: Jan: Mix B 2,250 g; Feb: kieserite 750 g; Apr: Mix B 2,250 g; May: RP 2,000 g; Jul: Mix B 1,500 g; Oct: Mix B 1,500 g (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - Programme: Jan: Mix B 2,250 g; Feb: kieserite 750 g; Apr: Mix B 2,250 g; May: RP 2,000 g; Jul: Mix B 2,250 g; Oct: Mix B 2,250 g (Agro 1/2025)
 Pests & diseases:
-  - Rat census and baiting Jan–Jun 2026: 16,14,0,0,0,19; after treatment always 0% | Jan 42.06, Feb 26.25, Jun 42.06 ha (two rounds); no follow-up census | Continue baiting; damage extensive (PA 2/2026)
-  - Agro Mar 2026: Census done 16% (Jan), 14% (Feb) (Agro 1/2026)
-  - Bagworm census Jan-Mar 2026: 0 (Agro 1/2026)
   - Bagworm 2025: Bagworm in this field was a significant yield-limiting factor (Agro 2025) (Agro 1/2026)
+  - Rat census and baiting 2026: Census Jan 16%, Feb 14%, Jun 19%, other months 0%; baited Jan 42.06, Feb 26.25, Jun 42.06 ha with Storm. Above threshold in June; no census one month after; fresh damage still seen (Agro 2/2026)
+  - Bagworm census Jan–Aug 2026: 0 before and after in every month; older and prime plantings under control (Table 10) (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 14.77 t/ha; Jan–Sep 2026 17.22 t/ha; difference +16.60% (P16 42.10 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 23.46 t/ha; 2025 20.72 t/ha; difference -11.69% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 4.4 t/ha; Jan-Mar 2026 4.23 t/ha; difference -3.9% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2016 planting: Jun 2025 13.8 kg (13,800 g); Jun 2026 15.7 kg (15,700 g) (PA 2/2026)
 Harvesting:
-  - Harvest interval (days) Jan / Feb / Mar 2026: 17 / 16 / 22 (Agro Table 7) (Agro 1/2026)
+  - Harvest interval (days) Jan–Aug 2026: 17 / 16 / 22 / 15 / 16 / 15 / 15 / 16 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM34/t; 1.91 t per man-day; earning RM64.94/day (basic wage RM65.38) | RM8.00/t; 6.37 t per day; earning RM50.96/day (PA 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 42.06 ha programme; SPH 136; 41.84 ha done, 0.22 ha not done = 99.48%; RM0.51/palm, RM70/ha per cycle (PA 2/2026)
-  - Agro Mar 2026: Well maintained; 0.2 ha pending (PA 2/2026)
+  - Pruning Aug 2026: Satisfactory, over 95% complete; generally free of excess fronds, quality acceptable. Several abnormal palms, no action despite repeated advice (Agro 2/2026)
 Nutrients:
-  - Mg: Orange fronds, not widespread; corrective kieserite Feb 2026 done (Agro) (Agro 1/2026)
+  - Mg: Orange leaf symptoms of Mg deficiency have noticeably declined after yearly corrective kieserite (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 51.43 ha, 5,720 palms, 136 SPH (Agro 1/2026)
   - Drain and road budget 2026: 23.30 / 37.50 chains; none done to Jun | 168 chains; none done to Jun (PA 2/2026)
+  - Palm census (Table 3): 51.43 ha, 5,720 palms, 136 SPH (Agro 2/2026)
 
 BLOCK PM18F (85.04 ha, planted 2018, Young mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix B · Feb: 100% — 24 Feb–24 Apr (PA 2/2026)
+  - Kieserite · Mar: 100% — Jun, late (PA 2/2026)
   - Mix B · May: 100% — 2–26 Jun (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 67% (worked out) — 2 of 3 rds · 170.08 ha (PA 2/2026)
+  - Selective spray: 67% (worked out) — 2 of 3 rds · Jan, Apr/Jun (PA 2/2026)
 Manuring progress:
-  - Kieserite Mar, 750 g: Dates printed 19.06.26-17.06.26 (as printed) (PA 2/2026)
-  - RP Jun, 2,000 g: No date (PA 2/2026)
-  - Outstanding at Mar 2026: Mix B (Feb) outstanding in this block; kieserite (Mar) outstanding (Agro 1/2026)
+  - Mix B Aug: Third round yet to be completed as of Sep 2026 (Table 5) (Agro 2/2026)
+  - RP Jun, 2,000 g: Outstanding per para 3.3; no date in PA; not in Table 5 (Agro 2/2026)
+  - Kieserite Mar, 750 g: Completed, about three months late; PA dates printed 19.06.26–17.06.26 (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 170.08 ha; 2.00 (Jan, Apr/Jun) (PA 2/2026)
-  - Weeds and condition: Circles due (PA photo); VOPs and woodies spots; terrace weeds Clidemia and wild brinjal; Mucuna into canopy; Ageratum in circles (Agro); 2025 weeding nearly complete (PA 2/2026)
+  - Agro Sep 2026: Circle weeds in palm circles. Inter-row reportedly near schedule; wild bitter gourd, Clidemia hirta and volunteer palms sporadic (Agro 2/2026)
+  - Condition (PA): Circles due for spraying in photo; VOPs and spots of woodies (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - Programme: Feb: Mix B 2,250 g; Mar: kieserite 750 g; May: Mix B 2,000 g; Jun: RP 2,000 g; Aug: Mix B 2,250 g; Nov: Mix B 2,000 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - Programme: Feb: Mix B 2,250 g; Mar: kieserite 750 g; May: Mix B 2,000 g; Jun: RP 2,000 g; Aug: Mix B 1,500 g; Nov: Mix B 1,500 g (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - Programme: Feb: Mix B 2,000 g; Mar: kieserite 750 g; May: Mix B 2,000 g; Jun: RP 2,000 g; Aug: Mix B 2,000 g; Nov: Mix B 2,000 g (Agro 1/2025)
 Pests & diseases:
-  - Rat census and baiting Jan–Jun 2026: 18,18,0,0,0,18; after treatment always 0% | Jan 45.32, Feb 30.18, Jun 75.50 ha (two rounds); no follow-up census | Continue baiting; damage extensive (PA 2/2026)
-  - Agro Mar 2026: Census 18% (Jan, Feb) (Agro 1/2026)
-  - Bagworm: Agro Feb 2026 census: mean of 18 early-stage live larvae affecting about 20 ha, no follow-up. PA Jun 2026: bagworm at P18/F; 10.65 ha sprayed with Cypermethrin; trunk injection awaiting DOA licence; PA ED says commence trunk injection ASAP (PA 2/2026)
   - Bagworm 2025 treatment: 21.05 ha in May 2025 (Agro Table 13) (Agro 1/2026)
+  - Rat census and baiting 2026: Before: Jan 18, Feb 18, Jun 18%; after: 16, 9, 8%. Baited Jan 45.32, Feb 30.18, Jun 75.50 ha with Storm. No census since; extensive attack seen (Agro 2/2026)
+  - Bagworm 2026: Metisa plana, widespread. Census Feb 18, Mar 15, Jun 20, at threshold in June. Cypermethrin mist blower 10.65 ha only, no follow-up. Trunk injection awaits DOA licence (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 10.81 t/ha; Jan–Sep 2026 11.99 t/ha; difference +11.00% (P18 85.00 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 12.5 t/ha; 2025 14.65 t/ha; difference +17.18% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 3.12 t/ha; Jan-Mar 2026 2.67 t/ha; difference -14.6% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2018 planting: Jun 2025 11.1 kg (11,100 g); Jun 2026 13.6 kg (13,600 g) (PA 2/2026)
 Harvesting:
+  - Harvest interval (days) Jan–Aug 2026: 16 / 18 / 15 / 15 / 15 / 16 / 17 / 15 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM46/t; 1.54 t per man-day; earning RM70.84/day (basic wage RM65.38) | RM9.50/t; 7.1 t per day; earning RM67.45/day (PA 2/2026)
+  - Crop recovery: At 16-day interval over-ripe and unripe bunches insignificant, but many rat-damaged bunches (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 85.04 ha programme; SPH 120; 82.32 ha done, 2.72 ha not done = 96.80%; RM0.58/palm, RM70/ha per cycle (PA 2/2026)
-  - Condition: Slight under-pruning; over-pruning in F1 improved (Agro) (Agro 1/2026)
+  - Pruning Aug 2026: 86% complete. Over-pruning where recently pruned; improper stacking in terraces, cut fronds left in circles (Agro 2/2026)
 Nutrients:
   - Leaf analysis Jun 2025: P and Mg suboptimal (Agro). F1 hilly weak chlorotic palms (Agro 1/2026)
+  - Mg Aug 2026: Yellowing and chlorosis still evident in hilly sections, likely Mg. Leaf Mg below optimal range; kieserite delayed (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 73.23 ha, 10,200 palms, 120 SPH (Agro 1/2026)
-  - SPH: Low; infilling repeatedly recommended, not done (Agro 1/2026)
   - Drain and road budget 2026: 60.85 / 80.65 chains; none done to Jun | 340 chains; none done to Jun (PA 2/2026)
-  - Roads: F1 damaged roads (Agro) (Agro 1/2026)
+  - Palm census (Table 3): 73.23 ha, 10,200 palms, 120 SPH (Agro 2/2026)
+  - SPH: Only 120 palms/ha; palm density repeatedly reported as suboptimal; infilling pending (Agro 2/2026)
+  - Hilly sections: Potential crop losses in hilly sections of P18F: agronomic inputs and field management inadequate (Agro 2/2026)
 
 BLOCK PM20G (105.82 ha, planted 2020, Young mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix B · Feb: 100% — 4 Mar–13 Apr (PA 2/2026)
   - Kieserite · Mar: 100% — 22–27 Jun (PA 2/2026)
   - Mix B · May: 100% — 26 May–12 Jun (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 25% (worked out) — 1 of 4 rds · 105.82 ha (PA 2/2026)
+  - Selective spray: 56% (worked out) — 2.22 of 4 rds · 234.64 ha (PA 2/2026)
 Manuring progress:
-  - Outstanding at Mar 2026: Mix B (Feb) outstanding in this block; kieserite (Mar) outstanding (Agro 1/2026)
+  - RP Sep: Commenced, outstanding as of Sep 2026 (Table 5) (Agro 2/2026)
+  - Kieserite Mar, 500 g: Completed, about three months late (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 234.64 ha; 2.22 (Jan, Mar/May, Jun); incompleted 3rd round (PA 2/2026)
-  - Weeds and condition: Circles clean (PA); woodies; wild brinjal (Agro); 2025 weeding 79% (PA 2/2026)
+  - Agro Sep 2026: Undesirable weeds in palm circles. Inter-row reportedly near schedule; incomplete broadleaf eradication in parts; wild bitter gourd, Clidemia, volunteer palms sporadic (Agro 2/2026)
+  - Condition (PA): Clean circles in photo; woodies (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - Programme: Feb: Mix B 2,000 g; Mar: kieserite 750 g; May: Mix B 2,000 g; Aug: Mix B 2,000 g; Sep: RP 2,000 g; Nov: Mix B 2,000 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - Programme: Feb: Mix B 2,000 g; Mar: kieserite 500 g; May: Mix B 2,000 g; Aug: Mix B 1,500 g; Sep: RP 2,000 g; Nov: Mix B 1,500 g (Agro 1/2026)
 Fertiliser programme (previous year) 2025:
   - Programme: Feb: Mix B 1,750 g; Mar: kieserite 500 g; May: Mix B 1,750 g; Aug: Mix B 1,750 g; Sep: RP 2,000 g; Nov: Mix B 1,750 g (Agro 1/2025)
 Pests & diseases:
-  - Rat census and baiting Jan–Jun 2026: 0,0,15,0,0,17; after treatment always 0% | Mar 44.00, Jun 105.82 ha (two rounds); no follow-up census (PA 2/2026)
-  - Agro Mar 2026: Census 15% (Mar) (Agro 1/2026)
   - Bagworm 2025 treatment: 7.33 ha Jan; 27.21 ha Feb; 82.82 ha Apr and Jun (Agro Table 13) (Agro 1/2026)
+  - Rat census and baiting 2026: Before: Mar 15, Jun 17%; after: 9, 9%. Baited Mar 44.00, Jun 105.82 ha with Storm. No census since (Agro 2/2026)
+  - Bagworm 2026: Metisa plana detected; census Jun 17, at threshold; no treatment recorded, 0.00 ha Jan–Aug (Table 15) (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 7.39 t/ha; Jan–Sep 2026 11.23 t/ha; difference +51.90% (P20 105.80 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025 vs 2024: 2024 7.36 t/ha; 2025 10.34 t/ha; difference +40.52% (Agro Table 15, actuals) (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 2.48 t/ha; Jan-Mar 2026 2.62 t/ha; difference +5.6% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2020 planting: Jun 2025 7.2 kg (7,200 g); Jun 2026 9.7 kg (9,700 g) (PA 2/2026)
 Harvesting:
+  - Harvest interval (days) Jan–Aug 2026: 16 / 16 / 14 / 15 / 16 / 15 / 15 / 15 (Jan to Aug; recommended 15 days or less) (Agro 2/2026)
   - Harvester and loader pay 2026: Rate RM64/t; 1.44 t per man-day; earning RM92.16/day (basic wage RM65.38) | RM12.00/t; 6.6 t per day; earning RM79.20/day (PA 2/2026)
+  - Crop recovery: Prolonged intervals evident: many over-ripe bunches, large volume of loose fruit, oxidised loose fruit shows incomplete collection. Immediate correction needed (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 105.82 ha programme; SPH 126; 81.27 ha done, 24.55 ha not done = 76.80%; RM0.56/palm, RM70/ha per cycle (PA 2/2026)
-  - Condition: Slight under-pruning; fronds left in circles (Agro) (Agro 1/2026)
+  - Pruning Aug 2026: 77% complete. Under-pruned; over-pruning where recently pruned; improper stacking in terraces (Agro 2/2026)
 Nutrients:
   - Leaf analysis Jun 2025: P and Mg suboptimal (Agro) (Agro 1/2026)
+  - Mg Aug 2026: Leaf Mg below optimal range; kieserite delayed more than two months (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 105.82 ha, 13,341 palms, 126 SPH (Agro 1/2026)
-  - SPH: Low; infilling repeatedly recommended, not done (Agro 1/2026)
   - Drain and road budget 2026: 45.30 chains; none done to Jun | 423 chains; none done to Jun (PA 2/2026)
+  - Palm census (Table 3): 105.82 ha, 13,341 palms, 126 SPH (Agro 2/2026)
+  - SPH: Census vacant points and infill where beneficial; pending (Agro 2/2026)
 
 BLOCK PM22H (96.0 ha, planted 2022, Young mature)
-Manuring progress (to Jun 2026):
+Manuring progress (to Sep 2026):
   - Mix B · Feb: 100% — 11 Mar–13 Apr (PA 2/2026)
   - Mix B · May (52 ha): 100% — 21–23 May (PA 2/2026)
   - Mix B · May (44 ha): 100% — 23–26 May (PA 2/2026)
 Spraying progress (to Jun 2026):
   - Circle spray: 30% (worked out) — 1.49 of 5 rds · 142.87 ha (PA 2/2026)
+  - Selective spray: 40% (worked out) — 2 of 5 rds · Jan, Mar (PA 2/2026)
 Manuring progress:
-  - Outstanding at Mar 2026: Mix B (Feb) outstanding in this block (Agro 1/2026)
+  - RP Sep: Outstanding as of Sep 2026 (Table 5) (Agro 2/2026)
 Spraying & weeding:
-  - Selective spray to Jun 2026: 192.00 ha; 2.00 (Jan, Mar) (PA 2/2026)
-  - Weeds and condition: Circles due (PA photo); spot next to TNB rentis totally neglected, woodies overgrown; 2025 weeding 65% (circles 50%); only 52 ha (about 54%) first-round inter-row by Mar 2026; grassy circles; Mucuna encroachment (Agro) (PA 2/2026)
+  - Weeding as of Sep 2026: Inter-row 3 rounds, up to date; circle 2 rounds, 1 short. Mucuna encroachment reduced; avoid over-spraying. Wild bitter gourd, Clidemia remain. H2 circles overgrown with grasses (Agro 2/2026)
+  - Condition (PA): Circles due for spraying in photo; spot by TNB rentis totally neglected, woodies overgrown; supervision lacking (PA 2/2026)
+Fertiliser programme (next year) 2027:
+  - H1: Feb: Mix B 1,750 g; Mar: kieserite 500 g; May: Mix B 1,750 g; Aug: Mix B 1,750 g; Sep: RP 2,000 g; Nov: Mix B 2,000 g (Agro 2/2026)
+  - H2: Feb: Mix B 1,500 g; Mar: kieserite 500 g; May: Mix B 1,500 g; Aug: Mix B 1,750 g; Sep: RP 2,000 g; Nov: Mix B 1,750 g (Agro 2/2026)
 Fertiliser programme (this year) 2026:
   - H1: Feb: Mix B 1,500 g; May: Mix B 1,750 g; Aug: Mix B 1,500 g; Sep: RP 2,000 g; Nov: Mix B 1,500 g (Agro 1/2026)
   - H2: Same but May: Mix B 1,500 g (Agro 1/2026)
@@ -407,22 +450,21 @@ Fertiliser programme (previous year) 2025:
   - H1: Feb, May, Aug: Mix B 1,500 g; Sep: RP 2,000 g; Nov: Mix B 1,500 g (Agro 1/2025)
   - H2: Feb and May: Mix B 1,200 g; Aug: Mix B 1,500 g; Sep: RP 2,000 g; Nov: Mix B 1,500 g (Agro 1/2025)
 Pests & diseases:
-  - Rat census and baiting Jan–Jun 2026: 0,15,17,0,0,19; after treatment always 0% | Jan 52.00, Feb 14.45, Mar 23.00, Jun 96.00 ha (two rounds); no follow-up census | Continue baiting; damage extensive (PA 2/2026)
-  - Cattle: Defoliation of lower fronds (Agro); court proceeding in September; intrusion unresolved (PA 2/2026)
+  - Cattle: Intrusion unresolved; animals eat lower fronds, defoliation. Maintain fencing and trenches, patrol. PA: court proceeding in September (Agro 2/2026)
 Yield:
+  - Jan–Sep 2026 vs Jan–Sep 2025: Jan–Sep 2025 1.46 t/ha; Jan–Sep 2026 7.85 t/ha; difference +439.60% (P22 52.00 ha, Table 17, yield/ha as of September) (Agro 2/2026)
   - Full year 2025: Immature harvest under 2 t/ha; 11 harvesting rounds (Agro 1/2026)
-  - Jan-Mar 2025 vs Jan-Mar 2026: Jan-Mar 2025 0.03 t/ha; Jan-Mar 2026 1.17 t/ha; difference +3787.2% (Agro Table 16, as at March) (Agro 1/2026)
   - Bunch weight Jun 2025 vs Jun 2026: 2022 planting: Jun 2025 2.0 kg (2,000 g); Jun 2026 4.2 kg (4,200 g) (PA 2/2026)
 Harvesting:
   - Harvester and loader pay 2026: Rate RM79/t; 0.79 t per man-day; earning RM62.41/day (basic wage RM65.38) | RM12.00/t; 5.0 t per day; earning RM60.00/day (PA 2/2026)
-  - Harvest: Harvest deferred in P22B (retarded palms) (Agro 1/2026)
+  - Crop recovery: No delay in H1. H2, deferred earlier, should now be expedited to recover all ripe bunches (Agro 2/2026)
 Pruning:
   - Progressive pruning May-Jun 2026: 96.0 ha programme; SPH 120; 56.78 ha done, 39.22 ha not done = 59.15%; RM0.50/palm, RM60/ha per cycle (PA 2/2026)
-  - Condition: P22A slightly over-pruned; basal pruning needed in P22B (senescent fronds); rotten bunches to remove (Agro) (Agro 1/2026)
+  - Canopy management: Below standard: slight over-pruning, one-sided pruning, fronds left in circles. Finish H2 basal pruning; prune when lowest bunch about three feet up, keep two subtending fronds; remove rotten bunches (Agro 2/2026)
 Nutrients:
-  - Mg: Deficiency on some palms; marginally low leaf Mg; corrective kieserite prescribed (Agro) (Agro 1/2026)
+  - Older fronds: Yellowing less pronounced than previous visit; keep to the manuring schedule (Agro 2/2026)
 Field:
-  - Palm census (Agro Table 3): 96 ha, 11,511 palms, 120 SPH (Agro 1/2026)
-  - SPH: Low; infilling repeatedly recommended, not done; 12% below the minimum (Agro 1/2026)
   - Drain and road budget 2026: 50.20 / 21.70 chains; none done to Jun | 384 chains; none done to Jun (PA 2/2026)
-  - Soil and site: P22B retarded palms in laterite gravelly soil; spot next to TNB rentis neglected (see spraying) (Agro 1/2026)
+  - Palm census (Table 3): 96.00 ha, 11,511 palms, 120 SPH (Agro 2/2026)
+  - SPH: About 12% below minimum target; only 120 palms/ha; vacant points yet to be filled (Agro 2/2026)
+  - Growth: Canopy size variable in later phase, particularly P22B; growth limited on gravelly laterite; bunch development improving (Agro 2/2026)
